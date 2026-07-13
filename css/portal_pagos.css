@@ -1,0 +1,736 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background: #f0f0f0;
+    color: #333;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ── Header ─────────────────────────────────────────────── */
+.portal-header {
+    background: white;
+    padding: 14px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #eee;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+.portal-logo img { height: 36px; }
+
+.btn-volver {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    border: 1.5px solid #50b44f;
+    border-radius: 20px;
+    padding: 8px 20px;
+    color: #50b44f;
+    background: transparent;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Roboto Condensed', sans-serif;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background .15s, color .15s;
+}
+.btn-volver:hover { background: #50b44f; color: white; }
+
+/* ── Main ────────────────────────────────────────────────── */
+.portal-main {
+    flex: 1;
+    display: grid;
+    grid-template-columns: 1fr 380px;
+    gap: 24px;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 32px 24px 48px;
+    width: 100%;
+    align-items: start;
+}
+
+/* ── Cards ───────────────────────────────────────────────── */
+.portal-card {
+    background: white;
+    border-radius: 12px;
+    padding: 28px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+}
+
+.card-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 24px;
+}
+.card-title i { color: #50b44f; }
+
+/* ── Client info ─────────────────────────────────────────── */
+.cliente-info-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+    margin-bottom: 20px;
+}
+.info-label { font-size: 12px; color: #888; margin-bottom: 4px; }
+.info-value  { font-size: 15px; color: #1a1a1a; font-weight: 500; }
+
+.disclaimer-text {
+    font-size: 13px;
+    color: #888;
+    line-height: 1.5;
+    padding-top: 16px;
+    border-top: 1px solid #f0f0f0;
+}
+
+/* ── Methods section ─────────────────────────────────────── */
+.methods-title {
+    font-size: 17px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin: 24px 0 14px;
+}
+
+.method-card {
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    transition: border-color .2s;
+    background: white;
+}
+.method-card.open { border-color: #50b44f; }
+
+.method-header {
+    display: flex;
+    align-items: center;
+    padding: 14px 16px;
+    cursor: pointer;
+    user-select: none;
+    gap: 10px;
+    border-radius: 8px;
+    background: white;
+    transition: background .15s;
+}
+.method-card.open .method-header { border-radius: 8px 8px 0 0; }
+.method-header:hover { background: #fafff9; }
+
+.method-name { flex: 1; font-size: 15px; font-weight: 500; color: #333; }
+.method-icons { display: flex; align-items: center; gap: 5px; }
+.method-chevron {
+    color: #aaa;
+    font-size: 13px;
+    margin-left: 4px;
+    transition: transform .2s;
+}
+.method-card.open .method-chevron { transform: rotate(180deg); }
+
+/* Card icon boxes */
+.card-icon-box {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 42px;
+    height: 28px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background: white;
+    overflow: hidden;
+}
+.card-icon-box i { font-size: 22px; }
+
+/* FA brand icon colors */
+.ci-mc   { color: #EB001B; }
+.ci-visa { color: #1A1F71; }
+.ci-amex { color: #0071ce; }
+.ci-dc   { color: #666; }
+
+/* PSE & Nequi text badges */
+.pse-badge {
+    background: #005CA9;
+    color: white;
+    border-color: #005CA9;
+    font-size: 10px;
+    font-weight: 700;
+    font-family: 'Roboto Condensed', sans-serif;
+    min-width: 38px;
+    letter-spacing: .5px;
+}
+.nequi-badge {
+    background: #6A1FF5;
+    color: white;
+    border-color: #6A1FF5;
+    font-size: 9px;
+    font-weight: 700;
+    font-family: 'Roboto Condensed', sans-serif;
+    min-width: 42px;
+}
+
+/* Method body */
+.method-body {
+    display: none;
+    padding: 16px 16px 20px;
+    border-top: 1px solid #f0f0f0;
+    background: #fafafa;
+    border-radius: 0 0 8px 8px;
+}
+.method-card.open .method-body { display: block; }
+
+/* ── Radio buttons ───────────────────────────────────────── */
+.radio-group { display: flex; gap: 20px; margin-bottom: 16px; }
+.radio-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    font-size: 14px;
+    color: #333;
+}
+.radio-item input[type="radio"] { display: none; }
+.radio-circle {
+    width: 18px; height: 18px;
+    border: 2px solid #ccc;
+    border-radius: 50%;
+    flex-shrink: 0;
+    position: relative;
+    transition: border-color .15s;
+}
+.radio-item input:checked ~ .radio-circle { border-color: #50b44f; }
+.radio-item input:checked ~ .radio-circle::after {
+    content: '';
+    position: absolute;
+    inset: 3px;
+    border-radius: 50%;
+    background: #50b44f;
+}
+
+/* ── Form elements ───────────────────────────────────────── */
+.form-group { margin-bottom: 14px; }
+.form-group label { display: block; font-size: 12px; color: #888; margin-bottom: 6px; }
+
+.form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+
+.input-wrapper {
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    background: white;
+    transition: border-color .15s;
+    position: relative;
+}
+.input-wrapper:focus-within { border-color: #50b44f; }
+.input-wrapper.input-error { border-color: #dc3545 !important; }
+.input-wrapper.input-error input { color: #dc3545; }
+
+.input-wrapper input,
+.input-wrapper select {
+    flex: 1;
+    border: none;
+    outline: none;
+    padding: 10px 12px;
+    font-size: 14px;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #333;
+    background: transparent;
+    width: 100%;
+}
+.input-wrapper.has-icon input { padding-right: 36px; }
+.input-wrapper > i {
+    position: absolute;
+    right: 10px;
+    color: #aaa;
+    font-size: 14px;
+    pointer-events: none;
+}
+.input-wrapper select {
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M6 8 0 0h12z' fill='%23aaa'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 10px center;
+    padding-right: 28px;
+}
+
+.error-text { color: #dc3545; font-size: 11px; margin-top: 4px; }
+
+/* ── Right card ──────────────────────────────────────────── */
+.summary-ref-row {
+    font-size: 13px;
+    color: #888;
+    margin-bottom: 20px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #f0f0f0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: baseline;
+}
+#pNombre {
+    font-weight: 700;
+    color: #333;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 160px;
+}
+
+.summary-total {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    margin-bottom: 16px;
+}
+.summary-total .label { font-size: 16px; font-weight: 600; color: #333; }
+.summary-total .value { font-size: 22px; font-weight: 700; color: #1a1a1a; }
+
+.security-badge {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    font-size: 13px;
+    font-weight: 600;
+    color: #14cd51;
+    margin-bottom: 16px;
+}
+
+.cards-supported {
+    display: flex;
+    gap: 6px;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: 22px;
+}
+
+.btn-pagar-final {
+    width: 100%;
+    height: 48px;
+    border-radius: 6px;
+    border: none;
+    background: #d8d8d8;
+    color: #999;
+    font-size: 15px;
+    font-weight: 700;
+    letter-spacing: 1.5px;
+    font-family: 'Roboto Condensed', sans-serif;
+    cursor: not-allowed;
+    transition: background .2s, color .2s;
+}
+.btn-pagar-final.ready {
+    background: #50b44f;
+    color: white;
+    cursor: pointer;
+}
+.btn-pagar-final.ready:hover { background: #3e9b3e; }
+
+/* ── Footer ──────────────────────────────────────────────── */
+.portal-footer {
+    background: #e0e0e0;
+    padding: 20px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+    border-top: 1px solid #ccc;
+    position: relative;
+}
+.footer-col { display: flex; align-items: center; gap: 10px; }
+.footer-col p, .footer-col a { font-size: 12px; }
+.footer-col a { color: #2e0063; font-weight: 600; text-decoration: underline; }
+.footer-col.center { flex: 1; justify-content: center; }
+.vigilado-logo { height: 38px; opacity: .7; }
+
+.recaptcha-badge {
+    position: absolute;
+    bottom: 8px; right: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: rgba(255,255,255,0.6);
+    border-radius: 4px;
+    padding: 5px 8px;
+    gap: 2px;
+}
+.recaptcha-badge img { width: 30px; }
+.recaptcha-badge span { font-size: 9px; color: #666; }
+
+/* ── Generic overlay base ────────────────────────────────── */
+.pp-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.6);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.pp-overlay-dark { background: rgba(0,0,0,0.78); }
+
+.pp-overlay-card {
+    background: white;
+    border-radius: 16px;
+    padding: 40px 35px;
+    max-width: 420px;
+    width: 90%;
+    text-align: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    box-shadow: 0 20px 60px rgba(0,0,0,.4);
+    position: relative;
+}
+.pp-overlay-card.dark {
+    background: #1a1a2e;
+    color: white;
+}
+
+.pp-overlay-head {
+    padding: 30px 20px 20px;
+    border-radius: 16px 16px 0 0;
+    text-align: center;
+    position: relative;
+}
+.pp-overlay-close {
+    position: absolute;
+    right: 15px; top: 15px;
+    background: transparent;
+    border: none;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+}
+.pp-overlay-body {
+    padding: 28px;
+    border-radius: 0 0 16px 16px;
+    background: white;
+}
+
+.pp-overlay-btn {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    font-size: 15px;
+    font-weight: 700;
+    font-family: 'Roboto Condensed', sans-serif;
+    cursor: pointer;
+}
+.pp-overlay-btn.green  { background: #82e778; color: #2e0063; }
+.pp-overlay-btn.purple { background: #2e0063; color: white; }
+
+.pp-otp-input {
+    width: 100%;
+    padding: 14px;
+    border-radius: 8px;
+    border: 1px solid #555;
+    background: #333;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    letter-spacing: 3px;
+    margin-bottom: 16px;
+    outline: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* ── ePayco modals ───────────────────────────────────────── */
+.epayco-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.6);
+    z-index: 9999;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.epayco-modal {
+    width: 380px;
+    max-width: 95%;
+    background: white;
+    border-radius: 8px;
+    overflow: hidden;
+    font-family: 'Roboto Condensed', sans-serif;
+    position: relative;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.3);
+}
+.epayco-header {
+    background: #1a1a1a;
+    color: white;
+    padding: 30px 20px 20px;
+    text-align: center;
+    position: relative;
+}
+.epayco-header-compact {
+    background: #1a1a1a;
+    color: white;
+    padding: 15px 40px 15px 50px;
+    display: flex;
+    align-items: center;
+    position: relative;
+}
+.epayco-close {
+    position: absolute;
+    right: 12px; top: 12px;
+    background: transparent;
+    border: none;
+    color: white;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+.epayco-close-btn { font-size: 20px; line-height: 1; }
+.epayco-close-lang {
+    background: #333;
+    padding: 2px 6px;
+    font-size: 10px;
+    border-radius: 4px;
+    border: 1px solid #555;
+}
+.epayco-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px; height: 50px;
+    border: 2px solid white;
+    border-radius: 4px;
+    font-size: 22px;
+    margin-bottom: 14px;
+}
+.epayco-icon-small {
+    width: 28px; height: 28px;
+    border: 1px solid white;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 10px;
+    font-size: 12px;
+}
+.epayco-title { font-size: 13px; font-weight: 700; margin-bottom: 14px; }
+.epayco-title-small { font-size: 12px; font-weight: 700; flex: 1; }
+.epayco-total-label { font-size: 11px; color: #ccc; margin-bottom: 4px; }
+.epayco-total-amount { font-size: 22px; font-weight: 700; margin-bottom: 14px; }
+.epayco-secured { font-size: 10px; color: #888; display: flex; align-items: center; justify-content: center; gap: 4px; }
+
+.epayco-body { padding: 20px; }
+.epayco-section-title { font-size: 11px; font-weight: 700; margin-bottom: 12px; color: #333; display: flex; align-items: center; gap: 6px; }
+
+.epayco-form-row { display: flex; justify-content: space-between; margin-bottom: 12px; gap: 8px; }
+.epayco-input-group { display: flex; flex-direction: column; position: relative; margin-bottom: 12px; }
+.epayco-input-group label {
+    position: absolute;
+    top: -7px; left: 10px;
+    background: white;
+    padding: 0 4px;
+    font-size: 10px;
+    color: #666;
+}
+.epayco-input-group input,
+.epayco-input-group select {
+    padding: 12px 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 13px;
+    color: #333;
+    width: 100%;
+    outline: none;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.epayco-btn {
+    background: black;
+    color: white;
+    border: none;
+    padding: 12px;
+    border-radius: 4px;
+    width: 100%;
+    font-weight: 700;
+    cursor: pointer;
+    font-size: 13px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.epayco-back {
+    position: absolute;
+    left: 12px; top: 50%;
+    transform: translateY(-50%);
+    background: white;
+    color: black;
+    border: none;
+    width: 22px; height: 22px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 700;
+    cursor: pointer;
+    font-size: 12px;
+}
+.epayco-user-edit {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 12px;
+    color: #333;
+    margin-bottom: 14px;
+}
+.epayco-user-edit a { color: #00aced; text-decoration: none; display: flex; align-items: center; gap: 4px; }
+.epayco-hr { border: none; border-top: 1px solid #eee; margin: 0 -20px 14px; }
+.epayco-method { display: flex; align-items: center; gap: 8px; font-size: 12px; font-weight: 700; margin-bottom: 14px; color: #333; border: 1px solid #eee; padding: 10px; border-radius: 4px; }
+.epayco-terms { display: flex; gap: 8px; align-items: flex-start; margin-top: 14px; font-size: 11px; color: #666; line-height: 1.4; }
+.epayco-terms a { color: #00aced; text-decoration: none; }
+.epayco-footer { display: flex; justify-content: space-between; align-items: flex-end; margin-top: 20px; }
+.epayco-footer-left a { font-size: 11px; color: #00aced; text-decoration: none; }
+.epayco-footer-total { font-weight: 700; font-size: 13px; margin-bottom: 4px; color: #333; }
+.epayco-footer-right { display: flex; flex-direction: column; align-items: flex-end; gap: 8px; }
+.epayco-btn-round {
+    background: #555;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 20px;
+    font-weight: 700;
+    font-size: 12px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/* ── Verified by Visa modal ─────────────────────────────── */
+.visa-auth-card {
+    background: #fff;
+    border-radius: 8px;
+    max-width: 480px;
+    width: 92%;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.35);
+    overflow: hidden;
+}
+.visa-auth-logo {
+    display: flex;
+    justify-content: flex-end;
+    padding: 16px 20px 4px;
+}
+.visa-auth-logo img {
+    display: block;
+}
+.visa-auth-body {
+    padding: 4px 28px 28px;
+}
+.visa-auth-title {
+    font-size: 18px;
+    font-weight: 700;
+    color: #111;
+    margin-bottom: 12px;
+}
+.visa-auth-desc {
+    font-size: 13px;
+    line-height: 1.6;
+    color: #333;
+    margin-bottom: 18px;
+}
+.visa-auth-section {
+    font-size: 12px;
+    font-weight: 700;
+    color: #111;
+    letter-spacing: 0.03em;
+    margin-bottom: 10px;
+}
+.visa-auth-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 22px;
+}
+.visa-auth-table td {
+    padding: 5px 6px;
+    font-size: 14px;
+    color: #333;
+    vertical-align: middle;
+}
+.visa-auth-table td:first-child {
+    font-weight: 600;
+    text-align: right;
+    white-space: nowrap;
+    color: #111;
+    padding-right: 14px;
+    width: 52%;
+}
+.visa-auth-form {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-bottom: 26px;
+}
+.visa-auth-field {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+.visa-auth-field label {
+    font-size: 14px;
+    font-weight: 600;
+    color: #111;
+    min-width: 68px;
+    white-space: nowrap;
+    text-align: right;
+}
+.visa-auth-field input {
+    flex: 1;
+    border: 1.5px solid #bbb;
+    border-radius: 4px;
+    padding: 10px 12px;
+    font-size: 16px;
+    outline: none;
+    color: #111;
+}
+.visa-auth-field input:focus {
+    border-color: #1A1F71;
+}
+.btn-visa-autorizar {
+    display: block;
+    width: 180px;
+    margin: 0 auto;
+    background: #111;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    padding: 13px;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background .2s;
+}
+.btn-visa-autorizar:hover { background: #333; }
+.visa-error-msg {
+    text-align: center;
+    color: #cc0000;
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 14px;
+}
+
+/* ── Responsive ──────────────────────────────────────────── */
+@media (max-width: 860px) {
+    .portal-main {
+        grid-template-columns: 1fr;
+        padding: 16px 16px 40px;
+        gap: 16px;
+    }
+    .portal-card { padding: 20px 18px; }
+    .portal-header { padding: 12px 16px; }
+}
+@media (max-width: 480px) {
+    .portal-logo img { height: 30px; }
+    .cliente-info-grid { grid-template-columns: 1fr; gap: 12px; }
+    .form-row { grid-template-columns: 1fr; }
+    .portal-footer { flex-direction: column; align-items: center; text-align: center; }
+    .footer-col.center { order: -1; }
+    .recaptcha-badge { position: static; align-self: flex-end; margin-top: 8px; }
+}

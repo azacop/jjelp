@@ -1,0 +1,245 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background: #ececec;
+    color: #333;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+/* ── Header ───────────────────────────────────────────────── */
+.pp-header {
+    background: white;
+    padding: 14px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #e8e8e8;
+}
+.pp-logo { height: 38px; object-fit: contain; }
+.btn-volver {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    border: 1.5px solid #50b44f;
+    border-radius: 20px;
+    padding: 7px 18px;
+    color: #50b44f;
+    background: transparent;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Roboto Condensed', sans-serif;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background .15s, color .15s;
+}
+.btn-volver:hover { background: #50b44f; color: white; }
+
+/* ── Main grid ─────────────────────────────────────────────── */
+.pp-main {
+    flex: 1;
+    padding: 32px 24px 48px;
+    display: flex;
+    justify-content: center;
+}
+.pp-grid {
+    display: grid;
+    grid-template-columns: 1fr 360px;
+    gap: 24px;
+    max-width: 1100px;
+    width: 100%;
+    align-items: start;
+}
+
+/* ── Cards ─────────────────────────────────────────────────── */
+.pp-card {
+    background: white;
+    border-radius: 8px;
+    padding: 28px 32px;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+
+/* ── Card header row ──────────────────────────────────────── */
+.pp-card-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-bottom: 22px;
+}
+.pp-card-title i { color: #50b44f; font-size: 20px; }
+
+/* ── Datos cliente ─────────────────────────────────────────── */
+.pp-field-label { font-size: 12px; color: #888; margin-bottom: 4px; }
+.pp-field-value { font-size: 15px; color: #1a1a1a; margin-bottom: 16px; }
+
+.pp-row-2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+}
+
+.pp-notice {
+    font-size: 13px;
+    color: #888;
+    margin-top: 4px;
+    padding-top: 16px;
+    border-top: 1px solid #f0f0f0;
+}
+
+/* ── Métodos de pago ───────────────────────────────────────── */
+.pp-metodos-title {
+    font-size: 17px;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin: 24px 0 14px;
+}
+
+.pm-row {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 14px 16px;
+    border: 1px solid #e8e8e8;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: border-color .15s, background .15s;
+    user-select: none;
+}
+.pm-row:hover { border-color: #50b44f; background: #f8fef8; }
+.pm-row.selected { border-color: #50b44f; background: #f2fef2; }
+
+.pm-name { flex: 1; font-size: 15px; color: #333; font-weight: 500; }
+.pm-icons { display: flex; gap: 5px; align-items: center; }
+.pm-chevron { color: #aaa; font-size: 13px; transition: transform .2s; }
+.pm-row.open .pm-chevron { transform: rotate(180deg); }
+
+/* Card brand icons */
+.card-icon {
+    height: 26px;
+    border-radius: 4px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 0 5px;
+    min-width: 36px;
+    border: 1px solid #e0e0e0;
+}
+.icon-mc   { background: #eb001b; color: white; background: linear-gradient(135deg, #eb001b 40%, #f79e1b 60%); }
+.icon-visa { background: #1434CB; color: white; letter-spacing: .5px; font-size: 10px; }
+.icon-amex { background: #2E77BC; color: white; font-size: 9px; }
+.icon-dc   { background: white; color: #555; }
+.icon-pse  { background: #005CA9; color: white; font-size: 9px; }
+.icon-nequi{ background: #6A1FF5; color: white; font-size: 10px; }
+
+/* Accordion content */
+.pm-content {
+    display: none;
+    padding: 16px;
+    background: #fafafa;
+    border: 1px solid #e8e8e8;
+    border-top: none;
+    border-radius: 0 0 6px 6px;
+    margin-top: -10px;
+    margin-bottom: 10px;
+    font-size: 13px;
+    color: #888;
+    text-align: center;
+}
+.pm-content.open { display: block; }
+
+/* ── Right card: Datos de pago ─────────────────────────────── */
+.pp-summary-ref {
+    font-size: 13px;
+    color: #888;
+    margin-bottom: 16px;
+    padding-bottom: 14px;
+    border-bottom: 1px solid #f0f0f0;
+}
+.pp-summary-ref strong { color: #333; }
+
+.pp-total-row {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin-bottom: 14px;
+}
+.pp-total-label { font-size: 16px; font-weight: 600; color: #333; }
+.pp-total-amount { font-size: 22px; font-weight: 700; color: #1a1a1a; }
+
+.pp-secure {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 12px;
+    color: #50b44f;
+    font-weight: 600;
+    margin-bottom: 14px;
+    justify-content: center;
+}
+.pp-secure i { font-size: 13px; }
+
+.pp-brands {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.btn-pagar {
+    width: 100%;
+    height: 48px;
+    border-radius: 6px;
+    border: none;
+    background: #d0d0d0;
+    color: #888;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: 'Roboto Condensed', sans-serif;
+    letter-spacing: 1px;
+    cursor: not-allowed;
+    transition: background .2s, color .2s;
+}
+.btn-pagar.active {
+    background: #50b44f;
+    color: white;
+    cursor: pointer;
+}
+.btn-pagar.active:hover { background: #3e9b3e; }
+
+/* ── Footer ────────────────────────────────────────────────── */
+.pp-footer {
+    background: #e0e0e0;
+    padding: 20px 32px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+    border-top: 1px solid #ccc;
+}
+.pp-footer-left { display: flex; align-items: center; gap: 12px; }
+.pp-footer-left img { height: 40px; opacity: .7; }
+.pp-footer-left span { font-size: 12px; color: #666; }
+.pp-footer-center { font-size: 12px; color: #777; text-align: center; }
+.pp-footer-right a { font-size: 12px; color: #2e0063; font-weight: 600; text-decoration: underline; }
+
+/* ── Responsive ────────────────────────────────────────────── */
+@media (max-width: 860px) {
+    .pp-grid { grid-template-columns: 1fr; }
+    .pp-card  { padding: 22px 18px; }
+}
+@media (max-width: 480px) {
+    .pp-main  { padding: 16px 14px 40px; }
+    .pp-header { padding: 12px 16px; }
+    .pp-row-2 { grid-template-columns: 1fr; }
+    .pp-footer { flex-direction: column; align-items: center; text-align: center; }
+}
