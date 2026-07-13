@@ -1,0 +1,84 @@
+{
+  "co_ownership_id": "61005d871a60300009797fd1",
+  "co_ownership_name": "ED MIRADOR DEL REFUGIO",
+  "address": "CR 6 # 86 60 Los Rosales",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1436245",
+  "total": 12,
+  "apartamentos": [
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 527100
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 250200
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 298000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 281300
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 307000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 371250
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 298000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 524700
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 531300
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 522100
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 530700
+    }
+  ]
+}

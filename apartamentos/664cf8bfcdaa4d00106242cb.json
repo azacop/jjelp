@@ -1,0 +1,84 @@
+{
+  "co_ownership_id": "664cf8bfcdaa4d00106242cb",
+  "co_ownership_name": "ED EGO BOX M35 PH",
+  "address": "CR 19 86 A 78",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1540319",
+  "total": 12,
+  "apartamentos": [
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1070000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 986000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 986000
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 892000
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 986000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 892000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 986000
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 1070000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 1070000
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 986000
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "APARTAMENTO",
+      "precio": 892000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "co_ownership_id": "6830793391e17a2e4a8e318c",
+  "co_ownership_name": "EDIFICIO MANDARIN",
+  "address": "CL 20 SUR 10 A 18 BRR CIUDAD JARDIN SUR",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1594316",
+  "total": 19,
+  "apartamentos": [
+    {
+      "inmueble": "APTO 202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 114000
+    },
+    {
+      "inmueble": "APTO 203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 116000
+    },
+    {
+      "inmueble": "APTO 503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 203000
+    },
+    {
+      "inmueble": "APTO 301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 194000
+    },
+    {
+      "inmueble": "APTO 401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 194000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "L101",
+      "referencia": "101",
+      "tipo": "LOCAL",
+      "precio": 218000
+    },
+    {
+      "inmueble": "L102",
+      "referencia": "102",
+      "tipo": "LOCAL",
+      "precio": 242000
+    },
+    {
+      "inmueble": "APTO201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 150000
+    },
+    {
+      "inmueble": "APTO204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 126000
+    },
+    {
+      "inmueble": "APTO302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 201000
+    },
+    {
+      "inmueble": "APTO303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 203000
+    },
+    {
+      "inmueble": "APTO402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 202000
+    },
+    {
+      "inmueble": "APTO403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 203000
+    },
+    {
+      "inmueble": "APTO501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 194000
+    },
+    {
+      "inmueble": "APTO502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 201000
+    },
+    {
+      "inmueble": "APTO601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 194000
+    },
+    {
+      "inmueble": "APTO602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 201000
+    },
+    {
+      "inmueble": "APTO603",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 205000
+    }
+  ]
+}

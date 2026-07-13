@@ -1,0 +1,48 @@
+{
+  "co_ownership_id": "686e78c107b75436cb9a53b3",
+  "co_ownership_name": "EDIFICIO MIRADOR PH",
+  "address": "KRA 23 B 67 46 B PALERMO",
+  "city": "Manizales",
+  "department": "Caldas",
+  "country": "COLOMBIA",
+  "agreement_number": "1602655",
+  "total": 6,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 151000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 220000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 211000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 206000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 205000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

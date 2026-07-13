@@ -1,0 +1,120 @@
+{
+  "co_ownership_id": "637ed24c3dad460008e7ea9a",
+  "co_ownership_name": "EDIFICIO SANTA MONICA PH BOGOTA",
+  "address": "TV 18 A 97 02",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1325851",
+  "total": 18,
+  "apartamentos": [
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "APARTAMENTO",
+      "precio": 610206
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 610301
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 386302
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 565303
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 574304
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "APARTAMENTO",
+      "precio": 269305
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 602201
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "APARTAMENTO",
+      "precio": 574306
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 377202
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 503203
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 565204
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "APARTAMENTO",
+      "precio": 404205
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 592101
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 557102
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 673103
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 422104
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "APARTAMENTO",
+      "precio": 691105
+    }
+  ]
+}

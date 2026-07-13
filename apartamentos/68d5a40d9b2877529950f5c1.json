@@ -1,0 +1,240 @@
+{
+  "co_ownership_id": "68d5a40d9b2877529950f5c1",
+  "co_ownership_name": "EDIFICIO EDIFICIO KUNAWA PH",
+  "address": "CL 122 7 A 58 BRR USAQUEN",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1613884",
+  "total": 38,
+  "apartamentos": [
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 446000
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 542000
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 608000
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 458000
+    },
+    {
+      "inmueble": "703",
+      "referencia": "703",
+      "tipo": "APARTAMENTO",
+      "precio": 449000
+    },
+    {
+      "inmueble": "604",
+      "referencia": "604",
+      "tipo": "APARTAMENTO",
+      "precio": 458000
+    },
+    {
+      "inmueble": "704",
+      "referencia": "704",
+      "tipo": "APARTAMENTO",
+      "precio": 460000
+    },
+    {
+      "inmueble": "605",
+      "referencia": "605",
+      "tipo": "APARTAMENTO",
+      "precio": 542000
+    },
+    {
+      "inmueble": "705",
+      "referencia": "705",
+      "tipo": "APARTAMENTO",
+      "precio": 551000
+    },
+    {
+      "inmueble": "606",
+      "referencia": "606",
+      "tipo": "APARTAMENTO",
+      "precio": 447000
+    },
+    {
+      "inmueble": "706",
+      "referencia": "706",
+      "tipo": "APARTAMENTO",
+      "precio": 519000
+    },
+    {
+      "inmueble": "G 15",
+      "referencia": "15",
+      "tipo": "APARTAMENTO",
+      "precio": 58000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "APARTAMENTO",
+      "precio": 550000
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 456000
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "APARTAMENTO",
+      "precio": 432000
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 458000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 456000
+    },
+    {
+      "inmueble": "505",
+      "referencia": "505",
+      "tipo": "APARTAMENTO",
+      "precio": 542000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 551000
+    },
+    {
+      "inmueble": "506",
+      "referencia": "506",
+      "tipo": "APARTAMENTO",
+      "precio": 447000
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 512000
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 458000
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "APARTAMENTO",
+      "precio": 456000
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 519000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 455000
+    },
+    {
+      "inmueble": "405",
+      "referencia": "405",
+      "tipo": "APARTAMENTO",
+      "precio": 606000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 614000
+    },
+    {
+      "inmueble": "406",
+      "referencia": "406",
+      "tipo": "APARTAMENTO",
+      "precio": 455000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 458000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 452000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 456000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 493000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 452000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 612000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 449000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 460000
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "APARTAMENTO",
+      "precio": 553000
+    }
+  ]
+}

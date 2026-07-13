@@ -1,0 +1,78 @@
+{
+  "co_ownership_id": "6675a9e4caeaf300105d1af5",
+  "co_ownership_name": "EDIFICIO KALAMAZOO PH",
+  "address": "CR 20 127 40",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1545169",
+  "total": 11,
+  "apartamentos": [
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 503000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 517000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 528000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 528000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 517000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 493000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 437000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 517000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 503000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 503000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    }
+  ]
+}

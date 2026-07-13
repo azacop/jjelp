@@ -1,0 +1,90 @@
+{
+  "co_ownership_id": "68dbef349b28775299512b5f",
+  "co_ownership_name": "EDIFICIO BALCONES DEL PARQUE",
+  "address": "CR 17 A 102 42",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1614841",
+  "total": 13,
+  "apartamentos": [
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    }
+  ]
+}

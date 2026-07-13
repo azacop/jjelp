@@ -1,0 +1,66 @@
+{
+  "co_ownership_id": "67f7e5eb1769923fa4236e35",
+  "co_ownership_name": "PARCELACION CASCADAS DE DAPA 3",
+  "address": "CORR DAPA KM 4 VIA A MEDIO DAPA",
+  "city": "Yumbo",
+  "department": "Valle del Cauca",
+  "country": "COLOMBIA",
+  "agreement_number": "1587625",
+  "total": 9,
+  "apartamentos": [
+    {
+      "inmueble": "CASA6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 200000
+    },
+    {
+      "inmueble": "CASA7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 200000
+    },
+    {
+      "inmueble": "CASA8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 200000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "CASA1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 200000
+    },
+    {
+      "inmueble": "CASA2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 200000
+    },
+    {
+      "inmueble": "CASA3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 200000
+    },
+    {
+      "inmueble": "CASA4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 200000
+    },
+    {
+      "inmueble": "CASA5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 200000
+    }
+  ]
+}

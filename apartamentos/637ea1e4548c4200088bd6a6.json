@@ -1,0 +1,168 @@
+{
+  "co_ownership_id": "637ea1e4548c4200088bd6a6",
+  "co_ownership_name": "EDIFICIO FERRARA 85 - PH CRA 16 NO 85-40",
+  "address": "CRA 16 85 - 40",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1285469",
+  "total": 26,
+  "apartamentos": [
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "704",
+      "referencia": "704",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "705",
+      "referencia": "705",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "703",
+      "referencia": "703",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    }
+  ]
+}

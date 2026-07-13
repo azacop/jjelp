@@ -1,0 +1,60 @@
+{
+  "co_ownership_id": "6942ebafc858ca2a9bdbab6b",
+  "co_ownership_name": "EDIFICIO VILLA SOL 2 PH",
+  "address": "TV 32 C SUR 33 57",
+  "city": "Envigado",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1626100",
+  "total": 8,
+  "apartamentos": [
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 105000
+    },
+    {
+      "inmueble": "LC1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 105000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 105000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 105000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 105000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 105000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 105000
+    }
+  ]
+}

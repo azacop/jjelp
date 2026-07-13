@@ -1,0 +1,102 @@
+{
+  "co_ownership_id": "66cf43b0a127c0000ea510eb",
+  "co_ownership_name": "EDIFICIO CASA VICTORIANA PH EXTR",
+  "address": "CR 17 31 40",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1557172",
+  "total": 15,
+  "apartamentos": [
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": null,
+      "precio": 206000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": null,
+      "precio": 206000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": null,
+      "precio": 206000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": null,
+      "precio": 206000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": null,
+      "precio": 206000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": null,
+      "precio": 206000
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": null,
+      "precio": 206000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": null,
+      "precio": 206000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": null,
+      "precio": 206000
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": null,
+      "precio": 206000
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": null,
+      "precio": 206000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": null,
+      "precio": 206000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": null,
+      "precio": 206000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": null,
+      "precio": 206000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": null,
+      "precio": 1
+    }
+  ]
+}

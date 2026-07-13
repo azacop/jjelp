@@ -1,0 +1,84 @@
+{
+  "co_ownership_id": "64c29214019d5a000f635441",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL CAMINO DE SAN JUAN III",
+  "address": "CARRERA 2 # 21 75",
+  "city": "Chía",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1506211",
+  "total": 12,
+  "apartamentos": [
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "CASA",
+      "precio": 600000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "CASA",
+      "precio": 600000
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "CASA",
+      "precio": 600000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "CASA",
+      "precio": 600000
+    },
+    {
+      "inmueble": "307",
+      "referencia": "307",
+      "tipo": "CASA",
+      "precio": 600000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "CASA",
+      "precio": 600000
+    },
+    {
+      "inmueble": "308",
+      "referencia": "308",
+      "tipo": "CASA",
+      "precio": 600000
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "CASA",
+      "precio": 600000
+    },
+    {
+      "inmueble": "309",
+      "referencia": "309",
+      "tipo": "CASA",
+      "precio": 600000
+    },
+    {
+      "inmueble": "310",
+      "referencia": "310",
+      "tipo": "CASA",
+      "precio": 600000
+    },
+    {
+      "inmueble": "311",
+      "referencia": "311",
+      "tipo": "CASA",
+      "precio": 600000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "co_ownership_id": "650e1e516a5728000f670600",
+  "co_ownership_name": "EDIFICIO LARIOS 135",
+  "address": "Sin direccion ",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1125384",
+  "total": 1,
+  "apartamentos": [
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

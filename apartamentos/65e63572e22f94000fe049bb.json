@@ -1,0 +1,126 @@
+{
+  "co_ownership_id": "65e63572e22f94000fe049bb",
+  "co_ownership_name": "CONDOMINIO CAMPESTRE ENCLAVE RESERVADO PROPIEDAD HORIZONTAL",
+  "address": "CRR Kilómetro 2 Vía Cajicá – Tabio Vereda Chuntame del municipio de CajicáC 174 20",
+  "city": "Cajicá",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1530195",
+  "total": 19,
+  "apartamentos": [
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": null,
+      "precio": 1
+    }
+  ]
+}

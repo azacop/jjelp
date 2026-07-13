@@ -1,0 +1,192 @@
+{
+  "co_ownership_id": "643d75012cdca70010ca16f3",
+  "co_ownership_name": "EDIFICIO WASIMO",
+  "address": "CL 71 34 64",
+  "city": "Barranquilla",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1493675",
+  "total": 30,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 191000
+    },
+    {
+      "inmueble": "406",
+      "referencia": "406",
+      "tipo": "APARTAMENTO",
+      "precio": 100000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 84000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 111000
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "APARTAMENTO",
+      "precio": 80000
+    },
+    {
+      "inmueble": "407",
+      "referencia": "407",
+      "tipo": "APARTAMENTO",
+      "precio": 111000
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "APARTAMENTO",
+      "precio": 101000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 208000
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "APARTAMENTO",
+      "precio": 100000
+    },
+    {
+      "inmueble": "408",
+      "referencia": "408",
+      "tipo": "APARTAMENTO",
+      "precio": 144000
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "APARTAMENTO",
+      "precio": 77000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 208000
+    },
+    {
+      "inmueble": "307",
+      "referencia": "307",
+      "tipo": "APARTAMENTO",
+      "precio": 111000
+    },
+    {
+      "inmueble": "409",
+      "referencia": "409",
+      "tipo": "APARTAMENTO",
+      "precio": 150000
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": "APARTAMENTO",
+      "precio": 117000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 122000
+    },
+    {
+      "inmueble": "308",
+      "referencia": "308",
+      "tipo": "APARTAMENTO",
+      "precio": 140000
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": "APARTAMENTO",
+      "precio": 144000
+    },
+    {
+      "inmueble": "209",
+      "referencia": "209",
+      "tipo": "APARTAMENTO",
+      "precio": 150000
+    },
+    {
+      "inmueble": "309",
+      "referencia": "309",
+      "tipo": "APARTAMENTO",
+      "precio": 154000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 208000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 202000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 208000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 208000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 121000
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 124000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 108000
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 108000
+    },
+    {
+      "inmueble": "405",
+      "referencia": "405",
+      "tipo": "APARTAMENTO",
+      "precio": 100000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

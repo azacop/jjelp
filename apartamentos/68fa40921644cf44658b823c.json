@@ -1,0 +1,66 @@
+{
+  "co_ownership_id": "68fa40921644cf44658b823c",
+  "co_ownership_name": "PARCELACION AGRUPACION ANTARES",
+  "address": "VDA SAN JOSE DE LA CONCEPCION",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1618180",
+  "total": 9,
+  "apartamentos": [
+    {
+      "inmueble": "CASA 6",
+      "referencia": "6",
+      "tipo": "LOCAL",
+      "precio": 1435660
+    },
+    {
+      "inmueble": "LOTE 7",
+      "referencia": "7",
+      "tipo": "LOCAL",
+      "precio": 1435660
+    },
+    {
+      "inmueble": "LOTE 8",
+      "referencia": "8",
+      "tipo": "LOCAL",
+      "precio": 1435660
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "CASA 1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 1435660
+    },
+    {
+      "inmueble": "CASA 2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 1435660
+    },
+    {
+      "inmueble": "CASA 3",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 1435660
+    },
+    {
+      "inmueble": "CASA 4",
+      "referencia": "4",
+      "tipo": "LOCAL",
+      "precio": 1435660
+    },
+    {
+      "inmueble": "CASA 5",
+      "referencia": "5",
+      "tipo": "LOCAL",
+      "precio": 1435660
+    }
+  ]
+}

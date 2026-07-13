@@ -1,0 +1,42 @@
+{
+  "co_ownership_id": "66a79e1592a2ec00106b009a",
+  "co_ownership_name": "CONJ BELVERDE II OTROS CONCEPTOS",
+  "address": "KR 10 6 94",
+  "city": "Mosquera",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1551837",
+  "total": 5,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 250000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 250000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "OTROS",
+      "precio": 250000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "OTROS",
+      "precio": 250000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

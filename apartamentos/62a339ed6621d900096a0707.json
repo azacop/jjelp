@@ -1,0 +1,156 @@
+{
+  "co_ownership_id": "62a339ed6621d900096a0707",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL TAGUA PH",
+  "address": "KM 2.5 VÍA CHÍA - CAJICÁ",
+  "city": "Cajicá",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1461912",
+  "total": 24,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": "CASA",
+      "precio": 2623000
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "CASA",
+      "precio": 1749000
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "CASA",
+      "precio": 2623000
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "CASA",
+      "precio": 2623000
+    },
+    {
+      "inmueble": "23",
+      "referencia": "23",
+      "tipo": "CASA",
+      "precio": 2623000
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "CASA",
+      "precio": 2623000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 2
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": "CASA",
+      "precio": 2623000
+    }
+  ]
+}

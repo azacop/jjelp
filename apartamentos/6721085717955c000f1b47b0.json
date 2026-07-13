@@ -1,0 +1,84 @@
+{
+  "co_ownership_id": "6721085717955c000f1b47b0",
+  "co_ownership_name": "AGRU ALTOS DE BELLAVISTA TORRE 5",
+  "address": "CR 1 ESTE 74 14 BRR ROSALES",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1567908",
+  "total": 12,
+  "apartamentos": [
+    {
+      "inmueble": "5601",
+      "referencia": "5601",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "5101",
+      "referencia": "5101",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "5701",
+      "referencia": "5701",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "5201",
+      "referencia": "5201",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "5801",
+      "referencia": "5801",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "5301",
+      "referencia": "5301",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "5901",
+      "referencia": "5901",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "5401",
+      "referencia": "5401",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "9991",
+      "referencia": "9991",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "5501",
+      "referencia": "5501",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "9992",
+      "referencia": "9992",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

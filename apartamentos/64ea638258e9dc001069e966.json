@@ -1,0 +1,60 @@
+{
+  "co_ownership_id": "64ea638258e9dc001069e966",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL CASA DE CAMPO LAS DELICIAS",
+  "address": "CALLE 22 # 1 112",
+  "city": "Chía",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1509678",
+  "total": 8,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 460000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 460060
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 460020
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 460070
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 460030
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 460040
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 460050
+    }
+  ]
+}

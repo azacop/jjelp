@@ -1,0 +1,138 @@
+{
+  "co_ownership_id": "63ce9f783c76950010e08380",
+  "co_ownership_name": "EDIFICIO EL CARMELO PROPIEDAD HORIZONTAL",
+  "address": "CL 37 N 7 10",
+  "city": "Ibagué",
+  "department": "Tolima",
+  "country": "COLOMBIA",
+  "agreement_number": "1484138",
+  "total": 21,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": null,
+      "precio": 242000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": null,
+      "precio": 279000
+    },
+    {
+      "inmueble": "405",
+      "referencia": "405",
+      "tipo": null,
+      "precio": 279000
+    }
+  ]
+}

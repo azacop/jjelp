@@ -1,0 +1,138 @@
+{
+  "co_ownership_id": "61ba28768432590009b460b0",
+  "co_ownership_name": "EDIFICIO TORRE DEL ESTE",
+  "address": "CL 119 # 14 A 42",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1447465",
+  "total": 21,
+  "apartamentos": [
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 104487
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 88935
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 46591
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 46591
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 64169
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 64953
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 123170
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 86125
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "APARTAMENTO",
+      "precio": 86125
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "APARTAMENTO",
+      "precio": 123170
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 60706
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 52276
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 74821
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 86125
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 70573
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 105860
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 46591
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 52276
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 86125
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "APARTAMENTO",
+      "precio": 93183
+    }
+  ]
+}

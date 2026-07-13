@@ -1,0 +1,78 @@
+{
+  "co_ownership_id": "62cdf2d89217a00009120ed7",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL MOLINOS DEL VIENTO PH",
+  "address": "CL 23 SUR 28 46",
+  "city": "Envigado",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1464635",
+  "total": 11,
+  "apartamentos": [
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 576171
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "APARTAMENTO",
+      "precio": 509234
+    },
+    {
+      "inmueble": "110",
+      "referencia": "110",
+      "tipo": "APARTAMENTO",
+      "precio": 493272
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 537553
+    },
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": "APARTAMENTO",
+      "precio": 508719
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 487608
+    },
+    {
+      "inmueble": "108",
+      "referencia": "108",
+      "tipo": "APARTAMENTO",
+      "precio": 527255
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 488638
+    },
+    {
+      "inmueble": "109",
+      "referencia": "109",
+      "tipo": "APARTAMENTO",
+      "precio": 493272
+    },
+    {
+      "inmueble": "107",
+      "referencia": "107",
+      "tipo": "APARTAMENTO",
+      "precio": 533949
+    }
+  ]
+}

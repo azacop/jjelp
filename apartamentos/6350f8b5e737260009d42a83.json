@@ -1,0 +1,156 @@
+{
+  "co_ownership_id": "6350f8b5e737260009d42a83",
+  "co_ownership_name": "SUPERMERCADO Y PASAJE COMERCIAL SAN DIEGO PLAZA  ARMENIA",
+  "address": "CALLE 30 N 40 40",
+  "city": "Armenia",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1288273",
+  "total": 24,
+  "apartamentos": [
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "LOCAL",
+      "precio": 116000
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "LOCAL",
+      "precio": 130000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "LOCAL",
+      "precio": 180000
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "LOCAL",
+      "precio": 772000
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "LOCAL",
+      "precio": 56000
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "LOCAL",
+      "precio": 15122000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "LOCAL",
+      "precio": 118000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 116000
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "LOCAL",
+      "precio": 140000
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": "LOCAL",
+      "precio": 698000
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "LOCAL",
+      "precio": 20000
+    },
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": "LOCAL",
+      "precio": 508000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "23",
+      "referencia": "23",
+      "tipo": "OTROS",
+      "precio": 10000
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 1114000
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "LOCAL",
+      "precio": 120000
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "LOCAL",
+      "precio": 86000
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "LOCAL",
+      "precio": 120000
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "LOCAL",
+      "precio": 84000
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "LOCAL",
+      "precio": 6000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "LOCAL",
+      "precio": 180000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 104000
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "LOCAL",
+      "precio": 90000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "LOCAL",
+      "precio": 120000
+    }
+  ]
+}

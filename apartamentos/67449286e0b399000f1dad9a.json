@@ -1,0 +1,1740 @@
+{
+  "co_ownership_id": "67449286e0b399000f1dad9a",
+  "co_ownership_name": "VENTURA PLAZA CENTRO COMERCIAL",
+  "address": "CL 10 Y 11 DG",
+  "city": "Cúcuta",
+  "department": "Norte de Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1571025",
+  "total": 288,
+  "apartamentos": [
+    {
+      "inmueble": "100",
+      "referencia": "100",
+      "tipo": "OTROS",
+      "precio": 574890
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "OTROS",
+      "precio": 7993606
+    },
+    {
+      "inmueble": "200",
+      "referencia": "200",
+      "tipo": "OTROS",
+      "precio": 574890
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "OTROS",
+      "precio": 2523143
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "OTROS",
+      "precio": 4974210
+    },
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": "OTROS",
+      "precio": 4119541
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "OTROS",
+      "precio": 4974210
+    },
+    {
+      "inmueble": "107",
+      "referencia": "107",
+      "tipo": "OTROS",
+      "precio": 4675462
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "OTROS",
+      "precio": 4633889
+    },
+    {
+      "inmueble": "108",
+      "referencia": "108",
+      "tipo": "OTROS",
+      "precio": 4675462
+    },
+    {
+      "inmueble": "2371",
+      "referencia": "2371",
+      "tipo": "OTROS",
+      "precio": 1124252
+    },
+    {
+      "inmueble": "109",
+      "referencia": "109",
+      "tipo": "OTROS",
+      "precio": 5052135
+    },
+    {
+      "inmueble": "238",
+      "referencia": "238",
+      "tipo": "OTROS",
+      "precio": 1124252
+    },
+    {
+      "inmueble": "239",
+      "referencia": "239",
+      "tipo": "OTROS",
+      "precio": 2517294
+    },
+    {
+      "inmueble": "110",
+      "referencia": "110",
+      "tipo": "OTROS",
+      "precio": 5052135
+    },
+    {
+      "inmueble": "2471",
+      "referencia": "2471",
+      "tipo": "OTROS",
+      "precio": 16775693
+    },
+    {
+      "inmueble": "119",
+      "referencia": "119",
+      "tipo": "OTROS",
+      "precio": 1931498
+    },
+    {
+      "inmueble": "240",
+      "referencia": "240",
+      "tipo": "OTROS",
+      "precio": 2301693
+    },
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "OTROS",
+      "precio": 4675462
+    },
+    {
+      "inmueble": "2472",
+      "referencia": "2472",
+      "tipo": "OTROS",
+      "precio": 2062411
+    },
+    {
+      "inmueble": "211",
+      "referencia": "211",
+      "tipo": "OTROS",
+      "precio": 2403644
+    },
+    {
+      "inmueble": "148",
+      "referencia": "148",
+      "tipo": "OTROS",
+      "precio": 2206220
+    },
+    {
+      "inmueble": "130",
+      "referencia": "130",
+      "tipo": "OTROS",
+      "precio": 3360346
+    },
+    {
+      "inmueble": "241",
+      "referencia": "241",
+      "tipo": "OTROS",
+      "precio": 1614574
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "OTROS",
+      "precio": 4675462
+    },
+    {
+      "inmueble": "120",
+      "referencia": "120",
+      "tipo": "OTROS",
+      "precio": 1488597
+    },
+    {
+      "inmueble": "248",
+      "referencia": "248",
+      "tipo": "OTROS",
+      "precio": 5201509
+    },
+    {
+      "inmueble": "1572",
+      "referencia": "1572",
+      "tipo": "OTROS",
+      "precio": 2869942
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "OTROS",
+      "precio": 6558909
+    },
+    {
+      "inmueble": "212",
+      "referencia": "212",
+      "tipo": "OTROS",
+      "precio": 4723514
+    },
+    {
+      "inmueble": "242",
+      "referencia": "242",
+      "tipo": "OTROS",
+      "precio": 1614574
+    },
+    {
+      "inmueble": "221",
+      "referencia": "221",
+      "tipo": "OTROS",
+      "precio": 2391317
+    },
+    {
+      "inmueble": "149",
+      "referencia": "149",
+      "tipo": "OTROS",
+      "precio": 4633889
+    },
+    {
+      "inmueble": "121",
+      "referencia": "121",
+      "tipo": "OTROS",
+      "precio": 3431794
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "113",
+      "referencia": "113",
+      "tipo": "OTROS",
+      "precio": 4119541
+    },
+    {
+      "inmueble": "131",
+      "referencia": "131",
+      "tipo": "OTROS",
+      "precio": 3401919
+    },
+    {
+      "inmueble": "2282",
+      "referencia": "2282",
+      "tipo": "OTROS",
+      "precio": 2475092
+    },
+    {
+      "inmueble": "164",
+      "referencia": "164",
+      "tipo": "OTROS",
+      "precio": 1877598
+    },
+    {
+      "inmueble": "1573",
+      "referencia": "1573",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "243",
+      "referencia": "243",
+      "tipo": "OTROS",
+      "precio": 2301693
+    },
+    {
+      "inmueble": "213",
+      "referencia": "213",
+      "tipo": "OTROS",
+      "precio": 4723514
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "OTROS",
+      "precio": 2391317
+    },
+    {
+      "inmueble": "150",
+      "referencia": "150",
+      "tipo": "OTROS",
+      "precio": 1943196
+    },
+    {
+      "inmueble": "122",
+      "referencia": "122",
+      "tipo": "OTROS",
+      "precio": 3431794
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "222",
+      "referencia": "222",
+      "tipo": "OTROS",
+      "precio": 2391317
+    },
+    {
+      "inmueble": "114",
+      "referencia": "114",
+      "tipo": "OTROS",
+      "precio": 6014686
+    },
+    {
+      "inmueble": "132",
+      "referencia": "132",
+      "tipo": "OTROS",
+      "precio": 4250738
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "OTROS",
+      "precio": 2391317
+    },
+    {
+      "inmueble": "2283",
+      "referencia": "2283",
+      "tipo": "OTROS",
+      "precio": 1893724
+    },
+    {
+      "inmueble": "244",
+      "referencia": "244",
+      "tipo": "OTROS",
+      "precio": 1471050
+    },
+    {
+      "inmueble": "214",
+      "referencia": "214",
+      "tipo": "OTROS",
+      "precio": 2403644
+    },
+    {
+      "inmueble": "158",
+      "referencia": "158",
+      "tipo": "OTROS",
+      "precio": 8023481
+    },
+    {
+      "inmueble": "151",
+      "referencia": "151",
+      "tipo": "OTROS",
+      "precio": 2241943
+    },
+    {
+      "inmueble": "123",
+      "referencia": "123",
+      "tipo": "OTROS",
+      "precio": 3431794
+    },
+    {
+      "inmueble": "165",
+      "referencia": "165",
+      "tipo": "OTROS",
+      "precio": 1954894
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "OTROS",
+      "precio": 1961373
+    },
+    {
+      "inmueble": "115",
+      "referencia": "115",
+      "tipo": "OTROS",
+      "precio": 5811412
+    },
+    {
+      "inmueble": "223",
+      "referencia": "223",
+      "tipo": "OTROS",
+      "precio": 1411301
+    },
+    {
+      "inmueble": "1331",
+      "referencia": "1331",
+      "tipo": "OTROS",
+      "precio": 2672517
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "OTROS",
+      "precio": 2767990
+    },
+    {
+      "inmueble": "245",
+      "referencia": "245",
+      "tipo": "OTROS",
+      "precio": 1471050
+    },
+    {
+      "inmueble": "229",
+      "referencia": "229",
+      "tipo": "OTROS",
+      "precio": 3348018
+    },
+    {
+      "inmueble": "215",
+      "referencia": "215",
+      "tipo": "OTROS",
+      "precio": 2403644
+    },
+    {
+      "inmueble": "1591",
+      "referencia": "1591",
+      "tipo": "OTROS",
+      "precio": 6188085
+    },
+    {
+      "inmueble": "152",
+      "referencia": "152",
+      "tipo": "OTROS",
+      "precio": 2917993
+    },
+    {
+      "inmueble": "166",
+      "referencia": "166",
+      "tipo": "OTROS",
+      "precio": 2206220
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "OTROS",
+      "precio": 3545443
+    },
+    {
+      "inmueble": "1332",
+      "referencia": "1332",
+      "tipo": "OTROS",
+      "precio": 2750443
+    },
+    {
+      "inmueble": "116",
+      "referencia": "116",
+      "tipo": "OTROS",
+      "precio": 4478038
+    },
+    {
+      "inmueble": "224",
+      "referencia": "224",
+      "tipo": "OTROS",
+      "precio": 1949045
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "OTROS",
+      "precio": 2403644
+    },
+    {
+      "inmueble": "246",
+      "referencia": "246",
+      "tipo": "OTROS",
+      "precio": 3348018
+    },
+    {
+      "inmueble": "230",
+      "referencia": "230",
+      "tipo": "OTROS",
+      "precio": 1590549
+    },
+    {
+      "inmueble": "216",
+      "referencia": "216",
+      "tipo": "OTROS",
+      "precio": 2403644
+    },
+    {
+      "inmueble": "153",
+      "referencia": "153",
+      "tipo": "OTROS",
+      "precio": 2869942
+    },
+    {
+      "inmueble": "1592",
+      "referencia": "1592",
+      "tipo": "OTROS",
+      "precio": 848819
+    },
+    {
+      "inmueble": "134",
+      "referencia": "134",
+      "tipo": "OTROS",
+      "precio": 41227976
+    },
+    {
+      "inmueble": "167",
+      "referencia": "167",
+      "tipo": "OTROS",
+      "precio": 2206220
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "OTROS",
+      "precio": 1907472
+    },
+    {
+      "inmueble": "117",
+      "referencia": "117",
+      "tipo": "OTROS",
+      "precio": 4478038
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "OTROS",
+      "precio": 2373770
+    },
+    {
+      "inmueble": "225",
+      "referencia": "225",
+      "tipo": "OTROS",
+      "precio": 4173441
+    },
+    {
+      "inmueble": "217",
+      "referencia": "217",
+      "tipo": "OTROS",
+      "precio": 2403644
+    },
+    {
+      "inmueble": "231",
+      "referencia": "231",
+      "tipo": "OTROS",
+      "precio": 1590549
+    },
+    {
+      "inmueble": "154",
+      "referencia": "154",
+      "tipo": "OTROS",
+      "precio": 2869942
+    },
+    {
+      "inmueble": "1593",
+      "referencia": "1593",
+      "tipo": "OTROS",
+      "precio": 848819
+    },
+    {
+      "inmueble": "308",
+      "referencia": "308",
+      "tipo": "OTROS",
+      "precio": 1907472
+    },
+    {
+      "inmueble": "1007",
+      "referencia": "1007",
+      "tipo": "OTROS",
+      "precio": 82424
+    },
+    {
+      "inmueble": "135",
+      "referencia": "135",
+      "tipo": "OTROS",
+      "precio": 13990745
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "OTROS",
+      "precio": 1907472
+    },
+    {
+      "inmueble": "168",
+      "referencia": "168",
+      "tipo": "OTROS",
+      "precio": 4974210
+    },
+    {
+      "inmueble": "118",
+      "referencia": "118",
+      "tipo": "OTROS",
+      "precio": 4974210
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": "OTROS",
+      "precio": 2254271
+    },
+    {
+      "inmueble": "226",
+      "referencia": "226",
+      "tipo": "OTROS",
+      "precio": 3216821
+    },
+    {
+      "inmueble": "218",
+      "referencia": "218",
+      "tipo": "OTROS",
+      "precio": 2254271
+    },
+    {
+      "inmueble": "155",
+      "referencia": "155",
+      "tipo": "OTROS",
+      "precio": 2869942
+    },
+    {
+      "inmueble": "232",
+      "referencia": "232",
+      "tipo": "OTROS",
+      "precio": 1590549
+    },
+    {
+      "inmueble": "307",
+      "referencia": "307",
+      "tipo": "OTROS",
+      "precio": 1907472
+    },
+    {
+      "inmueble": "1008",
+      "referencia": "1008",
+      "tipo": "OTROS",
+      "precio": 138423
+    },
+    {
+      "inmueble": "145",
+      "referencia": "145",
+      "tipo": "OTROS",
+      "precio": 4974210
+    },
+    {
+      "inmueble": "160",
+      "referencia": "160",
+      "tipo": "OTROS",
+      "precio": 848819
+    },
+    {
+      "inmueble": "124",
+      "referencia": "124",
+      "tipo": "OTROS",
+      "precio": 3431794
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": "OTROS",
+      "precio": 2403644
+    },
+    {
+      "inmueble": "309",
+      "referencia": "309",
+      "tipo": "OTROS",
+      "precio": 1907472
+    },
+    {
+      "inmueble": "2271",
+      "referencia": "2271",
+      "tipo": "OTROS",
+      "precio": 1883447
+    },
+    {
+      "inmueble": "219",
+      "referencia": "219",
+      "tipo": "OTROS",
+      "precio": 2373770
+    },
+    {
+      "inmueble": "156",
+      "referencia": "156",
+      "tipo": "OTROS",
+      "precio": 2869942
+    },
+    {
+      "inmueble": "169",
+      "referencia": "169",
+      "tipo": "OTROS",
+      "precio": 4974210
+    },
+    {
+      "inmueble": "233",
+      "referencia": "233",
+      "tipo": "OTROS",
+      "precio": 1590549
+    },
+    {
+      "inmueble": "1009",
+      "referencia": "1009",
+      "tipo": "OTROS",
+      "precio": 132131
+    },
+    {
+      "inmueble": "146",
+      "referencia": "146",
+      "tipo": "OTROS",
+      "precio": 4675462
+    },
+    {
+      "inmueble": "125",
+      "referencia": "125",
+      "tipo": "OTROS",
+      "precio": 2750443
+    },
+    {
+      "inmueble": "161",
+      "referencia": "161",
+      "tipo": "OTROS",
+      "precio": 1865270
+    },
+    {
+      "inmueble": "209",
+      "referencia": "209",
+      "tipo": "OTROS",
+      "precio": 2403644
+    },
+    {
+      "inmueble": "2272",
+      "referencia": "2272",
+      "tipo": "OTROS",
+      "precio": 1881315
+    },
+    {
+      "inmueble": "220",
+      "referencia": "220",
+      "tipo": "OTROS",
+      "precio": 2403644
+    },
+    {
+      "inmueble": "310",
+      "referencia": "310",
+      "tipo": "OTROS",
+      "precio": 1907472
+    },
+    {
+      "inmueble": "1571",
+      "referencia": "1571",
+      "tipo": "OTROS",
+      "precio": 2869942
+    },
+    {
+      "inmueble": "170",
+      "referencia": "170",
+      "tipo": "OTROS",
+      "precio": 633847
+    },
+    {
+      "inmueble": "1010",
+      "referencia": "1010",
+      "tipo": "OTROS",
+      "precio": 326552
+    },
+    {
+      "inmueble": "234",
+      "referencia": "234",
+      "tipo": "OTROS",
+      "precio": 2301693
+    },
+    {
+      "inmueble": "147",
+      "referencia": "147",
+      "tipo": "OTROS",
+      "precio": 2206220
+    },
+    {
+      "inmueble": "162",
+      "referencia": "162",
+      "tipo": "OTROS",
+      "precio": 1865270
+    },
+    {
+      "inmueble": "210",
+      "referencia": "210",
+      "tipo": "OTROS",
+      "precio": 2403644
+    },
+    {
+      "inmueble": "127",
+      "referencia": "127",
+      "tipo": "OTROS",
+      "precio": 3360346
+    },
+    {
+      "inmueble": "311",
+      "referencia": "311",
+      "tipo": "OTROS",
+      "precio": 1590549
+    },
+    {
+      "inmueble": "2273",
+      "referencia": "2273",
+      "tipo": "OTROS",
+      "precio": 2475092
+    },
+    {
+      "inmueble": "3105",
+      "referencia": "3105",
+      "tipo": "OTROS",
+      "precio": 609060
+    },
+    {
+      "inmueble": "171",
+      "referencia": "171",
+      "tipo": "OTROS",
+      "precio": 633847
+    },
+    {
+      "inmueble": "30",
+      "referencia": "30",
+      "tipo": "OTROS",
+      "precio": 1858641
+    },
+    {
+      "inmueble": "235",
+      "referencia": "235",
+      "tipo": "OTROS",
+      "precio": 2301693
+    },
+    {
+      "inmueble": "163",
+      "referencia": "163",
+      "tipo": "OTROS",
+      "precio": 1877598
+    },
+    {
+      "inmueble": "128",
+      "referencia": "128",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "2281",
+      "referencia": "2281",
+      "tipo": "OTROS",
+      "precio": 11527351
+    },
+    {
+      "inmueble": "312",
+      "referencia": "312",
+      "tipo": "OTROS",
+      "precio": 12239124
+    },
+    {
+      "inmueble": "3106",
+      "referencia": "3106",
+      "tipo": "OTROS",
+      "precio": 931208
+    },
+    {
+      "inmueble": "172",
+      "referencia": "172",
+      "tipo": "OTROS",
+      "precio": 633847
+    },
+    {
+      "inmueble": "1011",
+      "referencia": "1011",
+      "tipo": "OTROS",
+      "precio": 140940
+    },
+    {
+      "inmueble": "236",
+      "referencia": "236",
+      "tipo": "OTROS",
+      "precio": 2523143
+    },
+    {
+      "inmueble": "313",
+      "referencia": "313",
+      "tipo": "OTROS",
+      "precio": 1590549
+    },
+    {
+      "inmueble": "3107",
+      "referencia": "3107",
+      "tipo": "OTROS",
+      "precio": 982802
+    },
+    {
+      "inmueble": "1012",
+      "referencia": "1012",
+      "tipo": "OTROS",
+      "precio": 118918
+    },
+    {
+      "inmueble": "173",
+      "referencia": "173",
+      "tipo": "OTROS",
+      "precio": 633847
+    },
+    {
+      "inmueble": "318",
+      "referencia": "318",
+      "tipo": "OTROS",
+      "precio": 1590549
+    },
+    {
+      "inmueble": "3108",
+      "referencia": "3108",
+      "tipo": "OTROS",
+      "precio": 979656
+    },
+    {
+      "inmueble": "314",
+      "referencia": "314",
+      "tipo": "OTROS",
+      "precio": 1907472
+    },
+    {
+      "inmueble": "90",
+      "referencia": "90",
+      "tipo": "OTROS",
+      "precio": 1807047
+    },
+    {
+      "inmueble": "319",
+      "referencia": "319",
+      "tipo": "OTROS",
+      "precio": 3348018
+    },
+    {
+      "inmueble": "330",
+      "referencia": "330",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "129",
+      "referencia": "129",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "3109",
+      "referencia": "3109",
+      "tipo": "OTROS",
+      "precio": 931837
+    },
+    {
+      "inmueble": "1013",
+      "referencia": "1013",
+      "tipo": "OTROS",
+      "precio": 41527
+    },
+    {
+      "inmueble": "315",
+      "referencia": "315",
+      "tipo": "OTROS",
+      "precio": 2479857
+    },
+    {
+      "inmueble": "320",
+      "referencia": "320",
+      "tipo": "OTROS",
+      "precio": 4627411
+    },
+    {
+      "inmueble": "350",
+      "referencia": "350",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "356",
+      "referencia": "356",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "3110",
+      "referencia": "3110",
+      "tipo": "OTROS",
+      "precio": 1228817
+    },
+    {
+      "inmueble": "3115",
+      "referencia": "3115",
+      "tipo": "OTROS",
+      "precio": 1018666
+    },
+    {
+      "inmueble": "1014",
+      "referencia": "1014",
+      "tipo": "OTROS",
+      "precio": 93121
+    },
+    {
+      "inmueble": "366",
+      "referencia": "366",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "316",
+      "referencia": "316",
+      "tipo": "OTROS",
+      "precio": 4627411
+    },
+    {
+      "inmueble": "331",
+      "referencia": "331",
+      "tipo": "OTROS",
+      "precio": 1590549
+    },
+    {
+      "inmueble": "2204",
+      "referencia": "2204",
+      "tipo": "OTROS",
+      "precio": 215814
+    },
+    {
+      "inmueble": "3125",
+      "referencia": "3125",
+      "tipo": "OTROS",
+      "precio": 1447148
+    },
+    {
+      "inmueble": "340",
+      "referencia": "340",
+      "tipo": "OTROS",
+      "precio": 1536648
+    },
+    {
+      "inmueble": "321",
+      "referencia": "321",
+      "tipo": "OTROS",
+      "precio": 4627411
+    },
+    {
+      "inmueble": "2109",
+      "referencia": "2109",
+      "tipo": "OTROS",
+      "precio": 4397816
+    },
+    {
+      "inmueble": "1015",
+      "referencia": "1015",
+      "tipo": "OTROS",
+      "precio": 82424
+    },
+    {
+      "inmueble": "351",
+      "referencia": "351",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "3111",
+      "referencia": "3111",
+      "tipo": "OTROS",
+      "precio": 1154572
+    },
+    {
+      "inmueble": "4110",
+      "referencia": "4110",
+      "tipo": "OTROS",
+      "precio": 1247693
+    },
+    {
+      "inmueble": "3116",
+      "referencia": "3116",
+      "tipo": "OTROS",
+      "precio": 1324455
+    },
+    {
+      "inmueble": "357",
+      "referencia": "357",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "317",
+      "referencia": "317",
+      "tipo": "OTROS",
+      "precio": 3348018
+    },
+    {
+      "inmueble": "4101",
+      "referencia": "4101",
+      "tipo": "OTROS",
+      "precio": 1450923
+    },
+    {
+      "inmueble": "332",
+      "referencia": "332",
+      "tipo": "OTROS",
+      "precio": 1590549
+    },
+    {
+      "inmueble": "367",
+      "referencia": "367",
+      "tipo": "OTROS",
+      "precio": 2404123
+    },
+    {
+      "inmueble": "322",
+      "referencia": "322",
+      "tipo": "OTROS",
+      "precio": 1907472
+    },
+    {
+      "inmueble": "4120",
+      "referencia": "4120",
+      "tipo": "OTROS",
+      "precio": 985319
+    },
+    {
+      "inmueble": "2205",
+      "referencia": "2205",
+      "tipo": "OTROS",
+      "precio": 385067
+    },
+    {
+      "inmueble": "341",
+      "referencia": "341",
+      "tipo": "OTROS",
+      "precio": 1536648
+    },
+    {
+      "inmueble": "3112",
+      "referencia": "3112",
+      "tipo": "OTROS",
+      "precio": 585151
+    },
+    {
+      "inmueble": "4111",
+      "referencia": "4111",
+      "tipo": "OTROS",
+      "precio": 1168414
+    },
+    {
+      "inmueble": "2110",
+      "referencia": "2110",
+      "tipo": "OTROS",
+      "precio": 4398609
+    },
+    {
+      "inmueble": "352",
+      "referencia": "352",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "358",
+      "referencia": "358",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "3117",
+      "referencia": "3117",
+      "tipo": "OTROS",
+      "precio": 1228817
+    },
+    {
+      "inmueble": "1016",
+      "referencia": "1016",
+      "tipo": "OTROS",
+      "precio": 82424
+    },
+    {
+      "inmueble": "4102",
+      "referencia": "4102",
+      "tipo": "OTROS",
+      "precio": 1423867
+    },
+    {
+      "inmueble": "368",
+      "referencia": "368",
+      "tipo": "OTROS",
+      "precio": 2404123
+    },
+    {
+      "inmueble": "333",
+      "referencia": "333",
+      "tipo": "OTROS",
+      "precio": 1536648
+    },
+    {
+      "inmueble": "4121",
+      "referencia": "4121",
+      "tipo": "OTROS",
+      "precio": 933725
+    },
+    {
+      "inmueble": "325",
+      "referencia": "325",
+      "tipo": "OTROS",
+      "precio": 7942101
+    },
+    {
+      "inmueble": "2101",
+      "referencia": "2101",
+      "tipo": "OTROS",
+      "precio": 3837631
+    },
+    {
+      "inmueble": "3113",
+      "referencia": "3113",
+      "tipo": "OTROS",
+      "precio": 554320
+    },
+    {
+      "inmueble": "342",
+      "referencia": "342",
+      "tipo": "OTROS",
+      "precio": 1536648
+    },
+    {
+      "inmueble": "4112",
+      "referencia": "4112",
+      "tipo": "OTROS",
+      "precio": 586409
+    },
+    {
+      "inmueble": "2111",
+      "referencia": "2111",
+      "tipo": "OTROS",
+      "precio": 4399319
+    },
+    {
+      "inmueble": "353",
+      "referencia": "353",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "359",
+      "referencia": "359",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "4103",
+      "referencia": "4103",
+      "tipo": "OTROS",
+      "precio": 612836
+    },
+    {
+      "inmueble": "3118",
+      "referencia": "3118",
+      "tipo": "OTROS",
+      "precio": 931208
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "OTROS",
+      "precio": 2782928
+    },
+    {
+      "inmueble": "1017",
+      "referencia": "1017",
+      "tipo": "OTROS",
+      "precio": 103188
+    },
+    {
+      "inmueble": "334",
+      "referencia": "334",
+      "tipo": "OTROS",
+      "precio": 1536648
+    },
+    {
+      "inmueble": "2102",
+      "referencia": "2102",
+      "tipo": "OTROS",
+      "precio": 4467842
+    },
+    {
+      "inmueble": "4122",
+      "referencia": "4122",
+      "tipo": "OTROS",
+      "precio": 613465
+    },
+    {
+      "inmueble": "326",
+      "referencia": "326",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "3114",
+      "referencia": "3114",
+      "tipo": "OTROS",
+      "precio": 958893
+    },
+    {
+      "inmueble": "343",
+      "referencia": "343",
+      "tipo": "OTROS",
+      "precio": 1536648
+    },
+    {
+      "inmueble": "4113",
+      "referencia": "4113",
+      "tipo": "OTROS",
+      "precio": 555579
+    },
+    {
+      "inmueble": "354",
+      "referencia": "354",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "2112",
+      "referencia": "2112",
+      "tipo": "OTROS",
+      "precio": 5402651
+    },
+    {
+      "inmueble": "360",
+      "referencia": "360",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "3119",
+      "referencia": "3119",
+      "tipo": "OTROS",
+      "precio": 979656
+    },
+    {
+      "inmueble": "1001",
+      "referencia": "1001",
+      "tipo": "OTROS",
+      "precio": 509018
+    },
+    {
+      "inmueble": "4104",
+      "referencia": "4104",
+      "tipo": "OTROS",
+      "precio": 613465
+    },
+    {
+      "inmueble": "335",
+      "referencia": "335",
+      "tipo": "OTROS",
+      "precio": 1536648
+    },
+    {
+      "inmueble": "1018",
+      "referencia": "1018",
+      "tipo": "OTROS",
+      "precio": 136535
+    },
+    {
+      "inmueble": "2103",
+      "referencia": "2103",
+      "tipo": "OTROS",
+      "precio": 4470056
+    },
+    {
+      "inmueble": "4123",
+      "referencia": "4123",
+      "tipo": "OTROS",
+      "precio": 613465
+    },
+    {
+      "inmueble": "344",
+      "referencia": "344",
+      "tipo": "OTROS",
+      "precio": 1536648
+    },
+    {
+      "inmueble": "4114",
+      "referencia": "4114",
+      "tipo": "OTROS",
+      "precio": 961409
+    },
+    {
+      "inmueble": "2113",
+      "referencia": "2113",
+      "tipo": "OTROS",
+      "precio": 1452873
+    },
+    {
+      "inmueble": "327",
+      "referencia": "327",
+      "tipo": "OTROS",
+      "precio": 1590549
+    },
+    {
+      "inmueble": "3551",
+      "referencia": "3551",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "361",
+      "referencia": "361",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "1002",
+      "referencia": "1002",
+      "tipo": "OTROS",
+      "precio": 220847
+    },
+    {
+      "inmueble": "3120",
+      "referencia": "3120",
+      "tipo": "OTROS",
+      "precio": 982802
+    },
+    {
+      "inmueble": "4105",
+      "referencia": "4105",
+      "tipo": "OTROS",
+      "precio": 613465
+    },
+    {
+      "inmueble": "1019",
+      "referencia": "1019",
+      "tipo": "OTROS",
+      "precio": 67324
+    },
+    {
+      "inmueble": "2104",
+      "referencia": "2104",
+      "tipo": "OTROS",
+      "precio": 4463415
+    },
+    {
+      "inmueble": "345",
+      "referencia": "345",
+      "tipo": "OTROS",
+      "precio": 1590549
+    },
+    {
+      "inmueble": "4124",
+      "referencia": "4124",
+      "tipo": "OTROS",
+      "precio": 610948
+    },
+    {
+      "inmueble": "336",
+      "referencia": "336",
+      "tipo": "OTROS",
+      "precio": 1536648
+    },
+    {
+      "inmueble": "2114",
+      "referencia": "2114",
+      "tipo": "OTROS",
+      "precio": 1452873
+    },
+    {
+      "inmueble": "328",
+      "referencia": "328",
+      "tipo": "OTROS",
+      "precio": 1590549
+    },
+    {
+      "inmueble": "3552",
+      "referencia": "3552",
+      "tipo": "OTROS",
+      "precio": 2187251
+    },
+    {
+      "inmueble": "362",
+      "referencia": "362",
+      "tipo": "OTROS",
+      "precio": 2014644
+    },
+    {
+      "inmueble": "1003",
+      "referencia": "1003",
+      "tipo": "OTROS",
+      "precio": 46560
+    },
+    {
+      "inmueble": "4115",
+      "referencia": "4115",
+      "tipo": "OTROS",
+      "precio": 1021183
+    },
+    {
+      "inmueble": "3121",
+      "referencia": "3121",
+      "tipo": "OTROS",
+      "precio": 920512
+    },
+    {
+      "inmueble": "4106",
+      "referencia": "4106",
+      "tipo": "OTROS",
+      "precio": 933725
+    },
+    {
+      "inmueble": "2105",
+      "referencia": "2105",
+      "tipo": "OTROS",
+      "precio": 3021529
+    },
+    {
+      "inmueble": "1020",
+      "referencia": "1020",
+      "tipo": "OTROS",
+      "precio": 82424
+    },
+    {
+      "inmueble": "346",
+      "referencia": "346",
+      "tipo": "OTROS",
+      "precio": 1235688
+    },
+    {
+      "inmueble": "4125",
+      "referencia": "4125",
+      "tipo": "OTROS",
+      "precio": 1420721
+    },
+    {
+      "inmueble": "3101",
+      "referencia": "3101",
+      "tipo": "OTROS",
+      "precio": 1447777
+    },
+    {
+      "inmueble": "1004",
+      "referencia": "1004",
+      "tipo": "OTROS",
+      "precio": 295721
+    },
+    {
+      "inmueble": "363",
+      "referencia": "363",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "3553",
+      "referencia": "3553",
+      "tipo": "OTROS",
+      "precio": 2392028
+    },
+    {
+      "inmueble": "4116",
+      "referencia": "4116",
+      "tipo": "OTROS",
+      "precio": 1356544
+    },
+    {
+      "inmueble": "337",
+      "referencia": "337",
+      "tipo": "OTROS",
+      "precio": 1536648
+    },
+    {
+      "inmueble": "329",
+      "referencia": "329",
+      "tipo": "OTROS",
+      "precio": 1590549
+    },
+    {
+      "inmueble": "3122",
+      "referencia": "3122",
+      "tipo": "OTROS",
+      "precio": 1136955
+    },
+    {
+      "inmueble": "4107",
+      "referencia": "4107",
+      "tipo": "OTROS",
+      "precio": 985948
+    },
+    {
+      "inmueble": "2106",
+      "referencia": "2106",
+      "tipo": "OTROS",
+      "precio": 5645994
+    },
+    {
+      "inmueble": "347",
+      "referencia": "347",
+      "tipo": "OTROS",
+      "precio": 1177441
+    },
+    {
+      "inmueble": "1021",
+      "referencia": "1021",
+      "tipo": "OTROS",
+      "precio": 82424
+    },
+    {
+      "inmueble": "3102",
+      "referencia": "3102",
+      "tipo": "OTROS",
+      "precio": 1427013
+    },
+    {
+      "inmueble": "364",
+      "referencia": "364",
+      "tipo": "OTROS",
+      "precio": 3557771
+    },
+    {
+      "inmueble": "1005",
+      "referencia": "1005",
+      "tipo": "OTROS",
+      "precio": 184983
+    },
+    {
+      "inmueble": "4117",
+      "referencia": "4117",
+      "tipo": "OTROS",
+      "precio": 1247693
+    },
+    {
+      "inmueble": "3554",
+      "referencia": "3554",
+      "tipo": "OTROS",
+      "precio": 2366499
+    },
+    {
+      "inmueble": "338",
+      "referencia": "338",
+      "tipo": "OTROS",
+      "precio": 1536648
+    },
+    {
+      "inmueble": "4126",
+      "referencia": "4126",
+      "tipo": "OTROS",
+      "precio": 1450923
+    },
+    {
+      "inmueble": "3123",
+      "referencia": "3123",
+      "tipo": "OTROS",
+      "precio": 593960
+    },
+    {
+      "inmueble": "2107",
+      "referencia": "2107",
+      "tipo": "OTROS",
+      "precio": 7652575
+    },
+    {
+      "inmueble": "4108",
+      "referencia": "4108",
+      "tipo": "OTROS",
+      "precio": 982802
+    },
+    {
+      "inmueble": "348",
+      "referencia": "348",
+      "tipo": "OTROS",
+      "precio": 3557771
+    },
+    {
+      "inmueble": "365",
+      "referencia": "365",
+      "tipo": "OTROS",
+      "precio": 1626273
+    },
+    {
+      "inmueble": "3103",
+      "referencia": "3103",
+      "tipo": "OTROS",
+      "precio": 608431
+    },
+    {
+      "inmueble": "1006",
+      "referencia": "1006",
+      "tipo": "OTROS",
+      "precio": 190017
+    },
+    {
+      "inmueble": "4118",
+      "referencia": "4118",
+      "tipo": "OTROS",
+      "precio": 933725
+    },
+    {
+      "inmueble": "2201",
+      "referencia": "2201",
+      "tipo": "OTROS",
+      "precio": 285025
+    },
+    {
+      "inmueble": "3555",
+      "referencia": "3555",
+      "tipo": "OTROS",
+      "precio": 2422613
+    },
+    {
+      "inmueble": "339",
+      "referencia": "339",
+      "tipo": "OTROS",
+      "precio": 1536648
+    },
+    {
+      "inmueble": "2108",
+      "referencia": "2108",
+      "tipo": "OTROS",
+      "precio": 4397816
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "3124",
+      "referencia": "3124",
+      "tipo": "OTROS",
+      "precio": 1427013
+    },
+    {
+      "inmueble": "4109",
+      "referencia": "4109",
+      "tipo": "OTROS",
+      "precio": 934354
+    },
+    {
+      "inmueble": "349",
+      "referencia": "349",
+      "tipo": "OTROS",
+      "precio": 1961373
+    },
+    {
+      "inmueble": "4119",
+      "referencia": "4119",
+      "tipo": "OTROS",
+      "precio": 982173
+    },
+    {
+      "inmueble": "3104",
+      "referencia": "3104",
+      "tipo": "OTROS",
+      "precio": 609060
+    },
+    {
+      "inmueble": "2202",
+      "referencia": "2202",
+      "tipo": "OTROS",
+      "precio": 316485
+    },
+    {
+      "inmueble": "2203",
+      "referencia": "2203",
+      "tipo": "OTROS",
+      "precio": 285025
+    }
+  ]
+}

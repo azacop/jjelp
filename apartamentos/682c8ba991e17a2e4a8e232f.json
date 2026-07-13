@@ -1,0 +1,150 @@
+{
+  "co_ownership_id": "682c8ba991e17a2e4a8e232f",
+  "co_ownership_name": "CON HDA NARANJAL VLLA CAMPESTR",
+  "address": "VDA NARANJAL LT EL CHICALA",
+  "city": "Villeta",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1593557",
+  "total": 23,
+  "apartamentos": [
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": "CASA",
+      "precio": 1438000
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "CASA",
+      "precio": 1140000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1372000
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 1340000
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 1270000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 1203000
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 1213000
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "CASA",
+      "precio": 2432000
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "CASA",
+      "precio": 1610000
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "CASA",
+      "precio": 2061000
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "CASA",
+      "precio": 1248000
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": "CASA",
+      "precio": 1175000
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 1207000
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 1121000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 1143000
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 1175000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1340000
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 1165000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1740000
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 1600000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 2019000
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 1740000
+    }
+  ]
+}

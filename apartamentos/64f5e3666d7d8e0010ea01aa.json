@@ -1,0 +1,42 @@
+{
+  "co_ownership_id": "64f5e3666d7d8e0010ea01aa",
+  "co_ownership_name": "EDIFICIO CHICO 94A PH",
+  "address": "CALLE 94A 11A 66",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1510718",
+  "total": 5,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "LOCAL",
+      "precio": 350000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "LOCAL",
+      "precio": 350000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "LOCAL",
+      "precio": 350000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "LOCAL",
+      "precio": 350000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "LOCAL",
+      "precio": 350000
+    }
+  ]
+}

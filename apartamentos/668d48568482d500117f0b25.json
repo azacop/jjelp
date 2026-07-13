@@ -1,0 +1,96 @@
+{
+  "co_ownership_id": "668d48568482d500117f0b25",
+  "co_ownership_name": "EDIFICIO TORRE 8  90  PH",
+  "address": "CL 90 7A 57",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1548387",
+  "total": 14,
+  "apartamentos": [
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 2259000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 2887000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 3619000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 2844000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 3517000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 2848000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 3559000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 2860000
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 3550000
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 2850000
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 3639000
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 2882000
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "APARTAMENTO",
+      "precio": 5061000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

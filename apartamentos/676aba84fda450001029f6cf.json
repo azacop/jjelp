@@ -1,0 +1,108 @@
+{
+  "co_ownership_id": "676aba84fda450001029f6cf",
+  "co_ownership_name": "EDIFICIO CERROS II PH",
+  "address": "CR 4 71 61",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1574888",
+  "total": 16,
+  "apartamentos": [
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 2197000
+    },
+    {
+      "inmueble": "1101",
+      "referencia": "1101",
+      "tipo": "APARTAMENTO",
+      "precio": 2197000
+    },
+    {
+      "inmueble": "1011",
+      "referencia": "1011",
+      "tipo": "APARTAMENTO",
+      "precio": 937000
+    },
+    {
+      "inmueble": "1001",
+      "referencia": "1001",
+      "tipo": "APARTAMENTO",
+      "precio": 2197000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 2197000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 2197000
+    },
+    {
+      "inmueble": "901",
+      "referencia": "901",
+      "tipo": "APARTAMENTO",
+      "precio": 2197000
+    },
+    {
+      "inmueble": "1301",
+      "referencia": "1301",
+      "tipo": "APARTAMENTO",
+      "precio": 2197000
+    },
+    {
+      "inmueble": "1401",
+      "referencia": "1401",
+      "tipo": "APARTAMENTO",
+      "precio": 2810000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 2197000
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 2197000
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 2197000
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "APARTAMENTO",
+      "precio": 2197000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 2197000
+    },
+    {
+      "inmueble": "1201",
+      "referencia": "1201",
+      "tipo": "APARTAMENTO",
+      "precio": 2197000
+    }
+  ]
+}

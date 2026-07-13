@@ -1,0 +1,72 @@
+{
+  "co_ownership_id": "637ec16d965d7100088b2fe9",
+  "co_ownership_name": "EDIFICIO TORRE MAQUIZ PROPIEDAD HORIZONTAL",
+  "address": "CL 94 A 9 84",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1280957",
+  "total": 10,
+  "apartamentos": [
+    {
+      "inmueble": "777",
+      "referencia": "777",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "888",
+      "referencia": "888",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "666",
+      "referencia": "666",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    }
+  ]
+}

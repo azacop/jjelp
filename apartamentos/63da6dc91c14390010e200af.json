@@ -1,0 +1,48 @@
+{
+  "co_ownership_id": "63da6dc91c14390010e200af",
+  "co_ownership_name": "EDIFICIO NATALIE PH",
+  "address": "CALLE 21 31C 46",
+  "city": "Pasto",
+  "department": "Nariño",
+  "country": "COLOMBIA",
+  "agreement_number": "1484880",
+  "total": 6,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "co_ownership_id": "646e1e2fa8be460010729c90",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL LA RESOLANA PROPIEDAD HORIZONTAL BOGOTA",
+  "address": "TV 3 NO 87 26",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1313568",
+  "total": 11,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 4063697
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 3099220
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 3099220
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 4063697
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 7167000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 4319384
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 4288701
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "APARTAMENTO",
+      "precio": 3678465
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "APARTAMENTO",
+      "precio": 3671647
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "APARTAMENTO",
+      "precio": 3099220
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 3099220
+    }
+  ]
+}

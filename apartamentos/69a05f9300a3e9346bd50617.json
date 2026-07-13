@@ -1,0 +1,192 @@
+{
+  "co_ownership_id": "69a05f9300a3e9346bd50617",
+  "co_ownership_name": "EDIFICIO TORRES DE MENGA",
+  "address": "AV 7 A 56 NORTE 128",
+  "city": "Cali",
+  "department": "Valle del Cauca",
+  "country": "COLOMBIA",
+  "agreement_number": "1635713",
+  "total": 30,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 2
+    },
+    {
+      "inmueble": "T1APTO203",
+      "referencia": "1203",
+      "tipo": "APARTAMENTO",
+      "precio": 963000
+    },
+    {
+      "inmueble": "T1APTO102",
+      "referencia": "1101",
+      "tipo": "APARTAMENTO",
+      "precio": 833000
+    },
+    {
+      "inmueble": "T1APTO301",
+      "referencia": "1301",
+      "tipo": "APARTAMENTO",
+      "precio": 898000
+    },
+    {
+      "inmueble": "T1APTO102",
+      "referencia": "1102",
+      "tipo": "APARTAMENTO",
+      "precio": 704000
+    },
+    {
+      "inmueble": "T1APTO302",
+      "referencia": "1302",
+      "tipo": "APARTAMENTO",
+      "precio": 921000
+    },
+    {
+      "inmueble": "T1APTO103",
+      "referencia": "1103",
+      "tipo": "APARTAMENTO",
+      "precio": 888000
+    },
+    {
+      "inmueble": "T1APTO401",
+      "referencia": "1401",
+      "tipo": "APARTAMENTO",
+      "precio": 1517000
+    },
+    {
+      "inmueble": "T1APTO201",
+      "referencia": "1201",
+      "tipo": "APARTAMENTO",
+      "precio": 869000
+    },
+    {
+      "inmueble": "T1APTO402",
+      "referencia": "1402",
+      "tipo": "APARTAMENTO",
+      "precio": 1386000
+    },
+    {
+      "inmueble": "T1APTO202",
+      "referencia": "1202",
+      "tipo": "APARTAMENTO",
+      "precio": 1433000
+    },
+    {
+      "inmueble": "T2APTO101",
+      "referencia": "2101",
+      "tipo": "APARTAMENTO",
+      "precio": 1134000
+    },
+    {
+      "inmueble": "T2APTO102",
+      "referencia": "2102",
+      "tipo": "APARTAMENTO",
+      "precio": 1337000
+    },
+    {
+      "inmueble": "T3APTO201",
+      "referencia": "3201",
+      "tipo": "APARTAMENTO",
+      "precio": 643000
+    },
+    {
+      "inmueble": "T2APTO201",
+      "referencia": "2201",
+      "tipo": "APARTAMENTO",
+      "precio": 1019000
+    },
+    {
+      "inmueble": "T2APTO202",
+      "referencia": "2202",
+      "tipo": "APARTAMENTO",
+      "precio": 1285000
+    },
+    {
+      "inmueble": "T3APTO202",
+      "referencia": "3202",
+      "tipo": "APARTAMENTO",
+      "precio": 541000
+    },
+    {
+      "inmueble": "T2APTO301",
+      "referencia": "2301",
+      "tipo": "APARTAMENTO",
+      "precio": 1036000
+    },
+    {
+      "inmueble": "T3APTO203",
+      "referencia": "3203",
+      "tipo": "APARTAMENTO",
+      "precio": 709000
+    },
+    {
+      "inmueble": "T2APTO302",
+      "referencia": "2302",
+      "tipo": "APARTAMENTO",
+      "precio": 1244000
+    },
+    {
+      "inmueble": "T3APTO301",
+      "referencia": "3301",
+      "tipo": "APARTAMENTO",
+      "precio": 638000
+    },
+    {
+      "inmueble": "T2APTO401",
+      "referencia": "2401",
+      "tipo": "APARTAMENTO",
+      "precio": 1033000
+    },
+    {
+      "inmueble": "T2APTO402",
+      "referencia": "2402",
+      "tipo": "APARTAMENTO",
+      "precio": 1258000
+    },
+    {
+      "inmueble": "T3APTO302",
+      "referencia": "3302",
+      "tipo": "APARTAMENTO",
+      "precio": 519000
+    },
+    {
+      "inmueble": "T3APTO101",
+      "referencia": "3101",
+      "tipo": "APARTAMENTO",
+      "precio": 984000
+    },
+    {
+      "inmueble": "T3APTO303",
+      "referencia": "3303",
+      "tipo": "APARTAMENTO",
+      "precio": 719000
+    },
+    {
+      "inmueble": "T3APTO401",
+      "referencia": "3401",
+      "tipo": "APARTAMENTO",
+      "precio": 638000
+    },
+    {
+      "inmueble": "T3APTO102",
+      "referencia": "3102",
+      "tipo": "APARTAMENTO",
+      "precio": 1040000
+    },
+    {
+      "inmueble": "T3APTO402",
+      "referencia": "3402",
+      "tipo": "APARTAMENTO",
+      "precio": 630000
+    },
+    {
+      "inmueble": "T3APTO403",
+      "referencia": "3403",
+      "tipo": "APARTAMENTO",
+      "precio": 764000
+    }
+  ]
+}

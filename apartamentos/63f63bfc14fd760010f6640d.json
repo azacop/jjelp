@@ -1,0 +1,432 @@
+{
+  "co_ownership_id": "63f63bfc14fd760010f6640d",
+  "co_ownership_name": "COLINA DEL PARQUE CONJUNTO RESIDENCIAL CR 11 NO 9 NORTE 01 ARMENIA",
+  "address": "CARRERA 11 No 9 NORTE 01",
+  "city": "Armenia",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1225820",
+  "total": 70,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1699759
+    },
+    {
+      "inmueble": "110",
+      "referencia": "110",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1098167
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 764000
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "APARTAMENTO",
+      "precio": 1331305
+    },
+    {
+      "inmueble": "406",
+      "referencia": "406",
+      "tipo": "APARTAMENTO",
+      "precio": 764000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "412",
+      "referencia": "412",
+      "tipo": "APARTAMENTO",
+      "precio": 708000
+    },
+    {
+      "inmueble": "508",
+      "referencia": "508",
+      "tipo": "APARTAMENTO",
+      "precio": 496000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 6839628
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 764000
+    },
+    {
+      "inmueble": "604",
+      "referencia": "604",
+      "tipo": "APARTAMENTO",
+      "precio": 402000
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "APARTAMENTO",
+      "precio": 1408000
+    },
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "APARTAMENTO",
+      "precio": 1377868
+    },
+    {
+      "inmueble": "307",
+      "referencia": "307",
+      "tipo": "APARTAMENTO",
+      "precio": 764000
+    },
+    {
+      "inmueble": "113",
+      "referencia": "113",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 764000
+    },
+    {
+      "inmueble": "408",
+      "referencia": "408",
+      "tipo": "APARTAMENTO",
+      "precio": 633840
+    },
+    {
+      "inmueble": "509",
+      "referencia": "509",
+      "tipo": "APARTAMENTO",
+      "precio": 902000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 764000
+    },
+    {
+      "inmueble": "308",
+      "referencia": "308",
+      "tipo": "APARTAMENTO",
+      "precio": 393853
+    },
+    {
+      "inmueble": "413",
+      "referencia": "413",
+      "tipo": "APARTAMENTO",
+      "precio": 1851079
+    },
+    {
+      "inmueble": "505",
+      "referencia": "505",
+      "tipo": "APARTAMENTO",
+      "precio": 854206
+    },
+    {
+      "inmueble": "605",
+      "referencia": "605",
+      "tipo": "APARTAMENTO",
+      "precio": 338000
+    },
+    {
+      "inmueble": "704",
+      "referencia": "704",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "107",
+      "referencia": "107",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 913035
+    },
+    {
+      "inmueble": "414",
+      "referencia": "414",
+      "tipo": "APARTAMENTO",
+      "precio": 752000
+    },
+    {
+      "inmueble": "506",
+      "referencia": "506",
+      "tipo": "APARTAMENTO",
+      "precio": 947443
+    },
+    {
+      "inmueble": "705",
+      "referencia": "705",
+      "tipo": "APARTAMENTO",
+      "precio": 1113000
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 764000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 764000
+    },
+    {
+      "inmueble": "108",
+      "referencia": "108",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "309",
+      "referencia": "309",
+      "tipo": "APARTAMENTO",
+      "precio": 764000
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "409",
+      "referencia": "409",
+      "tipo": "APARTAMENTO",
+      "precio": 752000
+    },
+    {
+      "inmueble": "606",
+      "referencia": "606",
+      "tipo": "APARTAMENTO",
+      "precio": 338000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 1360206
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 764000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 925000
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 767445
+    },
+    {
+      "inmueble": "706",
+      "referencia": "706",
+      "tipo": "APARTAMENTO",
+      "precio": 1154000
+    },
+    {
+      "inmueble": "507",
+      "referencia": "507",
+      "tipo": "APARTAMENTO",
+      "precio": 939618
+    },
+    {
+      "inmueble": "607",
+      "referencia": "607",
+      "tipo": "APARTAMENTO",
+      "precio": 919391
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "APARTAMENTO",
+      "precio": 764000
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 815000
+    },
+    {
+      "inmueble": "410",
+      "referencia": "410",
+      "tipo": "APARTAMENTO",
+      "precio": 752000
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "310",
+      "referencia": "310",
+      "tipo": "APARTAMENTO",
+      "precio": 764000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 764000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 517360
+    },
+    {
+      "inmueble": "405",
+      "referencia": "405",
+      "tipo": "APARTAMENTO",
+      "precio": 674000
+    },
+    {
+      "inmueble": "612",
+      "referencia": "612",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "411",
+      "referencia": "411",
+      "tipo": "APARTAMENTO",
+      "precio": 752000
+    },
+    {
+      "inmueble": "609",
+      "referencia": "609",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "610",
+      "referencia": "610",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "109",
+      "referencia": "109",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "611",
+      "referencia": "611",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": "APARTAMENTO",
+      "precio": 950000
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "510",
+      "referencia": "510",
+      "tipo": "APARTAMENTO",
+      "precio": 425000
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 950000
+    },
+    {
+      "inmueble": "703",
+      "referencia": "703",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "608",
+      "referencia": "608",
+      "tipo": "APARTAMENTO",
+      "precio": 929000
+    },
+    {
+      "inmueble": "311",
+      "referencia": "311",
+      "tipo": "APARTAMENTO",
+      "precio": 302000
+    }
+  ]
+}

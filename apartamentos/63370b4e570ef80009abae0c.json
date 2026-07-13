@@ -1,0 +1,36 @@
+{
+  "co_ownership_id": "63370b4e570ef80009abae0c",
+  "co_ownership_name": "EDIFICIO ALTOS DEL CHICO 2",
+  "address": "CR 3 91 A 10",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1472737",
+  "total": 4,
+  "apartamentos": [
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    }
+  ]
+}

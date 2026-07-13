@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "6995f80b00a3e9346bd4d6f7",
+  "co_ownership_name": "EDIFICIO CALATAYUD P H",
+  "address": "DIR CL 70 27 27 BRR PALERMO",
+  "city": "Manizales",
+  "department": "Caldas",
+  "country": "COLOMBIA",
+  "agreement_number": "1633916",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 240000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 237000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 210000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 237000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 573000
+    },
+    {
+      "inmueble": "666",
+      "referencia": "666",
+      "tipo": "OTROS",
+      "precio": 2
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 2
+    }
+  ]
+}

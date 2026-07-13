@@ -1,0 +1,186 @@
+{
+  "co_ownership_id": "6350df2f068cd90009dcf8f0",
+  "co_ownership_name": "SECTOR 5A IGUAQUE FASE A",
+  "address": "KM 1.5 VARIANTE COTA-CHIA",
+  "city": "Cota",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1141829",
+  "total": 29,
+  "apartamentos": [
+    {
+      "inmueble": "849",
+      "referencia": "849",
+      "tipo": "APARTAMENTO",
+      "precio": 1000699
+    },
+    {
+      "inmueble": "836",
+      "referencia": "836",
+      "tipo": "APARTAMENTO",
+      "precio": 999294
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 20
+    },
+    {
+      "inmueble": "841",
+      "referencia": "841",
+      "tipo": "APARTAMENTO",
+      "precio": 1071046
+    },
+    {
+      "inmueble": "833",
+      "referencia": "833",
+      "tipo": "APARTAMENTO",
+      "precio": 1076281
+    },
+    {
+      "inmueble": "804",
+      "referencia": "804",
+      "tipo": "APARTAMENTO",
+      "precio": 1123392
+    },
+    {
+      "inmueble": "845",
+      "referencia": "845",
+      "tipo": "APARTAMENTO",
+      "precio": 1074621
+    },
+    {
+      "inmueble": "837",
+      "referencia": "837",
+      "tipo": "APARTAMENTO",
+      "precio": 1018445
+    },
+    {
+      "inmueble": "805",
+      "referencia": "805",
+      "tipo": "APARTAMENTO",
+      "precio": 1094793
+    },
+    {
+      "inmueble": "844",
+      "referencia": "844",
+      "tipo": "APARTAMENTO",
+      "precio": 1035298
+    },
+    {
+      "inmueble": "848",
+      "referencia": "848",
+      "tipo": "APARTAMENTO",
+      "precio": 1011295
+    },
+    {
+      "inmueble": "843",
+      "referencia": "843",
+      "tipo": "APARTAMENTO",
+      "precio": 1034021
+    },
+    {
+      "inmueble": "850",
+      "referencia": "850",
+      "tipo": "APARTAMENTO",
+      "precio": 1000571
+    },
+    {
+      "inmueble": "847",
+      "referencia": "847",
+      "tipo": "APARTAMENTO",
+      "precio": 1120839
+    },
+    {
+      "inmueble": "846",
+      "referencia": "846",
+      "tipo": "APARTAMENTO",
+      "precio": 1097091
+    },
+    {
+      "inmueble": "840",
+      "referencia": "840",
+      "tipo": "APARTAMENTO",
+      "precio": 1534115
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": "APARTAMENTO",
+      "precio": 1086112
+    },
+    {
+      "inmueble": "834",
+      "referencia": "834",
+      "tipo": "APARTAMENTO",
+      "precio": 1015253
+    },
+    {
+      "inmueble": "851",
+      "referencia": "851",
+      "tipo": "APARTAMENTO",
+      "precio": 1007338
+    },
+    {
+      "inmueble": "835",
+      "referencia": "835",
+      "tipo": "APARTAMENTO",
+      "precio": 992272
+    },
+    {
+      "inmueble": "806",
+      "referencia": "806",
+      "tipo": "APARTAMENTO",
+      "precio": 1092751
+    },
+    {
+      "inmueble": "838",
+      "referencia": "838",
+      "tipo": "APARTAMENTO",
+      "precio": 1041554
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 20
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "APARTAMENTO",
+      "precio": 1056747
+    },
+    {
+      "inmueble": "807",
+      "referencia": "807",
+      "tipo": "APARTAMENTO",
+      "precio": 1393420
+    },
+    {
+      "inmueble": "803",
+      "referencia": "803",
+      "tipo": "APARTAMENTO",
+      "precio": 1088027
+    },
+    {
+      "inmueble": "808",
+      "referencia": "808",
+      "tipo": "APARTAMENTO",
+      "precio": 1048065
+    },
+    {
+      "inmueble": "839",
+      "referencia": "839",
+      "tipo": "APARTAMENTO",
+      "precio": 1044873
+    },
+    {
+      "inmueble": "842",
+      "referencia": "842",
+      "tipo": "APARTAMENTO",
+      "precio": 1611357
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "co_ownership_id": "664f5537ced355000f5ab8f7",
+  "co_ownership_name": "CR ALICANTE APARTAMENTOS CUENTA DE IMPREVISTOS",
+  "address": "calle 13 18Q 91 BRR PRADO VEGAS",
+  "city": "Soacha",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1540939",
+  "total": 8,
+  "apartamentos": [
+    {
+      "inmueble": "100",
+      "referencia": "100",
+      "tipo": "OTROS",
+      "precio": 5000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "OTROS",
+      "precio": 70000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "OTROS",
+      "precio": 10000
+    },
+    {
+      "inmueble": "300",
+      "referencia": "300",
+      "tipo": "OTROS",
+      "precio": 60000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "OTROS",
+      "precio": 1430000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "OTROS",
+      "precio": 60000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "OTROS",
+      "precio": 80000
+    }
+  ]
+}

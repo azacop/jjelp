@@ -1,0 +1,144 @@
+{
+  "co_ownership_id": "64e48c5fc2e94a0011a2e47b",
+  "co_ownership_name": "EDIF EL CAFE PROP HORIZONTAL  SANTIAGO DE CALI",
+  "address": "KR 5 13 46",
+  "city": "Cali",
+  "department": "Valle del Cauca",
+  "country": "COLOMBIA",
+  "agreement_number": "1245885",
+  "total": 22,
+  "apartamentos": [
+    {
+      "inmueble": "1016",
+      "referencia": "1016",
+      "tipo": "APARTAMENTO",
+      "precio": 643629
+    },
+    {
+      "inmueble": "1017",
+      "referencia": "1017",
+      "tipo": "APARTAMENTO",
+      "precio": 1828464
+    },
+    {
+      "inmueble": "1006",
+      "referencia": "1006",
+      "tipo": "APARTAMENTO",
+      "precio": 400719
+    },
+    {
+      "inmueble": "1018",
+      "referencia": "1018",
+      "tipo": "APARTAMENTO",
+      "precio": 1220028
+    },
+    {
+      "inmueble": "1007",
+      "referencia": "1007",
+      "tipo": "APARTAMENTO",
+      "precio": 406393
+    },
+    {
+      "inmueble": "1019",
+      "referencia": "1019",
+      "tipo": "APARTAMENTO",
+      "precio": 532864
+    },
+    {
+      "inmueble": "1008",
+      "referencia": "1008",
+      "tipo": "APARTAMENTO",
+      "precio": 255410
+    },
+    {
+      "inmueble": "1020",
+      "referencia": "1020",
+      "tipo": "APARTAMENTO",
+      "precio": 447481
+    },
+    {
+      "inmueble": "1021",
+      "referencia": "1021",
+      "tipo": "APARTAMENTO",
+      "precio": 457242
+    },
+    {
+      "inmueble": "1009",
+      "referencia": "1009",
+      "tipo": "APARTAMENTO",
+      "precio": 3356699
+    },
+    {
+      "inmueble": "1010",
+      "referencia": "1010",
+      "tipo": "APARTAMENTO",
+      "precio": 16847224
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 3964544
+    },
+    {
+      "inmueble": "1011",
+      "referencia": "1011",
+      "tipo": "APARTAMENTO",
+      "precio": 1190236
+    },
+    {
+      "inmueble": "1012",
+      "referencia": "1012",
+      "tipo": "APARTAMENTO",
+      "precio": 341686
+    },
+    {
+      "inmueble": "1001",
+      "referencia": "1001",
+      "tipo": "APARTAMENTO",
+      "precio": 3687216
+    },
+    {
+      "inmueble": "1013",
+      "referencia": "1013",
+      "tipo": "APARTAMENTO",
+      "precio": 3554119
+    },
+    {
+      "inmueble": "1002",
+      "referencia": "1002",
+      "tipo": "APARTAMENTO",
+      "precio": 1631589
+    },
+    {
+      "inmueble": "1014",
+      "referencia": "1014",
+      "tipo": "APARTAMENTO",
+      "precio": 274765
+    },
+    {
+      "inmueble": "1003",
+      "referencia": "1003",
+      "tipo": "APARTAMENTO",
+      "precio": 42941271
+    },
+    {
+      "inmueble": "1015",
+      "referencia": "1015",
+      "tipo": "APARTAMENTO",
+      "precio": 402500
+    },
+    {
+      "inmueble": "1004",
+      "referencia": "1004",
+      "tipo": "APARTAMENTO",
+      "precio": 4996168
+    },
+    {
+      "inmueble": "1005",
+      "referencia": "1005",
+      "tipo": "APARTAMENTO",
+      "precio": 1804261
+    }
+  ]
+}

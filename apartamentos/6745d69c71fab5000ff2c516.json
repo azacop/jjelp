@@ -1,0 +1,66 @@
+{
+  "co_ownership_id": "6745d69c71fab5000ff2c516",
+  "co_ownership_name": "CONDOMINIO ITACA",
+  "address": "CL 53 3 80",
+  "city": "Los Patios",
+  "department": "Norte de Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1571306",
+  "total": 9,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 1282000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1282000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 1282000
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 1282000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1282000
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 1282000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1282000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 1282000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

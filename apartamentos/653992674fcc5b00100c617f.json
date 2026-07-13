@@ -1,0 +1,684 @@
+{
+  "co_ownership_id": "653992674fcc5b00100c617f",
+  "co_ownership_name": "CENTRO COMERCIAL UNICENTRO VALLEDUPAR PROPIEDAD HORIZONTAL VALLEDUPAR",
+  "address": "CARRERA 9 12 41",
+  "city": "Valledupar",
+  "department": "Cesar",
+  "country": "COLOMBIA",
+  "agreement_number": "1444256",
+  "total": 112,
+  "apartamentos": [
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "LOCAL",
+      "precio": 2226300
+    },
+    {
+      "inmueble": "131",
+      "referencia": "131",
+      "tipo": "LOCAL",
+      "precio": 1028500
+    },
+    {
+      "inmueble": "117",
+      "referencia": "117",
+      "tipo": "LOCAL",
+      "precio": 5678000
+    },
+    {
+      "inmueble": "123",
+      "referencia": "123",
+      "tipo": "LOCAL",
+      "precio": 5030100
+    },
+    {
+      "inmueble": "136",
+      "referencia": "136",
+      "tipo": "LOCAL",
+      "precio": 1075000
+    },
+    {
+      "inmueble": "212",
+      "referencia": "212",
+      "tipo": "LOCAL",
+      "precio": 1507200
+    },
+    {
+      "inmueble": "141",
+      "referencia": "141",
+      "tipo": "LOCAL",
+      "precio": 2177700
+    },
+    {
+      "inmueble": "220",
+      "referencia": "220",
+      "tipo": "LOCAL",
+      "precio": 1197800
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "LOCAL",
+      "precio": 1791500
+    },
+    {
+      "inmueble": "2291",
+      "referencia": "2291",
+      "tipo": "LOCAL",
+      "precio": 84700
+    },
+    {
+      "inmueble": "234",
+      "referencia": "234",
+      "tipo": "LOCAL",
+      "precio": 1617800
+    },
+    {
+      "inmueble": "127",
+      "referencia": "127",
+      "tipo": "LOCAL",
+      "precio": 1567400
+    },
+    {
+      "inmueble": "1131",
+      "referencia": "1131",
+      "tipo": "LOCAL",
+      "precio": 652400
+    },
+    {
+      "inmueble": "239",
+      "referencia": "239",
+      "tipo": "LOCAL",
+      "precio": 1074700
+    },
+    {
+      "inmueble": "244",
+      "referencia": "244",
+      "tipo": "LOCAL",
+      "precio": 1085800
+    },
+    {
+      "inmueble": "119",
+      "referencia": "119",
+      "tipo": "LOCAL",
+      "precio": 1539300
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "LOCAL",
+      "precio": 1328500
+    },
+    {
+      "inmueble": "132",
+      "referencia": "132",
+      "tipo": "LOCAL",
+      "precio": 1048600
+    },
+    {
+      "inmueble": "2141",
+      "referencia": "2141",
+      "tipo": "LOCAL",
+      "precio": 1416800
+    },
+    {
+      "inmueble": "142",
+      "referencia": "142",
+      "tipo": "LOCAL",
+      "precio": 2170700
+    },
+    {
+      "inmueble": "137",
+      "referencia": "137",
+      "tipo": "LOCAL",
+      "precio": 1083700
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "LOCAL",
+      "precio": 1733600
+    },
+    {
+      "inmueble": "230",
+      "referencia": "230",
+      "tipo": "LOCAL",
+      "precio": 1607700
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": "LOCAL",
+      "precio": 1435600
+    },
+    {
+      "inmueble": "329",
+      "referencia": "329",
+      "tipo": "LOCAL",
+      "precio": 1398100
+    },
+    {
+      "inmueble": "323",
+      "referencia": "323",
+      "tipo": "LOCAL",
+      "precio": 3103200
+    },
+    {
+      "inmueble": "110",
+      "referencia": "110",
+      "tipo": "LOCAL",
+      "precio": 1624400
+    },
+    {
+      "inmueble": "128",
+      "referencia": "128",
+      "tipo": "LOCAL",
+      "precio": 1653100
+    },
+    {
+      "inmueble": "235",
+      "referencia": "235",
+      "tipo": "LOCAL",
+      "precio": 990000
+    },
+    {
+      "inmueble": "114",
+      "referencia": "114",
+      "tipo": "LOCAL",
+      "precio": 3017800
+    },
+    {
+      "inmueble": "317",
+      "referencia": "317",
+      "tipo": "LOCAL",
+      "precio": 12498600
+    },
+    {
+      "inmueble": "309",
+      "referencia": "309",
+      "tipo": "LOCAL",
+      "precio": 1551400
+    },
+    {
+      "inmueble": "240",
+      "referencia": "240",
+      "tipo": "LOCAL",
+      "precio": 1095900
+    },
+    {
+      "inmueble": "120",
+      "referencia": "120",
+      "tipo": "LOCAL",
+      "precio": 1626000
+    },
+    {
+      "inmueble": "245",
+      "referencia": "245",
+      "tipo": "LOCAL",
+      "precio": 995700
+    },
+    {
+      "inmueble": "348",
+      "referencia": "348",
+      "tipo": "LOCAL",
+      "precio": 1939700
+    },
+    {
+      "inmueble": "143",
+      "referencia": "143",
+      "tipo": "LOCAL",
+      "precio": 3923600
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "LOCAL",
+      "precio": 1970400
+    },
+    {
+      "inmueble": "2142",
+      "referencia": "2142",
+      "tipo": "LOCAL",
+      "precio": 1282000
+    },
+    {
+      "inmueble": "334",
+      "referencia": "334",
+      "tipo": "LOCAL",
+      "precio": 936900
+    },
+    {
+      "inmueble": "225",
+      "referencia": "225",
+      "tipo": "LOCAL",
+      "precio": 1764300
+    },
+    {
+      "inmueble": "133",
+      "referencia": "133",
+      "tipo": "LOCAL",
+      "precio": 1132500
+    },
+    {
+      "inmueble": "339",
+      "referencia": "339",
+      "tipo": "LOCAL",
+      "precio": 1020400
+    },
+    {
+      "inmueble": "138",
+      "referencia": "138",
+      "tipo": "LOCAL",
+      "precio": 1083700
+    },
+    {
+      "inmueble": "231",
+      "referencia": "231",
+      "tipo": "LOCAL",
+      "precio": 1485600
+    },
+    {
+      "inmueble": "209",
+      "referencia": "209",
+      "tipo": "LOCAL",
+      "precio": 1427400
+    },
+    {
+      "inmueble": "129",
+      "referencia": "129",
+      "tipo": "LOCAL",
+      "precio": 1038900
+    },
+    {
+      "inmueble": "324",
+      "referencia": "324",
+      "tipo": "LOCAL",
+      "precio": 3567200
+    },
+    {
+      "inmueble": "330",
+      "referencia": "330",
+      "tipo": "LOCAL",
+      "precio": 1456400
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "LOCAL",
+      "precio": 1820500
+    },
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "LOCAL",
+      "precio": 1086800
+    },
+    {
+      "inmueble": "4105",
+      "referencia": "4105",
+      "tipo": "LOCAL",
+      "precio": 362900
+    },
+    {
+      "inmueble": "241",
+      "referencia": "241",
+      "tipo": "LOCAL",
+      "precio": 1021000
+    },
+    {
+      "inmueble": "115",
+      "referencia": "115",
+      "tipo": "LOCAL",
+      "precio": 2202200
+    },
+    {
+      "inmueble": "121",
+      "referencia": "121",
+      "tipo": "LOCAL",
+      "precio": 1598900
+    },
+    {
+      "inmueble": "4101",
+      "referencia": "4101",
+      "tipo": "LOCAL",
+      "precio": 375800
+    },
+    {
+      "inmueble": "246",
+      "referencia": "246",
+      "tipo": "LOCAL",
+      "precio": 1051600
+    },
+    {
+      "inmueble": "310",
+      "referencia": "310",
+      "tipo": "LOCAL",
+      "precio": 1558700
+    },
+    {
+      "inmueble": "236",
+      "referencia": "236",
+      "tipo": "LOCAL",
+      "precio": 1015300
+    },
+    {
+      "inmueble": "319",
+      "referencia": "319",
+      "tipo": "LOCAL",
+      "precio": 9810200
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "LOCAL",
+      "precio": 1346800
+    },
+    {
+      "inmueble": "130",
+      "referencia": "130",
+      "tipo": "LOCAL",
+      "precio": 1065300
+    },
+    {
+      "inmueble": "232",
+      "referencia": "232",
+      "tipo": "LOCAL",
+      "precio": 1470700
+    },
+    {
+      "inmueble": "139",
+      "referencia": "139",
+      "tipo": "LOCAL",
+      "precio": 1048900
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "LOCAL",
+      "precio": 1882800
+    },
+    {
+      "inmueble": "134",
+      "referencia": "134",
+      "tipo": "LOCAL",
+      "precio": 1150600
+    },
+    {
+      "inmueble": "227",
+      "referencia": "227",
+      "tipo": "LOCAL",
+      "precio": 1218400
+    },
+    {
+      "inmueble": "215",
+      "referencia": "215",
+      "tipo": "LOCAL",
+      "precio": 1197800
+    },
+    {
+      "inmueble": "210",
+      "referencia": "210",
+      "tipo": "LOCAL",
+      "precio": 2096300
+    },
+    {
+      "inmueble": "340",
+      "referencia": "340",
+      "tipo": "LOCAL",
+      "precio": 1021500
+    },
+    {
+      "inmueble": "335",
+      "referencia": "335",
+      "tipo": "LOCAL",
+      "precio": 1011500
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "LOCAL",
+      "precio": 989400
+    },
+    {
+      "inmueble": "331",
+      "referencia": "331",
+      "tipo": "LOCAL",
+      "precio": 931700
+    },
+    {
+      "inmueble": "242",
+      "referencia": "242",
+      "tipo": "LOCAL",
+      "precio": 1021000
+    },
+    {
+      "inmueble": "326",
+      "referencia": "326",
+      "tipo": "LOCAL",
+      "precio": 1513200
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "LOCAL",
+      "precio": 1984200
+    },
+    {
+      "inmueble": "5101",
+      "referencia": "5101",
+      "tipo": "OTROS",
+      "precio": 716500
+    },
+    {
+      "inmueble": "116",
+      "referencia": "116",
+      "tipo": "LOCAL",
+      "precio": 2195400
+    },
+    {
+      "inmueble": "122",
+      "referencia": "122",
+      "tipo": "LOCAL",
+      "precio": 3072000
+    },
+    {
+      "inmueble": "237",
+      "referencia": "237",
+      "tipo": "LOCAL",
+      "precio": 980500
+    },
+    {
+      "inmueble": "4102",
+      "referencia": "4102",
+      "tipo": "LOCAL",
+      "precio": 424000
+    },
+    {
+      "inmueble": "248",
+      "referencia": "248",
+      "tipo": "LOCAL",
+      "precio": 5026200
+    },
+    {
+      "inmueble": "311",
+      "referencia": "311",
+      "tipo": "LOCAL",
+      "precio": 1587600
+    },
+    {
+      "inmueble": "320",
+      "referencia": "320",
+      "tipo": "LOCAL",
+      "precio": 1661200
+    },
+    {
+      "inmueble": "233",
+      "referencia": "233",
+      "tipo": "LOCAL",
+      "precio": 1485600
+    },
+    {
+      "inmueble": "219",
+      "referencia": "219",
+      "tipo": "LOCAL",
+      "precio": 1197800
+    },
+    {
+      "inmueble": "140",
+      "referencia": "140",
+      "tipo": "LOCAL",
+      "precio": 1108200
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "LOCAL",
+      "precio": 1995500
+    },
+    {
+      "inmueble": "135",
+      "referencia": "135",
+      "tipo": "LOCAL",
+      "precio": 1075400
+    },
+    {
+      "inmueble": "229",
+      "referencia": "229",
+      "tipo": "LOCAL",
+      "precio": 5014700
+    },
+    {
+      "inmueble": "336",
+      "referencia": "336",
+      "tipo": "LOCAL",
+      "precio": 1031300
+    },
+    {
+      "inmueble": "341",
+      "referencia": "341",
+      "tipo": "LOCAL",
+      "precio": 937200
+    },
+    {
+      "inmueble": "332",
+      "referencia": "332",
+      "tipo": "LOCAL",
+      "precio": 1009400
+    },
+    {
+      "inmueble": "243",
+      "referencia": "243",
+      "tipo": "LOCAL",
+      "precio": 1085800
+    },
+    {
+      "inmueble": "327",
+      "referencia": "327",
+      "tipo": "LOCAL",
+      "precio": 1397300
+    },
+    {
+      "inmueble": "307",
+      "referencia": "307",
+      "tipo": "LOCAL",
+      "precio": 1302200
+    },
+    {
+      "inmueble": "238",
+      "referencia": "238",
+      "tipo": "LOCAL",
+      "precio": 995500
+    },
+    {
+      "inmueble": "249",
+      "referencia": "249",
+      "tipo": "LOCAL",
+      "precio": 221300
+    },
+    {
+      "inmueble": "321",
+      "referencia": "321",
+      "tipo": "LOCAL",
+      "precio": 1147500
+    },
+    {
+      "inmueble": "4103",
+      "referencia": "4103",
+      "tipo": "LOCAL",
+      "precio": 363900
+    },
+    {
+      "inmueble": "5102",
+      "referencia": "5102",
+      "tipo": "OTROS",
+      "precio": 777700
+    },
+    {
+      "inmueble": "312",
+      "referencia": "312",
+      "tipo": "LOCAL",
+      "precio": 1644300
+    },
+    {
+      "inmueble": "337",
+      "referencia": "337",
+      "tipo": "LOCAL",
+      "precio": 960900
+    },
+    {
+      "inmueble": "328",
+      "referencia": "328",
+      "tipo": "LOCAL",
+      "precio": 1384100
+    },
+    {
+      "inmueble": "333",
+      "referencia": "333",
+      "tipo": "LOCAL",
+      "precio": 922900
+    },
+    {
+      "inmueble": "343",
+      "referencia": "343",
+      "tipo": "LOCAL",
+      "precio": 80200
+    },
+    {
+      "inmueble": "308",
+      "referencia": "308",
+      "tipo": "LOCAL",
+      "precio": 1686100
+    },
+    {
+      "inmueble": "322",
+      "referencia": "322",
+      "tipo": "LOCAL",
+      "precio": 1147500
+    },
+    {
+      "inmueble": "4104",
+      "referencia": "4104",
+      "tipo": "LOCAL",
+      "precio": 374000
+    },
+    {
+      "inmueble": "313",
+      "referencia": "313",
+      "tipo": "LOCAL",
+      "precio": 1684300
+    },
+    {
+      "inmueble": "338",
+      "referencia": "338",
+      "tipo": "LOCAL",
+      "precio": 960300
+    },
+    {
+      "inmueble": "347",
+      "referencia": "347",
+      "tipo": "LOCAL",
+      "precio": 1777000
+    }
+  ]
+}

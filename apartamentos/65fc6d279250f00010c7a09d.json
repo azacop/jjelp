@@ -1,0 +1,210 @@
+{
+  "co_ownership_id": "65fc6d279250f00010c7a09d",
+  "co_ownership_name": "EDIFICIO BUENAVISTA  VALLEDUPAR",
+  "address": "CL 13 4 25 BRR NOVALITO",
+  "city": "Valledupar",
+  "department": "Cesar",
+  "country": "COLOMBIA",
+  "agreement_number": "1222322",
+  "total": 33,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 163000
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": "APARTAMENTO",
+      "precio": 430300
+    },
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": "APARTAMENTO",
+      "precio": 368367
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "APARTAMENTO",
+      "precio": 368367
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 626000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 368367
+    },
+    {
+      "inmueble": "407",
+      "referencia": "407",
+      "tipo": "APARTAMENTO",
+      "precio": 622400
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 403600
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 412100
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 601700
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "APARTAMENTO",
+      "precio": 368367
+    },
+    {
+      "inmueble": "408",
+      "referencia": "408",
+      "tipo": "APARTAMENTO",
+      "precio": 430300
+    },
+    {
+      "inmueble": "107",
+      "referencia": "107",
+      "tipo": "APARTAMENTO",
+      "precio": 368367
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 584700
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 368367
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 368367
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 559200
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 368367
+    },
+    {
+      "inmueble": "307",
+      "referencia": "307",
+      "tipo": "APARTAMENTO",
+      "precio": 368367
+    },
+    {
+      "inmueble": "108",
+      "referencia": "108",
+      "tipo": "APARTAMENTO",
+      "precio": 430300
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "APARTAMENTO",
+      "precio": 368367
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 368367
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 288000
+    },
+    {
+      "inmueble": "405",
+      "referencia": "405",
+      "tipo": "APARTAMENTO",
+      "precio": 522700
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 124000
+    },
+    {
+      "inmueble": "308",
+      "referencia": "308",
+      "tipo": "APARTAMENTO",
+      "precio": 430300
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "APARTAMENTO",
+      "precio": 368367
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 368367
+    },
+    {
+      "inmueble": "406",
+      "referencia": "406",
+      "tipo": "APARTAMENTO",
+      "precio": 600500
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "APARTAMENTO",
+      "precio": 368367
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 403600
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 403600
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": "APARTAMENTO",
+      "precio": 368367
+    }
+  ]
+}

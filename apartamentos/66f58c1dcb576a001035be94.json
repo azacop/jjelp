@@ -1,0 +1,48 @@
+{
+  "co_ownership_id": "66f58c1dcb576a001035be94",
+  "co_ownership_name": "EDIFICIO RESIDENCIAS EL CERRO PH",
+  "address": "CL 72 BIS 1 04 BRR VELLA VISTA LOCALIDAD DE CHAPINERO",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1562362",
+  "total": 6,
+  "apartamentos": [
+    {
+      "inmueble": "Apt 1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 2326600
+    },
+    {
+      "inmueble": "Apt 3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 1867600
+    },
+    {
+      "inmueble": "Apt 5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 1801900
+    },
+    {
+      "inmueble": "Apt 7",
+      "referencia": "7",
+      "tipo": "APARTAMENTO",
+      "precio": 1461500
+    },
+    {
+      "inmueble": "Apt 9",
+      "referencia": "9",
+      "tipo": "APARTAMENTO",
+      "precio": 2565600
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

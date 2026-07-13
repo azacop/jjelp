@@ -1,0 +1,126 @@
+{
+  "co_ownership_id": "64e529ba018940001010b4b6",
+  "co_ownership_name": "EDIFICIO LOS CIPRESES DE SANTA BARBARA PROPIEDAD HORIZONTAL",
+  "address": "CR 15 119 11",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1509173",
+  "total": 19,
+  "apartamentos": [
+    {
+      "inmueble": "402",
+      "referencia": "206",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "501",
+      "referencia": "207",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "502",
+      "referencia": "208",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "301",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "601",
+      "referencia": "209",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "302",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "602",
+      "referencia": "210",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "401",
+      "referencia": "205",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "701",
+      "referencia": "211",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "702",
+      "referencia": "212",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "801",
+      "referencia": "213",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "802",
+      "referencia": "214",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "901",
+      "referencia": "215",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "902",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "1001",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "1002",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "308",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

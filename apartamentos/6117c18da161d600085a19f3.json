@@ -1,0 +1,132 @@
+{
+  "co_ownership_id": "6117c18da161d600085a19f3",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL ALTOS DEL BOSQUE DE PINOS PH",
+  "address": "cll 150 a 5 a 50",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1437474",
+  "total": 20,
+  "apartamentos": [
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1143000
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "CASA",
+      "precio": 1144000
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 1112000
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 1188000
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 1185000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1418000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 1188000
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 1097000
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "CASA",
+      "precio": 791000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 1034000
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 1185000
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 1092000
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 1424000
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "CASA",
+      "precio": 1262000
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": "CASA",
+      "precio": 806000
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 1185000
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "CASA",
+      "precio": 1347000
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 1487000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1262000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 1112000
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "co_ownership_id": "637ebd3a8cbbdf0008197ee4",
+  "co_ownership_name": "EDIFICIO MONTEFERRATO PROPIEDAD HORIZONTAL BOGOTA D.C.",
+  "address": "CARRERA 3 # 74 A - 50",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1436443",
+  "total": 19,
+  "apartamentos": [
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1675016
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 1591416
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1373164
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 1675016
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 1806951
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": "APARTAMENTO",
+      "precio": 1591416
+    },
+    {
+      "inmueble": "4010",
+      "referencia": "4010",
+      "tipo": "APARTAMENTO",
+      "precio": 17
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 1591416
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 1675016
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 1591416
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 1675016
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 1591416
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1912859
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "APARTAMENTO",
+      "precio": 1675016
+    },
+    {
+      "inmueble": "902",
+      "referencia": "902",
+      "tipo": "APARTAMENTO",
+      "precio": 1599316
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 1591416
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 1943000
+    },
+    {
+      "inmueble": "901",
+      "referencia": "901",
+      "tipo": "APARTAMENTO",
+      "precio": 1685416
+    },
+    {
+      "inmueble": "9011",
+      "referencia": "9011",
+      "tipo": "APARTAMENTO",
+      "precio": 17
+    }
+  ]
+}

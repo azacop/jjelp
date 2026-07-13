@@ -1,0 +1,144 @@
+{
+  "co_ownership_id": "69b42a028e1caf1ed26174ad",
+  "co_ownership_name": "EDIFICIO EL MICHU PROPIEDAD HORIZONTAL",
+  "address": "CARRERA 9 60 74",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1638154",
+  "total": 22,
+  "apartamentos": [
+    {
+      "inmueble": "AP204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 289840
+    },
+    {
+      "inmueble": "AP301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 260536
+    },
+    {
+      "inmueble": "AP302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 260536
+    },
+    {
+      "inmueble": "AP303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 289840
+    },
+    {
+      "inmueble": "AP304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 289840
+    },
+    {
+      "inmueble": "AP401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 287641
+    },
+    {
+      "inmueble": "AP402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 260536
+    },
+    {
+      "inmueble": "AP403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 316946
+    },
+    {
+      "inmueble": "AP404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 289840
+    },
+    {
+      "inmueble": "AP501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 260536
+    },
+    {
+      "inmueble": "AP101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 260536
+    },
+    {
+      "inmueble": "AP502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 260536
+    },
+    {
+      "inmueble": "PQ5",
+      "referencia": "5",
+      "tipo": "OTROS",
+      "precio": 27106
+    },
+    {
+      "inmueble": "AP102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 260536
+    },
+    {
+      "inmueble": "PQ7",
+      "referencia": "7",
+      "tipo": "OTROS",
+      "precio": 27106
+    },
+    {
+      "inmueble": "AP201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 287642
+    },
+    {
+      "inmueble": "PQ8",
+      "referencia": "8",
+      "tipo": "OTROS",
+      "precio": 27106
+    },
+    {
+      "inmueble": "AP202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 287642
+    },
+    {
+      "inmueble": "AP203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 289840
+    },
+    {
+      "inmueble": "404",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 27106
+    },
+    {
+      "inmueble": "LOC01",
+      "referencia": "2",
+      "tipo": null,
+      "precio": 1106443
+    },
+    {
+      "inmueble": "LOC03",
+      "referencia": "3",
+      "tipo": null,
+      "precio": 71255
+    }
+  ]
+}

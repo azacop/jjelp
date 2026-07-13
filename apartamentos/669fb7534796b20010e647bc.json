@@ -1,0 +1,24 @@
+{
+  "co_ownership_id": "669fb7534796b20010e647bc",
+  "co_ownership_name": "CONJUNTO CALA SALON SOCIAL",
+  "address": "CR 38 10 A 206 CIUDAD VERDE DE SOACHA",
+  "city": "Soacha",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1550722",
+  "total": 2,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "60",
+      "tipo": "LOCAL",
+      "precio": 100000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 100000
+    }
+  ]
+}

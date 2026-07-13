@@ -1,0 +1,240 @@
+{
+  "co_ownership_id": "6488a6889a846f0010f363d8",
+  "co_ownership_name": "CONDOMINIO PARAISO SAN RAFAEL PH",
+  "address": "VEREDA LA TRINIDAD",
+  "city": "La Mesa",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1500248",
+  "total": 38,
+  "apartamentos": [
+    {
+      "inmueble": "31",
+      "referencia": "31",
+      "tipo": "OTROS",
+      "precio": 393275
+    },
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": "OTROS",
+      "precio": 387697
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "OTROS",
+      "precio": 386302
+    },
+    {
+      "inmueble": "32",
+      "referencia": "32",
+      "tipo": "OTROS",
+      "precio": 410011
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 386302
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "OTROS",
+      "precio": 389091
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "OTROS",
+      "precio": 386302
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "OTROS",
+      "precio": 387697
+    },
+    {
+      "inmueble": "33",
+      "referencia": "33",
+      "tipo": "OTROS",
+      "precio": 421166
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 387697
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "OTROS",
+      "precio": 387697
+    },
+    {
+      "inmueble": "23",
+      "referencia": "23",
+      "tipo": "OTROS",
+      "precio": 396064
+    },
+    {
+      "inmueble": "34",
+      "referencia": "34",
+      "tipo": "OTROS",
+      "precio": 426745
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "OTROS",
+      "precio": 386302
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "OTROS",
+      "precio": 386302
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 407221
+    },
+    {
+      "inmueble": "24",
+      "referencia": "24",
+      "tipo": "OTROS",
+      "precio": 389091
+    },
+    {
+      "inmueble": "35",
+      "referencia": "35",
+      "tipo": "OTROS",
+      "precio": 428140
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "OTROS",
+      "precio": 386302
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "OTROS",
+      "precio": 387697
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "OTROS",
+      "precio": 411405
+    },
+    {
+      "inmueble": "25",
+      "referencia": "25",
+      "tipo": "OTROS",
+      "precio": 389091
+    },
+    {
+      "inmueble": "36",
+      "referencia": "36",
+      "tipo": "OTROS",
+      "precio": 175719
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "OTROS",
+      "precio": 387697
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "OTROS",
+      "precio": 387697
+    },
+    {
+      "inmueble": "26",
+      "referencia": "26",
+      "tipo": "OTROS",
+      "precio": 387697
+    },
+    {
+      "inmueble": "37",
+      "referencia": "37",
+      "tipo": "OTROS",
+      "precio": 8368
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "OTROS",
+      "precio": 387697
+    },
+    {
+      "inmueble": "38",
+      "referencia": "38",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "27",
+      "referencia": "27",
+      "tipo": "OTROS",
+      "precio": 387697
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "OTROS",
+      "precio": 387697
+    },
+    {
+      "inmueble": "28",
+      "referencia": "28",
+      "tipo": "OTROS",
+      "precio": 387697
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "OTROS",
+      "precio": 389091
+    },
+    {
+      "inmueble": "29",
+      "referencia": "29",
+      "tipo": "OTROS",
+      "precio": 387697
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "OTROS",
+      "precio": 389091
+    },
+    {
+      "inmueble": "30",
+      "referencia": "30",
+      "tipo": "OTROS",
+      "precio": 387697
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "OTROS",
+      "precio": 389091
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": "OTROS",
+      "precio": 387697
+    }
+  ]
+}

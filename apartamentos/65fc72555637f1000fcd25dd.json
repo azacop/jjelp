@@ -1,0 +1,60 @@
+{
+  "co_ownership_id": "65fc72555637f1000fcd25dd",
+  "co_ownership_name": "CONDOMINIO VIZCAYA CL 54 B 9 30  LOS PATIOS",
+  "address": "CL 54 B 9 30 BRR LA FLORESTA",
+  "city": "Los Patios",
+  "department": "Norte de Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1424001",
+  "total": 8,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 100000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "APARTAMENTO",
+      "precio": 100000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 100000
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "APARTAMENTO",
+      "precio": 100000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 100000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 87500
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 100000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 100000
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "co_ownership_id": "650e2c26159a180010f59146",
+  "co_ownership_name": "AGRUPACION DE VIVIENDA LAS CUATRO ESTACIONES PH  CR 5 108 A 67 BOGOTA",
+  "address": "CR 5 108 A 67",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1426378",
+  "total": 6,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 293500
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 914100
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 772700
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 772700
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 921900
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 612484
+    }
+  ]
+}

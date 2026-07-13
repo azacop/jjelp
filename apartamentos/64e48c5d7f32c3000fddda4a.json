@@ -1,0 +1,114 @@
+{
+  "co_ownership_id": "64e48c5d7f32c3000fddda4a",
+  "co_ownership_name": "EDIFICIO BALCONES DEL BARRIO BLANCO GIRARDOT",
+  "address": "DIAGONAL 8 30 63",
+  "city": "Girardot",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1306307",
+  "total": 17,
+  "apartamentos": [
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "APARTAMENTO",
+      "precio": 286650
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "APARTAMENTO",
+      "precio": 210000
+    },
+    {
+      "inmueble": "113",
+      "referencia": "113",
+      "tipo": "APARTAMENTO",
+      "precio": 499800
+    },
+    {
+      "inmueble": "114",
+      "referencia": "114",
+      "tipo": "APARTAMENTO",
+      "precio": 273000
+    },
+    {
+      "inmueble": "115",
+      "referencia": "115",
+      "tipo": "APARTAMENTO",
+      "precio": 274050
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 441000
+    },
+    {
+      "inmueble": "116",
+      "referencia": "116",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 265650
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 293877
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 199500
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 485100
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "APARTAMENTO",
+      "precio": 235200
+    },
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": "APARTAMENTO",
+      "precio": 210000
+    },
+    {
+      "inmueble": "107",
+      "referencia": "107",
+      "tipo": "APARTAMENTO",
+      "precio": 499800
+    },
+    {
+      "inmueble": "108",
+      "referencia": "108",
+      "tipo": "APARTAMENTO",
+      "precio": 291900
+    },
+    {
+      "inmueble": "109",
+      "referencia": "109",
+      "tipo": "APARTAMENTO",
+      "precio": 261450
+    },
+    {
+      "inmueble": "110",
+      "referencia": "110",
+      "tipo": "APARTAMENTO",
+      "precio": 562800
+    }
+  ]
+}

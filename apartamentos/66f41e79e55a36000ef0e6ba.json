@@ -1,0 +1,36 @@
+{
+  "co_ownership_id": "66f41e79e55a36000ef0e6ba",
+  "co_ownership_name": "EDIFICIO UNICAMPUS PH",
+  "address": "CL 52 13 64",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1562024",
+  "total": 4,
+  "apartamentos": [
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 1
+    }
+  ]
+}

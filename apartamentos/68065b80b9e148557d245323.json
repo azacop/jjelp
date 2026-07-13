@@ -1,0 +1,42 @@
+{
+  "co_ownership_id": "68065b80b9e148557d245323",
+  "co_ownership_name": "ARREBOL DEL VALLE PH",
+  "address": "CR 2 A 7 OESTE 215",
+  "city": "Cali",
+  "department": "Valle del Cauca",
+  "country": "COLOMBIA",
+  "agreement_number": "1588805",
+  "total": 5,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 171000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 171000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 171000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 171000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

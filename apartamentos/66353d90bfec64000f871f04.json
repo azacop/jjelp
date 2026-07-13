@@ -1,0 +1,288 @@
+{
+  "co_ownership_id": "66353d90bfec64000f871f04",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL JARDIN DE GRANADA PROPIEDAD HORIZONTAL",
+  "address": "KRA 54 A 168 A 18",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1537513",
+  "total": 46,
+  "apartamentos": [
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 483115
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 550021
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 265322
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 509396
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 265212
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 550023
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 550129
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 536773
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 550130
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 550020
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 337701
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 551553
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 550132
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 551554
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 598419
+    },
+    {
+      "inmueble": "903",
+      "referencia": "903",
+      "tipo": "APARTAMENTO",
+      "precio": 309779
+    },
+    {
+      "inmueble": "703",
+      "referencia": "703",
+      "tipo": "APARTAMENTO",
+      "precio": 339125
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 568855
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "904",
+      "referencia": "904",
+      "tipo": "APARTAMENTO",
+      "precio": 498120
+    },
+    {
+      "inmueble": "704",
+      "referencia": "704",
+      "tipo": "APARTAMENTO",
+      "precio": 551556
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 338906
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "1001",
+      "referencia": "1001",
+      "tipo": "APARTAMENTO",
+      "precio": 4907
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "APARTAMENTO",
+      "precio": 551662
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "1002",
+      "referencia": "1002",
+      "tipo": "APARTAMENTO",
+      "precio": 5061
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": "APARTAMENTO",
+      "precio": 551663
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "1003",
+      "referencia": "1003",
+      "tipo": "APARTAMENTO",
+      "precio": 3036
+    },
+    {
+      "inmueble": "803",
+      "referencia": "803",
+      "tipo": "APARTAMENTO",
+      "precio": 339234
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "1004",
+      "referencia": "1004",
+      "tipo": "APARTAMENTO",
+      "precio": 4910
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 551337
+    },
+    {
+      "inmueble": "804",
+      "referencia": "804",
+      "tipo": "APARTAMENTO",
+      "precio": 551665
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "1101",
+      "referencia": "1101",
+      "tipo": "APARTAMENTO",
+      "precio": 657111
+    },
+    {
+      "inmueble": "901",
+      "referencia": "901",
+      "tipo": "APARTAMENTO",
+      "precio": 552867
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 551443
+    },
+    {
+      "inmueble": "902",
+      "referencia": "902",
+      "tipo": "APARTAMENTO",
+      "precio": 498118
+    },
+    {
+      "inmueble": "1102",
+      "referencia": "1102",
+      "tipo": "APARTAMENTO",
+      "precio": 664777
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 551444
+    },
+    {
+      "inmueble": "1103",
+      "referencia": "1103",
+      "tipo": "APARTAMENTO",
+      "precio": 309998
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 339015
+    },
+    {
+      "inmueble": "1104",
+      "referencia": "1104",
+      "tipo": "APARTAMENTO",
+      "precio": 662589
+    },
+    {
+      "inmueble": "604",
+      "referencia": "604",
+      "tipo": "APARTAMENTO",
+      "precio": 551446
+    }
+  ]
+}

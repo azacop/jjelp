@@ -1,0 +1,126 @@
+{
+  "co_ownership_id": "69a219c300a3e9346bd52347",
+  "co_ownership_name": "CR ALTOS DE LA COLINA",
+  "address": "CR 9 E 8 E CL 35 A CA 112 BRR SEBASTOPOL",
+  "city": "Florencia",
+  "department": "Caquetá",
+  "country": "COLOMBIA",
+  "agreement_number": "1636539",
+  "total": 19,
+  "apartamentos": [
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "107",
+      "referencia": "107",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "108",
+      "referencia": "108",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "109",
+      "referencia": "109",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "110",
+      "referencia": "110",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "113",
+      "referencia": "113",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "114",
+      "referencia": "114",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "115",
+      "referencia": "115",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "116",
+      "referencia": "116",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "117",
+      "referencia": "117",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "118",
+      "referencia": "118",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 2
+    }
+  ]
+}

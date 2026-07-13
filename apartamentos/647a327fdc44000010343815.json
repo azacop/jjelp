@@ -1,0 +1,138 @@
+{
+  "co_ownership_id": "647a327fdc44000010343815",
+  "co_ownership_name": "EDIFICIO VERONA PH DG 60",
+  "address": "DG 60 23 35",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1499193",
+  "total": 21,
+  "apartamentos": [
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": null,
+      "precio": 351995
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": null,
+      "precio": 351527
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": null,
+      "precio": 341391
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": null,
+      "precio": 238787
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": null,
+      "precio": 341859
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": null,
+      "precio": 257291
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": null,
+      "precio": 250430
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": null,
+      "precio": 271377
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": null,
+      "precio": 256927
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": null,
+      "precio": 271273
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": null,
+      "precio": 351995
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": null,
+      "precio": 341859
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": null,
+      "precio": 351995
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": null,
+      "precio": 238995
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": null,
+      "precio": 350488
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": null,
+      "precio": 238995
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": null,
+      "precio": 257291
+    },
+    {
+      "inmueble": "405",
+      "referencia": "405",
+      "tipo": null,
+      "precio": 271013
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": null,
+      "precio": 256823
+    },
+    {
+      "inmueble": "505",
+      "referencia": "505",
+      "tipo": null,
+      "precio": 271689
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": null,
+      "precio": 1
+    }
+  ]
+}

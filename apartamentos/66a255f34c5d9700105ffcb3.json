@@ -1,0 +1,36 @@
+{
+  "co_ownership_id": "66a255f34c5d9700105ffcb3",
+  "co_ownership_name": "PARQUEADEROS CONJ BELVERDE II",
+  "address": "KR 10 6 94",
+  "city": "Mosquera",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1551308",
+  "total": 4,
+  "apartamentos": [
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "PARQUEADER",
+      "referencia": "100",
+      "tipo": "OTROS",
+      "precio": 5000
+    }
+  ]
+}

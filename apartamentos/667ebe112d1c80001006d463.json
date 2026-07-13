@@ -1,0 +1,42 @@
+{
+  "co_ownership_id": "667ebe112d1c80001006d463",
+  "co_ownership_name": "VENTTO ZONAS COMUNES",
+  "address": "VDA FONQUETA CAMINO A LA CANTERA ST CAROLINA",
+  "city": "Chía",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1546449",
+  "total": 5,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 150000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 150000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 150000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 150000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    }
+  ]
+}

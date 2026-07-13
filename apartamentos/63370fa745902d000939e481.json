@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "63370fa745902d000939e481",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL GIBRALTAR PROPIEDAD HORIZONTAL",
+  "address": "CR 78 170 40",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1473925",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 621637
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 621637
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 1304764
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 566231
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 568944
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 621637
+    }
+  ]
+}

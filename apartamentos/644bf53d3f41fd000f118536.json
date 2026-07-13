@@ -1,0 +1,72 @@
+{
+  "co_ownership_id": "644bf53d3f41fd000f118536",
+  "co_ownership_name": "EDIFICIO GOVINDA PROPIEDAD HORIZONTAL",
+  "address": "CALLE 106A 54 78",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1494913",
+  "total": 10,
+  "apartamentos": [
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": null,
+      "precio": 921000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": null,
+      "precio": 882000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": null,
+      "precio": 556000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": null,
+      "precio": 747000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": null,
+      "precio": 409000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": null,
+      "precio": 1237000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": null,
+      "precio": 451000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": null,
+      "precio": 921000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": null,
+      "precio": 593000
+    }
+  ]
+}

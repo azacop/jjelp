@@ -1,0 +1,72 @@
+{
+  "co_ownership_id": "664667b28b5c36000fab20a9",
+  "co_ownership_name": "EDIFICIO OCHO SESENTA Y NUEVE CALLE SETENTA Y SEIS",
+  "address": "CL 76 No. 8 - 69",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1539501",
+  "total": 10,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "991",
+      "referencia": "991",
+      "tipo": "OTROS",
+      "precio": 10
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "992",
+      "referencia": "992",
+      "tipo": "OTROS",
+      "precio": 10
+    },
+    {
+      "inmueble": "993",
+      "referencia": "993",
+      "tipo": "OTROS",
+      "precio": 10
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 10
+    }
+  ]
+}

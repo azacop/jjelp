@@ -1,0 +1,90 @@
+{
+  "co_ownership_id": "65cf80ab3754940010134e96",
+  "co_ownership_name": "HABITAT INTEGRAL PH S A S",
+  "address": "CR 45 4 F 32",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1528496",
+  "total": 13,
+  "apartamentos": [
+    {
+      "inmueble": "8300999358",
+      "referencia": "8300999358",
+      "tipo": "OTROS",
+      "precio": 1731900
+    },
+    {
+      "inmueble": "8300604817",
+      "referencia": "8300604817",
+      "tipo": "OTROS",
+      "precio": 1493850
+    },
+    {
+      "inmueble": "8300416971",
+      "referencia": "8300416971",
+      "tipo": "OTROS",
+      "precio": 1248000
+    },
+    {
+      "inmueble": "8300479031",
+      "referencia": "8300479031",
+      "tipo": "OTROS",
+      "precio": 1691176
+    },
+    {
+      "inmueble": "8301318388",
+      "referencia": "8301318388",
+      "tipo": "OTROS",
+      "precio": 1800900
+    },
+    {
+      "inmueble": "8301327535",
+      "referencia": "8301327535",
+      "tipo": "OTROS",
+      "precio": 1288000
+    },
+    {
+      "inmueble": "9000943138",
+      "referencia": "9000943138",
+      "tipo": "OTROS",
+      "precio": 1075200
+    },
+    {
+      "inmueble": "9017278836",
+      "referencia": "9017278836",
+      "tipo": "OTROS",
+      "precio": 2688000
+    },
+    {
+      "inmueble": "8002440783",
+      "referencia": "8002440783",
+      "tipo": "OTROS",
+      "precio": 2217200
+    },
+    {
+      "inmueble": "9015827002",
+      "referencia": "9015827002",
+      "tipo": "OTROS",
+      "precio": 2471350
+    },
+    {
+      "inmueble": "9004328803",
+      "referencia": "9004328803",
+      "tipo": "OTROS",
+      "precio": 1248000
+    },
+    {
+      "inmueble": "8300600008",
+      "referencia": "8300600008",
+      "tipo": "OTROS",
+      "precio": 2060800
+    },
+    {
+      "inmueble": "9999999999",
+      "referencia": "9999999999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

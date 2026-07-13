@@ -1,0 +1,120 @@
+{
+  "co_ownership_id": "68556c06a208350172b46358",
+  "co_ownership_name": "EDIFICIO CLAUDIA PH",
+  "address": "CALL 97 10 28",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1599828",
+  "total": 18,
+  "apartamentos": [
+    {
+      "inmueble": "1024",
+      "referencia": "1024",
+      "tipo": "LOCAL",
+      "precio": 361252
+    },
+    {
+      "inmueble": "1030",
+      "referencia": "1030",
+      "tipo": "LOCAL",
+      "precio": 702369
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "OFICINA",
+      "precio": 1250919
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "OFICINA",
+      "precio": 3638322
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "OFICINA",
+      "precio": 1608805
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "OFICINA",
+      "precio": 1649193
+    },
+    {
+      "inmueble": "1026",
+      "referencia": "1026",
+      "tipo": "LOCAL",
+      "precio": 359008
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "OFICINA",
+      "precio": 1169020
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "OFICINA",
+      "precio": 1307014
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "OFICINA",
+      "precio": 1372084
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "OFICINA",
+      "precio": 1181361
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "OFICINA",
+      "precio": 1243065
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "OFICINA",
+      "precio": 1211652
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "OFICINA",
+      "precio": 1169020
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "OFICINA",
+      "precio": 1192580
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "OFICINA",
+      "precio": 1250919
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "OFICINA",
+      "precio": 1181361
+    }
+  ]
+}

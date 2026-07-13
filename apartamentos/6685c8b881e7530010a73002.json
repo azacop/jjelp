@@ -1,0 +1,48 @@
+{
+  "co_ownership_id": "6685c8b881e7530010a73002",
+  "co_ownership_name": "CON CAM RESERVA DEL MANANTIAL",
+  "address": "KM 3 VIA PORTUGALITO EL CAIMA",
+  "city": "Armenia",
+  "department": "Quindio",
+  "country": "COLOMBIA",
+  "agreement_number": "1547546",
+  "total": 6,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": null,
+      "precio": 572000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": null,
+      "precio": 605000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": null,
+      "precio": 699000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": null,
+      "precio": 677000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": null,
+      "precio": 1
+    }
+  ]
+}

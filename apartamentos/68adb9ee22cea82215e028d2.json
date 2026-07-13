@@ -1,0 +1,456 @@
+{
+  "co_ownership_id": "68adb9ee22cea82215e028d2",
+  "co_ownership_name": "CR PARQUE DE SAN ANTONIO",
+  "address": "CARRERA 7 C 182 27",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1609353",
+  "total": 74,
+  "apartamentos": [
+    {
+      "inmueble": "313",
+      "referencia": "313",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "314",
+      "referencia": "314",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "315",
+      "referencia": "315",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "316",
+      "referencia": "316",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "317",
+      "referencia": "317",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "318",
+      "referencia": "318",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "107",
+      "referencia": "107",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "108",
+      "referencia": "108",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "308",
+      "referencia": "308",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "309",
+      "referencia": "309",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "209",
+      "referencia": "209",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "310",
+      "referencia": "310",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "210",
+      "referencia": "210",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "311",
+      "referencia": "311",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "307",
+      "referencia": "307",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "312",
+      "referencia": "312",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "313",
+      "referencia": "313",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "314",
+      "referencia": "314",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "315",
+      "referencia": "315",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "316",
+      "referencia": "316",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "317",
+      "referencia": "317",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "318",
+      "referencia": "318",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "107",
+      "referencia": "107",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "108",
+      "referencia": "108",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "308",
+      "referencia": "308",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "309",
+      "referencia": "309",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "209",
+      "referencia": "209",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "310",
+      "referencia": "310",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "210",
+      "referencia": "210",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "311",
+      "referencia": "311",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "307",
+      "referencia": "307",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "312",
+      "referencia": "312",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    }
+  ]
+}

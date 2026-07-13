@@ -1,0 +1,90 @@
+{
+  "co_ownership_id": "68a882e722cea82215e022cd",
+  "co_ownership_name": "EDIFICIO EDIFICA70 PH",
+  "address": "CL 70 91 A 96",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1608736",
+  "total": 13,
+  "apartamentos": [
+    {
+      "inmueble": "AP 303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 162700
+    },
+    {
+      "inmueble": "AP 502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 180850
+    },
+    {
+      "inmueble": "AP 503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 220600
+    },
+    {
+      "inmueble": "AP 401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 122700
+    },
+    {
+      "inmueble": "Admon 999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 5000
+    },
+    {
+      "inmueble": "AP 402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 90050
+    },
+    {
+      "inmueble": "AP 403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 162700
+    },
+    {
+      "inmueble": "AP 501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 137700
+    },
+    {
+      "inmueble": "AP 202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 116350
+    },
+    {
+      "inmueble": "AP 203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 136400
+    },
+    {
+      "inmueble": "AP 301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 127700
+    },
+    {
+      "inmueble": "AP 302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 95050
+    },
+    {
+      "inmueble": "AP 201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 150050
+    }
+  ]
+}

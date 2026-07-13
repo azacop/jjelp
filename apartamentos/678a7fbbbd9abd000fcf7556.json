@@ -1,0 +1,126 @@
+{
+  "co_ownership_id": "678a7fbbbd9abd000fcf7556",
+  "co_ownership_name": "EDIFICIO CHAVES",
+  "address": "CL 40 27 18",
+  "city": "Bucaramanga",
+  "department": "Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1577063",
+  "total": 19,
+  "apartamentos": [
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 50000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

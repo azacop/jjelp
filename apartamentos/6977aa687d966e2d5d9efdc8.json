@@ -1,0 +1,48 @@
+{
+  "co_ownership_id": "6977aa687d966e2d5d9efdc8",
+  "co_ownership_name": "EDIFICIO CRISTAL PH",
+  "address": "AV 6 A 28 N 98",
+  "city": "Cali",
+  "department": "Valle del Cauca",
+  "country": "COLOMBIA",
+  "agreement_number": "1630227",
+  "total": 6,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 2
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "LOCAL",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "LOCAL",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "LOCAL",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "LOCAL",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "LOCAL",
+      "precio": 1000000
+    }
+  ]
+}

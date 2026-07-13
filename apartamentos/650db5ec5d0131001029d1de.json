@@ -1,0 +1,60 @@
+{
+  "co_ownership_id": "650db5ec5d0131001029d1de",
+  "co_ownership_name": "INMOBILIARIA MAJESTIC SAS PIEDECUESTA CRA 5A  22 13 PASEO EL PUENTE II",
+  "address": "CRA 5A # 22 13 PASEO EL PUENTE II",
+  "city": "Piedecuesta",
+  "department": "Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1335264",
+  "total": 8,
+  "apartamentos": [
+    {
+      "inmueble": "1002300322",
+      "referencia": "1002300322",
+      "tipo": "APARTAMENTO",
+      "precio": 510000
+    },
+    {
+      "inmueble": "37618308",
+      "referencia": "37618308",
+      "tipo": "APARTAMENTO",
+      "precio": 650000
+    },
+    {
+      "inmueble": "1002330786",
+      "referencia": "1002330786",
+      "tipo": "APARTAMENTO",
+      "precio": 550000
+    },
+    {
+      "inmueble": "91474682",
+      "referencia": "91474682",
+      "tipo": "APARTAMENTO",
+      "precio": 470013
+    },
+    {
+      "inmueble": "1004253395",
+      "referencia": "1004253395",
+      "tipo": "APARTAMENTO",
+      "precio": 530000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 470013
+    },
+    {
+      "inmueble": "1028037775",
+      "referencia": "1028037775",
+      "tipo": "APARTAMENTO",
+      "precio": 780000
+    },
+    {
+      "inmueble": "10697429",
+      "referencia": "10697429",
+      "tipo": "APARTAMENTO",
+      "precio": 740000
+    }
+  ]
+}

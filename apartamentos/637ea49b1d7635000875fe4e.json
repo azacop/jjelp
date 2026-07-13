@@ -1,0 +1,210 @@
+{
+  "co_ownership_id": "637ea49b1d7635000875fe4e",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL PUERTO SOL PRIMERA ETAPA BLOQUES 7 8 Y 9 PH BOGOTA KR 23 148 50",
+  "address": "KR 23 148  - 50",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1316876",
+  "total": 33,
+  "apartamentos": [
+    {
+      "inmueble": "308",
+      "referencia": "308",
+      "tipo": "APARTAMENTO",
+      "precio": 269000
+    },
+    {
+      "inmueble": "312",
+      "referencia": "312",
+      "tipo": "APARTAMENTO",
+      "precio": 272000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 585000
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "APARTAMENTO",
+      "precio": 272000
+    },
+    {
+      "inmueble": "309",
+      "referencia": "309",
+      "tipo": "APARTAMENTO",
+      "precio": 269000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 297000
+    },
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "APARTAMENTO",
+      "precio": 253000
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "APARTAMENTO",
+      "precio": 291000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 330000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 297000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 291000
+    },
+    {
+      "inmueble": "310",
+      "referencia": "310",
+      "tipo": "APARTAMENTO",
+      "precio": 288000
+    },
+    {
+      "inmueble": "107",
+      "referencia": "107",
+      "tipo": "APARTAMENTO",
+      "precio": 288000
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "307",
+      "referencia": "307",
+      "tipo": "APARTAMENTO",
+      "precio": 288000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 269000
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "APARTAMENTO",
+      "precio": 279000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 269000
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 585000
+    },
+    {
+      "inmueble": "311",
+      "referencia": "311",
+      "tipo": "APARTAMENTO",
+      "precio": 297000
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "APARTAMENTO",
+      "precio": 272000
+    },
+    {
+      "inmueble": "109",
+      "referencia": "109",
+      "tipo": "APARTAMENTO",
+      "precio": 274000
+    },
+    {
+      "inmueble": "110",
+      "referencia": "110",
+      "tipo": "APARTAMENTO",
+      "precio": 288000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 272000
+    },
+    {
+      "inmueble": "108",
+      "referencia": "108",
+      "tipo": "APARTAMENTO",
+      "precio": 272000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 291000
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "OTROS",
+      "precio": 257818
+    },
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": "APARTAMENTO",
+      "precio": 293000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 269000
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 288000
+    },
+    {
+      "inmueble": "604",
+      "referencia": "604",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "605",
+      "referencia": "605",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

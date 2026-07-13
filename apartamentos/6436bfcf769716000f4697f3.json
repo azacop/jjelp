@@ -1,0 +1,60 @@
+{
+  "co_ownership_id": "6436bfcf769716000f4697f3",
+  "co_ownership_name": "LEGAL GRUPO JURIDICO SAS",
+  "address": "CLL 13 # 4-25",
+  "city": "Cali",
+  "department": "Valle del Cauca",
+  "country": "COLOMBIA",
+  "agreement_number": "1493154",
+  "total": 8,
+  "apartamentos": [
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "APARTAMENTO",
+      "precio": 866236
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "APARTAMENTO",
+      "precio": 1562341
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "23",
+      "referencia": "23",
+      "tipo": "APARTAMENTO",
+      "precio": 1244503
+    },
+    {
+      "inmueble": "25",
+      "referencia": "25",
+      "tipo": "LOCAL",
+      "precio": 2300000
+    },
+    {
+      "inmueble": "26",
+      "referencia": "26",
+      "tipo": "CASA",
+      "precio": 1500000
+    },
+    {
+      "inmueble": "27",
+      "referencia": "27",
+      "tipo": "APARTAMENTO",
+      "precio": 2695520
+    },
+    {
+      "inmueble": "28",
+      "referencia": "28",
+      "tipo": "CASA",
+      "precio": 841600
+    }
+  ]
+}

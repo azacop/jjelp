@@ -1,0 +1,192 @@
+{
+  "co_ownership_id": "63f646cc9866990010a5e4db",
+  "co_ownership_name": "CONJUNTO MALIBU COUNTRY CLUB VILLA DEL ROSARIO",
+  "address": "KDX 560 2 1 VIA LINDA BOCONO",
+  "city": "Villa Del Rosario",
+  "department": "Norte de Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1404623",
+  "total": 30,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 400800
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 328000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 377300
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "APARTAMENTO",
+      "precio": 325000
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "APARTAMENTO",
+      "precio": 405300
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 331400
+    },
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": "APARTAMENTO",
+      "precio": 183800
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "APARTAMENTO",
+      "precio": 277700
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "APARTAMENTO",
+      "precio": 368800
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "APARTAMENTO",
+      "precio": 395400
+    },
+    {
+      "inmueble": "26",
+      "referencia": "26",
+      "tipo": "APARTAMENTO",
+      "precio": 167300
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "APARTAMENTO",
+      "precio": 195500
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "APARTAMENTO",
+      "precio": 243900
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "APARTAMENTO",
+      "precio": 204100
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "APARTAMENTO",
+      "precio": 367400
+    },
+    {
+      "inmueble": "27",
+      "referencia": "27",
+      "tipo": "APARTAMENTO",
+      "precio": 186000
+    },
+    {
+      "inmueble": "23",
+      "referencia": "23",
+      "tipo": "APARTAMENTO",
+      "precio": 161100
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "APARTAMENTO",
+      "precio": 358500
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "APARTAMENTO",
+      "precio": 241900
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "APARTAMENTO",
+      "precio": 316100
+    },
+    {
+      "inmueble": "28",
+      "referencia": "28",
+      "tipo": "APARTAMENTO",
+      "precio": 177600
+    },
+    {
+      "inmueble": "24",
+      "referencia": "24",
+      "tipo": "APARTAMENTO",
+      "precio": 184100
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "APARTAMENTO",
+      "precio": 242600
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "APARTAMENTO",
+      "precio": 386700
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "APARTAMENTO",
+      "precio": 316500
+    },
+    {
+      "inmueble": "29",
+      "referencia": "29",
+      "tipo": "APARTAMENTO",
+      "precio": 268100
+    },
+    {
+      "inmueble": "25",
+      "referencia": "25",
+      "tipo": "APARTAMENTO",
+      "precio": 194600
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": "APARTAMENTO",
+      "precio": 190100
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

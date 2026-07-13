@@ -1,0 +1,108 @@
+{
+  "co_ownership_id": "66f57772879a8d0010ab6af3",
+  "co_ownership_name": "EDIFICIO PARQUE DE SANTA ANA",
+  "address": "CL 108 3 30",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1562693",
+  "total": 16,
+  "apartamentos": [
+    {
+      "inmueble": "AP301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 2340886
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "AP302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 2340886
+    },
+    {
+      "inmueble": "AP303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 2340886
+    },
+    {
+      "inmueble": "AP401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 2340886
+    },
+    {
+      "inmueble": "AP402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 2340886
+    },
+    {
+      "inmueble": "AP602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 2340886
+    },
+    {
+      "inmueble": "AP603",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 2340886
+    },
+    {
+      "inmueble": "AP604",
+      "referencia": "604",
+      "tipo": "APARTAMENTO",
+      "precio": 2340886
+    },
+    {
+      "inmueble": "AP605",
+      "referencia": "605",
+      "tipo": "APARTAMENTO",
+      "precio": 2340886
+    },
+    {
+      "inmueble": "AP606",
+      "referencia": "606",
+      "tipo": "APARTAMENTO",
+      "precio": 2340886
+    },
+    {
+      "inmueble": "AP403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 2340886
+    },
+    {
+      "inmueble": "AP501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 2340886
+    },
+    {
+      "inmueble": "AP502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 2340886
+    },
+    {
+      "inmueble": "AP503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 2340886
+    },
+    {
+      "inmueble": "AP601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 2340886
+    }
+  ]
+}

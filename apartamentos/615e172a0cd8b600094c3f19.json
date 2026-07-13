@@ -1,0 +1,60 @@
+{
+  "co_ownership_id": "615e172a0cd8b600094c3f19",
+  "co_ownership_name": "EDIFICIO MADRIGAL PROPIEDAD HORIZONTAL",
+  "address": "CALLE 118 No. 20-71",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1441351",
+  "total": 8,
+  "apartamentos": [
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 1468000
+    },
+    {
+      "inmueble": "114",
+      "referencia": "114",
+      "tipo": "LOCAL",
+      "precio": 10000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1468000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 1308000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 1201000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 1196000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 1082000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 1225000
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "co_ownership_id": "667978755c0169001192f69a",
+  "co_ownership_name": "EDIFICIO LIMA PH",
+  "address": "CL 37 CR 5",
+  "city": "Ibagué",
+  "department": "Tolima",
+  "country": "COLOMBIA",
+  "agreement_number": "1545565",
+  "total": 11,
+  "apartamentos": [
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": null,
+      "precio": 407000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": null,
+      "precio": 460000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": null,
+      "precio": 535000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": null,
+      "precio": 407000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": null,
+      "precio": 460000
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": null,
+      "precio": 879000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": null,
+      "precio": 460000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": null,
+      "precio": 407000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": null,
+      "precio": 460000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "co_ownership_id": "63f5f142bc1714000fd760b1",
+  "co_ownership_name": "EDIFICIO MARIA ALEJANDRA CRA 26  48 64 NUEVO SOTOMAYO BUCARAMANGA",
+  "address": "CRA 26 48 64 NUEVO SOTOMAYO",
+  "city": "Bucaramanga",
+  "department": "Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1241470",
+  "total": 12,
+  "apartamentos": [
+    {
+      "inmueble": "4856",
+      "referencia": "4856",
+      "tipo": "APARTAMENTO",
+      "precio": 224000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 384000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 384000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 384000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 384000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 384000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 384000
+    },
+    {
+      "inmueble": "4840",
+      "referencia": "4840",
+      "tipo": "APARTAMENTO",
+      "precio": 384000
+    },
+    {
+      "inmueble": "4868",
+      "referencia": "4868",
+      "tipo": "APARTAMENTO",
+      "precio": 384000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 384000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 384000
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "co_ownership_id": "669535d7e5291a000f15df87",
+  "co_ownership_name": "EDIFICIO CENTRONIA PH",
+  "address": "CL 38 26 B 32 40",
+  "city": "Manizales",
+  "department": "Caldas",
+  "country": "COLOMBIA",
+  "agreement_number": "1549625",
+  "total": 27,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 70000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 85000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 20000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "LOCAL",
+      "precio": 373000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 144000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 124000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 119000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 146000
+    },
+    {
+      "inmueble": "994",
+      "referencia": "994",
+      "tipo": "OTROS",
+      "precio": 10
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 148000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 149000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 10
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 118000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 145000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 114000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 118000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 115000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 95000
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 109000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 141000
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 96000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 145000
+    },
+    {
+      "inmueble": "991",
+      "referencia": "991",
+      "tipo": "OTROS",
+      "precio": 10
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 120000
+    },
+    {
+      "inmueble": "992",
+      "referencia": "992",
+      "tipo": "OTROS",
+      "precio": 10
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 118000
+    },
+    {
+      "inmueble": "993",
+      "referencia": "993",
+      "tipo": "OTROS",
+      "precio": 10
+    }
+  ]
+}

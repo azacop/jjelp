@@ -1,0 +1,102 @@
+{
+  "co_ownership_id": "68b9a1129b2877529950afac",
+  "co_ownership_name": "CONDOMINIO CASA DE PIEDRA PH",
+  "address": "VDA FONQUETA",
+  "city": "Chía",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1609411",
+  "total": 15,
+  "apartamentos": [
+    {
+      "inmueble": "CASA6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1564000
+    },
+    {
+      "inmueble": "CASA11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 1564000
+    },
+    {
+      "inmueble": "CASA12",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 1564000
+    },
+    {
+      "inmueble": "CASA7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 1564000
+    },
+    {
+      "inmueble": "CASA13",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 1564000
+    },
+    {
+      "inmueble": "CASA8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 1564000
+    },
+    {
+      "inmueble": "CASA9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 1564000
+    },
+    {
+      "inmueble": "CASA14",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 1564000
+    },
+    {
+      "inmueble": "CASA10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 1564000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "CASA1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 1564000
+    },
+    {
+      "inmueble": "CASA2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 1564000
+    },
+    {
+      "inmueble": "CASA3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1564000
+    },
+    {
+      "inmueble": "CASA4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1564000
+    },
+    {
+      "inmueble": "CASA5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 1564000
+    }
+  ]
+}

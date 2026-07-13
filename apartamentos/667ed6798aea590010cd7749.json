@@ -1,0 +1,42 @@
+{
+  "co_ownership_id": "667ed6798aea590010cd7749",
+  "co_ownership_name": "CR ABACO PH ZONAS COMUNES",
+  "address": "VDA CANELON",
+  "city": "Cajicá",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1546670",
+  "total": 5,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 150000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 150000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "OTROS",
+      "precio": 150000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "OTROS",
+      "precio": 150000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

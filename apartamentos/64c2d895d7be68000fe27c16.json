@@ -1,0 +1,108 @@
+{
+  "co_ownership_id": "64c2d895d7be68000fe27c16",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL CAMINO DE SAN JUAN II",
+  "address": "CARRERA 2 # 21 75",
+  "city": "Chía",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1506237",
+  "total": 16,
+  "apartamentos": [
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "CASA",
+      "precio": 590000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "CASA",
+      "precio": 590000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "CASA",
+      "precio": 590000
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": "CASA",
+      "precio": 590000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "CASA",
+      "precio": 590000
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": "CASA",
+      "precio": 590000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "CASA",
+      "precio": 590000
+    },
+    {
+      "inmueble": "209",
+      "referencia": "209",
+      "tipo": "CASA",
+      "precio": 590000
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "CASA",
+      "precio": 590000
+    },
+    {
+      "inmueble": "210",
+      "referencia": "210",
+      "tipo": "CASA",
+      "precio": 590000
+    },
+    {
+      "inmueble": "211",
+      "referencia": "211",
+      "tipo": "CASA",
+      "precio": 590000
+    },
+    {
+      "inmueble": "212",
+      "referencia": "212",
+      "tipo": "CASA",
+      "precio": 590000
+    },
+    {
+      "inmueble": "213",
+      "referencia": "213",
+      "tipo": "CASA",
+      "precio": 590000
+    },
+    {
+      "inmueble": "214",
+      "referencia": "214",
+      "tipo": "CASA",
+      "precio": 590000
+    },
+    {
+      "inmueble": "215",
+      "referencia": "215",
+      "tipo": "CASA",
+      "precio": 590000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "co_ownership_id": "662195ceb53e3a001060d7ea",
+  "co_ownership_name": "SEGUNDA REFERENCIA NORTH POINT TORRE 3",
+  "address": "AK 7 156 68",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1534643",
+  "total": 11,
+  "apartamentos": [
+    {
+      "inmueble": "5108",
+      "referencia": "5108",
+      "tipo": "OTROS",
+      "precio": 700000
+    },
+    {
+      "inmueble": "107",
+      "referencia": "107",
+      "tipo": "LOCAL",
+      "precio": 700000
+    },
+    {
+      "inmueble": "108",
+      "referencia": "108",
+      "tipo": "LOCAL",
+      "precio": 700000
+    },
+    {
+      "inmueble": "5103",
+      "referencia": "5103",
+      "tipo": "OTROS",
+      "precio": 700000
+    },
+    {
+      "inmueble": "109",
+      "referencia": "109",
+      "tipo": "LOCAL",
+      "precio": 700000
+    },
+    {
+      "inmueble": "5104",
+      "referencia": "5104",
+      "tipo": "OTROS",
+      "precio": 700000
+    },
+    {
+      "inmueble": "110",
+      "referencia": "110",
+      "tipo": "LOCAL",
+      "precio": 700000
+    },
+    {
+      "inmueble": "5105",
+      "referencia": "5105",
+      "tipo": "OTROS",
+      "precio": 700000
+    },
+    {
+      "inmueble": "5106",
+      "referencia": "5106",
+      "tipo": "OTROS",
+      "precio": 700000
+    },
+    {
+      "inmueble": "5107",
+      "referencia": "5107",
+      "tipo": "OTROS",
+      "precio": 700000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

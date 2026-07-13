@@ -1,0 +1,60 @@
+{
+  "co_ownership_id": "69a2166600a3e9346bd51e8f",
+  "co_ownership_name": "EDIFICIO EL DIPLOMATICO PH",
+  "address": "CALLE 80 NO 9 92 ED DIPLOMATICO",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1636554",
+  "total": 8,
+  "apartamentos": [
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "5012",
+      "referencia": "5012",
+      "tipo": "OTROS",
+      "precio": 600000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 2
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "OTROS",
+      "precio": 1530000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "OTROS",
+      "precio": 700000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "OTROS",
+      "precio": 1106000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "OTROS",
+      "precio": 560000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "OTROS",
+      "precio": 600000
+    }
+  ]
+}

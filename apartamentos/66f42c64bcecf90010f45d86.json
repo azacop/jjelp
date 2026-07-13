@@ -1,0 +1,126 @@
+{
+  "co_ownership_id": "66f42c64bcecf90010f45d86",
+  "co_ownership_name": "EDIFICIO CAMELOT",
+  "address": "CR 55 82 96",
+  "city": "Barranquilla",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1561968",
+  "total": 19,
+  "apartamentos": [
+    {
+      "inmueble": "2A",
+      "referencia": "21",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "4B",
+      "referencia": "42",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "2B",
+      "referencia": "22",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "5A",
+      "referencia": "51",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "3A",
+      "referencia": "31",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "5B",
+      "referencia": "52",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "3B",
+      "referencia": "32",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "6A",
+      "referencia": "61",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "4A",
+      "referencia": "41",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "6B",
+      "referencia": "62",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "9B",
+      "referencia": "92",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "7A",
+      "referencia": "71",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "10A",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "10B",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "7B",
+      "referencia": "72",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "8A",
+      "referencia": "81",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "8B",
+      "referencia": "82",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "9A",
+      "referencia": "91",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    }
+  ]
+}

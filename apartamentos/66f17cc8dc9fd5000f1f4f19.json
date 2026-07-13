@@ -1,0 +1,36 @@
+{
+  "co_ownership_id": "66f17cc8dc9fd5000f1f4f19",
+  "co_ownership_name": "EDIFICIO GALA",
+  "address": "CR 9 73 24",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1561455",
+  "total": 4,
+  "apartamentos": [
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

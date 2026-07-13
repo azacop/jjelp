@@ -1,0 +1,318 @@
+{
+  "co_ownership_id": "623118016785560009984b23",
+  "co_ownership_name": "EDIFICIO FORTALEZA REAL - PH",
+  "address": "CL 123 # 7 07",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1454107",
+  "total": 51,
+  "apartamentos": [
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "LOCAL",
+      "precio": 300423
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "LOCAL",
+      "precio": 1069714
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "LOCAL",
+      "precio": 326906
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "LOCAL",
+      "precio": 424298
+    },
+    {
+      "inmueble": "209",
+      "referencia": "209",
+      "tipo": "LOCAL",
+      "precio": 699127
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "LOCAL",
+      "precio": 835795
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "LOCAL",
+      "precio": 558034
+    },
+    {
+      "inmueble": "307",
+      "referencia": "307",
+      "tipo": "LOCAL",
+      "precio": 508014
+    },
+    {
+      "inmueble": "606",
+      "referencia": "606",
+      "tipo": "LOCAL",
+      "precio": 533717
+    },
+    {
+      "inmueble": "506",
+      "referencia": "506",
+      "tipo": "LOCAL",
+      "precio": 558329
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "LOCAL",
+      "precio": 347793
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "LOCAL",
+      "precio": 334846
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "LOCAL",
+      "precio": 334848
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "LOCAL",
+      "precio": 832849
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "LOCAL",
+      "precio": 328671
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "LOCAL",
+      "precio": 416795
+    },
+    {
+      "inmueble": "405",
+      "referencia": "405",
+      "tipo": "LOCAL",
+      "precio": 664106
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "LOCAL",
+      "precio": 703682
+    },
+    {
+      "inmueble": "406",
+      "referencia": "406",
+      "tipo": "LOCAL",
+      "precio": 533170
+    },
+    {
+      "inmueble": "507",
+      "referencia": "507",
+      "tipo": "LOCAL",
+      "precio": 533320
+    },
+    {
+      "inmueble": "608",
+      "referencia": "608",
+      "tipo": "LOCAL",
+      "precio": 490804
+    },
+    {
+      "inmueble": "509",
+      "referencia": "509",
+      "tipo": "LOCAL",
+      "precio": 698099
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "LOCAL",
+      "precio": 364126
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "LOCAL",
+      "precio": 328817
+    },
+    {
+      "inmueble": "56",
+      "referencia": "56",
+      "tipo": "LOCAL",
+      "precio": 30643
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "LOCAL",
+      "precio": 341614
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "LOCAL",
+      "precio": 996151
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": "LOCAL",
+      "precio": 507867
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "LOCAL",
+      "precio": 304983
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "LOCAL",
+      "precio": 328524
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "LOCAL",
+      "precio": 409292
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "LOCAL",
+      "precio": 677052
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "LOCAL",
+      "precio": 409734
+    },
+    {
+      "inmueble": "407",
+      "referencia": "407",
+      "tipo": "LOCAL",
+      "precio": 519931
+    },
+    {
+      "inmueble": "408",
+      "referencia": "408",
+      "tipo": "LOCAL",
+      "precio": 509636
+    },
+    {
+      "inmueble": "309",
+      "referencia": "309",
+      "tipo": "LOCAL",
+      "precio": 713988
+    },
+    {
+      "inmueble": "508",
+      "referencia": "508",
+      "tipo": "LOCAL",
+      "precio": 490658
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "LOCAL",
+      "precio": 347940
+    },
+    {
+      "inmueble": "609",
+      "referencia": "609",
+      "tipo": "LOCAL",
+      "precio": 702659
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "LOCAL",
+      "precio": 346617
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "LOCAL",
+      "precio": 532876
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": "LOCAL",
+      "precio": 490217
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "LOCAL",
+      "precio": 347646
+    },
+    {
+      "inmueble": "605",
+      "referencia": "605",
+      "tipo": "LOCAL",
+      "precio": 634976
+    },
+    {
+      "inmueble": "505",
+      "referencia": "505",
+      "tipo": "LOCAL",
+      "precio": 634831
+    },
+    {
+      "inmueble": "308",
+      "referencia": "308",
+      "tipo": "LOCAL",
+      "precio": 491835
+    },
+    {
+      "inmueble": "607",
+      "referencia": "607",
+      "tipo": "LOCAL",
+      "precio": 508456
+    },
+    {
+      "inmueble": "409",
+      "referencia": "409",
+      "tipo": "LOCAL",
+      "precio": 697951
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "LOCAL",
+      "precio": 336024
+    },
+    {
+      "inmueble": "604",
+      "referencia": "604",
+      "tipo": "LOCAL",
+      "precio": 411353
+    }
+  ]
+}

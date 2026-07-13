@@ -1,0 +1,18 @@
+{
+  "co_ownership_id": "650de92f4059ca00110b4160",
+  "co_ownership_name": "PARQUES DE BOLIVAR LEANDRO DIAZ 1 ETAPA",
+  "address": "CALLE123",
+  "city": "Valledupar",
+  "department": "Cesar",
+  "country": "COLOMBIA",
+  "agreement_number": "1128883",
+  "total": 1,
+  "apartamentos": [
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "co_ownership_id": "63f5ec9f2e727700109c3142",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL VALLE ALTO  TURBACO",
+  "address": "URB EL VALLE CALLE 18 MZ Q LOTE 6",
+  "city": "Turbaco",
+  "department": "Bolívar",
+  "country": "COLOMBIA",
+  "agreement_number": "1220995",
+  "total": 15,
+  "apartamentos": [
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "APARTAMENTO",
+      "precio": 240000
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 240000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 240000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 240000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 240000
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "APARTAMENTO",
+      "precio": 265000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "APARTAMENTO",
+      "precio": 240000
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "APARTAMENTO",
+      "precio": 260000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "APARTAMENTO",
+      "precio": 240000
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "APARTAMENTO",
+      "precio": 270000
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "APARTAMENTO",
+      "precio": 240000
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "APARTAMENTO",
+      "precio": 255000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 240000
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "APARTAMENTO",
+      "precio": 240000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 230000
+    }
+  ]
+}

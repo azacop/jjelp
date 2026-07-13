@@ -1,0 +1,84 @@
+{
+  "co_ownership_id": "6904bfad1644cf44658bb9cf",
+  "co_ownership_name": "EDIFICIO MULTI RIGUEZ LOTE 2 PH",
+  "address": "TV 21 108 26",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1619295",
+  "total": 12,
+  "apartamentos": [
+    {
+      "inmueble": "AP301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1221000
+    },
+    {
+      "inmueble": "AP302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 1650000
+    },
+    {
+      "inmueble": "AP401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 1194000
+    },
+    {
+      "inmueble": "AP402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 1194000
+    },
+    {
+      "inmueble": "AP501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 1818000
+    },
+    {
+      "inmueble": "AP101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "AP102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 509000
+    },
+    {
+      "inmueble": "AP103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 1250000
+    },
+    {
+      "inmueble": "AP201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1166000
+    },
+    {
+      "inmueble": "AP202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 1166000
+    },
+    {
+      "inmueble": "AP502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 1799000
+    },
+    {
+      "inmueble": "AD999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "co_ownership_id": "675afdaf4eda4f000f5e94cb",
+  "co_ownership_name": "CONJUNTO COMERCIAL NAVARRA PH",
+  "address": "AV 3 19 39 BRR SAN LUIS CC NAVARRA",
+  "city": "Cúcuta",
+  "department": "Norte de Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1573435",
+  "total": 35,
+  "apartamentos": [
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "LOCAL",
+      "precio": 578100
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 750200
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 584800
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "LOCAL",
+      "precio": 578100
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "LOCAL",
+      "precio": 578100
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 578100
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "LOCAL",
+      "precio": 575600
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "LOCAL",
+      "precio": 578100
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "LOCAL",
+      "precio": 575800
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "LOCAL",
+      "precio": 578100
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "LOCAL",
+      "precio": 578100
+    },
+    {
+      "inmueble": "108",
+      "referencia": "108",
+      "tipo": "OFICINA",
+      "precio": 303300
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "LOCAL",
+      "precio": 578100
+    },
+    {
+      "inmueble": "109",
+      "referencia": "109",
+      "tipo": "OFICINA",
+      "precio": 304100
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "LOCAL",
+      "precio": 574200
+    },
+    {
+      "inmueble": "110",
+      "referencia": "110",
+      "tipo": "OFICINA",
+      "precio": 299200
+    },
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "OFICINA",
+      "precio": 304900
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "OFICINA",
+      "precio": 320100
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "OFICINA",
+      "precio": 303700
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "OFICINA",
+      "precio": 299200
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "OFICINA",
+      "precio": 304100
+    },
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": "OFICINA",
+      "precio": 303300
+    },
+    {
+      "inmueble": "107",
+      "referencia": "107",
+      "tipo": "OFICINA",
+      "precio": 301900
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": null,
+      "precio": 303300
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": null,
+      "precio": 508800
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": null,
+      "precio": 301900
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": null,
+      "precio": 320100
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": null,
+      "precio": 303300
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": null,
+      "precio": 303700
+    },
+    {
+      "inmueble": "209",
+      "referencia": "209",
+      "tipo": null,
+      "precio": 304100
+    },
+    {
+      "inmueble": "210",
+      "referencia": "210",
+      "tipo": null,
+      "precio": 299200
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": null,
+      "precio": 299200
+    },
+    {
+      "inmueble": "211",
+      "referencia": "211",
+      "tipo": null,
+      "precio": 304900
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": null,
+      "precio": 304100
+    }
+  ]
+}

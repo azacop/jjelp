@@ -1,0 +1,144 @@
+{
+  "co_ownership_id": "66e98f16e9336d0010d8b037",
+  "co_ownership_name": "CR JARDINES DE KENDALL",
+  "address": "CR 56 96 67 BARRANQUILLA",
+  "city": "Barranquilla",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1560275",
+  "total": 22,
+  "apartamentos": [
+    {
+      "inmueble": "CASA6",
+      "referencia": "6",
+      "tipo": "APARTAMENTO",
+      "precio": 826400
+    },
+    {
+      "inmueble": "CASA1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 812000
+    },
+    {
+      "inmueble": "CASA7",
+      "referencia": "7",
+      "tipo": "APARTAMENTO",
+      "precio": 770400
+    },
+    {
+      "inmueble": "CASA2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 784000
+    },
+    {
+      "inmueble": "CASA8",
+      "referencia": "8",
+      "tipo": "APARTAMENTO",
+      "precio": 802400
+    },
+    {
+      "inmueble": "CASA3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 812000
+    },
+    {
+      "inmueble": "CASA9",
+      "referencia": "9",
+      "tipo": "APARTAMENTO",
+      "precio": 770400
+    },
+    {
+      "inmueble": "CASA4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 784000
+    },
+    {
+      "inmueble": "CASA10",
+      "referencia": "10",
+      "tipo": "APARTAMENTO",
+      "precio": 826400
+    },
+    {
+      "inmueble": "CASA5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 812000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "CASA6",
+      "referencia": "6",
+      "tipo": "APARTAMENTO",
+      "precio": 826400
+    },
+    {
+      "inmueble": "CASA1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 812000
+    },
+    {
+      "inmueble": "CASA7",
+      "referencia": "7",
+      "tipo": "APARTAMENTO",
+      "precio": 770400
+    },
+    {
+      "inmueble": "CASA2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 784000
+    },
+    {
+      "inmueble": "CASA8",
+      "referencia": "8",
+      "tipo": "APARTAMENTO",
+      "precio": 802400
+    },
+    {
+      "inmueble": "CASA3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 812000
+    },
+    {
+      "inmueble": "CASA9",
+      "referencia": "9",
+      "tipo": "APARTAMENTO",
+      "precio": 770400
+    },
+    {
+      "inmueble": "CASA4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 784000
+    },
+    {
+      "inmueble": "CASA10",
+      "referencia": "10",
+      "tipo": "APARTAMENTO",
+      "precio": 826400
+    },
+    {
+      "inmueble": "CASA5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 812000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "CASA",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "co_ownership_id": "675709578240da0010e9e37d",
+  "co_ownership_name": "EDF UNIDAD RESIDENCIAL ARANJUEZ",
+  "address": "CL 85 19 C 12",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1573021",
+  "total": 14,
+  "apartamentos": [
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1262000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 2045000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 1410000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 1353000
+    },
+    {
+      "inmueble": "30202",
+      "referencia": "30202",
+      "tipo": "APARTAMENTO",
+      "precio": 1389000
+    },
+    {
+      "inmueble": "10102",
+      "referencia": "10102",
+      "tipo": "APARTAMENTO",
+      "precio": 1819000
+    },
+    {
+      "inmueble": "20102",
+      "referencia": "20102",
+      "tipo": "APARTAMENTO",
+      "precio": 1238000
+    },
+    {
+      "inmueble": "30102",
+      "referencia": "30102",
+      "tipo": "APARTAMENTO",
+      "precio": 1490000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 1374000
+    },
+    {
+      "inmueble": "20202",
+      "referencia": "20202",
+      "tipo": "APARTAMENTO",
+      "precio": 1200000
+    },
+    {
+      "inmueble": "99999",
+      "referencia": "99999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "40102",
+      "referencia": "40102",
+      "tipo": "APARTAMENTO",
+      "precio": 1467000
+    },
+    {
+      "inmueble": "40202",
+      "referencia": "40202",
+      "tipo": "APARTAMENTO",
+      "precio": 1344000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 1119000
+    }
+  ]
+}

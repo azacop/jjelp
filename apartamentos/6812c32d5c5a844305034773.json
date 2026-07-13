@@ -1,0 +1,30 @@
+{
+  "co_ownership_id": "6812c32d5c5a844305034773",
+  "co_ownership_name": "EDIFICIO ATTIK PH",
+  "address": "CL 93A 9A 09",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1591247",
+  "total": 3,
+  "apartamentos": [
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 2198000
+    },
+    {
+      "inmueble": "EDCALLE93",
+      "referencia": "93",
+      "tipo": "APARTAMENTO",
+      "precio": 28268000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

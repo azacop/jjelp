@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "68dc46a29b28775299514682",
+  "co_ownership_name": "SANTA ANITA PH",
+  "address": "CL 109 5 64",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1615343",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 2472001
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 2477002
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 2461003
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 2422004
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 2166005
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1832006
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 1
+    }
+  ]
+}

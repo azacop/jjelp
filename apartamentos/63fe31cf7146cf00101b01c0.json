@@ -1,0 +1,222 @@
+{
+  "co_ownership_id": "63fe31cf7146cf00101b01c0",
+  "co_ownership_name": "URBANIZACION NIRVANA",
+  "address": "BARRIO EL EDEN CL 1 EL EDEN  31  210",
+  "city": "Cartagena",
+  "department": "Bolívar",
+  "country": "COLOMBIA",
+  "agreement_number": "1488014",
+  "total": 35,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 230000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "OTROS",
+      "precio": 230005
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 230001
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "OTROS",
+      "precio": 230006
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "OTROS",
+      "precio": 230002
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "OTROS",
+      "precio": 230007
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "OTROS",
+      "precio": 230003
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 230008
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "OTROS",
+      "precio": 230015
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "OTROS",
+      "precio": 230004
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "OTROS",
+      "precio": 230009
+    },
+    {
+      "inmueble": "26",
+      "referencia": "26",
+      "tipo": "OTROS",
+      "precio": 230025
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "OTROS",
+      "precio": 230016
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "OTROS",
+      "precio": 230010
+    },
+    {
+      "inmueble": "27",
+      "referencia": "27",
+      "tipo": "OTROS",
+      "precio": 230026
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "OTROS",
+      "precio": 230017
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "OTROS",
+      "precio": 230011
+    },
+    {
+      "inmueble": "28",
+      "referencia": "28",
+      "tipo": "OTROS",
+      "precio": 230027
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "OTROS",
+      "precio": 230018
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "OTROS",
+      "precio": 230012
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": "OTROS",
+      "precio": 230019
+    },
+    {
+      "inmueble": "29",
+      "referencia": "29",
+      "tipo": "OTROS",
+      "precio": 230028
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "OTROS",
+      "precio": 230013
+    },
+    {
+      "inmueble": "30",
+      "referencia": "30",
+      "tipo": "OTROS",
+      "precio": 230029
+    },
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": "OTROS",
+      "precio": 230020
+    },
+    {
+      "inmueble": "31",
+      "referencia": "31",
+      "tipo": "OTROS",
+      "precio": 230030
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "OTROS",
+      "precio": 230014
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "OTROS",
+      "precio": 230021
+    },
+    {
+      "inmueble": "32",
+      "referencia": "32",
+      "tipo": "OTROS",
+      "precio": 230031
+    },
+    {
+      "inmueble": "23",
+      "referencia": "23",
+      "tipo": "OTROS",
+      "precio": 230022
+    },
+    {
+      "inmueble": "33",
+      "referencia": "33",
+      "tipo": "OTROS",
+      "precio": 230032
+    },
+    {
+      "inmueble": "24",
+      "referencia": "24",
+      "tipo": "OTROS",
+      "precio": 230023
+    },
+    {
+      "inmueble": "34",
+      "referencia": "34",
+      "tipo": "OTROS",
+      "precio": 230033
+    },
+    {
+      "inmueble": "25",
+      "referencia": "25",
+      "tipo": "OTROS",
+      "precio": 230024
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

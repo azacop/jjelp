@@ -1,0 +1,144 @@
+{
+  "co_ownership_id": "6374e475b929a700085119dd",
+  "co_ownership_name": "PARQUE INDUSTRIAL K 2 PH",
+  "address": "CR 1 4 02",
+  "city": "Chía",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1478734",
+  "total": 22,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "LOCAL",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "co_ownership_id": "635bd5d88e13730008fb971e",
+  "co_ownership_name": "EDIFICIO SANTA ANA PH",
+  "address": "CL 110 A 5 69",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1476969",
+  "total": 14,
+  "apartamentos": [
+    {
+      "inmueble": "9226",
+      "referencia": "9226",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "9230",
+      "referencia": "9230",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "9236",
+      "referencia": "9236",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "200",
+      "referencia": "200",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "1060",
+      "referencia": "1060",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "9206",
+      "referencia": "9206",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "9210",
+      "referencia": "9210",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "9212",
+      "referencia": "9212",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "9222",
+      "referencia": "9222",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

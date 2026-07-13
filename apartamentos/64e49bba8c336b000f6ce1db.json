@@ -1,0 +1,192 @@
+{
+  "co_ownership_id": "64e49bba8c336b000f6ce1db",
+  "co_ownership_name": "URBANIZACION CAMPESTRE SELVA MORADA LA HERRADURA MELGAR",
+  "address": "URB LA HERRADURA",
+  "city": "Melgar",
+  "department": "Tolima",
+  "country": "COLOMBIA",
+  "agreement_number": "1364959",
+  "total": 30,
+  "apartamentos": [
+    {
+      "inmueble": "1001",
+      "referencia": "1001",
+      "tipo": "APARTAMENTO",
+      "precio": 893630
+    },
+    {
+      "inmueble": "1002",
+      "referencia": "1002",
+      "tipo": "APARTAMENTO",
+      "precio": 349077
+    },
+    {
+      "inmueble": "1003",
+      "referencia": "1003",
+      "tipo": "APARTAMENTO",
+      "precio": 300817
+    },
+    {
+      "inmueble": "1004",
+      "referencia": "1004",
+      "tipo": "APARTAMENTO",
+      "precio": 316004
+    },
+    {
+      "inmueble": "1005",
+      "referencia": "1005",
+      "tipo": "APARTAMENTO",
+      "precio": 349072
+    },
+    {
+      "inmueble": "1006",
+      "referencia": "1006",
+      "tipo": "APARTAMENTO",
+      "precio": 328865
+    },
+    {
+      "inmueble": "1007",
+      "referencia": "1007",
+      "tipo": "APARTAMENTO",
+      "precio": 316004
+    },
+    {
+      "inmueble": "1008",
+      "referencia": "1008",
+      "tipo": "APARTAMENTO",
+      "precio": 316004
+    },
+    {
+      "inmueble": "1009",
+      "referencia": "1009",
+      "tipo": "APARTAMENTO",
+      "precio": 316004
+    },
+    {
+      "inmueble": "1010",
+      "referencia": "1010",
+      "tipo": "APARTAMENTO",
+      "precio": 316004
+    },
+    {
+      "inmueble": "1011",
+      "referencia": "1011",
+      "tipo": "APARTAMENTO",
+      "precio": 316004
+    },
+    {
+      "inmueble": "2001",
+      "referencia": "2001",
+      "tipo": "APARTAMENTO",
+      "precio": 301300
+    },
+    {
+      "inmueble": "1012",
+      "referencia": "1012",
+      "tipo": "APARTAMENTO",
+      "precio": 288440
+    },
+    {
+      "inmueble": "2002",
+      "referencia": "2002",
+      "tipo": "APARTAMENTO",
+      "precio": 316004
+    },
+    {
+      "inmueble": "1013",
+      "referencia": "1013",
+      "tipo": "APARTAMENTO",
+      "precio": 371114
+    },
+    {
+      "inmueble": "2003",
+      "referencia": "2003",
+      "tipo": "APARTAMENTO",
+      "precio": 288440
+    },
+    {
+      "inmueble": "1014",
+      "referencia": "1014",
+      "tipo": "APARTAMENTO",
+      "precio": 316004
+    },
+    {
+      "inmueble": "4001",
+      "referencia": "4001",
+      "tipo": "APARTAMENTO",
+      "precio": 396844
+    },
+    {
+      "inmueble": "2004",
+      "referencia": "2004",
+      "tipo": "APARTAMENTO",
+      "precio": 385819
+    },
+    {
+      "inmueble": "4002",
+      "referencia": "4002",
+      "tipo": "APARTAMENTO",
+      "precio": 288440
+    },
+    {
+      "inmueble": "1015",
+      "referencia": "1015",
+      "tipo": "APARTAMENTO",
+      "precio": 457462
+    },
+    {
+      "inmueble": "4003",
+      "referencia": "4003",
+      "tipo": "APARTAMENTO",
+      "precio": 552986
+    },
+    {
+      "inmueble": "2005",
+      "referencia": "2005",
+      "tipo": "APARTAMENTO",
+      "precio": 457462
+    },
+    {
+      "inmueble": "5001",
+      "referencia": "5001",
+      "tipo": "APARTAMENTO",
+      "precio": 100000
+    },
+    {
+      "inmueble": "2006",
+      "referencia": "2006",
+      "tipo": "APARTAMENTO",
+      "precio": 301300
+    },
+    {
+      "inmueble": "3001",
+      "referencia": "3001",
+      "tipo": "APARTAMENTO",
+      "precio": 735786
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 366098
+    },
+    {
+      "inmueble": "3002",
+      "referencia": "3002",
+      "tipo": "APARTAMENTO",
+      "precio": 328865
+    },
+    {
+      "inmueble": "3004",
+      "referencia": "3004",
+      "tipo": "APARTAMENTO",
+      "precio": 532765
+    },
+    {
+      "inmueble": "3006",
+      "referencia": "3006",
+      "tipo": "APARTAMENTO",
+      "precio": 446437
+    }
+  ]
+}

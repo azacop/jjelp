@@ -1,0 +1,204 @@
+{
+  "co_ownership_id": "664f4d6ffd9c200010786b99",
+  "co_ownership_name": "C HDA EL CABRERO CASAS DE CAMPO",
+  "address": "VIA AL AEROPUERTO CONJ HACIENDA EL CABRERO CASAS DE CAMPO VD",
+  "city": "Armenia",
+  "department": "Quindio",
+  "country": "COLOMBIA",
+  "agreement_number": "1540889",
+  "total": 32,
+  "apartamentos": [
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1653000
+    },
+    {
+      "inmueble": "31",
+      "referencia": "31",
+      "tipo": "CASA",
+      "precio": 2085000
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 2114000
+    },
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": "CASA",
+      "precio": 2734000
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 1653000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 2019000
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 2055000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "CASA",
+      "precio": 1947000
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 1659000
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 1766000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1796000
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 2404000
+    },
+    {
+      "inmueble": "23",
+      "referencia": "23",
+      "tipo": "CASA",
+      "precio": 1833000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 1839000
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 1707000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1653000
+    },
+    {
+      "inmueble": "24",
+      "referencia": "24",
+      "tipo": "CASA",
+      "precio": 1640000
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 1761000
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 1659000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 920000
+    },
+    {
+      "inmueble": "25",
+      "referencia": "25",
+      "tipo": "CASA",
+      "precio": 3293000
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "CASA",
+      "precio": 1653000
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "CASA",
+      "precio": 1833000
+    },
+    {
+      "inmueble": "26",
+      "referencia": "26",
+      "tipo": "CASA",
+      "precio": 2025000
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "CASA",
+      "precio": 1670000
+    },
+    {
+      "inmueble": "27",
+      "referencia": "27",
+      "tipo": "CASA",
+      "precio": 2254000
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "CASA",
+      "precio": 1659000
+    },
+    {
+      "inmueble": "28",
+      "referencia": "28",
+      "tipo": "CASA",
+      "precio": 2043000
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": "CASA",
+      "precio": 1815000
+    },
+    {
+      "inmueble": "29",
+      "referencia": "29",
+      "tipo": "CASA",
+      "precio": 2217000
+    },
+    {
+      "inmueble": "30",
+      "referencia": "30",
+      "tipo": "CASA",
+      "precio": 2001000
+    }
+  ]
+}

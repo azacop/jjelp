@@ -1,0 +1,126 @@
+{
+  "co_ownership_id": "64401e45632ec2001083f2ec",
+  "co_ownership_name": "ASESORIAS E COBRANZAS CAG SAS  SANTIAGO DE CALI",
+  "address": "CL 2 99 120 PRIMER PI",
+  "city": "Cali",
+  "department": "Valle del Cauca",
+  "country": "COLOMBIA",
+  "agreement_number": "1291152",
+  "total": 19,
+  "apartamentos": [
+    {
+      "inmueble": "16729360",
+      "referencia": "16729360",
+      "tipo": "APARTAMENTO",
+      "precio": 720000
+    },
+    {
+      "inmueble": "1004916636",
+      "referencia": "1004916636",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "1144025601",
+      "referencia": "1144025601",
+      "tipo": "APARTAMENTO",
+      "precio": 680000
+    },
+    {
+      "inmueble": "67014687",
+      "referencia": "67014687",
+      "tipo": "APARTAMENTO",
+      "precio": 570000
+    },
+    {
+      "inmueble": "32768541",
+      "referencia": "32768541",
+      "tipo": "APARTAMENTO",
+      "precio": 720000
+    },
+    {
+      "inmueble": "1033785630",
+      "referencia": "1033785630",
+      "tipo": "APARTAMENTO",
+      "precio": 750000
+    },
+    {
+      "inmueble": "1144041580",
+      "referencia": "1144041580",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "86061470",
+      "referencia": "86061470",
+      "tipo": "APARTAMENTO",
+      "precio": 660000
+    },
+    {
+      "inmueble": "3481",
+      "referencia": "3481",
+      "tipo": "APARTAMENTO",
+      "precio": 360000
+    },
+    {
+      "inmueble": "1107059752",
+      "referencia": "1107059752",
+      "tipo": "APARTAMENTO",
+      "precio": 520000
+    },
+    {
+      "inmueble": "1144076696",
+      "referencia": "1144076696",
+      "tipo": "APARTAMENTO",
+      "precio": 1670000
+    },
+    {
+      "inmueble": "94416086",
+      "referencia": "94416086",
+      "tipo": "APARTAMENTO",
+      "precio": 750000
+    },
+    {
+      "inmueble": "5995641",
+      "referencia": "5995641",
+      "tipo": "APARTAMENTO",
+      "precio": 550000
+    },
+    {
+      "inmueble": "1113687955",
+      "referencia": "1113687955",
+      "tipo": "APARTAMENTO",
+      "precio": 620000
+    },
+    {
+      "inmueble": "16666637",
+      "referencia": "16666637",
+      "tipo": "APARTAMENTO",
+      "precio": 720000
+    },
+    {
+      "inmueble": "9999999999",
+      "referencia": "9999999999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "66773014",
+      "referencia": "66773014",
+      "tipo": "APARTAMENTO",
+      "precio": 720000
+    },
+    {
+      "inmueble": "1130655416",
+      "referencia": "1130655416",
+      "tipo": "APARTAMENTO",
+      "precio": 750000
+    },
+    {
+      "inmueble": "16719247",
+      "referencia": "16719247",
+      "tipo": "APARTAMENTO",
+      "precio": 750000
+    }
+  ]
+}

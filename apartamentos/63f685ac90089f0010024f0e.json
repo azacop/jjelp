@@ -1,0 +1,192 @@
+{
+  "co_ownership_id": "63f685ac90089f0010024f0e",
+  "co_ownership_name": "CLL 5 CONJUNTO CERRADO ALTOS DEL OLIVAR",
+  "address": "CALLE 5 NORTE No 18 A 10",
+  "city": "Armenia",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1214881",
+  "total": 30,
+  "apartamentos": [
+    {
+      "inmueble": "3302",
+      "referencia": "3302",
+      "tipo": "APARTAMENTO",
+      "precio": 540000
+    },
+    {
+      "inmueble": "3103",
+      "referencia": "3103",
+      "tipo": "APARTAMENTO",
+      "precio": 239000
+    },
+    {
+      "inmueble": "3301",
+      "referencia": "3301",
+      "tipo": "APARTAMENTO",
+      "precio": 334000
+    },
+    {
+      "inmueble": "3102",
+      "referencia": "3102",
+      "tipo": "APARTAMENTO",
+      "precio": 331000
+    },
+    {
+      "inmueble": "3203",
+      "referencia": "3203",
+      "tipo": "APARTAMENTO",
+      "precio": 224000
+    },
+    {
+      "inmueble": "3101",
+      "referencia": "3101",
+      "tipo": "APARTAMENTO",
+      "precio": 329000
+    },
+    {
+      "inmueble": "3202",
+      "referencia": "3202",
+      "tipo": "APARTAMENTO",
+      "precio": 360000
+    },
+    {
+      "inmueble": "2401",
+      "referencia": "2401",
+      "tipo": "APARTAMENTO",
+      "precio": 167000
+    },
+    {
+      "inmueble": "2403",
+      "referencia": "2403",
+      "tipo": "APARTAMENTO",
+      "precio": 171000
+    },
+    {
+      "inmueble": "3201",
+      "referencia": "3201",
+      "tipo": "APARTAMENTO",
+      "precio": 332000
+    },
+    {
+      "inmueble": "1303",
+      "referencia": "1303",
+      "tipo": "APARTAMENTO",
+      "precio": 229000
+    },
+    {
+      "inmueble": "2303",
+      "referencia": "2303",
+      "tipo": "APARTAMENTO",
+      "precio": 173000
+    },
+    {
+      "inmueble": "2402",
+      "referencia": "2402",
+      "tipo": "APARTAMENTO",
+      "precio": 233000
+    },
+    {
+      "inmueble": "2302",
+      "referencia": "2302",
+      "tipo": "APARTAMENTO",
+      "precio": 241000
+    },
+    {
+      "inmueble": "1302",
+      "referencia": "1302",
+      "tipo": "APARTAMENTO",
+      "precio": 250000
+    },
+    {
+      "inmueble": "2301",
+      "referencia": "2301",
+      "tipo": "APARTAMENTO",
+      "precio": 168000
+    },
+    {
+      "inmueble": "1301",
+      "referencia": "1301",
+      "tipo": "APARTAMENTO",
+      "precio": 540000
+    },
+    {
+      "inmueble": "2203",
+      "referencia": "2203",
+      "tipo": "APARTAMENTO",
+      "precio": 172000
+    },
+    {
+      "inmueble": "1203",
+      "referencia": "1203",
+      "tipo": "APARTAMENTO",
+      "precio": 230000
+    },
+    {
+      "inmueble": "1202",
+      "referencia": "1202",
+      "tipo": "APARTAMENTO",
+      "precio": 255000
+    },
+    {
+      "inmueble": "2202",
+      "referencia": "2202",
+      "tipo": "APARTAMENTO",
+      "precio": 234000
+    },
+    {
+      "inmueble": "1201",
+      "referencia": "1201",
+      "tipo": "APARTAMENTO",
+      "precio": 325000
+    },
+    {
+      "inmueble": "2201",
+      "referencia": "2201",
+      "tipo": "APARTAMENTO",
+      "precio": 169000
+    },
+    {
+      "inmueble": "2103",
+      "referencia": "2103",
+      "tipo": "APARTAMENTO",
+      "precio": 121000
+    },
+    {
+      "inmueble": "1103",
+      "referencia": "1103",
+      "tipo": "APARTAMENTO",
+      "precio": 243000
+    },
+    {
+      "inmueble": "2102",
+      "referencia": "2102",
+      "tipo": "APARTAMENTO",
+      "precio": 252000
+    },
+    {
+      "inmueble": "1102",
+      "referencia": "1102",
+      "tipo": "APARTAMENTO",
+      "precio": 266000
+    },
+    {
+      "inmueble": "2101",
+      "referencia": "2101",
+      "tipo": "APARTAMENTO",
+      "precio": 130000
+    },
+    {
+      "inmueble": "1101",
+      "referencia": "1101",
+      "tipo": "APARTAMENTO",
+      "precio": 318000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "LOCAL",
+      "precio": 1
+    }
+  ]
+}

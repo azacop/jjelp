@@ -1,0 +1,114 @@
+{
+  "co_ownership_id": "69553f4ada228f5ce8ec0fd0",
+  "co_ownership_name": "EDIFICIO RESERVA DE SAN LUIS PH",
+  "address": "DG 61 B 22 A 57",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1628627",
+  "total": 17,
+  "apartamentos": [
+    {
+      "inmueble": "16",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 473609
+    },
+    {
+      "inmueble": "7",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 459792
+    },
+    {
+      "inmueble": "4",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 464398
+    },
+    {
+      "inmueble": "8",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 498172
+    },
+    {
+      "inmueble": "15",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 474377
+    },
+    {
+      "inmueble": "10",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 473609
+    },
+    {
+      "inmueble": "17",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 460560
+    },
+    {
+      "inmueble": "2",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 462863
+    },
+    {
+      "inmueble": "11",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 478982
+    },
+    {
+      "inmueble": "13",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 465166
+    },
+    {
+      "inmueble": "5",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 928028
+    },
+    {
+      "inmueble": "14",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 464398
+    },
+    {
+      "inmueble": "9",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 459792
+    },
+    {
+      "inmueble": "12",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 463630
+    },
+    {
+      "inmueble": "3",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 463630
+    },
+    {
+      "inmueble": "Local1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 184992
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

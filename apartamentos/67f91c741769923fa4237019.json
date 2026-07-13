@@ -1,0 +1,60 @@
+{
+  "co_ownership_id": "67f91c741769923fa4237019",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL LA CASCADA",
+  "address": "CRA 7A 32 96",
+  "city": "Girardot",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1587823",
+  "total": 8,
+  "apartamentos": [
+    {
+      "inmueble": "casa 6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 323000
+    },
+    {
+      "inmueble": "casa 7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 326000
+    },
+    {
+      "inmueble": "otro 9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "casa 1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 239000
+    },
+    {
+      "inmueble": "casa 2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 239000
+    },
+    {
+      "inmueble": "casa 3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 328000
+    },
+    {
+      "inmueble": "casa 4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 263000
+    },
+    {
+      "inmueble": "casa 5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 351000
+    }
+  ]
+}

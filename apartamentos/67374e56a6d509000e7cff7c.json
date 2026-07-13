@@ -1,0 +1,66 @@
+{
+  "co_ownership_id": "67374e56a6d509000e7cff7c",
+  "co_ownership_name": "EDIFICIO 85 SQUAR PH",
+  "address": "CLL 85 12 66",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1569763",
+  "total": 9,
+  "apartamentos": [
+    {
+      "inmueble": "local3",
+      "referencia": "13",
+      "tipo": "APARTAMENTO",
+      "precio": 975000
+    },
+    {
+      "inmueble": "OFIC4",
+      "referencia": "24",
+      "tipo": "APARTAMENTO",
+      "precio": 7441000
+    },
+    {
+      "inmueble": "OFIC1",
+      "referencia": "21",
+      "tipo": "APARTAMENTO",
+      "precio": 2374000
+    },
+    {
+      "inmueble": "OFIC5",
+      "referencia": "25",
+      "tipo": "APARTAMENTO",
+      "precio": 9078000
+    },
+    {
+      "inmueble": "OFIC11",
+      "referencia": "211",
+      "tipo": "APARTAMENTO",
+      "precio": 3228000
+    },
+    {
+      "inmueble": "OFIC6",
+      "referencia": "26",
+      "tipo": "APARTAMENTO",
+      "precio": 16811000
+    },
+    {
+      "inmueble": "OFIC2",
+      "referencia": "22",
+      "tipo": "APARTAMENTO",
+      "precio": 15566000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "OFIC3",
+      "referencia": "23",
+      "tipo": "APARTAMENTO",
+      "precio": 9287000
+    }
+  ]
+}

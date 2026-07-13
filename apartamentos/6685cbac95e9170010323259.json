@@ -1,0 +1,30 @@
+{
+  "co_ownership_id": "6685cbac95e9170010323259",
+  "co_ownership_name": "PRADOS DE SUBA ETAPA 2 -PH- PAGOS ZONAS COMUNES",
+  "address": "CR 102 155B 03",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1547579",
+  "total": 3,
+  "apartamentos": [
+    {
+      "inmueble": "99991",
+      "referencia": "99991",
+      "tipo": "OTROS",
+      "precio": 110000
+    },
+    {
+      "inmueble": "99992",
+      "referencia": "99992",
+      "tipo": "OTROS",
+      "precio": 70000
+    },
+    {
+      "inmueble": "99999",
+      "referencia": "99999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

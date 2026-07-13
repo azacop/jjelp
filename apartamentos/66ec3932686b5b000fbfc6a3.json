@@ -1,0 +1,60 @@
+{
+  "co_ownership_id": "66ec3932686b5b000fbfc6a3",
+  "co_ownership_name": "BOSQUE EL REFUGIO TORRE A",
+  "address": "CR 5 86 30 40",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1560721",
+  "total": 8,
+  "apartamentos": [
+    {
+      "inmueble": "TORREA201",
+      "referencia": "1201",
+      "tipo": "APARTAMENTO",
+      "precio": 1432080
+    },
+    {
+      "inmueble": "TORREA301",
+      "referencia": "1301",
+      "tipo": "APARTAMENTO",
+      "precio": 3158940
+    },
+    {
+      "inmueble": "TORREA401",
+      "referencia": "1401",
+      "tipo": "APARTAMENTO",
+      "precio": 3003900
+    },
+    {
+      "inmueble": "TORREA501",
+      "referencia": "1501",
+      "tipo": "APARTAMENTO",
+      "precio": 2765220
+    },
+    {
+      "inmueble": "TORREA601",
+      "referencia": "1601",
+      "tipo": "APARTAMENTO",
+      "precio": 2765220
+    },
+    {
+      "inmueble": "TORREA701",
+      "referencia": "1701",
+      "tipo": "APARTAMENTO",
+      "precio": 2765220
+    },
+    {
+      "inmueble": "TORREA801",
+      "referencia": "1801",
+      "tipo": "APARTAMENTO",
+      "precio": 4747080
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

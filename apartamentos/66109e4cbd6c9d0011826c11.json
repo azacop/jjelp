@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "66109e4cbd6c9d0011826c11",
+  "co_ownership_name": "EDIFICIO COLGAS P.H",
+  "address": "CL 37 8 43",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1533579",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "8999990681",
+      "referencia": "8999990681",
+      "tipo": "OTROS",
+      "precio": 500000
+    },
+    {
+      "inmueble": "8300895306",
+      "referencia": "8300895306",
+      "tipo": "OTROS",
+      "precio": 500000
+    },
+    {
+      "inmueble": "830122566",
+      "referencia": "830122566",
+      "tipo": "OTROS",
+      "precio": 500000
+    },
+    {
+      "inmueble": "900489399",
+      "referencia": "900489399",
+      "tipo": "OTROS",
+      "precio": 500000
+    },
+    {
+      "inmueble": "8600507501",
+      "referencia": "8600507501",
+      "tipo": "OTROS",
+      "precio": 500000
+    },
+    {
+      "inmueble": "26427337",
+      "referencia": "26427337",
+      "tipo": "OTROS",
+      "precio": 500000
+    },
+    {
+      "inmueble": "9999999999",
+      "referencia": "9999999999",
+      "tipo": "OTROS",
+      "precio": 999999
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "co_ownership_id": "67cefd3a1c997b312e9b39ef",
+  "co_ownership_name": "DANFE SERVICIOS ADMINISTRATIVOS",
+  "address": "KR 79 11 A 40",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1583228",
+  "total": 12,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "900770079",
+      "referencia": "900770079",
+      "tipo": "OTROS",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "830022446",
+      "referencia": "830022446",
+      "tipo": "OTROS",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "901626402",
+      "referencia": "901626402",
+      "tipo": "OTROS",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "832008621",
+      "referencia": "832008621",
+      "tipo": "OTROS",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "832008622",
+      "referencia": "832008622",
+      "tipo": "OTROS",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "900770079",
+      "referencia": "900770079",
+      "tipo": "OTROS",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "830022446",
+      "referencia": "830022446",
+      "tipo": "OTROS",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "901626402",
+      "referencia": "901626402",
+      "tipo": "OTROS",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "832008621",
+      "referencia": "832008621",
+      "tipo": "OTROS",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "832008622",
+      "referencia": "832008622",
+      "tipo": "OTROS",
+      "precio": 1000000
+    }
+  ]
+}

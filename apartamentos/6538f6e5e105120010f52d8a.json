@@ -1,0 +1,90 @@
+{
+  "co_ownership_id": "6538f6e5e105120010f52d8a",
+  "co_ownership_name": "CLUB RESIDENCIAL LA PROVENCE  ARMENIA",
+  "address": "KM 3 VIA EL AEROPUERTO EL EDEN",
+  "city": "Armenia",
+  "department": "Quindio",
+  "country": "COLOMBIA",
+  "agreement_number": "1272426",
+  "total": 13,
+  "apartamentos": [
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "APARTAMENTO",
+      "precio": 322300
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 346700
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 436800
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "APARTAMENTO",
+      "precio": 397500
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 417700
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "APARTAMENTO",
+      "precio": 344215
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 344215
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 417700
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "APARTAMENTO",
+      "precio": 299000
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "APARTAMENTO",
+      "precio": 353000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "APARTAMENTO",
+      "precio": 416600
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "APARTAMENTO",
+      "precio": 397500
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 371000
+    }
+  ]
+}

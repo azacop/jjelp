@@ -1,0 +1,300 @@
+{
+  "co_ownership_id": "63f62f509ed9c1000f50d7d1",
+  "co_ownership_name": "COPROPIEDAD EDIFICIO SOL DEL ESTE CARTAGENA",
+  "address": "BRR BOCAGRANDE CR 6 N 6 85",
+  "city": "Cartagena",
+  "department": "Bolívar",
+  "country": "COLOMBIA",
+  "agreement_number": "1330976",
+  "total": 48,
+  "apartamentos": [
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 1429500
+    },
+    {
+      "inmueble": "1202",
+      "referencia": "1202",
+      "tipo": "APARTAMENTO",
+      "precio": 1523900
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 1429500
+    },
+    {
+      "inmueble": "1401",
+      "referencia": "1401",
+      "tipo": "APARTAMENTO",
+      "precio": 2361900
+    },
+    {
+      "inmueble": "1501",
+      "referencia": "1501",
+      "tipo": "APARTAMENTO",
+      "precio": 2361900
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 1626600
+    },
+    {
+      "inmueble": "1601",
+      "referencia": "1601",
+      "tipo": "APARTAMENTO",
+      "precio": 2361900
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 1529500
+    },
+    {
+      "inmueble": "1701",
+      "referencia": "1701",
+      "tipo": "APARTAMENTO",
+      "precio": 2361900
+    },
+    {
+      "inmueble": "1801",
+      "referencia": "1801",
+      "tipo": "APARTAMENTO",
+      "precio": 2361900
+    },
+    {
+      "inmueble": "1901",
+      "referencia": "1901",
+      "tipo": "APARTAMENTO",
+      "precio": 2361900
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": "APARTAMENTO",
+      "precio": 1429500
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1269300
+    },
+    {
+      "inmueble": "2001",
+      "referencia": "2001",
+      "tipo": "APARTAMENTO",
+      "precio": 3043800
+    },
+    {
+      "inmueble": "901",
+      "referencia": "901",
+      "tipo": "APARTAMENTO",
+      "precio": 1626600
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1626600
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1188000
+    },
+    {
+      "inmueble": "902",
+      "referencia": "902",
+      "tipo": "APARTAMENTO",
+      "precio": 1429500
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 1417100
+    },
+    {
+      "inmueble": "1002",
+      "referencia": "1002",
+      "tipo": "APARTAMENTO",
+      "precio": 1429500
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 1429500
+    },
+    {
+      "inmueble": "1101",
+      "referencia": "1101",
+      "tipo": "APARTAMENTO",
+      "precio": 1721100
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 1614300
+    },
+    {
+      "inmueble": "1102",
+      "referencia": "1102",
+      "tipo": "APARTAMENTO",
+      "precio": 1429500
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 1429500
+    },
+    {
+      "inmueble": "1202",
+      "referencia": "1202",
+      "tipo": "APARTAMENTO",
+      "precio": 1523900
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 1429500
+    },
+    {
+      "inmueble": "1401",
+      "referencia": "1401",
+      "tipo": "APARTAMENTO",
+      "precio": 2361900
+    },
+    {
+      "inmueble": "1501",
+      "referencia": "1501",
+      "tipo": "APARTAMENTO",
+      "precio": 2361900
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 1626600
+    },
+    {
+      "inmueble": "1601",
+      "referencia": "1601",
+      "tipo": "APARTAMENTO",
+      "precio": 2361900
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 1529500
+    },
+    {
+      "inmueble": "1701",
+      "referencia": "1701",
+      "tipo": "APARTAMENTO",
+      "precio": 2361900
+    },
+    {
+      "inmueble": "1801",
+      "referencia": "1801",
+      "tipo": "APARTAMENTO",
+      "precio": 2361900
+    },
+    {
+      "inmueble": "1901",
+      "referencia": "1901",
+      "tipo": "APARTAMENTO",
+      "precio": 2361900
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": "APARTAMENTO",
+      "precio": 1429500
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1269300
+    },
+    {
+      "inmueble": "2001",
+      "referencia": "2001",
+      "tipo": "APARTAMENTO",
+      "precio": 3043800
+    },
+    {
+      "inmueble": "901",
+      "referencia": "901",
+      "tipo": "APARTAMENTO",
+      "precio": 1626600
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1626600
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1188000
+    },
+    {
+      "inmueble": "902",
+      "referencia": "902",
+      "tipo": "APARTAMENTO",
+      "precio": 1429500
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 1417100
+    },
+    {
+      "inmueble": "1002",
+      "referencia": "1002",
+      "tipo": "APARTAMENTO",
+      "precio": 1429500
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 1429500
+    },
+    {
+      "inmueble": "1101",
+      "referencia": "1101",
+      "tipo": "APARTAMENTO",
+      "precio": 1721100
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 1614300
+    },
+    {
+      "inmueble": "1102",
+      "referencia": "1102",
+      "tipo": "APARTAMENTO",
+      "precio": 1429500
+    }
+  ]
+}

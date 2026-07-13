@@ -1,0 +1,168 @@
+{
+  "co_ownership_id": "67df4f8e1769923fa4231f33",
+  "co_ownership_name": "EDIFICIO INN HOUSE 58 PH",
+  "address": "CLL 58 23 25",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1585355",
+  "total": 26,
+  "apartamentos": [
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 199000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 256000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 251000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 207000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 199000
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 251000
+    },
+    {
+      "inmueble": "M3",
+      "referencia": "23",
+      "tipo": "APARTAMENTO",
+      "precio": 21000
+    },
+    {
+      "inmueble": "P1",
+      "referencia": "11",
+      "tipo": "APARTAMENTO",
+      "precio": 88000
+    },
+    {
+      "inmueble": "D1",
+      "referencia": "31",
+      "tipo": "APARTAMENTO",
+      "precio": 15000
+    },
+    {
+      "inmueble": "D2",
+      "referencia": "32",
+      "tipo": "APARTAMENTO",
+      "precio": 15000
+    },
+    {
+      "inmueble": "P2",
+      "referencia": "12",
+      "tipo": "APARTAMENTO",
+      "precio": 88000
+    },
+    {
+      "inmueble": "M1",
+      "referencia": "21",
+      "tipo": "APARTAMENTO",
+      "precio": 21000
+    },
+    {
+      "inmueble": "D3",
+      "referencia": "33",
+      "tipo": "APARTAMENTO",
+      "precio": 22000
+    },
+    {
+      "inmueble": "M2",
+      "referencia": "22",
+      "tipo": "APARTAMENTO",
+      "precio": 21000
+    },
+    {
+      "inmueble": "D4",
+      "referencia": "34",
+      "tipo": "APARTAMENTO",
+      "precio": 18000
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 256000
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 251000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 207000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 199000
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 256000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 207000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 199000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 256000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 251000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 207000
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "co_ownership_id": "63d135fe76b22c0010614d53",
+  "co_ownership_name": "EDIFICIO MIRADOR DEL CASTILLO PROPIEDAD HORIZONTAL BOGOTA D.C.",
+  "address": "KR 2 A # 72 12",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1441955",
+  "total": 11,
+  "apartamentos": [
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 1429000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 444000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 1118000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 629000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 1354000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1356427
+    },
+    {
+      "inmueble": "5012",
+      "referencia": "5012",
+      "tipo": "APARTAMENTO",
+      "precio": 148000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 662000
+    },
+    {
+      "inmueble": "999999",
+      "referencia": "999999",
+      "tipo": "OTROS",
+      "precio": 814727
+    },
+    {
+      "inmueble": "301302",
+      "referencia": "301302",
+      "tipo": "APARTAMENTO",
+      "precio": 2684000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 509000
+    }
+  ]
+}

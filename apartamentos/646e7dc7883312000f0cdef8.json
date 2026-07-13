@@ -1,0 +1,66 @@
+{
+  "co_ownership_id": "646e7dc7883312000f0cdef8",
+  "co_ownership_name": "CLL 5 EDIFICIO TACASUAN PH",
+  "address": "CALLE 123",
+  "city": "Cartagena",
+  "department": "Bolívar",
+  "country": "COLOMBIA",
+  "agreement_number": "1167139",
+  "total": 9,
+  "apartamentos": [
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": "APARTAMENTO",
+      "precio": 1042100
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "APARTAMENTO",
+      "precio": 1442670
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "APARTAMENTO",
+      "precio": 400700
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "APARTAMENTO",
+      "precio": 1442670
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "APARTAMENTO",
+      "precio": 1442670
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 1442700
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 1442670
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1122095
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 1442670
+    }
+  ]
+}

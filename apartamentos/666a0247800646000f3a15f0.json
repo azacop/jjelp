@@ -1,0 +1,84 @@
+{
+  "co_ownership_id": "666a0247800646000f3a15f0",
+  "co_ownership_name": "EDIFICIO CALLE 96 - PH",
+  "address": "CL 96 8 A 45",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1543628",
+  "total": 12,
+  "apartamentos": [
+    {
+      "inmueble": "APTO401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 1679052
+    },
+    {
+      "inmueble": "APTO402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 402241
+    },
+    {
+      "inmueble": "APTO403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 1607440
+    },
+    {
+      "inmueble": "APTO501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 2082816
+    },
+    {
+      "inmueble": "APTO502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 402241
+    },
+    {
+      "inmueble": "APTO503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 2017300
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 2
+    },
+    {
+      "inmueble": "APTO201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1633342
+    },
+    {
+      "inmueble": "APTO202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 1723237
+    },
+    {
+      "inmueble": "APTO203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 1680575
+    },
+    {
+      "inmueble": "APTO204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 1605917
+    },
+    {
+      "inmueble": "APTO301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 402241
+    }
+  ]
+}

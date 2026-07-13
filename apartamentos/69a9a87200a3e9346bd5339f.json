@@ -1,0 +1,102 @@
+{
+  "co_ownership_id": "69a9a87200a3e9346bd5339f",
+  "co_ownership_name": "ASOCI DE RESID NEZER RESERVADO CAMPESTRE",
+  "address": "KM 9 VIA TUNJA PAIPA",
+  "city": "Boyacá",
+  "department": "Boyacá",
+  "country": "COLOMBIA",
+  "agreement_number": "1637230",
+  "total": 15,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "CASA",
+      "precio": 65000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "CASA",
+      "precio": 65000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "CASA",
+      "precio": 65000
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "CASA",
+      "precio": 65000
+    },
+    {
+      "inmueble": "505",
+      "referencia": "505",
+      "tipo": "CASA",
+      "precio": 65000
+    },
+    {
+      "inmueble": "606",
+      "referencia": "606",
+      "tipo": "CASA",
+      "precio": 65000
+    },
+    {
+      "inmueble": "707",
+      "referencia": "707",
+      "tipo": "CASA",
+      "precio": 65000
+    },
+    {
+      "inmueble": "808",
+      "referencia": "808",
+      "tipo": "CASA",
+      "precio": 65000
+    },
+    {
+      "inmueble": "909",
+      "referencia": "909",
+      "tipo": "CASA",
+      "precio": 65000
+    },
+    {
+      "inmueble": "1010",
+      "referencia": "1010",
+      "tipo": "CASA",
+      "precio": 65000
+    },
+    {
+      "inmueble": "1011",
+      "referencia": "1011",
+      "tipo": "CASA",
+      "precio": 65000
+    },
+    {
+      "inmueble": "1012",
+      "referencia": "1012",
+      "tipo": "CASA",
+      "precio": 65000
+    },
+    {
+      "inmueble": "1013",
+      "referencia": "1013",
+      "tipo": "CASA",
+      "precio": 65000
+    },
+    {
+      "inmueble": "1014",
+      "referencia": "1014",
+      "tipo": "CASA",
+      "precio": 65000
+    },
+    {
+      "inmueble": "1015",
+      "referencia": "1015",
+      "tipo": "CASA",
+      "precio": 65000
+    }
+  ]
+}

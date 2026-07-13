@@ -1,0 +1,18 @@
+{
+  "co_ownership_id": "650e0e90bdb83000104a3eef",
+  "co_ownership_name": "URBANIZACION NATURA PARQUE CENTRAL",
+  "address": "Sin direccion ",
+  "city": "Bucaramanga",
+  "department": "Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1127638",
+  "total": 1,
+  "apartamentos": [
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

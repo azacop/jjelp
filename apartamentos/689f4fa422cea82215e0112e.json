@@ -1,0 +1,174 @@
+{
+  "co_ownership_id": "689f4fa422cea82215e0112e",
+  "co_ownership_name": "EDIFICIO BOSQUE RESERVADO PH",
+  "address": "CL 86 11 89",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1608090",
+  "total": 27,
+  "apartamentos": [
+    {
+      "inmueble": "APTO   501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 1351000
+    },
+    {
+      "inmueble": "APTO   502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 1243000
+    },
+    {
+      "inmueble": "APTO   503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 1369000
+    },
+    {
+      "inmueble": "APTO   504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 1016000
+    },
+    {
+      "inmueble": "APTO   505",
+      "referencia": "505",
+      "tipo": "APARTAMENTO",
+      "precio": 1049000
+    },
+    {
+      "inmueble": "APTO   301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 943000
+    },
+    {
+      "inmueble": "APTO   201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 959000
+    },
+    {
+      "inmueble": "APTO   401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 937000
+    },
+    {
+      "inmueble": "APTO   402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 794000
+    },
+    {
+      "inmueble": "APTO   302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 806000
+    },
+    {
+      "inmueble": "APTO   202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 762000
+    },
+    {
+      "inmueble": "APTO   303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 979000
+    },
+    {
+      "inmueble": "APTO   403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 1002000
+    },
+    {
+      "inmueble": "APTO   203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 1023000
+    },
+    {
+      "inmueble": "APTO   404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 1017000
+    },
+    {
+      "inmueble": "APTO   304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 1016000
+    },
+    {
+      "inmueble": "APTO   204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 1020000
+    },
+    {
+      "inmueble": "APTO   305",
+      "referencia": "305",
+      "tipo": "APARTAMENTO",
+      "precio": 1023000
+    },
+    {
+      "inmueble": "APTO   205",
+      "referencia": "205",
+      "tipo": "APARTAMENTO",
+      "precio": 1013000
+    },
+    {
+      "inmueble": "APTO   405",
+      "referencia": "405",
+      "tipo": "APARTAMENTO",
+      "precio": 1060000
+    },
+    {
+      "inmueble": "APTO   601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 1694000
+    },
+    {
+      "inmueble": "APTO   101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 1092000
+    },
+    {
+      "inmueble": "APTO   102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 796000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "APTO   103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 954000
+    },
+    {
+      "inmueble": "APTO   104",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 987000
+    },
+    {
+      "inmueble": "APTO  105",
+      "referencia": "105",
+      "tipo": "APARTAMENTO",
+      "precio": 987000
+    }
+  ]
+}

@@ -1,0 +1,192 @@
+{
+  "co_ownership_id": "64e495178d955d00107b4fcd",
+  "co_ownership_name": "VEREDA SAN JUAN LA PRADERA BOSQUE RESIDENCIAL",
+  "address": "VEREDA SAN JUAN DE CAROLINA AVENIDA CENTENARIO 50",
+  "city": "Armenia",
+  "department": "Quindio",
+  "country": "COLOMBIA",
+  "agreement_number": "1208412",
+  "total": 30,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 1651000
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 1650600
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "CASA",
+      "precio": 1660700
+    },
+    {
+      "inmueble": "23",
+      "referencia": "23",
+      "tipo": "CASA",
+      "precio": 1689400
+    },
+    {
+      "inmueble": "28",
+      "referencia": "28",
+      "tipo": "CASA",
+      "precio": 1723000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1651200
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 1814200
+    },
+    {
+      "inmueble": "24",
+      "referencia": "24",
+      "tipo": "CASA",
+      "precio": 1718200
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 1650900
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1660600
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 1751800
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 1651300
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "CASA",
+      "precio": 1828600
+    },
+    {
+      "inmueble": "25",
+      "referencia": "25",
+      "tipo": "CASA",
+      "precio": 1718300
+    },
+    {
+      "inmueble": "30",
+      "referencia": "30",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 1650800
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": "CASA",
+      "precio": 1665500
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 1651400
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "CASA",
+      "precio": 1823800
+    },
+    {
+      "inmueble": "26",
+      "referencia": "26",
+      "tipo": "CASA",
+      "precio": 1727800
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 1650700
+    },
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": "CASA",
+      "precio": 1665400
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1651100
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 1651500
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "CASA",
+      "precio": 1828700
+    },
+    {
+      "inmueble": "27",
+      "referencia": "27",
+      "tipo": "CASA",
+      "precio": 1723100
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "CASA",
+      "precio": 1723200
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 1655800
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 2106900
+    }
+  ]
+}

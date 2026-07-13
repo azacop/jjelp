@@ -1,0 +1,24 @@
+{
+  "co_ownership_id": "6609e1384a45a0000fdee6b8",
+  "co_ownership_name": "AS CORPORACION PATINAJE",
+  "address": "DG 40 NO. 36 123",
+  "city": "Soacha",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1533116",
+  "total": 2,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 5000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 5000
+    }
+  ]
+}

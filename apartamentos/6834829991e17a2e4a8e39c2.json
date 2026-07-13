@@ -1,0 +1,60 @@
+{
+  "co_ownership_id": "6834829991e17a2e4a8e39c2",
+  "co_ownership_name": "PROMA GERENCIA DE PROYECTOS Y PR",
+  "address": "CR 92 34 59",
+  "city": "Cali",
+  "department": "Valle del Cauca",
+  "country": "COLOMBIA",
+  "agreement_number": "1594605",
+  "total": 8,
+  "apartamentos": [
+    {
+      "inmueble": "901339381",
+      "referencia": "901339381",
+      "tipo": "OTROS",
+      "precio": 400000
+    },
+    {
+      "inmueble": "901790471",
+      "referencia": "901790471",
+      "tipo": "OTROS",
+      "precio": 400000
+    },
+    {
+      "inmueble": "999999999",
+      "referencia": "999999999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "805008458",
+      "referencia": "805008458",
+      "tipo": "OTROS",
+      "precio": 400000
+    },
+    {
+      "inmueble": "901182919",
+      "referencia": "901182919",
+      "tipo": "OTROS",
+      "precio": 400000
+    },
+    {
+      "inmueble": "901227650",
+      "referencia": "901227650",
+      "tipo": "OTROS",
+      "precio": 400000
+    },
+    {
+      "inmueble": "805003291",
+      "referencia": "805003291",
+      "tipo": "OTROS",
+      "precio": 400000
+    },
+    {
+      "inmueble": "805013650",
+      "referencia": "805013650",
+      "tipo": "OTROS",
+      "precio": 400000
+    }
+  ]
+}

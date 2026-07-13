@@ -1,0 +1,210 @@
+{
+  "co_ownership_id": "676abcec7bce8d000ffa8350",
+  "co_ownership_name": "EDIF CENTR COMERCIAL RESTREPO PH",
+  "address": "CALLE 17 SUR 16 91",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1574904",
+  "total": 33,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 280000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 280000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "OTROS",
+      "precio": 280000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "OTROS",
+      "precio": 280000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "OTROS",
+      "precio": 280000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "OTROS",
+      "precio": 280000
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "OTROS",
+      "precio": 280000
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "OTROS",
+      "precio": 280000
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "OTROS",
+      "precio": 280000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "OFICINA",
+      "precio": 280000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 280000
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "OTROS",
+      "precio": 280000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "OFICINA",
+      "precio": 280000
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "OTROS",
+      "precio": 280000
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "OTROS",
+      "precio": 280000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "OFICINA",
+      "precio": 280000
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "OTROS",
+      "precio": 280000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "OFICINA",
+      "precio": 280000
+    },
+    {
+      "inmueble": "1691",
+      "referencia": "1691",
+      "tipo": "LOCAL",
+      "precio": 280000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "OFICINA",
+      "precio": 280000
+    },
+    {
+      "inmueble": "1702",
+      "referencia": "1702",
+      "tipo": "LOCAL",
+      "precio": 280000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "OFICINA",
+      "precio": 280000
+    },
+    {
+      "inmueble": "1706",
+      "referencia": "1706",
+      "tipo": "LOCAL",
+      "precio": 280000
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "OFICINA",
+      "precio": 280000
+    },
+    {
+      "inmueble": "1708",
+      "referencia": "1708",
+      "tipo": "LOCAL",
+      "precio": 280000
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "OFICINA",
+      "precio": 280000
+    },
+    {
+      "inmueble": "1714",
+      "referencia": "1714",
+      "tipo": "LOCAL",
+      "precio": 280000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "OFICINA",
+      "precio": 280000
+    },
+    {
+      "inmueble": "1718",
+      "referencia": "1718",
+      "tipo": "LOCAL",
+      "precio": 280000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "OFICINA",
+      "precio": 280000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "OFICINA",
+      "precio": 280000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "OFICINA",
+      "precio": 280000
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "co_ownership_id": "650de9302ca4720010567040",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL RESERVAS DEL MAR I",
+  "address": "Sin direccion ",
+  "city": "Barranquilla",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1142637",
+  "total": 1,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "co_ownership_id": "671ba96700f8ea00108368f6",
+  "co_ownership_name": "INTEGRAHOGAR SAS",
+  "address": "CL 182 45 85",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1566892",
+  "total": 6,
+  "apartamentos": [
+    {
+      "inmueble": "901562766",
+      "referencia": "901562766",
+      "tipo": "OTROS",
+      "precio": 450000
+    },
+    {
+      "inmueble": "901198926",
+      "referencia": "901198926",
+      "tipo": "OTROS",
+      "precio": 450000
+    },
+    {
+      "inmueble": "900725487",
+      "referencia": "900725487",
+      "tipo": "OTROS",
+      "precio": 450000
+    },
+    {
+      "inmueble": "830051698",
+      "referencia": "830051698",
+      "tipo": "OTROS",
+      "precio": 450000
+    },
+    {
+      "inmueble": "901228638",
+      "referencia": "901228638",
+      "tipo": "OTROS",
+      "precio": 450000
+    },
+    {
+      "inmueble": "999999999",
+      "referencia": "999999999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

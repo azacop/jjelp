@@ -1,0 +1,30 @@
+{
+  "co_ownership_id": "68dc37959b28775299513420",
+  "co_ownership_name": "SALITRE PLAZA CC",
+  "address": "CARRERA 68 B 24 39",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1614684",
+  "total": 3,
+  "apartamentos": [
+    {
+      "inmueble": "Parq101",
+      "referencia": "101",
+      "tipo": "OTROS",
+      "precio": 80000
+    },
+    {
+      "inmueble": "Parq102",
+      "referencia": "102",
+      "tipo": "OTROS",
+      "precio": 80000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

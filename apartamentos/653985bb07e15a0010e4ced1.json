@@ -1,0 +1,330 @@
+{
+  "co_ownership_id": "653985bb07e15a0010e4ced1",
+  "co_ownership_name": "LOS SUTAGAOS CONDOMINIO CAMPESTRE PROPIEDAD HORIZONTAL",
+  "address": "CALLE 45 A 28 62",
+  "city": "Pandi",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1160035",
+  "total": 53,
+  "apartamentos": [
+    {
+      "inmueble": "115",
+      "referencia": "115",
+      "tipo": "APARTAMENTO",
+      "precio": 271451
+    },
+    {
+      "inmueble": "129",
+      "referencia": "129",
+      "tipo": "CASA",
+      "precio": 240295
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "APARTAMENTO",
+      "precio": 235319
+    },
+    {
+      "inmueble": "23",
+      "referencia": "23",
+      "tipo": "APARTAMENTO",
+      "precio": 312084
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "APARTAMENTO",
+      "precio": 311662
+    },
+    {
+      "inmueble": "217",
+      "referencia": "217",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "APARTAMENTO",
+      "precio": 271631
+    },
+    {
+      "inmueble": "117",
+      "referencia": "117",
+      "tipo": "APARTAMENTO",
+      "precio": 251038
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "APARTAMENTO",
+      "precio": 184748
+    },
+    {
+      "inmueble": "218",
+      "referencia": "218",
+      "tipo": "APARTAMENTO",
+      "precio": 150600
+    },
+    {
+      "inmueble": "24",
+      "referencia": "24",
+      "tipo": "APARTAMENTO",
+      "precio": 415277
+    },
+    {
+      "inmueble": "110",
+      "referencia": "110",
+      "tipo": "APARTAMENTO",
+      "precio": 260256
+    },
+    {
+      "inmueble": "119",
+      "referencia": "119",
+      "tipo": "APARTAMENTO",
+      "precio": 364230
+    },
+    {
+      "inmueble": "133",
+      "referencia": "133",
+      "tipo": "APARTAMENTO",
+      "precio": 161292
+    },
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "219",
+      "referencia": "219",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "25",
+      "referencia": "25",
+      "tipo": "APARTAMENTO",
+      "precio": 173392
+    },
+    {
+      "inmueble": "134",
+      "referencia": "134",
+      "tipo": "APARTAMENTO",
+      "precio": 147625
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "APARTAMENTO",
+      "precio": 289988
+    },
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "135",
+      "referencia": "135",
+      "tipo": "APARTAMENTO",
+      "precio": 467000
+    },
+    {
+      "inmueble": "26",
+      "referencia": "26",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "210",
+      "referencia": "210",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "APARTAMENTO",
+      "precio": 248577
+    },
+    {
+      "inmueble": "136",
+      "referencia": "136",
+      "tipo": "APARTAMENTO",
+      "precio": 296879
+    },
+    {
+      "inmueble": "121",
+      "referencia": "121",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "211",
+      "referencia": "211",
+      "tipo": "APARTAMENTO",
+      "precio": 211463
+    },
+    {
+      "inmueble": "27",
+      "referencia": "27",
+      "tipo": "APARTAMENTO",
+      "precio": 347781
+    },
+    {
+      "inmueble": "220",
+      "referencia": "220",
+      "tipo": "APARTAMENTO",
+      "precio": 265094
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "APARTAMENTO",
+      "precio": 233913
+    },
+    {
+      "inmueble": "212",
+      "referencia": "212",
+      "tipo": "APARTAMENTO",
+      "precio": 307407
+    },
+    {
+      "inmueble": "123",
+      "referencia": "123",
+      "tipo": "APARTAMENTO",
+      "precio": 312497
+    },
+    {
+      "inmueble": "114",
+      "referencia": "114",
+      "tipo": "APARTAMENTO",
+      "precio": 260218
+    },
+    {
+      "inmueble": "28",
+      "referencia": "28",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "221",
+      "referencia": "221",
+      "tipo": "APARTAMENTO",
+      "precio": 295009
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "APARTAMENTO",
+      "precio": 317457
+    },
+    {
+      "inmueble": "213",
+      "referencia": "213",
+      "tipo": "APARTAMENTO",
+      "precio": 262228
+    },
+    {
+      "inmueble": "125",
+      "referencia": "125",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "29",
+      "referencia": "29",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "222",
+      "referencia": "222",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "214",
+      "referencia": "214",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "126",
+      "referencia": "126",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 230734
+    },
+    {
+      "inmueble": "223",
+      "referencia": "223",
+      "tipo": "APARTAMENTO",
+      "precio": 349516
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "215",
+      "referencia": "215",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "127",
+      "referencia": "127",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "224",
+      "referencia": "224",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "216",
+      "referencia": "216",
+      "tipo": "APARTAMENTO",
+      "precio": 282157
+    },
+    {
+      "inmueble": "128",
+      "referencia": "128",
+      "tipo": "APARTAMENTO",
+      "precio": 230734
+    },
+    {
+      "inmueble": "225",
+      "referencia": "225",
+      "tipo": "APARTAMENTO",
+      "precio": 520500
+    }
+  ]
+}

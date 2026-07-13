@@ -1,0 +1,252 @@
+{
+  "co_ownership_id": "670fd01ee6933b0010255c40",
+  "co_ownership_name": "CEN EMPR VALLE DE ATRIZ CONSULT",
+  "address": "AV PANAMERICANA 18 A 94",
+  "city": "Pasto",
+  "department": "Nariño",
+  "country": "COLOMBIA",
+  "agreement_number": "1564921",
+  "total": 40,
+  "apartamentos": [
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "OTROS",
+      "precio": 217000
+    },
+    {
+      "inmueble": "506",
+      "referencia": "506",
+      "tipo": "OTROS",
+      "precio": 215000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "OTROS",
+      "precio": 219000
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "OTROS",
+      "precio": 214000
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "OTROS",
+      "precio": 250000
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "OTROS",
+      "precio": 261000
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "OTROS",
+      "precio": 1628000
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "OTROS",
+      "precio": 1262000
+    },
+    {
+      "inmueble": "505",
+      "referencia": "505",
+      "tipo": "OTROS",
+      "precio": 2842000
+    },
+    {
+      "inmueble": "604",
+      "referencia": "604",
+      "tipo": "OTROS",
+      "precio": 247000
+    },
+    {
+      "inmueble": "605",
+      "referencia": "605",
+      "tipo": "OTROS",
+      "precio": 273000
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "OTROS",
+      "precio": 212000
+    },
+    {
+      "inmueble": "606",
+      "referencia": "606",
+      "tipo": "OTROS",
+      "precio": 273000
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "OTROS",
+      "precio": 269000
+    },
+    {
+      "inmueble": "805",
+      "referencia": "805",
+      "tipo": "OTROS",
+      "precio": 260000
+    },
+    {
+      "inmueble": "607",
+      "referencia": "607",
+      "tipo": "OTROS",
+      "precio": 247000
+    },
+    {
+      "inmueble": "703",
+      "referencia": "703",
+      "tipo": "OTROS",
+      "precio": 292000
+    },
+    {
+      "inmueble": "608",
+      "referencia": "608",
+      "tipo": "OTROS",
+      "precio": 297000
+    },
+    {
+      "inmueble": "806",
+      "referencia": "806",
+      "tipo": "OTROS",
+      "precio": 299000
+    },
+    {
+      "inmueble": "704",
+      "referencia": "704",
+      "tipo": "OTROS",
+      "precio": 283000
+    },
+    {
+      "inmueble": "609",
+      "referencia": "609",
+      "tipo": "OTROS",
+      "precio": 229000
+    },
+    {
+      "inmueble": "901",
+      "referencia": "901",
+      "tipo": "OTROS",
+      "precio": 213000
+    },
+    {
+      "inmueble": "705",
+      "referencia": "705",
+      "tipo": "OTROS",
+      "precio": 265000
+    },
+    {
+      "inmueble": "610",
+      "referencia": "610",
+      "tipo": "OTROS",
+      "precio": 266000
+    },
+    {
+      "inmueble": "902",
+      "referencia": "902",
+      "tipo": "OTROS",
+      "precio": 264000
+    },
+    {
+      "inmueble": "706",
+      "referencia": "706",
+      "tipo": "OTROS",
+      "precio": 302000
+    },
+    {
+      "inmueble": "611",
+      "referencia": "611",
+      "tipo": "OTROS",
+      "precio": 258000
+    },
+    {
+      "inmueble": "903A",
+      "referencia": "9031",
+      "tipo": "OTROS",
+      "precio": 144000
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "OTROS",
+      "precio": 213000
+    },
+    {
+      "inmueble": "612",
+      "referencia": "612",
+      "tipo": "OTROS",
+      "precio": 248000
+    },
+    {
+      "inmueble": "903B",
+      "referencia": "9032",
+      "tipo": "OTROS",
+      "precio": 144000
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": "OTROS",
+      "precio": 284000
+    },
+    {
+      "inmueble": "904",
+      "referencia": "904",
+      "tipo": "OTROS",
+      "precio": 308000
+    },
+    {
+      "inmueble": "803",
+      "referencia": "803",
+      "tipo": "OTROS",
+      "precio": 285000
+    },
+    {
+      "inmueble": "613",
+      "referencia": "613",
+      "tipo": "OTROS",
+      "precio": 272000
+    },
+    {
+      "inmueble": "905",
+      "referencia": "905",
+      "tipo": "OTROS",
+      "precio": 240000
+    },
+    {
+      "inmueble": "804",
+      "referencia": "804",
+      "tipo": "OTROS",
+      "precio": 288000
+    },
+    {
+      "inmueble": "614",
+      "referencia": "614",
+      "tipo": "OTROS",
+      "precio": 391000
+    },
+    {
+      "inmueble": "906",
+      "referencia": "906",
+      "tipo": "OTROS",
+      "precio": 301000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

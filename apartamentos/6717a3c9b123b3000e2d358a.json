@@ -1,0 +1,66 @@
+{
+  "co_ownership_id": "6717a3c9b123b3000e2d358a",
+  "co_ownership_name": "EDIFICIO MACAXIAL PH",
+  "address": "KR 11 A 114 20",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1565886",
+  "total": 9,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": null,
+      "precio": 972800
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": null,
+      "precio": 1359000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": null,
+      "precio": 906100
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": null,
+      "precio": 931200
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": null,
+      "precio": 954100
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": null,
+      "precio": 2000000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": null,
+      "precio": 940400
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": null,
+      "precio": 1970300
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

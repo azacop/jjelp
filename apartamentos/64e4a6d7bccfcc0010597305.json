@@ -1,0 +1,246 @@
+{
+  "co_ownership_id": "64e4a6d7bccfcc0010597305",
+  "co_ownership_name": "CONDOMINIO ALTOS DEL CHANEQUE PROPIEDAD HORIZONTAL BARBOSA",
+  "address": "DASEMISA KM 4 VIA PUENTE NACIONAL BARBOSA",
+  "city": "Barbosa",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1352509",
+  "total": 39,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "APARTAMENTO",
+      "precio": 206071
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "APARTAMENTO",
+      "precio": 210613
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "APARTAMENTO",
+      "precio": 200018
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "APARTAMENTO",
+      "precio": 223401
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "APARTAMENTO",
+      "precio": 242021
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 254942
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": "APARTAMENTO",
+      "precio": 224748
+    },
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": "APARTAMENTO",
+      "precio": 227091
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "APARTAMENTO",
+      "precio": 248772
+    },
+    {
+      "inmueble": "28",
+      "referencia": "28",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "29",
+      "referencia": "29",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "23",
+      "referencia": "23",
+      "tipo": "APARTAMENTO",
+      "precio": 227091
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "24",
+      "referencia": "24",
+      "tipo": "APARTAMENTO",
+      "precio": 211611
+    },
+    {
+      "inmueble": "30",
+      "referencia": "30",
+      "tipo": "APARTAMENTO",
+      "precio": 211238
+    },
+    {
+      "inmueble": "25",
+      "referencia": "25",
+      "tipo": "APARTAMENTO",
+      "precio": 208336
+    },
+    {
+      "inmueble": "31",
+      "referencia": "31",
+      "tipo": "APARTAMENTO",
+      "precio": 215332
+    },
+    {
+      "inmueble": "37",
+      "referencia": "37",
+      "tipo": "APARTAMENTO",
+      "precio": 212450
+    },
+    {
+      "inmueble": "26",
+      "referencia": "26",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "32",
+      "referencia": "32",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "38",
+      "referencia": "38",
+      "tipo": "APARTAMENTO",
+      "precio": 217354
+    },
+    {
+      "inmueble": "33",
+      "referencia": "33",
+      "tipo": "APARTAMENTO",
+      "precio": 209249
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "27",
+      "referencia": "27",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "34",
+      "referencia": "34",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "35",
+      "referencia": "35",
+      "tipo": "APARTAMENTO",
+      "precio": 205204
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "APARTAMENTO",
+      "precio": 205216
+    },
+    {
+      "inmueble": "36",
+      "referencia": "36",
+      "tipo": "APARTAMENTO",
+      "precio": 256229
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "APARTAMENTO",
+      "precio": 204984
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "APARTAMENTO",
+      "precio": 205571
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 204984
+    }
+  ]
+}

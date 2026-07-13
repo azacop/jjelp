@@ -1,0 +1,42 @@
+{
+  "co_ownership_id": "6812c7215c5a844305035152",
+  "co_ownership_name": "EDIFICIO CONCORD CENTER 122 PH",
+  "address": "TV 17 120 74",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1591478",
+  "total": 5,
+  "apartamentos": [
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "LOCAL",
+      "precio": 500000
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "LOCAL",
+      "precio": 500000
+    },
+    {
+      "inmueble": "123",
+      "referencia": "123",
+      "tipo": "LOCAL",
+      "precio": 500000
+    },
+    {
+      "inmueble": "124",
+      "referencia": "124",
+      "tipo": "LOCAL",
+      "precio": 500000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

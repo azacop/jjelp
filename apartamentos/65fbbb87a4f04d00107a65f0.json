@@ -1,0 +1,114 @@
+{
+  "co_ownership_id": "65fbbb87a4f04d00107a65f0",
+  "co_ownership_name": "CONJUNTO CERRADO EL NOGAL  SAN GIL",
+  "address": "KR 2 11 111",
+  "city": "San Gil",
+  "department": "Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1288125",
+  "total": 17,
+  "apartamentos": [
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": null,
+      "precio": 633800
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": null,
+      "precio": 456400
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": null,
+      "precio": 456400
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": null,
+      "precio": 545100
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": null,
+      "precio": 456400
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": null,
+      "precio": 633800
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": null,
+      "precio": 665200
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": null,
+      "precio": 678200
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": null,
+      "precio": 456400
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": null,
+      "precio": 951700
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": null,
+      "precio": 443500
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": null,
+      "precio": 545100
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": null,
+      "precio": 1064300
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": null,
+      "precio": 545100
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": null,
+      "precio": 864300
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": null,
+      "precio": 704100
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": null,
+      "precio": 443500
+    }
+  ]
+}

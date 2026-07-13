@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "67409d144bbaad000e4e6cca",
+  "co_ownership_name": "EDF CALLE 73 SEGUNDA ETAPA PH",
+  "address": "CL 73 7 60",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1570753",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "LOCAL",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "co_ownership_id": "675c3c160437c4000fa3584e",
+  "co_ownership_name": "CR CAMINOS DEL SANTUARIO",
+  "address": "VDA LA FUENTE CN AL SANTUARIO",
+  "city": "Tocancipá",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1573617",
+  "total": 12,
+  "apartamentos": [
+    {
+      "inmueble": "CASA 2A",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 550001
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 1100000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 550000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1100000
+    },
+    {
+      "inmueble": " 4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1100000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 1100000
+    },
+    {
+      "inmueble": "CASA 2A",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 550001
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 1100000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 550000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1100000
+    },
+    {
+      "inmueble": " 4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1100000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 1100000
+    }
+  ]
+}

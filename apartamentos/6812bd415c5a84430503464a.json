@@ -1,0 +1,60 @@
+{
+  "co_ownership_id": "6812bd415c5a84430503464a",
+  "co_ownership_name": "PCB  MZN IV PANORAMA ZONAS COM",
+  "address": "CL 31 13 A 51",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1305580",
+  "total": 8,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "444",
+      "referencia": "444",
+      "tipo": "OTROS",
+      "precio": 30000
+    },
+    {
+      "inmueble": "555",
+      "referencia": "555",
+      "tipo": "OTROS",
+      "precio": 30000
+    },
+    {
+      "inmueble": "666",
+      "referencia": "666",
+      "tipo": "OTROS",
+      "precio": 30000
+    },
+    {
+      "inmueble": "777",
+      "referencia": "777",
+      "tipo": "OTROS",
+      "precio": 30000
+    },
+    {
+      "inmueble": "888",
+      "referencia": "888",
+      "tipo": "OTROS",
+      "precio": 30000
+    },
+    {
+      "inmueble": "92",
+      "referencia": "92",
+      "tipo": "OTROS",
+      "precio": 30000
+    },
+    {
+      "inmueble": "94",
+      "referencia": "94",
+      "tipo": "OTROS",
+      "precio": 30000
+    }
+  ]
+}

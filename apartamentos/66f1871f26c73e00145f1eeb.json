@@ -1,0 +1,186 @@
+{
+  "co_ownership_id": "66f1871f26c73e00145f1eeb",
+  "co_ownership_name": "EDIFICIO BALCONES DE LAS ACACIAS",
+  "address": "CR 7 C 145 69",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1561331",
+  "total": 29,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "206",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "7",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "8",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "205",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "10",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "11",
+      "referencia": "305",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "21",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "12",
+      "referencia": "306",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "22",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "13",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "23",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "24",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "14",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "25",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "15",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "26",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "27",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "28",
+      "referencia": "703",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "16",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "17",
+      "referencia": "405",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "18",
+      "referencia": "406",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "19",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "20",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    }
+  ]
+}

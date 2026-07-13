@@ -1,0 +1,90 @@
+{
+  "co_ownership_id": "6470cfdb1c59f300106989da",
+  "co_ownership_name": "CONDOMINIO EDIFICIO CHIRAJARA",
+  "address": "CALLE 10 6 E -38 BA RIVERA",
+  "city": "Cúcuta",
+  "department": "Norte de Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1498146",
+  "total": 13,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "900",
+      "referencia": "900",
+      "tipo": null,
+      "precio": 1
+    }
+  ]
+}

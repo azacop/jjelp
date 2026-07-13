@@ -1,0 +1,42 @@
+{
+  "co_ownership_id": "644043bd4bcdaa000fa1dcdd",
+  "co_ownership_name": "IDEA GRUPO INMOBILIARIO SAS BUCARAMANGA",
+  "address": "CALLE 17 24 33",
+  "city": "Bucaramanga",
+  "department": "Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1351543",
+  "total": 5,
+  "apartamentos": [
+    {
+      "inmueble": "1091663260",
+      "referencia": "1091663260",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "1098616874",
+      "referencia": "1098616874",
+      "tipo": "APARTAMENTO",
+      "precio": 1100000
+    },
+    {
+      "inmueble": "88141568",
+      "referencia": "88141568",
+      "tipo": "APARTAMENTO",
+      "precio": 960000
+    },
+    {
+      "inmueble": "901014055",
+      "referencia": "901014055",
+      "tipo": "APARTAMENTO",
+      "precio": 1500000
+    },
+    {
+      "inmueble": "9999999999",
+      "referencia": "9999999999",
+      "tipo": "OTROS",
+      "precio": 832000
+    }
+  ]
+}

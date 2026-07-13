@@ -1,0 +1,18 @@
+{
+  "co_ownership_id": "646e8e0ac0f11a00100ba429",
+  "co_ownership_name": "EDIFICO TORRES DE SAN JOSE",
+  "address": "ca",
+  "city": "Santa Marta",
+  "department": "Magdalena",
+  "country": "COLOMBIA",
+  "agreement_number": "1146208",
+  "total": 1,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "co_ownership_id": "62b70d36682272000933d6b0",
+  "co_ownership_name": "CENTRO COMERCIAL SAN GIL PLAZA",
+  "address": "Cr 17 # 35- 46 BRR LA FERIA",
+  "city": "Bucaramanga",
+  "department": "Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1463462",
+  "total": 20,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 2
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "LOCAL",
+      "precio": 200000
+    }
+  ]
+}

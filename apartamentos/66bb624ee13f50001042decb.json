@@ -1,0 +1,66 @@
+{
+  "co_ownership_id": "66bb624ee13f50001042decb",
+  "co_ownership_name": "ZONAS COMUNES EDIF BULEVAR TEQUE",
+  "address": "CL 26 A 13 97",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1554575",
+  "total": 9,
+  "apartamentos": [
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "OTROS",
+      "precio": 206000
+    },
+    {
+      "inmueble": "66",
+      "referencia": "66",
+      "tipo": "OTROS",
+      "precio": 206000
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "OTROS",
+      "precio": 206000
+    },
+    {
+      "inmueble": "77",
+      "referencia": "77",
+      "tipo": "OTROS",
+      "precio": 206000
+    },
+    {
+      "inmueble": "33",
+      "referencia": "33",
+      "tipo": "OTROS",
+      "precio": 206000
+    },
+    {
+      "inmueble": "88",
+      "referencia": "88",
+      "tipo": "OTROS",
+      "precio": 206000
+    },
+    {
+      "inmueble": "44",
+      "referencia": "44",
+      "tipo": "OTROS",
+      "precio": 206000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "55",
+      "referencia": "55",
+      "tipo": "OTROS",
+      "precio": 206000
+    }
+  ]
+}

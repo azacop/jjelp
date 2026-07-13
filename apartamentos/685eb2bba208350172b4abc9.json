@@ -1,0 +1,276 @@
+{
+  "co_ownership_id": "685eb2bba208350172b4abc9",
+  "co_ownership_name": "CONJUNTO LOS ALTOS D CAUJARAL PH",
+  "address": "CL 8 10 78 LOMAS DE CAUJARAL",
+  "city": "Puerto Colombia",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1601061",
+  "total": 44,
+  "apartamentos": [
+    {
+      "inmueble": "T6302",
+      "referencia": "6302",
+      "tipo": "APARTAMENTO",
+      "precio": 2056091
+    },
+    {
+      "inmueble": "T6401",
+      "referencia": "6401",
+      "tipo": "APARTAMENTO",
+      "precio": 3204770
+    },
+    {
+      "inmueble": "T6402",
+      "referencia": "6402",
+      "tipo": "APARTAMENTO",
+      "precio": 3199432
+    },
+    {
+      "inmueble": "T7PB02",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 2033673
+    },
+    {
+      "inmueble": "T7101",
+      "referencia": "7101",
+      "tipo": "APARTAMENTO",
+      "precio": 1961080
+    },
+    {
+      "inmueble": "T2402",
+      "referencia": "2402",
+      "tipo": "APARTAMENTO",
+      "precio": 3670220
+    },
+    {
+      "inmueble": "T1302",
+      "referencia": "1302",
+      "tipo": "APARTAMENTO",
+      "precio": 2502325
+    },
+    {
+      "inmueble": "T1401",
+      "referencia": "1401",
+      "tipo": "APARTAMENTO",
+      "precio": 4035320
+    },
+    {
+      "inmueble": "T5PB02",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 1980296
+    },
+    {
+      "inmueble": "T1402",
+      "referencia": "1402",
+      "tipo": "APARTAMENTO",
+      "precio": 3590154
+    },
+    {
+      "inmueble": "T5101",
+      "referencia": "5101",
+      "tipo": "APARTAMENTO",
+      "precio": 2125482
+    },
+    {
+      "inmueble": "T2101",
+      "referencia": "2101",
+      "tipo": "APARTAMENTO",
+      "precio": 2419057
+    },
+    {
+      "inmueble": "T5102",
+      "referencia": "5102",
+      "tipo": "APARTAMENTO",
+      "precio": 1983498
+    },
+    {
+      "inmueble": "T2102",
+      "referencia": "2102",
+      "tipo": "APARTAMENTO",
+      "precio": 2350734
+    },
+    {
+      "inmueble": "T5201",
+      "referencia": "5201",
+      "tipo": "APARTAMENTO",
+      "precio": 1984566
+    },
+    {
+      "inmueble": "T1101",
+      "referencia": "1101",
+      "tipo": "APARTAMENTO",
+      "precio": 2350734
+    },
+    {
+      "inmueble": "T5202",
+      "referencia": "5202",
+      "tipo": "APARTAMENTO",
+      "precio": 2125482
+    },
+    {
+      "inmueble": "T1102",
+      "referencia": "1102",
+      "tipo": "APARTAMENTO",
+      "precio": 2419057
+    },
+    {
+      "inmueble": "T5301",
+      "referencia": "5301",
+      "tipo": "APARTAMENTO",
+      "precio": 1980296
+    },
+    {
+      "inmueble": "T1201",
+      "referencia": "1201",
+      "tipo": "APARTAMENTO",
+      "precio": 2701956
+    },
+    {
+      "inmueble": "T5302",
+      "referencia": "5302",
+      "tipo": "APARTAMENTO",
+      "precio": 1979228
+    },
+    {
+      "inmueble": "T1202",
+      "referencia": "1202",
+      "tipo": "APARTAMENTO",
+      "precio": 2983788
+    },
+    {
+      "inmueble": "T5401",
+      "referencia": "5401",
+      "tipo": "APARTAMENTO",
+      "precio": 3198365
+    },
+    {
+      "inmueble": "T1301",
+      "referencia": "1301",
+      "tipo": "APARTAMENTO",
+      "precio": 2501258
+    },
+    {
+      "inmueble": "T5402",
+      "referencia": "5402",
+      "tipo": "APARTAMENTO",
+      "precio": 3212243
+    },
+    {
+      "inmueble": "T6PB02",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 2067834
+    },
+    {
+      "inmueble": "T6102",
+      "referencia": "6102",
+      "tipo": "APARTAMENTO",
+      "precio": 1992039
+    },
+    {
+      "inmueble": "T6201",
+      "referencia": "6201",
+      "tipo": "APARTAMENTO",
+      "precio": 2043281
+    },
+    {
+      "inmueble": "T6202",
+      "referencia": "6202",
+      "tipo": "APARTAMENTO",
+      "precio": 2137225
+    },
+    {
+      "inmueble": "T6301",
+      "referencia": "6301",
+      "tipo": "APARTAMENTO",
+      "precio": 1994174
+    },
+    {
+      "inmueble": "T7102",
+      "referencia": "7102",
+      "tipo": "APARTAMENTO",
+      "precio": 1961080
+    },
+    {
+      "inmueble": "T7201",
+      "referencia": "7201",
+      "tipo": "APARTAMENTO",
+      "precio": 2175657
+    },
+    {
+      "inmueble": "T7202",
+      "referencia": "7202",
+      "tipo": "APARTAMENTO",
+      "precio": 2032605
+    },
+    {
+      "inmueble": "T7301",
+      "referencia": "7301",
+      "tipo": "APARTAMENTO",
+      "precio": 1961080
+    },
+    {
+      "inmueble": "T7302",
+      "referencia": "7302",
+      "tipo": "APARTAMENTO",
+      "precio": 1961080
+    },
+    {
+      "inmueble": "T2201",
+      "referencia": "2201",
+      "tipo": "APARTAMENTO",
+      "precio": 2769212
+    },
+    {
+      "inmueble": "T7401",
+      "referencia": "7401",
+      "tipo": "APARTAMENTO",
+      "precio": 3174879
+    },
+    {
+      "inmueble": "T2202",
+      "referencia": "2202",
+      "tipo": "APARTAMENTO",
+      "precio": 2701956
+    },
+    {
+      "inmueble": "T7402",
+      "referencia": "7402",
+      "tipo": "APARTAMENTO",
+      "precio": 3178081
+    },
+    {
+      "inmueble": "T2301",
+      "referencia": "2301",
+      "tipo": "APARTAMENTO",
+      "precio": 2502325
+    },
+    {
+      "inmueble": "PARQ100",
+      "referencia": "100",
+      "tipo": "OTROS",
+      "precio": 1430510
+    },
+    {
+      "inmueble": "T2302",
+      "referencia": "2302",
+      "tipo": "APARTAMENTO",
+      "precio": 2501258
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "T2401",
+      "referencia": "2401",
+      "tipo": "APARTAMENTO",
+      "precio": 3621113
+    }
+  ]
+}

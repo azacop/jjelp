@@ -1,0 +1,210 @@
+{
+  "co_ownership_id": "64541732f3a4cb000f4b044d",
+  "co_ownership_name": "EDIFICIO MULTIFAMILIAR Y COMERCIAL TIPO 1 PH TAK 53 PH",
+  "address": "CARRERA 7 # 6A 53",
+  "city": "Chía",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1495464",
+  "total": 33,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "107",
+      "referencia": "107",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "108",
+      "referencia": "108",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "109",
+      "referencia": "109",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "110",
+      "referencia": "110",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "131",
+      "referencia": "131",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "132",
+      "referencia": "132",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "121",
+      "referencia": "121",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "122",
+      "referencia": "122",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "133",
+      "referencia": "133",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "113",
+      "referencia": "113",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "123",
+      "referencia": "123",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "114",
+      "referencia": "114",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "124",
+      "referencia": "124",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "115",
+      "referencia": "115",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "125",
+      "referencia": "125",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "116",
+      "referencia": "116",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "126",
+      "referencia": "126",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "127",
+      "referencia": "127",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "117",
+      "referencia": "117",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "128",
+      "referencia": "128",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "118",
+      "referencia": "118",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "129",
+      "referencia": "129",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "119",
+      "referencia": "119",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "130",
+      "referencia": "130",
+      "tipo": null,
+      "precio": 180000
+    },
+    {
+      "inmueble": "120",
+      "referencia": "120",
+      "tipo": null,
+      "precio": 180000
+    }
+  ]
+}

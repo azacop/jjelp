@@ -1,0 +1,186 @@
+{
+  "co_ownership_id": "63d149e3da396c00112a7c75",
+  "co_ownership_name": "EDIFICIO NAUTICA PH  CARTAGENA DE INDIAS",
+  "address": "BRR CASTILLOGRANDE LOTE B CL 6 11 56",
+  "city": "Cartagena",
+  "department": "Bolívar",
+  "country": "COLOMBIA",
+  "agreement_number": "1261619",
+  "total": 29,
+  "apartamentos": [
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 2525453
+    },
+    {
+      "inmueble": "1101",
+      "referencia": "1101",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 2272867
+    },
+    {
+      "inmueble": "1201",
+      "referencia": "1201",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "1401",
+      "referencia": "1401",
+      "tipo": "APARTAMENTO",
+      "precio": 2272867
+    },
+    {
+      "inmueble": "901",
+      "referencia": "901",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "2701",
+      "referencia": "2701",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "1001",
+      "referencia": "1001",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "1501",
+      "referencia": "1501",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "2501",
+      "referencia": "2501",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "1601",
+      "referencia": "1601",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "1701",
+      "referencia": "1701",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "2601",
+      "referencia": "2601",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "1801",
+      "referencia": "1801",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "2801",
+      "referencia": "2801",
+      "tipo": "APARTAMENTO",
+      "precio": 2272867
+    },
+    {
+      "inmueble": "1901",
+      "referencia": "1901",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "2901",
+      "referencia": "2901",
+      "tipo": "APARTAMENTO",
+      "precio": 3302548
+    },
+    {
+      "inmueble": "2001",
+      "referencia": "2001",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "3101",
+      "referencia": "3101",
+      "tipo": "APARTAMENTO",
+      "precio": 3475370
+    },
+    {
+      "inmueble": "2101",
+      "referencia": "2101",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "3301",
+      "referencia": "3301",
+      "tipo": "APARTAMENTO",
+      "precio": 3221575
+    },
+    {
+      "inmueble": "2201",
+      "referencia": "2201",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "3501",
+      "referencia": "3501",
+      "tipo": "APARTAMENTO",
+      "precio": 3063255
+    },
+    {
+      "inmueble": "2301",
+      "referencia": "2301",
+      "tipo": "APARTAMENTO",
+      "precio": 2272867
+    },
+    {
+      "inmueble": "3701",
+      "referencia": "3701",
+      "tipo": "APARTAMENTO",
+      "precio": 3493497
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 2359007
+    },
+    {
+      "inmueble": "2401",
+      "referencia": "2401",
+      "tipo": "APARTAMENTO",
+      "precio": 2359007
+    }
+  ]
+}

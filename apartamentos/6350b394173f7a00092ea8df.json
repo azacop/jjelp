@@ -1,0 +1,408 @@
+{
+  "co_ownership_id": "6350b394173f7a00092ea8df",
+  "co_ownership_name": "SECTOR O ETAPA 9 GALERAS",
+  "address": "KM 1.5 VARIANTE COTA-CHIA",
+  "city": "Cota",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1141696",
+  "total": 66,
+  "apartamentos": [
+    {
+      "inmueble": "747",
+      "referencia": "747",
+      "tipo": "APARTAMENTO",
+      "precio": 645300
+    },
+    {
+      "inmueble": "704",
+      "referencia": "704",
+      "tipo": "APARTAMENTO",
+      "precio": 661675
+    },
+    {
+      "inmueble": "757",
+      "referencia": "757",
+      "tipo": "APARTAMENTO",
+      "precio": 644283
+    },
+    {
+      "inmueble": "744",
+      "referencia": "744",
+      "tipo": "APARTAMENTO",
+      "precio": 654447
+    },
+    {
+      "inmueble": "739",
+      "referencia": "739",
+      "tipo": "APARTAMENTO",
+      "precio": 676582
+    },
+    {
+      "inmueble": "716",
+      "referencia": "716",
+      "tipo": "APARTAMENTO",
+      "precio": 662578
+    },
+    {
+      "inmueble": "743",
+      "referencia": "743",
+      "tipo": "APARTAMENTO",
+      "precio": 678954
+    },
+    {
+      "inmueble": "741",
+      "referencia": "741",
+      "tipo": "APARTAMENTO",
+      "precio": 644283
+    },
+    {
+      "inmueble": "748",
+      "referencia": "748",
+      "tipo": "APARTAMENTO",
+      "precio": 654334
+    },
+    {
+      "inmueble": "726",
+      "referencia": "726",
+      "tipo": "APARTAMENTO",
+      "precio": 742196
+    },
+    {
+      "inmueble": "718",
+      "referencia": "718",
+      "tipo": "APARTAMENTO",
+      "precio": 678050
+    },
+    {
+      "inmueble": "754",
+      "referencia": "754",
+      "tipo": "APARTAMENTO",
+      "precio": 684939
+    },
+    {
+      "inmueble": "750",
+      "referencia": "750",
+      "tipo": "APARTAMENTO",
+      "precio": 718593
+    },
+    {
+      "inmueble": "799",
+      "referencia": "799",
+      "tipo": "OTROS",
+      "precio": 20
+    },
+    {
+      "inmueble": "711",
+      "referencia": "711",
+      "tipo": "APARTAMENTO",
+      "precio": 768848
+    },
+    {
+      "inmueble": "709",
+      "referencia": "709",
+      "tipo": "APARTAMENTO",
+      "precio": 696458
+    },
+    {
+      "inmueble": "732",
+      "referencia": "732",
+      "tipo": "APARTAMENTO",
+      "precio": 644283
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "APARTAMENTO",
+      "precio": 20
+    },
+    {
+      "inmueble": "728",
+      "referencia": "728",
+      "tipo": "APARTAMENTO",
+      "precio": 696458
+    },
+    {
+      "inmueble": "731",
+      "referencia": "731",
+      "tipo": "APARTAMENTO",
+      "precio": 644283
+    },
+    {
+      "inmueble": "720",
+      "referencia": "720",
+      "tipo": "APARTAMENTO",
+      "precio": 737114
+    },
+    {
+      "inmueble": "719",
+      "referencia": "719",
+      "tipo": "APARTAMENTO",
+      "precio": 686068
+    },
+    {
+      "inmueble": "715",
+      "referencia": "715",
+      "tipo": "APARTAMENTO",
+      "precio": 662578
+    },
+    {
+      "inmueble": "705",
+      "referencia": "705",
+      "tipo": "APARTAMENTO",
+      "precio": 661675
+    },
+    {
+      "inmueble": "725",
+      "referencia": "725",
+      "tipo": "APARTAMENTO",
+      "precio": 681099
+    },
+    {
+      "inmueble": "710",
+      "referencia": "710",
+      "tipo": "APARTAMENTO",
+      "precio": 746149
+    },
+    {
+      "inmueble": "745",
+      "referencia": "745",
+      "tipo": "APARTAMENTO",
+      "precio": 658626
+    },
+    {
+      "inmueble": "756",
+      "referencia": "756",
+      "tipo": "APARTAMENTO",
+      "precio": 644283
+    },
+    {
+      "inmueble": "707",
+      "referencia": "707",
+      "tipo": "APARTAMENTO",
+      "precio": 661675
+    },
+    {
+      "inmueble": "742",
+      "referencia": "742",
+      "tipo": "APARTAMENTO",
+      "precio": 644283
+    },
+    {
+      "inmueble": "760",
+      "referencia": "760",
+      "tipo": "APARTAMENTO",
+      "precio": 644283
+    },
+    {
+      "inmueble": "764",
+      "referencia": "764",
+      "tipo": "APARTAMENTO",
+      "precio": 692393
+    },
+    {
+      "inmueble": "746",
+      "referencia": "746",
+      "tipo": "APARTAMENTO",
+      "precio": 703686
+    },
+    {
+      "inmueble": "755",
+      "referencia": "755",
+      "tipo": "APARTAMENTO",
+      "precio": 653544
+    },
+    {
+      "inmueble": "722",
+      "referencia": "722",
+      "tipo": "APARTAMENTO",
+      "precio": 762185
+    },
+    {
+      "inmueble": "714",
+      "referencia": "714",
+      "tipo": "APARTAMENTO",
+      "precio": 662578
+    },
+    {
+      "inmueble": "763",
+      "referencia": "763",
+      "tipo": "APARTAMENTO",
+      "precio": 644283
+    },
+    {
+      "inmueble": "723",
+      "referencia": "723",
+      "tipo": "APARTAMENTO",
+      "precio": 712495
+    },
+    {
+      "inmueble": "727",
+      "referencia": "727",
+      "tipo": "APARTAMENTO",
+      "precio": 675904
+    },
+    {
+      "inmueble": "730",
+      "referencia": "730",
+      "tipo": "APARTAMENTO",
+      "precio": 644283
+    },
+    {
+      "inmueble": "729",
+      "referencia": "729",
+      "tipo": "APARTAMENTO",
+      "precio": 644283
+    },
+    {
+      "inmueble": "762",
+      "referencia": "762",
+      "tipo": "APARTAMENTO",
+      "precio": 644283
+    },
+    {
+      "inmueble": "734",
+      "referencia": "734",
+      "tipo": "APARTAMENTO",
+      "precio": 658061
+    },
+    {
+      "inmueble": "703",
+      "referencia": "703",
+      "tipo": "APARTAMENTO",
+      "precio": 661449
+    },
+    {
+      "inmueble": "753",
+      "referencia": "753",
+      "tipo": "APARTAMENTO",
+      "precio": 716335
+    },
+    {
+      "inmueble": "738",
+      "referencia": "738",
+      "tipo": "APARTAMENTO",
+      "precio": 719610
+    },
+    {
+      "inmueble": "721",
+      "referencia": "721",
+      "tipo": "APARTAMENTO",
+      "precio": 766251
+    },
+    {
+      "inmueble": "736",
+      "referencia": "736",
+      "tipo": "APARTAMENTO",
+      "precio": 712043
+    },
+    {
+      "inmueble": "724",
+      "referencia": "724",
+      "tipo": "APARTAMENTO",
+      "precio": 719158
+    },
+    {
+      "inmueble": "758",
+      "referencia": "758",
+      "tipo": "APARTAMENTO",
+      "precio": 672855
+    },
+    {
+      "inmueble": "733",
+      "referencia": "733",
+      "tipo": "APARTAMENTO",
+      "precio": 664047
+    },
+    {
+      "inmueble": "752",
+      "referencia": "752",
+      "tipo": "APARTAMENTO",
+      "precio": 726273
+    },
+    {
+      "inmueble": "749",
+      "referencia": "749",
+      "tipo": "APARTAMENTO",
+      "precio": 700863
+    },
+    {
+      "inmueble": "713",
+      "referencia": "713",
+      "tipo": "APARTAMENTO",
+      "precio": 677260
+    },
+    {
+      "inmueble": "740",
+      "referencia": "740",
+      "tipo": "APARTAMENTO",
+      "precio": 726160
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 677147
+    },
+    {
+      "inmueble": "759",
+      "referencia": "759",
+      "tipo": "APARTAMENTO",
+      "precio": 666983
+    },
+    {
+      "inmueble": "751",
+      "referencia": "751",
+      "tipo": "APARTAMENTO",
+      "precio": 689456
+    },
+    {
+      "inmueble": "712",
+      "referencia": "712",
+      "tipo": "APARTAMENTO",
+      "precio": 752586
+    },
+    {
+      "inmueble": "717",
+      "referencia": "717",
+      "tipo": "APARTAMENTO",
+      "precio": 662578
+    },
+    {
+      "inmueble": "737",
+      "referencia": "737",
+      "tipo": "APARTAMENTO",
+      "precio": 724917
+    },
+    {
+      "inmueble": "706",
+      "referencia": "706",
+      "tipo": "APARTAMENTO",
+      "precio": 661675
+    },
+    {
+      "inmueble": "735",
+      "referencia": "735",
+      "tipo": "APARTAMENTO",
+      "precio": 695668
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 672629
+    },
+    {
+      "inmueble": "761",
+      "referencia": "761",
+      "tipo": "APARTAMENTO",
+      "precio": 644283
+    },
+    {
+      "inmueble": "708",
+      "referencia": "708",
+      "tipo": "APARTAMENTO",
+      "precio": 664950
+    }
+  ]
+}

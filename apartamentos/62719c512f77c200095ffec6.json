@@ -1,0 +1,78 @@
+{
+  "co_ownership_id": "62719c512f77c200095ffec6",
+  "co_ownership_name": "EDIFICIO DE BODEGAS BOX P.H.",
+  "address": "CLL 7 SUR 51 A 112",
+  "city": "Medellín",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1458520",
+  "total": 11,
+  "apartamentos": [
+    {
+      "inmueble": "101A",
+      "referencia": "1011",
+      "tipo": "LOCAL",
+      "precio": 305100
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "LOCAL",
+      "precio": 1633700
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "LOCAL",
+      "precio": 3980700
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "LOCAL",
+      "precio": 1860600
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "LOCAL",
+      "precio": 1672300
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "LOCAL",
+      "precio": 1156400
+    },
+    {
+      "inmueble": "101B",
+      "referencia": "1012",
+      "tipo": "LOCAL",
+      "precio": 612100
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "LOCAL",
+      "precio": 1833700
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "LOCAL",
+      "precio": 1744300
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "LOCAL",
+      "precio": 1798900
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "LOCAL",
+      "precio": 1076600
+    }
+  ]
+}

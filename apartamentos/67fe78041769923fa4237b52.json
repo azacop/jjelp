@@ -1,0 +1,90 @@
+{
+  "co_ownership_id": "67fe78041769923fa4237b52",
+  "co_ownership_name": "EDIFICIO TORRE LA VEGA PH",
+  "address": "CR 63 A 34 28",
+  "city": "Medellín",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1588359",
+  "total": 13,
+  "apartamentos": [
+    {
+      "inmueble": "APTO201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 732500
+    },
+    {
+      "inmueble": "APTO402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 721300
+    },
+    {
+      "inmueble": "APTO701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 1024700
+    },
+    {
+      "inmueble": "APTO202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 745700
+    },
+    {
+      "inmueble": "APTO501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 723500
+    },
+    {
+      "inmueble": "APTO702",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 1024700
+    },
+    {
+      "inmueble": "APTO301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 719200
+    },
+    {
+      "inmueble": "APTO502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 726900
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "APTO302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 730200
+    },
+    {
+      "inmueble": "APTO601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 730200
+    },
+    {
+      "inmueble": "APTO401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 726900
+    },
+    {
+      "inmueble": "APTO602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 732500
+    }
+  ]
+}

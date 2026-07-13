@@ -1,0 +1,162 @@
+{
+  "co_ownership_id": "682356625c5a844305038bee",
+  "co_ownership_name": "EDIFICIO SAN FIERRO PH",
+  "address": "CRA 11 140 20",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1592674",
+  "total": 25,
+  "apartamentos": [
+    {
+      "inmueble": " AP 201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": " AP 202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 702",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": " AP 203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 703",
+      "referencia": "703",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": " AP 204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 704",
+      "referencia": "704",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "AP 504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 603",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 604",
+      "referencia": "604",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    },
+    {
+      "inmueble": "AP 402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 600000
+    }
+  ]
+}

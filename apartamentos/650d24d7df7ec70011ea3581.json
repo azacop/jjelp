@@ -1,0 +1,18 @@
+{
+  "co_ownership_id": "650d24d7df7ec70011ea3581",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL AIRES DE VALENCIA",
+  "address": "Sin direccion ",
+  "city": "Medellín",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1127869",
+  "total": 1,
+  "apartamentos": [
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

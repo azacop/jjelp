@@ -1,0 +1,294 @@
+{
+  "co_ownership_id": "6285477b85933e0009832347",
+  "co_ownership_name": "EDIFICIO EL CIDP H",
+  "address": "CALLE 54 # 50 - 21",
+  "city": "Medellín",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1459429",
+  "total": 47,
+  "apartamentos": [
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 190700
+    },
+    {
+      "inmueble": "L07",
+      "referencia": "17",
+      "tipo": "LOCAL",
+      "precio": 143300
+    },
+    {
+      "inmueble": "L08",
+      "referencia": "18",
+      "tipo": "LOCAL",
+      "precio": 169900
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 358500
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 223800
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 143400
+    },
+    {
+      "inmueble": "703",
+      "referencia": "703",
+      "tipo": "APARTAMENTO",
+      "precio": 324300
+    },
+    {
+      "inmueble": "1002",
+      "referencia": "1002",
+      "tipo": "APARTAMENTO",
+      "precio": 356100
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 293400
+    },
+    {
+      "inmueble": "P015",
+      "referencia": "115",
+      "tipo": "APARTAMENTO",
+      "precio": 30100
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 144100
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 190700
+    },
+    {
+      "inmueble": "804",
+      "referencia": "804",
+      "tipo": "APARTAMENTO",
+      "precio": 190700
+    },
+    {
+      "inmueble": "604",
+      "referencia": "604",
+      "tipo": "APARTAMENTO",
+      "precio": 220900
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 323300
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 293400
+    },
+    {
+      "inmueble": "P006",
+      "referencia": "106",
+      "tipo": "APARTAMENTO",
+      "precio": 30900
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 190700
+    },
+    {
+      "inmueble": "704",
+      "referencia": "704",
+      "tipo": "APARTAMENTO",
+      "precio": 220900
+    },
+    {
+      "inmueble": "L01",
+      "referencia": "11",
+      "tipo": "LOCAL",
+      "precio": 137000
+    },
+    {
+      "inmueble": "P013",
+      "referencia": "113",
+      "tipo": "APARTAMENTO",
+      "precio": 30100
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 357900
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "APARTAMENTO",
+      "precio": 190700
+    },
+    {
+      "inmueble": "L02",
+      "referencia": "12",
+      "tipo": "LOCAL",
+      "precio": 167300
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "901",
+      "referencia": "901",
+      "tipo": "APARTAMENTO",
+      "precio": 190700
+    },
+    {
+      "inmueble": "L06",
+      "referencia": "16",
+      "tipo": "LOCAL",
+      "precio": 123600
+    },
+    {
+      "inmueble": "902",
+      "referencia": "902",
+      "tipo": "APARTAMENTO",
+      "precio": 323300
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 260700
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 357900
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 190700
+    },
+    {
+      "inmueble": "904",
+      "referencia": "904",
+      "tipo": "APARTAMENTO",
+      "precio": 230600
+    },
+    {
+      "inmueble": "1001",
+      "referencia": "1001",
+      "tipo": "APARTAMENTO",
+      "precio": 387100
+    },
+    {
+      "inmueble": "P004",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 30900
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 294000
+    },
+    {
+      "inmueble": "903",
+      "referencia": "903",
+      "tipo": "APARTAMENTO",
+      "precio": 316600
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 143900
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 293400
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 190700
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 190700
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": "APARTAMENTO",
+      "precio": 293400
+    },
+    {
+      "inmueble": "L03",
+      "referencia": "13",
+      "tipo": "LOCAL",
+      "precio": 121900
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 293400
+    },
+    {
+      "inmueble": "L04",
+      "referencia": "14",
+      "tipo": "LOCAL",
+      "precio": 171400
+    },
+    {
+      "inmueble": "803",
+      "referencia": "803",
+      "tipo": "APARTAMENTO",
+      "precio": 293300
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 357900
+    },
+    {
+      "inmueble": "L05",
+      "referencia": "15",
+      "tipo": "LOCAL",
+      "precio": 122200
+    }
+  ]
+}

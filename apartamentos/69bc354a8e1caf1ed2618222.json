@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "69bc354a8e1caf1ed2618222",
+  "co_ownership_name": "AGR PALOS VERDES",
+  "address": "CR 23 122 60",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1638873",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 1462000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 1363000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 1388000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 1401000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 1401000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "16",
+      "tipo": "CASA",
+      "precio": 1665000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

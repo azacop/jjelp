@@ -1,0 +1,60 @@
+{
+  "co_ownership_id": "67e30b861769923fa42324d0",
+  "co_ownership_name": "Varios Agrupación R. Granada",
+  "address": "CR 90 A 8 A 68",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1563832",
+  "total": 8,
+  "apartamentos": [
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": null,
+      "precio": 10000
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": null,
+      "precio": 10000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": null,
+      "precio": 10000
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": null,
+      "precio": 10000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": null,
+      "precio": 10000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": null,
+      "precio": 10000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": null,
+      "precio": 10000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": null,
+      "precio": 10000
+    }
+  ]
+}

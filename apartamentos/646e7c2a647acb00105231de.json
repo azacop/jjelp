@@ -1,0 +1,306 @@
+{
+  "co_ownership_id": "646e7c2a647acb00105231de",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL CASTILLA CAMPESTRE  MONTERIA",
+  "address": "CRA 13 N 63 60",
+  "city": "Montería",
+  "department": "Córdoba",
+  "country": "COLOMBIA",
+  "agreement_number": "1001361",
+  "total": 49,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 1968110
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 626620
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 682890
+    },
+    {
+      "inmueble": "41",
+      "referencia": "41",
+      "tipo": "CASA",
+      "precio": 643110
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 1292000
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 673180
+    },
+    {
+      "inmueble": "42",
+      "referencia": "42",
+      "tipo": "CASA",
+      "precio": 625820
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 646000
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "CASA",
+      "precio": 678000
+    },
+    {
+      "inmueble": "43",
+      "referencia": "43",
+      "tipo": "CASA",
+      "precio": 1288000
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 626620
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 626620
+    },
+    {
+      "inmueble": "32",
+      "referencia": "32",
+      "tipo": "CASA",
+      "precio": 694000
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "CASA",
+      "precio": 657660
+    },
+    {
+      "inmueble": "23",
+      "referencia": "23",
+      "tipo": "CASA",
+      "precio": 694000
+    },
+    {
+      "inmueble": "44",
+      "referencia": "44",
+      "tipo": "CASA",
+      "precio": 1292000
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 7944006
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "CASA",
+      "precio": 678000
+    },
+    {
+      "inmueble": "33",
+      "referencia": "33",
+      "tipo": "CASA",
+      "precio": 663000
+    },
+    {
+      "inmueble": "24",
+      "referencia": "24",
+      "tipo": "CASA",
+      "precio": 673180
+    },
+    {
+      "inmueble": "45",
+      "referencia": "45",
+      "tipo": "CASA",
+      "precio": 626620
+    },
+    {
+      "inmueble": "46",
+      "referencia": "46",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "CASA",
+      "precio": 694000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 1326000
+    },
+    {
+      "inmueble": "34",
+      "referencia": "34",
+      "tipo": "CASA",
+      "precio": 1744000
+    },
+    {
+      "inmueble": "25",
+      "referencia": "25",
+      "tipo": "CASA",
+      "precio": 657660
+    },
+    {
+      "inmueble": "47",
+      "referencia": "47",
+      "tipo": "CASA",
+      "precio": 626620
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 646000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "35",
+      "referencia": "35",
+      "tipo": "CASA",
+      "precio": 1288000
+    },
+    {
+      "inmueble": "26",
+      "referencia": "26",
+      "tipo": "CASA",
+      "precio": 657660
+    },
+    {
+      "inmueble": "48",
+      "referencia": "48",
+      "tipo": "CASA",
+      "precio": 608980
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": "CASA",
+      "precio": 8840000
+    },
+    {
+      "inmueble": "36",
+      "referencia": "36",
+      "tipo": "CASA",
+      "precio": 1938302
+    },
+    {
+      "inmueble": "27",
+      "referencia": "27",
+      "tipo": "CASA",
+      "precio": 678000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 1292000
+    },
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": "CASA",
+      "precio": 678000
+    },
+    {
+      "inmueble": "37",
+      "referencia": "37",
+      "tipo": "CASA",
+      "precio": 627153
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "CASA",
+      "precio": 678000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1292310
+    },
+    {
+      "inmueble": "28",
+      "referencia": "28",
+      "tipo": "CASA",
+      "precio": 694000
+    },
+    {
+      "inmueble": "38",
+      "referencia": "38",
+      "tipo": "CASA",
+      "precio": 1292000
+    },
+    {
+      "inmueble": "29",
+      "referencia": "29",
+      "tipo": "CASA",
+      "precio": 673180
+    },
+    {
+      "inmueble": "39",
+      "referencia": "39",
+      "tipo": "CASA",
+      "precio": 1932310
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1938000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 8834521
+    },
+    {
+      "inmueble": "30",
+      "referencia": "30",
+      "tipo": "CASA",
+      "precio": 7379673
+    },
+    {
+      "inmueble": "40",
+      "referencia": "40",
+      "tipo": "CASA",
+      "precio": 663000
+    },
+    {
+      "inmueble": "31",
+      "referencia": "31",
+      "tipo": "CASA",
+      "precio": 657660
+    }
+  ]
+}

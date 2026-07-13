@@ -1,0 +1,60 @@
+{
+  "co_ownership_id": "667acd53d2ccd8000f91af09",
+  "co_ownership_name": "EDIFICIO PAX  PH",
+  "address": "CR 15 76 67",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1545839",
+  "total": 8,
+  "apartamentos": [
+    {
+      "inmueble": "7671",
+      "referencia": "7671",
+      "tipo": "OTROS",
+      "precio": 3881000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "OTROS",
+      "precio": 652000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "OTROS",
+      "precio": 3023000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "OTROS",
+      "precio": 3023000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "OTROS",
+      "precio": 2451000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "OTROS",
+      "precio": 3023000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "OTROS",
+      "precio": 2955000
+    }
+  ]
+}

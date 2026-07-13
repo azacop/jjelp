@@ -1,0 +1,246 @@
+{
+  "co_ownership_id": "632b91bfb998350009d56bb6",
+  "co_ownership_name": "EDIFICIO IMARAII PH TV 33 133 51 BOGOTA D.C.",
+  "address": "CRA 21 N 145 57",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1256551",
+  "total": 39,
+  "apartamentos": [
+    {
+      "inmueble": "609",
+      "referencia": "609",
+      "tipo": "APARTAMENTO",
+      "precio": 100
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 222000
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 324000
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 222000
+    },
+    {
+      "inmueble": "608",
+      "referencia": "608",
+      "tipo": "APARTAMENTO",
+      "precio": 229000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 208000
+    },
+    {
+      "inmueble": "406",
+      "referencia": "406",
+      "tipo": "APARTAMENTO",
+      "precio": 281000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": null,
+      "precio": 100
+    },
+    {
+      "inmueble": "508",
+      "referencia": "508",
+      "tipo": "APARTAMENTO",
+      "precio": 195000
+    },
+    {
+      "inmueble": "605",
+      "referencia": "605",
+      "tipo": "APARTAMENTO",
+      "precio": 263000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 208000
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 277000
+    },
+    {
+      "inmueble": "407",
+      "referencia": "407",
+      "tipo": "APARTAMENTO",
+      "precio": 207000
+    },
+    {
+      "inmueble": "408",
+      "referencia": "408",
+      "tipo": "APARTAMENTO",
+      "precio": 195000
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 565000
+    },
+    {
+      "inmueble": "606",
+      "referencia": "606",
+      "tipo": "APARTAMENTO",
+      "precio": 316000
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 208000
+    },
+    {
+      "inmueble": "607",
+      "referencia": "607",
+      "tipo": "APARTAMENTO",
+      "precio": 367000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 326000
+    },
+    {
+      "inmueble": "505",
+      "referencia": "505",
+      "tipo": "APARTAMENTO",
+      "precio": 227000
+    },
+    {
+      "inmueble": "506",
+      "referencia": "506",
+      "tipo": "APARTAMENTO",
+      "precio": 281000
+    },
+    {
+      "inmueble": "604",
+      "referencia": "604",
+      "tipo": "APARTAMENTO",
+      "precio": 313000
+    },
+    {
+      "inmueble": "507",
+      "referencia": "507",
+      "tipo": "APARTAMENTO",
+      "precio": 207000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": null,
+      "precio": 457000
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": null,
+      "precio": 290000
+    },
+    {
+      "inmueble": "405",
+      "referencia": "405",
+      "tipo": null,
+      "precio": 317840
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": null,
+      "precio": 317840
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": null,
+      "precio": 291040
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": null,
+      "precio": 273760
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": null,
+      "precio": 393240
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": null,
+      "precio": 309720
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": null,
+      "precio": 802720
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": null,
+      "precio": 508080
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": null,
+      "precio": 291160
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": null,
+      "precio": 309720
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": null,
+      "precio": 457040
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": null,
+      "precio": 317840
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": null,
+      "precio": 291160
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": null,
+      "precio": 291160
+    }
+  ]
+}

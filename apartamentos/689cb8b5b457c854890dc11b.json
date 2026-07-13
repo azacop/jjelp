@@ -1,0 +1,30 @@
+{
+  "co_ownership_id": "689cb8b5b457c854890dc11b",
+  "co_ownership_name": "CEDI BARRANQUILLA PH",
+  "address": "CR 71 3 45 KM 2 5 CARR LA CORDIALIDAD",
+  "city": "Barranquilla",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1607852",
+  "total": 3,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "OFICINA",
+      "precio": 2000000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "OFICINA",
+      "precio": 2000000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

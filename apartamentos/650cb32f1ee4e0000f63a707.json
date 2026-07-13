@@ -1,0 +1,24 @@
+{
+  "co_ownership_id": "650cb32f1ee4e0000f63a707",
+  "co_ownership_name": "COPROGEN SA",
+  "address": "CALLE 11A   No. 8B-03 MIRADOR DE LAS LOMAS",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1145747",
+  "total": 2,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

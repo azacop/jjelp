@@ -1,0 +1,204 @@
+{
+  "co_ownership_id": "67d1c8c01c997b312e9b431b",
+  "co_ownership_name": "EDIFICIO TORRE SIETE 77",
+  "address": "CL 77 7 44",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1583798",
+  "total": 32,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "1201",
+      "referencia": "1201",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "1202",
+      "referencia": "1202",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "13A",
+      "referencia": "131",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "13B",
+      "referencia": "132",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "1401",
+      "referencia": "1401",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "902",
+      "referencia": "902",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "1001",
+      "referencia": "1001",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "1002",
+      "referencia": "1002",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "1003",
+      "referencia": "1003",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "1402",
+      "referencia": "1402",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "901",
+      "referencia": "901",
+      "tipo": "OFICINA",
+      "precio": 450000
+    }
+  ]
+}

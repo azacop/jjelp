@@ -1,0 +1,168 @@
+{
+  "co_ownership_id": "653c2b8380de14001108306d",
+  "co_ownership_name": "EDIFICIO ARIAS OSORIO PH",
+  "address": "CR 14 CL 10 Y 11",
+  "city": "Santa Rosa De Cabal",
+  "department": "Risaralda",
+  "country": "COLOMBIA",
+  "agreement_number": "1516012",
+  "total": 26,
+  "apartamentos": [
+    {
+      "inmueble": "PQ6",
+      "referencia": "6",
+      "tipo": "APARTAMENTO",
+      "precio": 19400
+    },
+    {
+      "inmueble": "PQ1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 19400
+    },
+    {
+      "inmueble": "PQ7",
+      "referencia": "7",
+      "tipo": "APARTAMENTO",
+      "precio": 19400
+    },
+    {
+      "inmueble": "PQ2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 19400
+    },
+    {
+      "inmueble": "PQ8",
+      "referencia": "8",
+      "tipo": "APARTAMENTO",
+      "precio": 19400
+    },
+    {
+      "inmueble": "PQ3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 19400
+    },
+    {
+      "inmueble": "LOCAL1",
+      "referencia": "9",
+      "tipo": "APARTAMENTO",
+      "precio": 98500
+    },
+    {
+      "inmueble": "PQ4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 19400
+    },
+    {
+      "inmueble": "LOCAL2",
+      "referencia": "10",
+      "tipo": "APARTAMENTO",
+      "precio": 98500
+    },
+    {
+      "inmueble": "PQ5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 19400
+    },
+    {
+      "inmueble": "APTO201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 188250
+    },
+    {
+      "inmueble": "APTO502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 177000
+    },
+    {
+      "inmueble": "APTO202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 177000
+    },
+    {
+      "inmueble": "APTO503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 185200
+    },
+    {
+      "inmueble": "APTO203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 185200
+    },
+    {
+      "inmueble": "APTO301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 188200
+    },
+    {
+      "inmueble": "APTO601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 188200
+    },
+    {
+      "inmueble": "APTO302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 177000
+    },
+    {
+      "inmueble": "APTO602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 177000
+    },
+    {
+      "inmueble": "APTO303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 185200
+    },
+    {
+      "inmueble": "APTO603",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 185200
+    },
+    {
+      "inmueble": "APTO401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 188200
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "APTO402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 177000
+    },
+    {
+      "inmueble": "APTO403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 185200
+    },
+    {
+      "inmueble": "APTO501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 188200
+    }
+  ]
+}

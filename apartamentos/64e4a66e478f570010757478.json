@@ -1,0 +1,72 @@
+{
+  "co_ownership_id": "64e4a66e478f570010757478",
+  "co_ownership_name": "CENTRO COMERCIAL SHOW PLACE COLINA BOGOTA",
+  "address": "CL 103 19 60 PI 4",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1368794",
+  "total": 10,
+  "apartamentos": [
+    {
+      "inmueble": "1380001",
+      "referencia": "1380001",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "13804",
+      "referencia": "13804",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "1380002",
+      "referencia": "1380002",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "13805",
+      "referencia": "13805",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "13801",
+      "referencia": "13801",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "13802",
+      "referencia": "13802",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "138067",
+      "referencia": "138067",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "13803",
+      "referencia": "13803",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "13808",
+      "referencia": "13808",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "9999999",
+      "referencia": "9999999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

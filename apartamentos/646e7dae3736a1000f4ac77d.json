@@ -1,0 +1,18 @@
+{
+  "co_ownership_id": "646e7dae3736a1000f4ac77d",
+  "co_ownership_name": "EDIFICIO ANCON PROPIEDAD HORIZONTAL",
+  "address": "KR 1 23 84 BARRIO BELLAVISTA",
+  "city": "Santa Marta",
+  "department": "Magdalena",
+  "country": "COLOMBIA",
+  "agreement_number": "1140557",
+  "total": 1,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

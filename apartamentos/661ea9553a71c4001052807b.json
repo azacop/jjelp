@@ -1,0 +1,138 @@
+{
+  "co_ownership_id": "661ea9553a71c4001052807b",
+  "co_ownership_name": "EDIFICIO SANTA BARBARA 10",
+  "address": "CR 10 # 117A 63",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1534270",
+  "total": 21,
+  "apartamentos": [
+    {
+      "inmueble": "APTO201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 835000
+    },
+    {
+      "inmueble": "APTO202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 1037000
+    },
+    {
+      "inmueble": "APTO203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 676000
+    },
+    {
+      "inmueble": "APTO204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 1231000
+    },
+    {
+      "inmueble": "APTO301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 783000
+    },
+    {
+      "inmueble": "APTO403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 700000
+    },
+    {
+      "inmueble": "APTO404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 1189000
+    },
+    {
+      "inmueble": "APTO501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 786000
+    },
+    {
+      "inmueble": "APTO502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 1051000
+    },
+    {
+      "inmueble": "APTO503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 688000
+    },
+    {
+      "inmueble": "APTO302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 1047000
+    },
+    {
+      "inmueble": "APTO303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 682000
+    },
+    {
+      "inmueble": "APTO304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 1122000
+    },
+    {
+      "inmueble": "APTO401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 775000
+    },
+    {
+      "inmueble": "APTO402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 1047000
+    },
+    {
+      "inmueble": "APTO504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 1147000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 2
+    },
+    {
+      "inmueble": "APTO601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 788000
+    },
+    {
+      "inmueble": "APTO602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 1044000
+    },
+    {
+      "inmueble": "APTO603",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 693000
+    },
+    {
+      "inmueble": "APTO604",
+      "referencia": "604",
+      "tipo": "APARTAMENTO",
+      "precio": 1203000
+    }
+  ]
+}

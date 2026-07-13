@@ -1,0 +1,228 @@
+{
+  "co_ownership_id": "68e54933a8214b2f9ea86561",
+  "co_ownership_name": "COND AGRUPACION EL DIAMANTE",
+  "address": "VDA PALENQUE",
+  "city": "Apulo",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1616291",
+  "total": 36,
+  "apartamentos": [
+    {
+      "inmueble": "A6",
+      "referencia": "16",
+      "tipo": "CASA",
+      "precio": 377000
+    },
+    {
+      "inmueble": "A101",
+      "referencia": "1101",
+      "tipo": "CASA",
+      "precio": 100000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "A13",
+      "referencia": "113",
+      "tipo": "CASA",
+      "precio": 255000
+    },
+    {
+      "inmueble": "B8",
+      "referencia": "28",
+      "tipo": "CASA",
+      "precio": 10000
+    },
+    {
+      "inmueble": "A102",
+      "referencia": "1102",
+      "tipo": "CASA",
+      "precio": 171000
+    },
+    {
+      "inmueble": "A7",
+      "referencia": "17",
+      "tipo": "CASA",
+      "precio": 464000
+    },
+    {
+      "inmueble": "B1",
+      "referencia": "21",
+      "tipo": "CASA",
+      "precio": 606000
+    },
+    {
+      "inmueble": "C1",
+      "referencia": "31",
+      "tipo": "CASA",
+      "precio": 323000
+    },
+    {
+      "inmueble": "A11",
+      "referencia": "111",
+      "tipo": "CASA",
+      "precio": 171000
+    },
+    {
+      "inmueble": "A8",
+      "referencia": "18",
+      "tipo": "CASA",
+      "precio": 198000
+    },
+    {
+      "inmueble": "B2",
+      "referencia": "22",
+      "tipo": "CASA",
+      "precio": 268000
+    },
+    {
+      "inmueble": "C2",
+      "referencia": "32",
+      "tipo": "CASA",
+      "precio": 390000
+    },
+    {
+      "inmueble": "A111",
+      "referencia": "1111",
+      "tipo": "CASA",
+      "precio": 171000
+    },
+    {
+      "inmueble": "A9",
+      "referencia": "19",
+      "tipo": "CASA",
+      "precio": 250000
+    },
+    {
+      "inmueble": "D1",
+      "referencia": "41",
+      "tipo": "CASA",
+      "precio": 317000
+    },
+    {
+      "inmueble": "B3",
+      "referencia": "23",
+      "tipo": "CASA",
+      "precio": 357000
+    },
+    {
+      "inmueble": "A12",
+      "referencia": "112",
+      "tipo": "CASA",
+      "precio": 320000
+    },
+    {
+      "inmueble": "A10",
+      "referencia": "110",
+      "tipo": "CASA",
+      "precio": 146000
+    },
+    {
+      "inmueble": "D11",
+      "referencia": "411",
+      "tipo": "CASA",
+      "precio": 119000
+    },
+    {
+      "inmueble": "B4",
+      "referencia": "24",
+      "tipo": "CASA",
+      "precio": 528000
+    },
+    {
+      "inmueble": "B5",
+      "referencia": "25",
+      "tipo": "CASA",
+      "precio": 229000
+    },
+    {
+      "inmueble": "B51",
+      "referencia": "251",
+      "tipo": "CASA",
+      "precio": 229000
+    },
+    {
+      "inmueble": "B52",
+      "referencia": "252",
+      "tipo": "CASA",
+      "precio": 197000
+    },
+    {
+      "inmueble": "B6",
+      "referencia": "26",
+      "tipo": "CASA",
+      "precio": 309000
+    },
+    {
+      "inmueble": "B7",
+      "referencia": "27",
+      "tipo": "CASA",
+      "precio": 243000
+    },
+    {
+      "inmueble": "D2",
+      "referencia": "42",
+      "tipo": "CASA",
+      "precio": 319000
+    },
+    {
+      "inmueble": "A1",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 540000
+    },
+    {
+      "inmueble": "A2",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 288000
+    },
+    {
+      "inmueble": "D3",
+      "referencia": "43",
+      "tipo": "CASA",
+      "precio": 131000
+    },
+    {
+      "inmueble": "A3",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 321000
+    },
+    {
+      "inmueble": "D31",
+      "referencia": "431",
+      "tipo": "CASA",
+      "precio": 131000
+    },
+    {
+      "inmueble": "A4",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 240000
+    },
+    {
+      "inmueble": "D32",
+      "referencia": "432",
+      "tipo": "CASA",
+      "precio": 172000
+    },
+    {
+      "inmueble": "A5",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 398000
+    },
+    {
+      "inmueble": "D4",
+      "referencia": "44",
+      "tipo": "CASA",
+      "precio": 181000
+    }
+  ]
+}

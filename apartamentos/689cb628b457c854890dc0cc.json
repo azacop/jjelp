@@ -1,0 +1,444 @@
+{
+  "co_ownership_id": "689cb628b457c854890dc0cc",
+  "co_ownership_name": "CR QUINTAS DE LA COLINA PH",
+  "address": "CR 58 C 144 15",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1608041",
+  "total": 72,
+  "apartamentos": [
+    {
+      "inmueble": "i01",
+      "referencia": "121",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "c01",
+      "referencia": "2147",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i06",
+      "referencia": "636",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "c02",
+      "referencia": "2268",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i07",
+      "referencia": "757",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i02",
+      "referencia": "242",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "c03",
+      "referencia": "2389",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i08",
+      "referencia": "878",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "c04",
+      "referencia": "2400",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i03",
+      "referencia": "363",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i09",
+      "referencia": "999",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "c05",
+      "referencia": "2531",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i04",
+      "referencia": "484",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i10",
+      "referencia": "1013",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i05",
+      "referencia": "515",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "p03",
+      "referencia": "1649",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "p04",
+      "referencia": "1760",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "p05",
+      "referencia": "1881",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "p06",
+      "referencia": "1902",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "p07",
+      "referencia": "2026",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i11",
+      "referencia": "1134",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "k05",
+      "referencia": "3150",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i12",
+      "referencia": "1255",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "k06",
+      "referencia": "3271",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i13",
+      "referencia": "1376",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "k07",
+      "referencia": "3392",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "p01",
+      "referencia": "1497",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "e01",
+      "referencia": "3413",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "p02",
+      "referencia": "1528",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "e02",
+      "referencia": "3544",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "c06",
+      "referencia": "2652",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "k01",
+      "referencia": "2773",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "k02",
+      "referencia": "2894",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "k03",
+      "referencia": "2915",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "k04",
+      "referencia": "3039",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "i01",
+      "referencia": "121",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "c01",
+      "referencia": "2147",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i06",
+      "referencia": "636",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "c02",
+      "referencia": "2268",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i07",
+      "referencia": "757",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i02",
+      "referencia": "242",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "c03",
+      "referencia": "2389",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i08",
+      "referencia": "878",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "c04",
+      "referencia": "2400",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i03",
+      "referencia": "363",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i09",
+      "referencia": "999",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "c05",
+      "referencia": "2531",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i04",
+      "referencia": "484",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i10",
+      "referencia": "1013",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i05",
+      "referencia": "515",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "p03",
+      "referencia": "1649",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "p04",
+      "referencia": "1760",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "p05",
+      "referencia": "1881",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "p06",
+      "referencia": "1902",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "p07",
+      "referencia": "2026",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i11",
+      "referencia": "1134",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "k05",
+      "referencia": "3150",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i12",
+      "referencia": "1255",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "k06",
+      "referencia": "3271",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "i13",
+      "referencia": "1376",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "k07",
+      "referencia": "3392",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "p01",
+      "referencia": "1497",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "e01",
+      "referencia": "3413",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "p02",
+      "referencia": "1528",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "e02",
+      "referencia": "3544",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "c06",
+      "referencia": "2652",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "k01",
+      "referencia": "2773",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "k02",
+      "referencia": "2894",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "k03",
+      "referencia": "2915",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "k04",
+      "referencia": "3039",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

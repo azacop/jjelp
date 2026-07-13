@@ -1,0 +1,180 @@
+{
+  "co_ownership_id": "6449803d3f4fc50010ba57b0",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL VILLA SILVANA ETAPAS I Y II - PH",
+  "address": "CRA 13 51- 37 Y 51",
+  "city": "Barrancabermeja",
+  "department": "Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1494830",
+  "total": 28,
+  "apartamentos": [
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 229207
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 229207
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 229207
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 229207
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 229207
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 229207
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 79747
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 229207
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 159067
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 67223
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 229207
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 232944
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "OTROS",
+      "precio": 27955
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 145699
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "OTROS",
+      "precio": 28825
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 227497
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "OTROS",
+      "precio": 20046
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 138591
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "OTROS",
+      "precio": 20887
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 379488
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "OTROS",
+      "precio": 20887
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 193717
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "OTROS",
+      "precio": 15034
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 307285
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "OTROS",
+      "precio": 20046
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "OTROS",
+      "precio": 27955
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "OTROS",
+      "precio": 20046
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "OTROS",
+      "precio": 27955
+    }
+  ]
+}

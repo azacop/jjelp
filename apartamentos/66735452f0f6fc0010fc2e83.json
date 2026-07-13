@@ -1,0 +1,60 @@
+{
+  "co_ownership_id": "66735452f0f6fc0010fc2e83",
+  "co_ownership_name": "INNOVA F & P SAS",
+  "address": "av cra 19 125 65",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1544758",
+  "total": 8,
+  "apartamentos": [
+    {
+      "inmueble": "9002709489",
+      "referencia": "9002709489",
+      "tipo": "APARTAMENTO",
+      "precio": 1500000
+    },
+    {
+      "inmueble": "9001240402",
+      "referencia": "9001240402",
+      "tipo": "APARTAMENTO",
+      "precio": 1500000
+    },
+    {
+      "inmueble": "9013353714",
+      "referencia": "9013353714",
+      "tipo": "APARTAMENTO",
+      "precio": 1500000
+    },
+    {
+      "inmueble": "8301225679",
+      "referencia": "8301225679",
+      "tipo": "APARTAMENTO",
+      "precio": 1500000
+    },
+    {
+      "inmueble": "9999999999",
+      "referencia": "9999999999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "9000324757",
+      "referencia": "9000324757",
+      "tipo": "APARTAMENTO",
+      "precio": 1500000
+    },
+    {
+      "inmueble": "9010000182",
+      "referencia": "9010000182",
+      "tipo": "APARTAMENTO",
+      "precio": 1500000
+    },
+    {
+      "inmueble": "8300074251",
+      "referencia": "8300074251",
+      "tipo": "APARTAMENTO",
+      "precio": 1500000
+    }
+  ]
+}

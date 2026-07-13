@@ -1,0 +1,690 @@
+{
+  "co_ownership_id": "691dd468d3541f5432b5d944",
+  "co_ownership_name": "CONJUNTO CERRADO LA SABANA PH",
+  "address": "VIA ANTIGUA BOCONO FRENTE A TAMACOA CAMP",
+  "city": "Villa Del Rosario",
+  "department": "Norte de Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1621382",
+  "total": 113,
+  "apartamentos": [
+    {
+      "inmueble": "D5B",
+      "referencia": "452",
+      "tipo": "CASA",
+      "precio": 597032
+    },
+    {
+      "inmueble": "C3B",
+      "referencia": "332",
+      "tipo": "CASA",
+      "precio": 597012
+    },
+    {
+      "inmueble": "E1A",
+      "referencia": "511",
+      "tipo": "CASA",
+      "precio": 597037
+    },
+    {
+      "inmueble": "B9",
+      "referencia": "182",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "G8A",
+      "referencia": "781",
+      "tipo": "CASA",
+      "precio": 597077
+    },
+    {
+      "inmueble": "C4A",
+      "referencia": "341",
+      "tipo": "CASA",
+      "precio": 597013
+    },
+    {
+      "inmueble": "E1B",
+      "referencia": "512",
+      "tipo": "CASA",
+      "precio": 597038
+    },
+    {
+      "inmueble": "B10",
+      "referencia": "211",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "G8B",
+      "referencia": "782",
+      "tipo": "CASA",
+      "precio": 597078
+    },
+    {
+      "inmueble": "D6A",
+      "referencia": "461",
+      "tipo": "CASA",
+      "precio": 597033
+    },
+    {
+      "inmueble": "C4B",
+      "referencia": "342",
+      "tipo": "CASA",
+      "precio": 597014
+    },
+    {
+      "inmueble": "C1",
+      "referencia": "212",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "H1A",
+      "referencia": "811",
+      "tipo": "CASA",
+      "precio": 597079
+    },
+    {
+      "inmueble": "E2A",
+      "referencia": "521",
+      "tipo": "CASA",
+      "precio": 597039
+    },
+    {
+      "inmueble": "D6B",
+      "referencia": "462",
+      "tipo": "CASA",
+      "precio": 597034
+    },
+    {
+      "inmueble": "C5A",
+      "referencia": "351",
+      "tipo": "CASA",
+      "precio": 597015
+    },
+    {
+      "inmueble": "C2",
+      "referencia": "221",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "E2B",
+      "referencia": "522",
+      "tipo": "CASA",
+      "precio": 597040
+    },
+    {
+      "inmueble": "H1B",
+      "referencia": "812",
+      "tipo": "CASA",
+      "precio": 597080
+    },
+    {
+      "inmueble": "D7A",
+      "referencia": "471",
+      "tipo": "CASA",
+      "precio": 597035
+    },
+    {
+      "inmueble": "C5B",
+      "referencia": "352",
+      "tipo": "CASA",
+      "precio": 597016
+    },
+    {
+      "inmueble": "C3",
+      "referencia": "222",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "E3A",
+      "referencia": "531",
+      "tipo": "CASA",
+      "precio": 597041
+    },
+    {
+      "inmueble": "H2A",
+      "referencia": "821",
+      "tipo": "CASA",
+      "precio": 597081
+    },
+    {
+      "inmueble": "D7B",
+      "referencia": "472",
+      "tipo": "CASA",
+      "precio": 597036
+    },
+    {
+      "inmueble": "C1A",
+      "referencia": "311",
+      "tipo": "CASA",
+      "precio": 597007
+    },
+    {
+      "inmueble": "F3B",
+      "referencia": "632",
+      "tipo": "CASA",
+      "precio": 597052
+    },
+    {
+      "inmueble": "B5B",
+      "referencia": "252",
+      "tipo": "CASA",
+      "precio": 597002
+    },
+    {
+      "inmueble": "A1",
+      "referencia": "111",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "A6",
+      "referencia": "132",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "C1B",
+      "referencia": "312",
+      "tipo": "CASA",
+      "precio": 597008
+    },
+    {
+      "inmueble": "F4A",
+      "referencia": "641",
+      "tipo": "CASA",
+      "precio": 597053
+    },
+    {
+      "inmueble": "B6A",
+      "referencia": "261",
+      "tipo": "CASA",
+      "precio": 597003
+    },
+    {
+      "inmueble": "A2",
+      "referencia": "112",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "A7",
+      "referencia": "141",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "C2A",
+      "referencia": "321",
+      "tipo": "CASA",
+      "precio": 597009
+    },
+    {
+      "inmueble": "F4B",
+      "referencia": "642",
+      "tipo": "CASA",
+      "precio": 597054
+    },
+    {
+      "inmueble": "A3",
+      "referencia": "121",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "B1",
+      "referencia": "142",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "B6B",
+      "referencia": "262",
+      "tipo": "CASA",
+      "precio": 597004
+    },
+    {
+      "inmueble": "C2B",
+      "referencia": "322",
+      "tipo": "CASA",
+      "precio": 597010
+    },
+    {
+      "inmueble": "F5A",
+      "referencia": "651",
+      "tipo": "CASA",
+      "precio": 597055
+    },
+    {
+      "inmueble": "A4",
+      "referencia": "122",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "B2",
+      "referencia": "151",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "B7A",
+      "referencia": "271",
+      "tipo": "CASA",
+      "precio": 597005
+    },
+    {
+      "inmueble": "C3A",
+      "referencia": "331",
+      "tipo": "CASA",
+      "precio": 597011
+    },
+    {
+      "inmueble": "F5B",
+      "referencia": "652",
+      "tipo": "CASA",
+      "precio": 597056
+    },
+    {
+      "inmueble": "B3",
+      "referencia": "152",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "A5",
+      "referencia": "131",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "B7B",
+      "referencia": "272",
+      "tipo": "CASA",
+      "precio": 597006
+    },
+    {
+      "inmueble": "E3B",
+      "referencia": "532",
+      "tipo": "CASA",
+      "precio": 597042
+    },
+    {
+      "inmueble": "C8B",
+      "referencia": "382",
+      "tipo": "CASA",
+      "precio": 597022
+    },
+    {
+      "inmueble": "E4A",
+      "referencia": "541",
+      "tipo": "CASA",
+      "precio": 597043
+    },
+    {
+      "inmueble": "D1A",
+      "referencia": "411",
+      "tipo": "CASA",
+      "precio": 597023
+    },
+    {
+      "inmueble": "E4B",
+      "referencia": "542",
+      "tipo": "CASA",
+      "precio": 597044
+    },
+    {
+      "inmueble": "D1B",
+      "referencia": "412",
+      "tipo": "CASA",
+      "precio": 597024
+    },
+    {
+      "inmueble": "E5A",
+      "referencia": "551",
+      "tipo": "CASA",
+      "precio": 597045
+    },
+    {
+      "inmueble": "D2A",
+      "referencia": "421",
+      "tipo": "CASA",
+      "precio": 597025
+    },
+    {
+      "inmueble": "E5B",
+      "referencia": "552",
+      "tipo": "CASA",
+      "precio": 597046
+    },
+    {
+      "inmueble": "D2B",
+      "referencia": "422",
+      "tipo": "CASA",
+      "precio": 597026
+    },
+    {
+      "inmueble": "C6A",
+      "referencia": "361",
+      "tipo": "CASA",
+      "precio": 597017
+    },
+    {
+      "inmueble": "G5B",
+      "referencia": "752",
+      "tipo": "CASA",
+      "precio": 597072
+    },
+    {
+      "inmueble": "F8B",
+      "referencia": "682",
+      "tipo": "CASA",
+      "precio": 597062
+    },
+    {
+      "inmueble": "C6B",
+      "referencia": "362",
+      "tipo": "CASA",
+      "precio": 597018
+    },
+    {
+      "inmueble": "G1A",
+      "referencia": "711",
+      "tipo": "CASA",
+      "precio": 597063
+    },
+    {
+      "inmueble": "G6A",
+      "referencia": "761",
+      "tipo": "CASA",
+      "precio": 597073
+    },
+    {
+      "inmueble": "C7A",
+      "referencia": "371",
+      "tipo": "CASA",
+      "precio": 597019
+    },
+    {
+      "inmueble": "G1B",
+      "referencia": "712",
+      "tipo": "CASA",
+      "precio": 597064
+    },
+    {
+      "inmueble": "G6B",
+      "referencia": "762",
+      "tipo": "CASA",
+      "precio": 597074
+    },
+    {
+      "inmueble": "C7B",
+      "referencia": "372",
+      "tipo": "CASA",
+      "precio": 597020
+    },
+    {
+      "inmueble": "G2A",
+      "referencia": "721",
+      "tipo": "CASA",
+      "precio": 597065
+    },
+    {
+      "inmueble": "G7A",
+      "referencia": "771",
+      "tipo": "CASA",
+      "precio": 597075
+    },
+    {
+      "inmueble": "C8A",
+      "referencia": "381",
+      "tipo": "CASA",
+      "precio": 597021
+    },
+    {
+      "inmueble": "G2B",
+      "referencia": "722",
+      "tipo": "CASA",
+      "precio": 597066
+    },
+    {
+      "inmueble": "G7B",
+      "referencia": "772",
+      "tipo": "CASA",
+      "precio": 597076
+    },
+    {
+      "inmueble": "F6A",
+      "referencia": "661",
+      "tipo": "CASA",
+      "precio": 597057
+    },
+    {
+      "inmueble": "H5A",
+      "referencia": "851",
+      "tipo": "CASA",
+      "precio": 597087
+    },
+    {
+      "inmueble": "H2B",
+      "referencia": "822",
+      "tipo": "CASA",
+      "precio": 597082
+    },
+    {
+      "inmueble": "C4",
+      "referencia": "231",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "F1A",
+      "referencia": "611",
+      "tipo": "CASA",
+      "precio": 597047
+    },
+    {
+      "inmueble": "B4",
+      "referencia": "161",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "H5B",
+      "referencia": "852",
+      "tipo": "CASA",
+      "precio": 597088
+    },
+    {
+      "inmueble": "C5",
+      "referencia": "232",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "H3A",
+      "referencia": "831",
+      "tipo": "CASA",
+      "precio": 597083
+    },
+    {
+      "inmueble": "F6B",
+      "referencia": "662",
+      "tipo": "CASA",
+      "precio": 597058
+    },
+    {
+      "inmueble": "B5",
+      "referencia": "162",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "F1B",
+      "referencia": "612",
+      "tipo": "CASA",
+      "precio": 597048
+    },
+    {
+      "inmueble": "C6",
+      "referencia": "241",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "F7A",
+      "referencia": "671",
+      "tipo": "CASA",
+      "precio": 597059
+    },
+    {
+      "inmueble": "H3B",
+      "referencia": "832",
+      "tipo": "CASA",
+      "precio": 597084
+    },
+    {
+      "inmueble": "B6",
+      "referencia": "171",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "F2A",
+      "referencia": "621",
+      "tipo": "CASA",
+      "precio": 597049
+    },
+    {
+      "inmueble": "B7",
+      "referencia": "172",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "C7",
+      "referencia": "242",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "F7B",
+      "referencia": "672",
+      "tipo": "CASA",
+      "precio": 597060
+    },
+    {
+      "inmueble": "F2B",
+      "referencia": "622",
+      "tipo": "CASA",
+      "precio": 597050
+    },
+    {
+      "inmueble": "H4A",
+      "referencia": "841",
+      "tipo": "CASA",
+      "precio": 597085
+    },
+    {
+      "inmueble": "F8A",
+      "referencia": "681",
+      "tipo": "CASA",
+      "precio": 597061
+    },
+    {
+      "inmueble": "F3A",
+      "referencia": "631",
+      "tipo": "CASA",
+      "precio": 597051
+    },
+    {
+      "inmueble": "H4B",
+      "referencia": "842",
+      "tipo": "CASA",
+      "precio": 597086
+    },
+    {
+      "inmueble": "B8",
+      "referencia": "181",
+      "tipo": "CASA",
+      "precio": 597000
+    },
+    {
+      "inmueble": "B5A",
+      "referencia": "251",
+      "tipo": "CASA",
+      "precio": 597001
+    },
+    {
+      "inmueble": "G3A",
+      "referencia": "731",
+      "tipo": "CASA",
+      "precio": 597067
+    },
+    {
+      "inmueble": "D3A",
+      "referencia": "431",
+      "tipo": "CASA",
+      "precio": 597027
+    },
+    {
+      "inmueble": "G3B",
+      "referencia": "732",
+      "tipo": "CASA",
+      "precio": 597068
+    },
+    {
+      "inmueble": "D3B",
+      "referencia": "432",
+      "tipo": "CASA",
+      "precio": 597028
+    },
+    {
+      "inmueble": "G4A",
+      "referencia": "741",
+      "tipo": "CASA",
+      "precio": 597069
+    },
+    {
+      "inmueble": "D4A",
+      "referencia": "441",
+      "tipo": "CASA",
+      "precio": 597029
+    },
+    {
+      "inmueble": "G4B",
+      "referencia": "742",
+      "tipo": "CASA",
+      "precio": 597070
+    },
+    {
+      "inmueble": "D4B",
+      "referencia": "442",
+      "tipo": "CASA",
+      "precio": 597030
+    },
+    {
+      "inmueble": "G5A",
+      "referencia": "751",
+      "tipo": "CASA",
+      "precio": 597071
+    },
+    {
+      "inmueble": "D5A",
+      "referencia": "451",
+      "tipo": "CASA",
+      "precio": 597031
+    }
+  ]
+}

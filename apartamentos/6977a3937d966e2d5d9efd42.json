@@ -1,0 +1,258 @@
+{
+  "co_ownership_id": "6977a3937d966e2d5d9efd42",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL LOS COCALES",
+  "address": "CL 2F 21 01 PUERTO COLOMBIA",
+  "city": "Puerto Colombia",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1630318",
+  "total": 41,
+  "apartamentos": [
+    {
+      "inmueble": "LOTE5",
+      "referencia": "21",
+      "tipo": "OTROS",
+      "precio": 399100
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 2
+    },
+    {
+      "inmueble": "LOTEB5",
+      "referencia": "22",
+      "tipo": "OTROS",
+      "precio": 354100
+    },
+    {
+      "inmueble": "LOTE6",
+      "referencia": "23",
+      "tipo": "OTROS",
+      "precio": 399100
+    },
+    {
+      "inmueble": "LOTE7",
+      "referencia": "24",
+      "tipo": "OTROS",
+      "precio": 221700
+    },
+    {
+      "inmueble": "LOTE9",
+      "referencia": "25",
+      "tipo": "OTROS",
+      "precio": 642800
+    },
+    {
+      "inmueble": "LOTE2",
+      "referencia": "16",
+      "tipo": "OTROS",
+      "precio": 342800
+    },
+    {
+      "inmueble": "LOTE2",
+      "referencia": "17",
+      "tipo": "OTROS",
+      "precio": 399100
+    },
+    {
+      "inmueble": "LOTE2F2",
+      "referencia": "18",
+      "tipo": "OTROS",
+      "precio": 879600
+    },
+    {
+      "inmueble": "LOTE3D3",
+      "referencia": "19",
+      "tipo": "OTROS",
+      "precio": 285100
+    },
+    {
+      "inmueble": "LOTE4",
+      "referencia": "20",
+      "tipo": "OTROS",
+      "precio": 399100
+    },
+    {
+      "inmueble": "LOTE10C3",
+      "referencia": "31",
+      "tipo": "OTROS",
+      "precio": 330400
+    },
+    {
+      "inmueble": "CASA1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 399100
+    },
+    {
+      "inmueble": "LOTE10H",
+      "referencia": "32",
+      "tipo": "OTROS",
+      "precio": 848400
+    },
+    {
+      "inmueble": "CASAE1",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 290500
+    },
+    {
+      "inmueble": "LOTE10J",
+      "referencia": "33",
+      "tipo": "OTROS",
+      "precio": 439100
+    },
+    {
+      "inmueble": "CASAD2",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 285100
+    },
+    {
+      "inmueble": "LOTE10B1",
+      "referencia": "34",
+      "tipo": "OTROS",
+      "precio": 340200
+    },
+    {
+      "inmueble": "CASA3",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 399100
+    },
+    {
+      "inmueble": "LOTE10B6",
+      "referencia": "35",
+      "tipo": "OTROS",
+      "precio": 316000
+    },
+    {
+      "inmueble": "CASAE3",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 778300
+    },
+    {
+      "inmueble": "LOTE10C1",
+      "referencia": "36",
+      "tipo": "OTROS",
+      "precio": 369900
+    },
+    {
+      "inmueble": "LOTE10C2",
+      "referencia": "37",
+      "tipo": "OTROS",
+      "precio": 274900
+    },
+    {
+      "inmueble": "LOTE10J",
+      "referencia": "38",
+      "tipo": "OTROS",
+      "precio": 439100
+    },
+    {
+      "inmueble": "LOTE13",
+      "referencia": "39",
+      "tipo": "OTROS",
+      "precio": 424200
+    },
+    {
+      "inmueble": "LOTE14",
+      "referencia": "40",
+      "tipo": "OTROS",
+      "precio": 482200
+    },
+    {
+      "inmueble": "LOTE9",
+      "referencia": "26",
+      "tipo": "OTROS",
+      "precio": 314500
+    },
+    {
+      "inmueble": "CASAD4",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 285100
+    },
+    {
+      "inmueble": "LOTE10",
+      "referencia": "27",
+      "tipo": "OTROS",
+      "precio": 1131200
+    },
+    {
+      "inmueble": "CASA6D",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 397500
+    },
+    {
+      "inmueble": "LOTE10B2",
+      "referencia": "28",
+      "tipo": "OTROS",
+      "precio": 289100
+    },
+    {
+      "inmueble": "CASA7",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 256000
+    },
+    {
+      "inmueble": "LOTE10B3",
+      "referencia": "29",
+      "tipo": "OTROS",
+      "precio": 578300
+    },
+    {
+      "inmueble": "CASA8",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 590100
+    },
+    {
+      "inmueble": "LOTE10B4",
+      "referencia": "30",
+      "tipo": "OTROS",
+      "precio": 578300
+    },
+    {
+      "inmueble": "CASA10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 452500
+    },
+    {
+      "inmueble": "CASA10C4",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 300200
+    },
+    {
+      "inmueble": "CASA11",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 614700
+    },
+    {
+      "inmueble": "CASA12",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 545600
+    },
+    {
+      "inmueble": "LOTE1F1",
+      "referencia": "14",
+      "tipo": "OTROS",
+      "precio": 1146500
+    },
+    {
+      "inmueble": "LOTEG1",
+      "referencia": "15",
+      "tipo": "OTROS",
+      "precio": 1416800
+    }
+  ]
+}

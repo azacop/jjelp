@@ -1,0 +1,78 @@
+{
+  "co_ownership_id": "67098288628a3d0010fba41d",
+  "co_ownership_name": "APARTAMENTOS CR BOSQUE CANELO",
+  "address": "CL 27 20 42",
+  "city": "Sogamoso",
+  "department": "Boyacá",
+  "country": "COLOMBIA",
+  "agreement_number": "1564343",
+  "total": 11,
+  "apartamentos": [
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "APARTAMENTO",
+      "precio": 74800
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "APARTAMENTO",
+      "precio": 74800
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "APARTAMENTO",
+      "precio": 74800
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "APARTAMENTO",
+      "precio": 74800
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 74800
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "APARTAMENTO",
+      "precio": 74800
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 74800
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 74800
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 74800
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 74800
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    }
+  ]
+}

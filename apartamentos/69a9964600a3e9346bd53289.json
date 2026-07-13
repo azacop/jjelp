@@ -1,0 +1,42 @@
+{
+  "co_ownership_id": "69a9964600a3e9346bd53289",
+  "co_ownership_name": "EDIFICIO ALBATROS",
+  "address": "TV 1 ESTE 57 92",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1637131",
+  "total": 5,
+  "apartamentos": [
+    {
+      "inmueble": "1101",
+      "referencia": "1101",
+      "tipo": "APARTAMENTO",
+      "precio": 490800
+    },
+    {
+      "inmueble": "1201",
+      "referencia": "1201",
+      "tipo": "APARTAMENTO",
+      "precio": 513500
+    },
+    {
+      "inmueble": "1301",
+      "referencia": "1301",
+      "tipo": "APARTAMENTO",
+      "precio": 562100
+    },
+    {
+      "inmueble": "1401",
+      "referencia": "1401",
+      "tipo": "APARTAMENTO",
+      "precio": 754000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 2
+    }
+  ]
+}

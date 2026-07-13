@@ -1,0 +1,36 @@
+{
+  "co_ownership_id": "6717a82d1176ce001065a091",
+  "co_ownership_name": "PARQUEADERO CEN COMERCIAL MANILA",
+  "address": "TV 12 22 42 CC MANILA OF AD P 1",
+  "city": "Fusagasugá",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1565902",
+  "total": 4,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "1001",
+      "referencia": "1001",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "681",
+      "referencia": "681",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

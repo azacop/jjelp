@@ -1,0 +1,60 @@
+{
+  "co_ownership_id": "65f47b4d41e073001041e3dd",
+  "co_ownership_name": "LOCALES EDIFICIO SAN DIEGO",
+  "address": "CR 29 # 32 65",
+  "city": "Bucaramanga",
+  "department": "Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1531367",
+  "total": 8,
+  "apartamentos": [
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "LOCAL",
+      "precio": 500000
+    },
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": "LOCAL",
+      "precio": 500000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "LOCAL",
+      "precio": 500000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "1011",
+      "referencia": "1011",
+      "tipo": "LOCAL",
+      "precio": 500000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "LOCAL",
+      "precio": 500000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "LOCAL",
+      "precio": 500000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "LOCAL",
+      "precio": 500000
+    }
+  ]
+}

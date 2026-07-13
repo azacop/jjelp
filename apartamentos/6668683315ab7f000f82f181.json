@@ -1,0 +1,42 @@
+{
+  "co_ownership_id": "6668683315ab7f000f82f181",
+  "co_ownership_name": "EDIFICIO LONOVA PARQUEADEROS",
+  "address": "CR 7 1N 47",
+  "city": "Popayán",
+  "department": "Cauca",
+  "country": "COLOMBIA",
+  "agreement_number": "1543289",
+  "total": 5,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 88400
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 88400
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "OTROS",
+      "precio": 88400
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "OTROS",
+      "precio": 88400
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

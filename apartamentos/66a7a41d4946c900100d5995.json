@@ -1,0 +1,36 @@
+{
+  "co_ownership_id": "66a7a41d4946c900100d5995",
+  "co_ownership_name": "CONJ RESIDENCIAL VERACRUZ IMPREV",
+  "address": "CL 148 98 40",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1551936",
+  "total": 4,
+  "apartamentos": [
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "9998",
+      "referencia": "9998",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "9991",
+      "referencia": "9991",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "9992",
+      "referencia": "9992",
+      "tipo": "OTROS",
+      "precio": 100000
+    }
+  ]
+}

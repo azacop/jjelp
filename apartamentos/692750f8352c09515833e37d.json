@@ -1,0 +1,312 @@
+{
+  "co_ownership_id": "692750f8352c09515833e37d",
+  "co_ownership_name": "EDIFICIO TORONTO PH",
+  "address": "CARRERA 9 71 24",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1622836",
+  "total": 50,
+  "apartamentos": [
+    {
+      "inmueble": "apto408",
+      "referencia": "408",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto205",
+      "referencia": "205",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto206",
+      "referencia": "206",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "LOCAL100",
+      "referencia": "100",
+      "tipo": "LOCAL",
+      "precio": 2995000
+    },
+    {
+      "inmueble": "apto505",
+      "referencia": "505",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto207",
+      "referencia": "207",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto506",
+      "referencia": "506",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "depos2401",
+      "referencia": "2401",
+      "tipo": "OTROS",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto208",
+      "referencia": "208",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto507",
+      "referencia": "507",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "depos3",
+      "referencia": "3",
+      "tipo": "OTROS",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto209",
+      "referencia": "209",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "depos4",
+      "referencia": "4",
+      "tipo": "OTROS",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto508",
+      "referencia": "508",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto210",
+      "referencia": "210",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "depos5206",
+      "referencia": "5206",
+      "tipo": "OTROS",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto305",
+      "referencia": "305",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto306",
+      "referencia": "306",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "depos6406",
+      "referencia": "6406",
+      "tipo": "OTROS",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "depos7408",
+      "referencia": "7408",
+      "tipo": "OTROS",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto307",
+      "referencia": "307",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto603",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto308",
+      "referencia": "308",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto604",
+      "referencia": "604",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto405",
+      "referencia": "405",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "ANTENA01",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 2549366
+    },
+    {
+      "inmueble": "apto401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto406",
+      "referencia": "406",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "ANTENA02",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 8981858
+    },
+    {
+      "inmueble": "apto605",
+      "referencia": "605",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto407",
+      "referencia": "407",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "jelpit999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "apto402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    },
+    {
+      "inmueble": "apto606",
+      "referencia": "606",
+      "tipo": "APARTAMENTO",
+      "precio": 400000
+    }
+  ]
+}

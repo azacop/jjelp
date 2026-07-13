@@ -1,0 +1,36 @@
+{
+  "co_ownership_id": "656e373f71473e00119f16ba",
+  "co_ownership_name": "CR ALTOVERDE SALONES SOCIALES",
+  "address": "CR 101 A 42 45",
+  "city": "Cali",
+  "department": "Valle del Cauca",
+  "country": "COLOMBIA",
+  "agreement_number": "1522275",
+  "total": 4,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 70000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 70000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 70000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    }
+  ]
+}

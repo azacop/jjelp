@@ -1,0 +1,258 @@
+{
+  "co_ownership_id": "62a748a3f1231000098273de",
+  "co_ownership_name": "CONDOMINIO LA ESTACION",
+  "address": "VIA KM 9 VIA AEROPUERTO  LA TABAIDA",
+  "city": "La Tebaida",
+  "department": "Quindio",
+  "country": "COLOMBIA",
+  "agreement_number": "1462274",
+  "total": 41,
+  "apartamentos": [
+    {
+      "inmueble": "CASA36",
+      "referencia": "36",
+      "tipo": "CASA",
+      "precio": 289000
+    },
+    {
+      "inmueble": "CASA12",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 539000
+    },
+    {
+      "inmueble": "CASA7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 420000
+    },
+    {
+      "inmueble": "CASA26",
+      "referencia": "26",
+      "tipo": "CASA",
+      "precio": 250000
+    },
+    {
+      "inmueble": "CASA27",
+      "referencia": "27",
+      "tipo": "CASA",
+      "precio": 182000
+    },
+    {
+      "inmueble": "CASA4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 515000
+    },
+    {
+      "inmueble": "CASA10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 366000
+    },
+    {
+      "inmueble": "CASA22",
+      "referencia": "22",
+      "tipo": "CASA",
+      "precio": 289000
+    },
+    {
+      "inmueble": "CASA32",
+      "referencia": "32",
+      "tipo": "CASA",
+      "precio": 289000
+    },
+    {
+      "inmueble": "CASA33",
+      "referencia": "33",
+      "tipo": "CASA",
+      "precio": 289000
+    },
+    {
+      "inmueble": "CASA24",
+      "referencia": "24",
+      "tipo": "CASA",
+      "precio": 269000
+    },
+    {
+      "inmueble": "CASA25",
+      "referencia": "25",
+      "tipo": "CASA",
+      "precio": 269000
+    },
+    {
+      "inmueble": "CASA8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 321000
+    },
+    {
+      "inmueble": "CASA19",
+      "referencia": "19",
+      "tipo": "CASA",
+      "precio": 269000
+    },
+    {
+      "inmueble": "CASA28",
+      "referencia": "28",
+      "tipo": "CASA",
+      "precio": 269000
+    },
+    {
+      "inmueble": "CASA21",
+      "referencia": "21",
+      "tipo": "CASA",
+      "precio": 296000
+    },
+    {
+      "inmueble": "CASA6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 617000
+    },
+    {
+      "inmueble": "CASA1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 348000
+    },
+    {
+      "inmueble": "CASA13",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 475000
+    },
+    {
+      "inmueble": "CASA3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 539000
+    },
+    {
+      "inmueble": "CASA38",
+      "referencia": "38",
+      "tipo": "CASA",
+      "precio": 269000
+    },
+    {
+      "inmueble": "CASA14",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 524000
+    },
+    {
+      "inmueble": "CASA5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 403000
+    },
+    {
+      "inmueble": "CASA20",
+      "referencia": "20",
+      "tipo": "CASA",
+      "precio": 296000
+    },
+    {
+      "inmueble": "CASA31",
+      "referencia": "31",
+      "tipo": "CASA",
+      "precio": 289000
+    },
+    {
+      "inmueble": "CASA23",
+      "referencia": "23",
+      "tipo": "CASA",
+      "precio": 269000
+    },
+    {
+      "inmueble": "CASA11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 342000
+    },
+    {
+      "inmueble": "CASA16",
+      "referencia": "16",
+      "tipo": "CASA",
+      "precio": 269000
+    },
+    {
+      "inmueble": "CASA2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 376000
+    },
+    {
+      "inmueble": "CASA17",
+      "referencia": "17",
+      "tipo": "CASA",
+      "precio": 269000
+    },
+    {
+      "inmueble": "CASA37",
+      "referencia": "37",
+      "tipo": "CASA",
+      "precio": 334000
+    },
+    {
+      "inmueble": "CASA18",
+      "referencia": "18",
+      "tipo": "CASA",
+      "precio": 269000
+    },
+    {
+      "inmueble": "CASA9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 307000
+    },
+    {
+      "inmueble": "CASA39",
+      "referencia": "39",
+      "tipo": "CASA",
+      "precio": 269000
+    },
+    {
+      "inmueble": "CASA15",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 348000
+    },
+    {
+      "inmueble": "CASA29",
+      "referencia": "29",
+      "tipo": "CASA",
+      "precio": 269000
+    },
+    {
+      "inmueble": "CASA40",
+      "referencia": "40",
+      "tipo": "CASA",
+      "precio": 268000
+    },
+    {
+      "inmueble": "CASA30",
+      "referencia": "30",
+      "tipo": "CASA",
+      "precio": 269000
+    },
+    {
+      "inmueble": "CASA34",
+      "referencia": "34",
+      "tipo": "CASA",
+      "precio": 289000
+    },
+    {
+      "inmueble": "CASA35",
+      "referencia": "35",
+      "tipo": "CASA",
+      "precio": 289000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "LOCAL",
+      "precio": 1
+    }
+  ]
+}

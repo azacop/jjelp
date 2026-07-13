@@ -1,0 +1,174 @@
+{
+  "co_ownership_id": "646e33150d79e6000f1a5654",
+  "co_ownership_name": "CORPORACION DE COPROPIETARIOS EDIFICIO BALCONES DE SEGOVIA",
+  "address": "BRR MANGA CR 17 26 19",
+  "city": "Cartagena",
+  "department": "Bolívar",
+  "country": "COLOMBIA",
+  "agreement_number": "1497965",
+  "total": 27,
+  "apartamentos": [
+    {
+      "inmueble": "A2",
+      "referencia": "312",
+      "tipo": "APARTAMENTO",
+      "precio": 745000
+    },
+    {
+      "inmueble": "A3",
+      "referencia": "413",
+      "tipo": "APARTAMENTO",
+      "precio": 745000
+    },
+    {
+      "inmueble": "A4",
+      "referencia": "514",
+      "tipo": "APARTAMENTO",
+      "precio": 745000
+    },
+    {
+      "inmueble": "B3",
+      "referencia": "523",
+      "tipo": "APARTAMENTO",
+      "precio": 734000
+    },
+    {
+      "inmueble": "A5",
+      "referencia": "615",
+      "tipo": "APARTAMENTO",
+      "precio": 745000
+    },
+    {
+      "inmueble": "B4",
+      "referencia": "624",
+      "tipo": "APARTAMENTO",
+      "precio": 734000
+    },
+    {
+      "inmueble": "B2",
+      "referencia": "422",
+      "tipo": "APARTAMENTO",
+      "precio": 734000
+    },
+    {
+      "inmueble": "B5",
+      "referencia": "725",
+      "tipo": "APARTAMENTO",
+      "precio": 732000
+    },
+    {
+      "inmueble": "C2",
+      "referencia": "532",
+      "tipo": "APARTAMENTO",
+      "precio": 723000
+    },
+    {
+      "inmueble": "C3",
+      "referencia": "633",
+      "tipo": "APARTAMENTO",
+      "precio": 723000
+    },
+    {
+      "inmueble": "C4",
+      "referencia": "734",
+      "tipo": "APARTAMENTO",
+      "precio": 723000
+    },
+    {
+      "inmueble": "C5",
+      "referencia": "835",
+      "tipo": "APARTAMENTO",
+      "precio": 1534000
+    },
+    {
+      "inmueble": "D5",
+      "referencia": "945",
+      "tipo": "APARTAMENTO",
+      "precio": 1936000
+    },
+    {
+      "inmueble": "D2",
+      "referencia": "642",
+      "tipo": "APARTAMENTO",
+      "precio": 717000
+    },
+    {
+      "inmueble": "E2",
+      "referencia": "752",
+      "tipo": "APARTAMENTO",
+      "precio": 811000
+    },
+    {
+      "inmueble": "D3",
+      "referencia": "043",
+      "tipo": "APARTAMENTO",
+      "precio": 717000
+    },
+    {
+      "inmueble": "E3",
+      "referencia": "153",
+      "tipo": "APARTAMENTO",
+      "precio": 811000
+    },
+    {
+      "inmueble": "D4",
+      "referencia": "844",
+      "tipo": "APARTAMENTO",
+      "precio": 723000
+    },
+    {
+      "inmueble": "E4",
+      "referencia": "954",
+      "tipo": "APARTAMENTO",
+      "precio": 811000
+    },
+    {
+      "inmueble": "F3",
+      "referencia": "963",
+      "tipo": "APARTAMENTO",
+      "precio": 788000
+    },
+    {
+      "inmueble": "F4",
+      "referencia": "064",
+      "tipo": "APARTAMENTO",
+      "precio": 788000
+    },
+    {
+      "inmueble": "LOC1",
+      "referencia": "871",
+      "tipo": "APARTAMENTO",
+      "precio": 290000
+    },
+    {
+      "inmueble": "LOC4",
+      "referencia": "174",
+      "tipo": "APARTAMENTO",
+      "precio": 315000
+    },
+    {
+      "inmueble": "LOC2",
+      "referencia": "972",
+      "tipo": "APARTAMENTO",
+      "precio": 315000
+    },
+    {
+      "inmueble": "G1",
+      "referencia": "981",
+      "tipo": "APARTAMENTO",
+      "precio": 310000
+    },
+    {
+      "inmueble": "LOC3",
+      "referencia": "073",
+      "tipo": "APARTAMENTO",
+      "precio": 290000
+    },
+    {
+      "inmueble": "62",
+      "referencia": "862",
+      "tipo": null,
+      "precio": 788000
+    }
+  ]
+}

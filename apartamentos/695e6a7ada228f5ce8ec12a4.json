@@ -1,0 +1,462 @@
+{
+  "co_ownership_id": "695e6a7ada228f5ce8ec12a4",
+  "co_ownership_name": "CCMP IGUA CASAS DE CAMPO UIC PH",
+  "address": "VDA LA CHICA KM 1 5",
+  "city": "Anapoima",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1628817",
+  "total": 75,
+  "apartamentos": [
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "CASA",
+      "precio": 1065180
+    },
+    {
+      "inmueble": "61",
+      "referencia": "61",
+      "tipo": "CASA",
+      "precio": 1298880
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "CASA",
+      "precio": 1046730
+    },
+    {
+      "inmueble": "62",
+      "referencia": "62",
+      "tipo": "CASA",
+      "precio": 1329630
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "CASA",
+      "precio": 1066410
+    },
+    {
+      "inmueble": "63",
+      "referencia": "63",
+      "tipo": "CASA",
+      "precio": 1366530
+    },
+    {
+      "inmueble": "64",
+      "referencia": "64",
+      "tipo": "CASA",
+      "precio": 1244760
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "CASA",
+      "precio": 1088550
+    },
+    {
+      "inmueble": "65",
+      "referencia": "65",
+      "tipo": "CASA",
+      "precio": 1214010
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": "CASA",
+      "precio": 1141440
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 2480910
+    },
+    {
+      "inmueble": "56",
+      "referencia": "56",
+      "tipo": "CASA",
+      "precio": 1063950
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 1140210
+    },
+    {
+      "inmueble": "57",
+      "referencia": "57",
+      "tipo": "CASA",
+      "precio": 1070100
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1163580
+    },
+    {
+      "inmueble": "58",
+      "referencia": "58",
+      "tipo": "CASA",
+      "precio": 1220160
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1186950
+    },
+    {
+      "inmueble": "59",
+      "referencia": "59",
+      "tipo": "CASA",
+      "precio": 1241070
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 1210320
+    },
+    {
+      "inmueble": "60",
+      "referencia": "60",
+      "tipo": "CASA",
+      "precio": 1275510
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1416960
+    },
+    {
+      "inmueble": "36",
+      "referencia": "36",
+      "tipo": "CASA",
+      "precio": 1038120
+    },
+    {
+      "inmueble": "41",
+      "referencia": "41",
+      "tipo": "CASA",
+      "precio": 1269360
+    },
+    {
+      "inmueble": "66",
+      "referencia": "66",
+      "tipo": "CASA",
+      "precio": 1184490
+    },
+    {
+      "inmueble": "71",
+      "referencia": "71",
+      "tipo": "CASA",
+      "precio": 328410
+    },
+    {
+      "inmueble": "37",
+      "referencia": "37",
+      "tipo": "CASA",
+      "precio": 964320
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 1359150
+    },
+    {
+      "inmueble": "42",
+      "referencia": "42",
+      "tipo": "CASA",
+      "precio": 1228770
+    },
+    {
+      "inmueble": "72",
+      "referencia": "72",
+      "tipo": "CASA",
+      "precio": 409590
+    },
+    {
+      "inmueble": "67",
+      "referencia": "67",
+      "tipo": "CASA",
+      "precio": 1167270
+    },
+    {
+      "inmueble": "38",
+      "referencia": "38",
+      "tipo": "CASA",
+      "precio": 1434180
+    },
+    {
+      "inmueble": "68",
+      "referencia": "68",
+      "tipo": "CASA",
+      "precio": 1129140
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 1324710
+    },
+    {
+      "inmueble": "43",
+      "referencia": "43",
+      "tipo": "CASA",
+      "precio": 1258290
+    },
+    {
+      "inmueble": "73",
+      "referencia": "73",
+      "tipo": "CASA",
+      "precio": 319800
+    },
+    {
+      "inmueble": "74",
+      "referencia": "74",
+      "tipo": "CASA",
+      "precio": 330870
+    },
+    {
+      "inmueble": "39",
+      "referencia": "39",
+      "tipo": "CASA",
+      "precio": 1334550
+    },
+    {
+      "inmueble": "44",
+      "referencia": "44",
+      "tipo": "CASA",
+      "precio": 1079940
+    },
+    {
+      "inmueble": "69",
+      "referencia": "69",
+      "tipo": "CASA",
+      "precio": 293970
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 1259520
+    },
+    {
+      "inmueble": "40",
+      "referencia": "40",
+      "tipo": "CASA",
+      "precio": 1321020
+    },
+    {
+      "inmueble": "45",
+      "referencia": "45",
+      "tipo": "CASA",
+      "precio": 1078710
+    },
+    {
+      "inmueble": "70",
+      "referencia": "70",
+      "tipo": "CASA",
+      "precio": 318570
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 1193100
+    },
+    {
+      "inmueble": "31",
+      "referencia": "31",
+      "tipo": "CASA",
+      "precio": 966780
+    },
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": "CASA",
+      "precio": 1243530
+    },
+    {
+      "inmueble": "32",
+      "referencia": "32",
+      "tipo": "CASA",
+      "precio": 972930
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "CASA",
+      "precio": 911430
+    },
+    {
+      "inmueble": "33",
+      "referencia": "33",
+      "tipo": "CASA",
+      "precio": 1088550
+    },
+    {
+      "inmueble": "23",
+      "referencia": "23",
+      "tipo": "CASA",
+      "precio": 924960
+    },
+    {
+      "inmueble": "34",
+      "referencia": "34",
+      "tipo": "CASA",
+      "precio": 1140210
+    },
+    {
+      "inmueble": "24",
+      "referencia": "24",
+      "tipo": "CASA",
+      "precio": 1344390
+    },
+    {
+      "inmueble": "35",
+      "referencia": "35",
+      "tipo": "CASA",
+      "precio": 1066410
+    },
+    {
+      "inmueble": "25",
+      "referencia": "25",
+      "tipo": "CASA",
+      "precio": 1423110
+    },
+    {
+      "inmueble": "51",
+      "referencia": "51",
+      "tipo": "CASA",
+      "precio": 1065180
+    },
+    {
+      "inmueble": "46",
+      "referencia": "46",
+      "tipo": "CASA",
+      "precio": 1077480
+    },
+    {
+      "inmueble": "26",
+      "referencia": "26",
+      "tipo": "CASA",
+      "precio": 995070
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 1125450
+    },
+    {
+      "inmueble": "52",
+      "referencia": "52",
+      "tipo": "CASA",
+      "precio": 1056570
+    },
+    {
+      "inmueble": "47",
+      "referencia": "47",
+      "tipo": "CASA",
+      "precio": 1076250
+    },
+    {
+      "inmueble": "27",
+      "referencia": "27",
+      "tipo": "CASA",
+      "precio": 1186950
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 1059030
+    },
+    {
+      "inmueble": "53",
+      "referencia": "53",
+      "tipo": "CASA",
+      "precio": 985230
+    },
+    {
+      "inmueble": "28",
+      "referencia": "28",
+      "tipo": "CASA",
+      "precio": 1162350
+    },
+    {
+      "inmueble": "48",
+      "referencia": "48",
+      "tipo": "CASA",
+      "precio": 1071330
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 1287810
+    },
+    {
+      "inmueble": "29",
+      "referencia": "29",
+      "tipo": "CASA",
+      "precio": 1082400
+    },
+    {
+      "inmueble": "54",
+      "referencia": "54",
+      "tipo": "CASA",
+      "precio": 1344390
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 1054110
+    },
+    {
+      "inmueble": "49",
+      "referencia": "49",
+      "tipo": "CASA",
+      "precio": 1068870
+    },
+    {
+      "inmueble": "55",
+      "referencia": "55",
+      "tipo": "CASA",
+      "precio": 1282890
+    },
+    {
+      "inmueble": "30",
+      "referencia": "30",
+      "tipo": "CASA",
+      "precio": 1046730
+    },
+    {
+      "inmueble": "50",
+      "referencia": "50",
+      "tipo": "CASA",
+      "precio": 1068870
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 1056570
+    }
+  ]
+}

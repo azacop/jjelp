@@ -1,0 +1,24 @@
+{
+  "co_ownership_id": "660eee2613f9b90011312544",
+  "co_ownership_name": "AS CORPORACION FUTBOL SALA",
+  "address": "DG 40 NO. 36 123",
+  "city": "Soacha",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1533496",
+  "total": 2,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 5000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 5000
+    }
+  ]
+}

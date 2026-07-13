@@ -1,0 +1,72 @@
+{
+  "co_ownership_id": "63eba6a9350ecd000f1f5461",
+  "co_ownership_name": "CONDOMINIO LA CANDELARIA",
+  "address": "CL 17 5 - 55",
+  "city": "Neiva",
+  "department": "Huila",
+  "country": "COLOMBIA",
+  "agreement_number": "1485986",
+  "total": 10,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 470000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 470000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 470000
+    },
+    {
+      "inmueble": "7",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 470000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 470000
+    },
+    {
+      "inmueble": "8",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 470000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 470000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 470000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 470000
+    },
+    {
+      "inmueble": "10",
+      "referencia": "999",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    }
+  ]
+}

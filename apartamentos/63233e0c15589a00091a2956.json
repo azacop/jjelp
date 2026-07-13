@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "63233e0c15589a00091a2956",
+  "co_ownership_name": "LAS ACACIAS PH",
+  "address": "CARRERA  80C  34A 82",
+  "city": "Medellín",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1471978",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 294000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 257000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 257000
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 260000
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 259000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 263000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "LOCAL",
+      "precio": 1
+    }
+  ]
+}

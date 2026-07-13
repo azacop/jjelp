@@ -1,0 +1,78 @@
+{
+  "co_ownership_id": "6851811da208350172b45a96",
+  "co_ownership_name": "P H EDIFICIO EL TRIANGULO",
+  "address": "CL 54 23 25",
+  "city": "Manizales",
+  "department": "Caldas",
+  "country": "COLOMBIA",
+  "agreement_number": "1598606",
+  "total": 11,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "99999999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "701",
+      "referencia": "10211454",
+      "tipo": "APARTAMENTO",
+      "precio": 1109000
+    },
+    {
+      "inmueble": "702",
+      "referencia": "10280974",
+      "tipo": "APARTAMENTO",
+      "precio": 1109000
+    },
+    {
+      "inmueble": "801",
+      "referencia": "24318527",
+      "tipo": "APARTAMENTO",
+      "precio": 1109000
+    },
+    {
+      "inmueble": "901",
+      "referencia": "10247080",
+      "tipo": "APARTAMENTO",
+      "precio": 1109000
+    },
+    {
+      "inmueble": "902",
+      "referencia": "24819098",
+      "tipo": "APARTAMENTO",
+      "precio": 1109000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "30281700",
+      "tipo": "APARTAMENTO",
+      "precio": 1109000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "30294855",
+      "tipo": "APARTAMENTO",
+      "precio": 1109000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "4325772",
+      "tipo": "APARTAMENTO",
+      "precio": 1109000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "24321611",
+      "tipo": "APARTAMENTO",
+      "precio": 1109000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "24329158",
+      "tipo": "APARTAMENTO",
+      "precio": 1109000
+    }
+  ]
+}

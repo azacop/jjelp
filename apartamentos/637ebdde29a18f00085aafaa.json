@@ -1,0 +1,294 @@
+{
+  "co_ownership_id": "637ebdde29a18f00085aafaa",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL CAMPESTRE FORTALEZA DE PIEDRA CAJICA",
+  "address": "VEREDA CALAHORRA",
+  "city": "Cajicá",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1323807",
+  "total": 47,
+  "apartamentos": [
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "CASA",
+      "precio": 724000
+    },
+    {
+      "inmueble": "1501",
+      "referencia": "1501",
+      "tipo": "CASA",
+      "precio": 702000
+    },
+    {
+      "inmueble": "1202",
+      "referencia": "1202",
+      "tipo": "CASA",
+      "precio": 661000
+    },
+    {
+      "inmueble": "1101",
+      "referencia": "1101",
+      "tipo": "CASA",
+      "precio": 663000
+    },
+    {
+      "inmueble": "2002",
+      "referencia": "2002",
+      "tipo": "CASA",
+      "precio": 570000
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "CASA",
+      "precio": 525000
+    },
+    {
+      "inmueble": "1502",
+      "referencia": "1502",
+      "tipo": "CASA",
+      "precio": 716000
+    },
+    {
+      "inmueble": "1702",
+      "referencia": "1702",
+      "tipo": "CASA",
+      "precio": 723000
+    },
+    {
+      "inmueble": "1402",
+      "referencia": "1402",
+      "tipo": "CASA",
+      "precio": 659000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "CASA",
+      "precio": 588000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "CASA",
+      "precio": 603000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "1602",
+      "referencia": "1602",
+      "tipo": "CASA",
+      "precio": 715000
+    },
+    {
+      "inmueble": "2101",
+      "referencia": "2101",
+      "tipo": "CASA",
+      "precio": 573000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "CASA",
+      "precio": 624000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "CASA",
+      "precio": 799000
+    },
+    {
+      "inmueble": "1201",
+      "referencia": "1201",
+      "tipo": "CASA",
+      "precio": 661000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "CASA",
+      "precio": 616000
+    },
+    {
+      "inmueble": "1802",
+      "referencia": "1802",
+      "tipo": "CASA",
+      "precio": 696000
+    },
+    {
+      "inmueble": "1601",
+      "referencia": "1601",
+      "tipo": "CASA",
+      "precio": 701000
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": "CASA",
+      "precio": 521000
+    },
+    {
+      "inmueble": "1701",
+      "referencia": "1701",
+      "tipo": "CASA",
+      "precio": 697000
+    },
+    {
+      "inmueble": "1301",
+      "referencia": "1301",
+      "tipo": "CASA",
+      "precio": 661000
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "CASA",
+      "precio": 592000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "CASA",
+      "precio": 588000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "CASA",
+      "precio": 592000
+    },
+    {
+      "inmueble": "1801",
+      "referencia": "1801",
+      "tipo": "CASA",
+      "precio": 695000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "CASA",
+      "precio": 676000
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "CASA",
+      "precio": 521000
+    },
+    {
+      "inmueble": "2001",
+      "referencia": "2001",
+      "tipo": "CASA",
+      "precio": 574000
+    },
+    {
+      "inmueble": "1001",
+      "referencia": "1001",
+      "tipo": "CASA",
+      "precio": 664000
+    },
+    {
+      "inmueble": "1902",
+      "referencia": "1902",
+      "tipo": "CASA",
+      "precio": 647000
+    },
+    {
+      "inmueble": "1302",
+      "referencia": "1302",
+      "tipo": "CASA",
+      "precio": 702000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "CASA",
+      "precio": 648000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "CASA",
+      "precio": 637000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "CASA",
+      "precio": 587000
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "CASA",
+      "precio": 556000
+    },
+    {
+      "inmueble": "1002",
+      "referencia": "1002",
+      "tipo": "CASA",
+      "precio": 664000
+    },
+    {
+      "inmueble": "1901",
+      "referencia": "1901",
+      "tipo": "CASA",
+      "precio": 654000
+    },
+    {
+      "inmueble": "2102",
+      "referencia": "2102",
+      "tipo": "CASA",
+      "precio": 537000
+    },
+    {
+      "inmueble": "902",
+      "referencia": "902",
+      "tipo": "CASA",
+      "precio": 840000
+    },
+    {
+      "inmueble": "1102",
+      "referencia": "1102",
+      "tipo": "CASA",
+      "precio": 663000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "CASA",
+      "precio": 654000
+    },
+    {
+      "inmueble": "1401",
+      "referencia": "1401",
+      "tipo": "CASA",
+      "precio": 718000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "CASA",
+      "precio": 588000
+    },
+    {
+      "inmueble": "901",
+      "referencia": "901",
+      "tipo": "CASA",
+      "precio": 786000
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "CASA",
+      "precio": 534000
+    }
+  ]
+}

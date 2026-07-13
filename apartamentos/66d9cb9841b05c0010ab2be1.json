@@ -1,0 +1,96 @@
+{
+  "co_ownership_id": "66d9cb9841b05c0010ab2be1",
+  "co_ownership_name": "ORQUIDEA DEL MAR",
+  "address": "CL 19 1C 42 SEC RODADERO",
+  "city": "Santa Marta",
+  "department": "Magdalena",
+  "country": "COLOMBIA",
+  "agreement_number": "1558907",
+  "total": 14,
+  "apartamentos": [
+    {
+      "inmueble": "TB APTO 202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 528000
+    },
+    {
+      "inmueble": "TC APTO 203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 389000
+    },
+    {
+      "inmueble": "APTO 100",
+      "referencia": "100",
+      "tipo": "APARTAMENTO",
+      "precio": 275000
+    },
+    {
+      "inmueble": "TA APTO 301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 625000
+    },
+    {
+      "inmueble": "TB APTO 302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 542000
+    },
+    {
+      "inmueble": "TA APTO 101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 484000
+    },
+    {
+      "inmueble": "TB APTO 102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 624000
+    },
+    {
+      "inmueble": "TC APTO 303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 395000
+    },
+    {
+      "inmueble": "TA APTO 401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 593000
+    },
+    {
+      "inmueble": "TC APTO 103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 395000
+    },
+    {
+      "inmueble": "TB APTO 402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 508000
+    },
+    {
+      "inmueble": "TA APTO 201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 587000
+    },
+    {
+      "inmueble": "TC APTO 403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 395000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

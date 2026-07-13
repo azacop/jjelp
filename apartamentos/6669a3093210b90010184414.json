@@ -1,0 +1,36 @@
+{
+  "co_ownership_id": "6669a3093210b90010184414",
+  "co_ownership_name": "EDIFICIO TORREMOLINO PH",
+  "address": "CRA 3 ENTRE CL 6 Y 7 BRR LA POLA",
+  "city": "Ibagué",
+  "department": "Tolima",
+  "country": "COLOMBIA",
+  "agreement_number": "1543677",
+  "total": 4,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 1690000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1690000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1690000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 1690000
+    }
+  ]
+}

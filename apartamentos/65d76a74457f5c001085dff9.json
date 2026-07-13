@@ -1,0 +1,42 @@
+{
+  "co_ownership_id": "65d76a74457f5c001085dff9",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL EL HUERTO II CONVENIO 2",
+  "address": "CR 19 D 4 103",
+  "city": "Soacha",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1529007",
+  "total": 5,
+  "apartamentos": [
+    {
+      "inmueble": "55",
+      "referencia": "55",
+      "tipo": "APARTAMENTO",
+      "precio": 1800000
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "APARTAMENTO",
+      "precio": 1800000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "APARTAMENTO",
+      "precio": 1800000
+    },
+    {
+      "inmueble": "1000",
+      "referencia": "1000",
+      "tipo": "APARTAMENTO",
+      "precio": 1800000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

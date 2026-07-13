@@ -1,0 +1,1356 @@
+{
+  "co_ownership_id": "64e4a8fc4919640010752b1c",
+  "co_ownership_name": "CR 12 UNIDAD MEDICO QUIRURGICA MEDICADIZ PROPIEDAD HORIZONTAL",
+  "address": "CR 12 SUR  N 93 21 VIA AEROPUERTO PERALES",
+  "city": "Ibagué",
+  "department": "Tolima",
+  "country": "COLOMBIA",
+  "agreement_number": "1183441",
+  "total": 224,
+  "apartamentos": [
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "APARTAMENTO",
+      "precio": 196321
+    },
+    {
+      "inmueble": "113",
+      "referencia": "113",
+      "tipo": "APARTAMENTO",
+      "precio": 92804
+    },
+    {
+      "inmueble": "1211",
+      "referencia": "1211",
+      "tipo": "APARTAMENTO",
+      "precio": 196904
+    },
+    {
+      "inmueble": "1201",
+      "referencia": "1201",
+      "tipo": "APARTAMENTO",
+      "precio": 188636
+    },
+    {
+      "inmueble": "1206",
+      "referencia": "1206",
+      "tipo": "APARTAMENTO",
+      "precio": 206219
+    },
+    {
+      "inmueble": "1303",
+      "referencia": "1303",
+      "tipo": "APARTAMENTO",
+      "precio": 195273
+    },
+    {
+      "inmueble": "1309",
+      "referencia": "1309",
+      "tipo": "APARTAMENTO",
+      "precio": 153005
+    },
+    {
+      "inmueble": "100",
+      "referencia": "100",
+      "tipo": "APARTAMENTO",
+      "precio": 84808643
+    },
+    {
+      "inmueble": "1406",
+      "referencia": "1406",
+      "tipo": "APARTAMENTO",
+      "precio": 253495
+    },
+    {
+      "inmueble": "1401",
+      "referencia": "1401",
+      "tipo": "APARTAMENTO",
+      "precio": 231604
+    },
+    {
+      "inmueble": "114",
+      "referencia": "114",
+      "tipo": "APARTAMENTO",
+      "precio": 91640
+    },
+    {
+      "inmueble": "1207",
+      "referencia": "1207",
+      "tipo": "APARTAMENTO",
+      "precio": 181068
+    },
+    {
+      "inmueble": "1212",
+      "referencia": "1212",
+      "tipo": "APARTAMENTO",
+      "precio": 249652
+    },
+    {
+      "inmueble": "1202",
+      "referencia": "1202",
+      "tipo": "APARTAMENTO",
+      "precio": 182931
+    },
+    {
+      "inmueble": "1411",
+      "referencia": "1411",
+      "tipo": "APARTAMENTO",
+      "precio": 241850
+    },
+    {
+      "inmueble": "1310",
+      "referencia": "1310",
+      "tipo": "APARTAMENTO",
+      "precio": 236727
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "APARTAMENTO",
+      "precio": 228110
+    },
+    {
+      "inmueble": "1304",
+      "referencia": "1304",
+      "tipo": "APARTAMENTO",
+      "precio": 287845
+    },
+    {
+      "inmueble": "1606",
+      "referencia": "1606",
+      "tipo": "APARTAMENTO",
+      "precio": 300654
+    },
+    {
+      "inmueble": "1508",
+      "referencia": "1508",
+      "tipo": "APARTAMENTO",
+      "precio": 222870
+    },
+    {
+      "inmueble": "1703",
+      "referencia": "1703",
+      "tipo": "APARTAMENTO",
+      "precio": 274920
+    },
+    {
+      "inmueble": "1402",
+      "referencia": "1402",
+      "tipo": "APARTAMENTO",
+      "precio": 224617
+    },
+    {
+      "inmueble": "115",
+      "referencia": "115",
+      "tipo": "APARTAMENTO",
+      "precio": 92804
+    },
+    {
+      "inmueble": "1407",
+      "referencia": "1407",
+      "tipo": "APARTAMENTO",
+      "precio": 222172
+    },
+    {
+      "inmueble": "1412",
+      "referencia": "1412",
+      "tipo": "APARTAMENTO",
+      "precio": 307408
+    },
+    {
+      "inmueble": "1806",
+      "referencia": "1806",
+      "tipo": "APARTAMENTO",
+      "precio": 347930
+    },
+    {
+      "inmueble": "1708",
+      "referencia": "1708",
+      "tipo": "APARTAMENTO",
+      "precio": 315000
+    },
+    {
+      "inmueble": "1208",
+      "referencia": "1208",
+      "tipo": "APARTAMENTO",
+      "precio": 163718
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "APARTAMENTO",
+      "precio": 246508
+    },
+    {
+      "inmueble": "1203",
+      "referencia": "1203",
+      "tipo": "APARTAMENTO",
+      "precio": 175362
+    },
+    {
+      "inmueble": "1305",
+      "referencia": "1305",
+      "tipo": "APARTAMENTO",
+      "precio": 249303
+    },
+    {
+      "inmueble": "1311",
+      "referencia": "1311",
+      "tipo": "APARTAMENTO",
+      "precio": 219377
+    },
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "APARTAMENTO",
+      "precio": 252097
+    },
+    {
+      "inmueble": "1704",
+      "referencia": "1704",
+      "tipo": "APARTAMENTO",
+      "precio": 407199
+    },
+    {
+      "inmueble": "1607",
+      "referencia": "1607",
+      "tipo": "APARTAMENTO",
+      "precio": 263392
+    },
+    {
+      "inmueble": "1403",
+      "referencia": "1403",
+      "tipo": "APARTAMENTO",
+      "precio": 215185
+    },
+    {
+      "inmueble": "1509",
+      "referencia": "1509",
+      "tipo": "APARTAMENTO",
+      "precio": 187123
+    },
+    {
+      "inmueble": "1408",
+      "referencia": "1408",
+      "tipo": "APARTAMENTO",
+      "precio": 200746
+    },
+    {
+      "inmueble": "116",
+      "referencia": "116",
+      "tipo": "APARTAMENTO",
+      "precio": 378088
+    },
+    {
+      "inmueble": "1807",
+      "referencia": "1807",
+      "tipo": "APARTAMENTO",
+      "precio": 304613
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "APARTAMENTO",
+      "precio": 326853
+    },
+    {
+      "inmueble": "1301",
+      "referencia": "1301",
+      "tipo": "APARTAMENTO",
+      "precio": 210062
+    },
+    {
+      "inmueble": "1209",
+      "referencia": "1209",
+      "tipo": "APARTAMENTO",
+      "precio": 137634
+    },
+    {
+      "inmueble": "1709",
+      "referencia": "1709",
+      "tipo": "APARTAMENTO",
+      "precio": 214486
+    },
+    {
+      "inmueble": "1204",
+      "referencia": "1204",
+      "tipo": "APARTAMENTO",
+      "precio": 258036
+    },
+    {
+      "inmueble": "1306",
+      "referencia": "1306",
+      "tipo": "APARTAMENTO",
+      "precio": 439220
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "APARTAMENTO",
+      "precio": 319401
+    },
+    {
+      "inmueble": "1705",
+      "referencia": "1705",
+      "tipo": "APARTAMENTO",
+      "precio": 356663
+    },
+    {
+      "inmueble": "1608",
+      "referencia": "1608",
+      "tipo": "APARTAMENTO",
+      "precio": 237775
+    },
+    {
+      "inmueble": "1510",
+      "referencia": "1510",
+      "tipo": "APARTAMENTO",
+      "precio": 285400
+    },
+    {
+      "inmueble": "1312",
+      "referencia": "1312",
+      "tipo": "APARTAMENTO",
+      "precio": 278530
+    },
+    {
+      "inmueble": "1404",
+      "referencia": "1404",
+      "tipo": "APARTAMENTO",
+      "precio": 317654
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "APARTAMENTO",
+      "precio": 252796
+    },
+    {
+      "inmueble": "1808",
+      "referencia": "1808",
+      "tipo": "APARTAMENTO",
+      "precio": 274804
+    },
+    {
+      "inmueble": "1409",
+      "referencia": "1409",
+      "tipo": "APARTAMENTO",
+      "precio": 168375
+    },
+    {
+      "inmueble": "1501",
+      "referencia": "1501",
+      "tipo": "APARTAMENTO",
+      "precio": 253029
+    },
+    {
+      "inmueble": "1302",
+      "referencia": "1302",
+      "tipo": "APARTAMENTO",
+      "precio": 203774
+    },
+    {
+      "inmueble": "1710",
+      "referencia": "1710",
+      "tipo": "APARTAMENTO",
+      "precio": 334073
+    },
+    {
+      "inmueble": "1210",
+      "referencia": "1210",
+      "tipo": "APARTAMENTO",
+      "precio": 212274
+    },
+    {
+      "inmueble": "1205",
+      "referencia": "1205",
+      "tipo": "APARTAMENTO",
+      "precio": 223569
+    },
+    {
+      "inmueble": "1308",
+      "referencia": "1308",
+      "tipo": "APARTAMENTO",
+      "precio": 182232
+    },
+    {
+      "inmueble": "1609",
+      "referencia": "1609",
+      "tipo": "APARTAMENTO",
+      "precio": 199116
+    },
+    {
+      "inmueble": "1706",
+      "referencia": "1706",
+      "tipo": "APARTAMENTO",
+      "precio": 328367
+    },
+    {
+      "inmueble": "1511",
+      "referencia": "1511",
+      "tipo": "APARTAMENTO",
+      "precio": 264324
+    },
+    {
+      "inmueble": "1410",
+      "referencia": "1410",
+      "tipo": "APARTAMENTO",
+      "precio": 437000
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "APARTAMENTO",
+      "precio": 538429
+    },
+    {
+      "inmueble": "1405",
+      "referencia": "1405",
+      "tipo": "APARTAMENTO",
+      "precio": 274920
+    },
+    {
+      "inmueble": "1809",
+      "referencia": "1809",
+      "tipo": "APARTAMENTO",
+      "precio": 229857
+    },
+    {
+      "inmueble": "1502",
+      "referencia": "1502",
+      "tipo": "APARTAMENTO",
+      "precio": 245460
+    },
+    {
+      "inmueble": "1711",
+      "referencia": "1711",
+      "tipo": "APARTAMENTO",
+      "precio": 309271
+    },
+    {
+      "inmueble": "1610",
+      "referencia": "1610",
+      "tipo": "APARTAMENTO",
+      "precio": 309736
+    },
+    {
+      "inmueble": "1707",
+      "referencia": "1707",
+      "tipo": "APARTAMENTO",
+      "precio": 284003
+    },
+    {
+      "inmueble": "1512",
+      "referencia": "1512",
+      "tipo": "APARTAMENTO",
+      "precio": 336169
+    },
+    {
+      "inmueble": "1810",
+      "referencia": "1810",
+      "tipo": "APARTAMENTO",
+      "precio": 354800
+    },
+    {
+      "inmueble": "312",
+      "referencia": "1604",
+      "tipo": "OTROS",
+      "precio": 341000
+    },
+    {
+      "inmueble": "1503",
+      "referencia": "1503",
+      "tipo": "APARTAMENTO",
+      "precio": 235097
+    },
+    {
+      "inmueble": "1611",
+      "referencia": "1611",
+      "tipo": "APARTAMENTO",
+      "precio": 286797
+    },
+    {
+      "inmueble": "1712",
+      "referencia": "1712",
+      "tipo": "APARTAMENTO",
+      "precio": 393691
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "APARTAMENTO",
+      "precio": 27829
+    },
+    {
+      "inmueble": "1904",
+      "referencia": "1904",
+      "tipo": "APARTAMENTO",
+      "precio": 466817
+    },
+    {
+      "inmueble": "1811",
+      "referencia": "1811",
+      "tipo": "APARTAMENTO",
+      "precio": 765609
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1044077
+    },
+    {
+      "inmueble": "1504",
+      "referencia": "1504",
+      "tipo": "APARTAMENTO",
+      "precio": 347464
+    },
+    {
+      "inmueble": "1601",
+      "referencia": "1601",
+      "tipo": "APARTAMENTO",
+      "precio": 274571
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "APARTAMENTO",
+      "precio": 144854
+    },
+    {
+      "inmueble": "1612",
+      "referencia": "1612",
+      "tipo": "APARTAMENTO",
+      "precio": 365047
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "APARTAMENTO",
+      "precio": 28295
+    },
+    {
+      "inmueble": "1905",
+      "referencia": "1905",
+      "tipo": "APARTAMENTO",
+      "precio": 403473
+    },
+    {
+      "inmueble": "1505",
+      "referencia": "1505",
+      "tipo": "APARTAMENTO",
+      "precio": 300654
+    },
+    {
+      "inmueble": "1602",
+      "referencia": "1602",
+      "tipo": "APARTAMENTO",
+      "precio": 266187
+    },
+    {
+      "inmueble": "1901",
+      "referencia": "1901",
+      "tipo": "APARTAMENTO",
+      "precio": 339080
+    },
+    {
+      "inmueble": "1801",
+      "referencia": "1801",
+      "tipo": "APARTAMENTO",
+      "precio": 637173
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "APARTAMENTO",
+      "precio": 28295
+    },
+    {
+      "inmueble": "1506",
+      "referencia": "1506",
+      "tipo": "APARTAMENTO",
+      "precio": 277016
+    },
+    {
+      "inmueble": "1906",
+      "referencia": "1906",
+      "tipo": "APARTAMENTO",
+      "precio": 371567
+    },
+    {
+      "inmueble": "1902",
+      "referencia": "1902",
+      "tipo": "APARTAMENTO",
+      "precio": 328717
+    },
+    {
+      "inmueble": "1603",
+      "referencia": "1603",
+      "tipo": "APARTAMENTO",
+      "precio": 255008
+    },
+    {
+      "inmueble": "1701",
+      "referencia": "1701",
+      "tipo": "APARTAMENTO",
+      "precio": 296113
+    },
+    {
+      "inmueble": "1803",
+      "referencia": "1803",
+      "tipo": "APARTAMENTO",
+      "precio": 294832
+    },
+    {
+      "inmueble": "1507",
+      "referencia": "1507",
+      "tipo": "APARTAMENTO",
+      "precio": 242782
+    },
+    {
+      "inmueble": "1903",
+      "referencia": "1903",
+      "tipo": "APARTAMENTO",
+      "precio": 314627
+    },
+    {
+      "inmueble": "1907",
+      "referencia": "1907",
+      "tipo": "APARTAMENTO",
+      "precio": 325107
+    },
+    {
+      "inmueble": "1605",
+      "referencia": "1605",
+      "tipo": "APARTAMENTO",
+      "precio": 326388
+    },
+    {
+      "inmueble": "1702",
+      "referencia": "1702",
+      "tipo": "APARTAMENTO",
+      "precio": 287030
+    },
+    {
+      "inmueble": "1804",
+      "referencia": "1804",
+      "tipo": "APARTAMENTO",
+      "precio": 437008
+    },
+    {
+      "inmueble": "1908",
+      "referencia": "1908",
+      "tipo": "APARTAMENTO",
+      "precio": 293318
+    },
+    {
+      "inmueble": "1805",
+      "referencia": "1805",
+      "tipo": "APARTAMENTO",
+      "precio": 377739
+    },
+    {
+      "inmueble": "1909",
+      "referencia": "1909",
+      "tipo": "APARTAMENTO",
+      "precio": 245227
+    },
+    {
+      "inmueble": "1910",
+      "referencia": "1910",
+      "tipo": "APARTAMENTO",
+      "precio": 382746
+    },
+    {
+      "inmueble": "1911",
+      "referencia": "1911",
+      "tipo": "APARTAMENTO",
+      "precio": 825693
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": "OTROS",
+      "precio": 711000
+    },
+    {
+      "inmueble": "200",
+      "referencia": "200",
+      "tipo": "APARTAMENTO",
+      "precio": 1300895
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "APARTAMENTO",
+      "precio": 196321
+    },
+    {
+      "inmueble": "113",
+      "referencia": "113",
+      "tipo": "APARTAMENTO",
+      "precio": 92804
+    },
+    {
+      "inmueble": "1211",
+      "referencia": "1211",
+      "tipo": "APARTAMENTO",
+      "precio": 196904
+    },
+    {
+      "inmueble": "1201",
+      "referencia": "1201",
+      "tipo": "APARTAMENTO",
+      "precio": 188636
+    },
+    {
+      "inmueble": "1206",
+      "referencia": "1206",
+      "tipo": "APARTAMENTO",
+      "precio": 206219
+    },
+    {
+      "inmueble": "1303",
+      "referencia": "1303",
+      "tipo": "APARTAMENTO",
+      "precio": 195273
+    },
+    {
+      "inmueble": "1309",
+      "referencia": "1309",
+      "tipo": "APARTAMENTO",
+      "precio": 153005
+    },
+    {
+      "inmueble": "100",
+      "referencia": "100",
+      "tipo": "APARTAMENTO",
+      "precio": 84808643
+    },
+    {
+      "inmueble": "1406",
+      "referencia": "1406",
+      "tipo": "APARTAMENTO",
+      "precio": 253495
+    },
+    {
+      "inmueble": "1401",
+      "referencia": "1401",
+      "tipo": "APARTAMENTO",
+      "precio": 231604
+    },
+    {
+      "inmueble": "114",
+      "referencia": "114",
+      "tipo": "APARTAMENTO",
+      "precio": 91640
+    },
+    {
+      "inmueble": "1207",
+      "referencia": "1207",
+      "tipo": "APARTAMENTO",
+      "precio": 181068
+    },
+    {
+      "inmueble": "1212",
+      "referencia": "1212",
+      "tipo": "APARTAMENTO",
+      "precio": 249652
+    },
+    {
+      "inmueble": "1202",
+      "referencia": "1202",
+      "tipo": "APARTAMENTO",
+      "precio": 182931
+    },
+    {
+      "inmueble": "1411",
+      "referencia": "1411",
+      "tipo": "APARTAMENTO",
+      "precio": 241850
+    },
+    {
+      "inmueble": "1310",
+      "referencia": "1310",
+      "tipo": "APARTAMENTO",
+      "precio": 236727
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "APARTAMENTO",
+      "precio": 228110
+    },
+    {
+      "inmueble": "1304",
+      "referencia": "1304",
+      "tipo": "APARTAMENTO",
+      "precio": 287845
+    },
+    {
+      "inmueble": "1606",
+      "referencia": "1606",
+      "tipo": "APARTAMENTO",
+      "precio": 300654
+    },
+    {
+      "inmueble": "1508",
+      "referencia": "1508",
+      "tipo": "APARTAMENTO",
+      "precio": 222870
+    },
+    {
+      "inmueble": "1703",
+      "referencia": "1703",
+      "tipo": "APARTAMENTO",
+      "precio": 274920
+    },
+    {
+      "inmueble": "1402",
+      "referencia": "1402",
+      "tipo": "APARTAMENTO",
+      "precio": 224617
+    },
+    {
+      "inmueble": "115",
+      "referencia": "115",
+      "tipo": "APARTAMENTO",
+      "precio": 92804
+    },
+    {
+      "inmueble": "1407",
+      "referencia": "1407",
+      "tipo": "APARTAMENTO",
+      "precio": 222172
+    },
+    {
+      "inmueble": "1412",
+      "referencia": "1412",
+      "tipo": "APARTAMENTO",
+      "precio": 307408
+    },
+    {
+      "inmueble": "1806",
+      "referencia": "1806",
+      "tipo": "APARTAMENTO",
+      "precio": 347930
+    },
+    {
+      "inmueble": "1708",
+      "referencia": "1708",
+      "tipo": "APARTAMENTO",
+      "precio": 315000
+    },
+    {
+      "inmueble": "1208",
+      "referencia": "1208",
+      "tipo": "APARTAMENTO",
+      "precio": 163718
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "APARTAMENTO",
+      "precio": 246508
+    },
+    {
+      "inmueble": "1203",
+      "referencia": "1203",
+      "tipo": "APARTAMENTO",
+      "precio": 175362
+    },
+    {
+      "inmueble": "1305",
+      "referencia": "1305",
+      "tipo": "APARTAMENTO",
+      "precio": 249303
+    },
+    {
+      "inmueble": "1311",
+      "referencia": "1311",
+      "tipo": "APARTAMENTO",
+      "precio": 219377
+    },
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "APARTAMENTO",
+      "precio": 252097
+    },
+    {
+      "inmueble": "1704",
+      "referencia": "1704",
+      "tipo": "APARTAMENTO",
+      "precio": 407199
+    },
+    {
+      "inmueble": "1607",
+      "referencia": "1607",
+      "tipo": "APARTAMENTO",
+      "precio": 263392
+    },
+    {
+      "inmueble": "1403",
+      "referencia": "1403",
+      "tipo": "APARTAMENTO",
+      "precio": 215185
+    },
+    {
+      "inmueble": "1509",
+      "referencia": "1509",
+      "tipo": "APARTAMENTO",
+      "precio": 187123
+    },
+    {
+      "inmueble": "1408",
+      "referencia": "1408",
+      "tipo": "APARTAMENTO",
+      "precio": 200746
+    },
+    {
+      "inmueble": "116",
+      "referencia": "116",
+      "tipo": "APARTAMENTO",
+      "precio": 378088
+    },
+    {
+      "inmueble": "1807",
+      "referencia": "1807",
+      "tipo": "APARTAMENTO",
+      "precio": 304613
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "APARTAMENTO",
+      "precio": 326853
+    },
+    {
+      "inmueble": "1301",
+      "referencia": "1301",
+      "tipo": "APARTAMENTO",
+      "precio": 210062
+    },
+    {
+      "inmueble": "1209",
+      "referencia": "1209",
+      "tipo": "APARTAMENTO",
+      "precio": 137634
+    },
+    {
+      "inmueble": "1709",
+      "referencia": "1709",
+      "tipo": "APARTAMENTO",
+      "precio": 214486
+    },
+    {
+      "inmueble": "1204",
+      "referencia": "1204",
+      "tipo": "APARTAMENTO",
+      "precio": 258036
+    },
+    {
+      "inmueble": "1306",
+      "referencia": "1306",
+      "tipo": "APARTAMENTO",
+      "precio": 439220
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "APARTAMENTO",
+      "precio": 319401
+    },
+    {
+      "inmueble": "1705",
+      "referencia": "1705",
+      "tipo": "APARTAMENTO",
+      "precio": 356663
+    },
+    {
+      "inmueble": "1608",
+      "referencia": "1608",
+      "tipo": "APARTAMENTO",
+      "precio": 237775
+    },
+    {
+      "inmueble": "1510",
+      "referencia": "1510",
+      "tipo": "APARTAMENTO",
+      "precio": 285400
+    },
+    {
+      "inmueble": "1312",
+      "referencia": "1312",
+      "tipo": "APARTAMENTO",
+      "precio": 278530
+    },
+    {
+      "inmueble": "1404",
+      "referencia": "1404",
+      "tipo": "APARTAMENTO",
+      "precio": 317654
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "APARTAMENTO",
+      "precio": 252796
+    },
+    {
+      "inmueble": "1808",
+      "referencia": "1808",
+      "tipo": "APARTAMENTO",
+      "precio": 274804
+    },
+    {
+      "inmueble": "1409",
+      "referencia": "1409",
+      "tipo": "APARTAMENTO",
+      "precio": 168375
+    },
+    {
+      "inmueble": "1501",
+      "referencia": "1501",
+      "tipo": "APARTAMENTO",
+      "precio": 253029
+    },
+    {
+      "inmueble": "1302",
+      "referencia": "1302",
+      "tipo": "APARTAMENTO",
+      "precio": 203774
+    },
+    {
+      "inmueble": "1710",
+      "referencia": "1710",
+      "tipo": "APARTAMENTO",
+      "precio": 334073
+    },
+    {
+      "inmueble": "1210",
+      "referencia": "1210",
+      "tipo": "APARTAMENTO",
+      "precio": 212274
+    },
+    {
+      "inmueble": "1205",
+      "referencia": "1205",
+      "tipo": "APARTAMENTO",
+      "precio": 223569
+    },
+    {
+      "inmueble": "1308",
+      "referencia": "1308",
+      "tipo": "APARTAMENTO",
+      "precio": 182232
+    },
+    {
+      "inmueble": "1609",
+      "referencia": "1609",
+      "tipo": "APARTAMENTO",
+      "precio": 199116
+    },
+    {
+      "inmueble": "1706",
+      "referencia": "1706",
+      "tipo": "APARTAMENTO",
+      "precio": 328367
+    },
+    {
+      "inmueble": "1511",
+      "referencia": "1511",
+      "tipo": "APARTAMENTO",
+      "precio": 264324
+    },
+    {
+      "inmueble": "1410",
+      "referencia": "1410",
+      "tipo": "APARTAMENTO",
+      "precio": 437000
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "APARTAMENTO",
+      "precio": 538429
+    },
+    {
+      "inmueble": "1405",
+      "referencia": "1405",
+      "tipo": "APARTAMENTO",
+      "precio": 274920
+    },
+    {
+      "inmueble": "1809",
+      "referencia": "1809",
+      "tipo": "APARTAMENTO",
+      "precio": 229857
+    },
+    {
+      "inmueble": "1502",
+      "referencia": "1502",
+      "tipo": "APARTAMENTO",
+      "precio": 245460
+    },
+    {
+      "inmueble": "1711",
+      "referencia": "1711",
+      "tipo": "APARTAMENTO",
+      "precio": 309271
+    },
+    {
+      "inmueble": "1610",
+      "referencia": "1610",
+      "tipo": "APARTAMENTO",
+      "precio": 309736
+    },
+    {
+      "inmueble": "1707",
+      "referencia": "1707",
+      "tipo": "APARTAMENTO",
+      "precio": 284003
+    },
+    {
+      "inmueble": "1512",
+      "referencia": "1512",
+      "tipo": "APARTAMENTO",
+      "precio": 336169
+    },
+    {
+      "inmueble": "1810",
+      "referencia": "1810",
+      "tipo": "APARTAMENTO",
+      "precio": 354800
+    },
+    {
+      "inmueble": "312",
+      "referencia": "1604",
+      "tipo": "OTROS",
+      "precio": 341000
+    },
+    {
+      "inmueble": "1503",
+      "referencia": "1503",
+      "tipo": "APARTAMENTO",
+      "precio": 235097
+    },
+    {
+      "inmueble": "1611",
+      "referencia": "1611",
+      "tipo": "APARTAMENTO",
+      "precio": 286797
+    },
+    {
+      "inmueble": "1712",
+      "referencia": "1712",
+      "tipo": "APARTAMENTO",
+      "precio": 393691
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "APARTAMENTO",
+      "precio": 27829
+    },
+    {
+      "inmueble": "1904",
+      "referencia": "1904",
+      "tipo": "APARTAMENTO",
+      "precio": 466817
+    },
+    {
+      "inmueble": "1811",
+      "referencia": "1811",
+      "tipo": "APARTAMENTO",
+      "precio": 765609
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1044077
+    },
+    {
+      "inmueble": "1504",
+      "referencia": "1504",
+      "tipo": "APARTAMENTO",
+      "precio": 347464
+    },
+    {
+      "inmueble": "1601",
+      "referencia": "1601",
+      "tipo": "APARTAMENTO",
+      "precio": 274571
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "APARTAMENTO",
+      "precio": 144854
+    },
+    {
+      "inmueble": "1612",
+      "referencia": "1612",
+      "tipo": "APARTAMENTO",
+      "precio": 365047
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "APARTAMENTO",
+      "precio": 28295
+    },
+    {
+      "inmueble": "1905",
+      "referencia": "1905",
+      "tipo": "APARTAMENTO",
+      "precio": 403473
+    },
+    {
+      "inmueble": "1505",
+      "referencia": "1505",
+      "tipo": "APARTAMENTO",
+      "precio": 300654
+    },
+    {
+      "inmueble": "1602",
+      "referencia": "1602",
+      "tipo": "APARTAMENTO",
+      "precio": 266187
+    },
+    {
+      "inmueble": "1901",
+      "referencia": "1901",
+      "tipo": "APARTAMENTO",
+      "precio": 339080
+    },
+    {
+      "inmueble": "1801",
+      "referencia": "1801",
+      "tipo": "APARTAMENTO",
+      "precio": 637173
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "APARTAMENTO",
+      "precio": 28295
+    },
+    {
+      "inmueble": "1506",
+      "referencia": "1506",
+      "tipo": "APARTAMENTO",
+      "precio": 277016
+    },
+    {
+      "inmueble": "1906",
+      "referencia": "1906",
+      "tipo": "APARTAMENTO",
+      "precio": 371567
+    },
+    {
+      "inmueble": "1902",
+      "referencia": "1902",
+      "tipo": "APARTAMENTO",
+      "precio": 328717
+    },
+    {
+      "inmueble": "1603",
+      "referencia": "1603",
+      "tipo": "APARTAMENTO",
+      "precio": 255008
+    },
+    {
+      "inmueble": "1701",
+      "referencia": "1701",
+      "tipo": "APARTAMENTO",
+      "precio": 296113
+    },
+    {
+      "inmueble": "1803",
+      "referencia": "1803",
+      "tipo": "APARTAMENTO",
+      "precio": 294832
+    },
+    {
+      "inmueble": "1507",
+      "referencia": "1507",
+      "tipo": "APARTAMENTO",
+      "precio": 242782
+    },
+    {
+      "inmueble": "1903",
+      "referencia": "1903",
+      "tipo": "APARTAMENTO",
+      "precio": 314627
+    },
+    {
+      "inmueble": "1907",
+      "referencia": "1907",
+      "tipo": "APARTAMENTO",
+      "precio": 325107
+    },
+    {
+      "inmueble": "1605",
+      "referencia": "1605",
+      "tipo": "APARTAMENTO",
+      "precio": 326388
+    },
+    {
+      "inmueble": "1702",
+      "referencia": "1702",
+      "tipo": "APARTAMENTO",
+      "precio": 287030
+    },
+    {
+      "inmueble": "1804",
+      "referencia": "1804",
+      "tipo": "APARTAMENTO",
+      "precio": 437008
+    },
+    {
+      "inmueble": "1908",
+      "referencia": "1908",
+      "tipo": "APARTAMENTO",
+      "precio": 293318
+    },
+    {
+      "inmueble": "1805",
+      "referencia": "1805",
+      "tipo": "APARTAMENTO",
+      "precio": 377739
+    },
+    {
+      "inmueble": "1909",
+      "referencia": "1909",
+      "tipo": "APARTAMENTO",
+      "precio": 245227
+    },
+    {
+      "inmueble": "1910",
+      "referencia": "1910",
+      "tipo": "APARTAMENTO",
+      "precio": 382746
+    },
+    {
+      "inmueble": "1911",
+      "referencia": "1911",
+      "tipo": "APARTAMENTO",
+      "precio": 825693
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": "OTROS",
+      "precio": 711000
+    },
+    {
+      "inmueble": "200",
+      "referencia": "200",
+      "tipo": "APARTAMENTO",
+      "precio": 1300895
+    }
+  ]
+}

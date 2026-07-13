@@ -1,0 +1,132 @@
+{
+  "co_ownership_id": "688b8345b457c854890da1e4",
+  "co_ownership_name": "MULTIFAMILIAR CRISTAL ZUE",
+  "address": "CALLE 47 6 52",
+  "city": "Tunja",
+  "department": "Boyacá",
+  "country": "COLOMBIA",
+  "agreement_number": "1606805",
+  "total": 20,
+  "apartamentos": [
+    {
+      "inmueble": "APTO202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 112000
+    },
+    {
+      "inmueble": "APTO404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 119000
+    },
+    {
+      "inmueble": "APTO501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 119000
+    },
+    {
+      "inmueble": "APTO203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 112000
+    },
+    {
+      "inmueble": "APTO502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 112000
+    },
+    {
+      "inmueble": "APTO204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 119000
+    },
+    {
+      "inmueble": "APTO601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 106000
+    },
+    {
+      "inmueble": "APTO301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 119000
+    },
+    {
+      "inmueble": "ADMON999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "APTO302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 112000
+    },
+    {
+      "inmueble": "APTO303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 112000
+    },
+    {
+      "inmueble": "APTO304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 119000
+    },
+    {
+      "inmueble": "APTO401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 119000
+    },
+    {
+      "inmueble": "APTO402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 112000
+    },
+    {
+      "inmueble": "APTO403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 112000
+    },
+    {
+      "inmueble": "APTO101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 106000
+    },
+    {
+      "inmueble": "APTO102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 112000
+    },
+    {
+      "inmueble": "APTO103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 112000
+    },
+    {
+      "inmueble": "APTO104",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 119000
+    },
+    {
+      "inmueble": "APTO201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 119000
+    }
+  ]
+}

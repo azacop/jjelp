@@ -1,0 +1,36 @@
+{
+  "co_ownership_id": "66884a5dd1e06b000f7a43eb",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL LA QUINTA LOCALES",
+  "address": "CL 33 210 BRR CUJACAL UN RESIDENCIAL LA QUINTA",
+  "city": "Pasto",
+  "department": "Nariño",
+  "country": "COLOMBIA",
+  "agreement_number": "1547835",
+  "total": 4,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 45000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 45000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 45000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

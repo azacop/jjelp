@@ -1,0 +1,24 @@
+{
+  "co_ownership_id": "650853a4fa8ebc00128e90f9",
+  "co_ownership_name": "AS CORPORACION",
+  "address": "DG 40 # 36 123",
+  "city": "Soacha",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1511872",
+  "total": 2,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 500
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 500
+    }
+  ]
+}

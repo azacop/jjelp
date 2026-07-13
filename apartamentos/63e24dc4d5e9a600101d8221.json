@@ -1,0 +1,66 @@
+{
+  "co_ownership_id": "63e24dc4d5e9a600101d8221",
+  "co_ownership_name": "EDIFICIO COLINAS DEL TABOR",
+  "address": "CR 42H 95 48",
+  "city": "Barranquilla",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1485317",
+  "total": 9,
+  "apartamentos": [
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "26",
+      "referencia": "26",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "28",
+      "referencia": "28",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "25",
+      "referencia": "25",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

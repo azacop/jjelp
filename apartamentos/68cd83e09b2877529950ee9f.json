@@ -1,0 +1,162 @@
+{
+  "co_ownership_id": "68cd83e09b2877529950ee9f",
+  "co_ownership_name": "EDIFICIO FARALLONES DEL CHICO PH",
+  "address": "CR 13 A 89 53",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1612910",
+  "total": 25,
+  "apartamentos": [
+    {
+      "inmueble": "local 1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 323000
+    },
+    {
+      "inmueble": "local2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 374000
+    },
+    {
+      "inmueble": "local 3",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 430000
+    },
+    {
+      "inmueble": "local 4",
+      "referencia": "4",
+      "tipo": "LOCAL",
+      "precio": 674000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "OFICINA",
+      "precio": 833000
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "OFICINA",
+      "precio": 877000
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "OFICINA",
+      "precio": 883000
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "OFICINA",
+      "precio": 883000
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "OFICINA",
+      "precio": 1243000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "OFICINA",
+      "precio": 1686000
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "OFICINA",
+      "precio": 1048000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "OFICINA",
+      "precio": 1949000
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "OFICINA",
+      "precio": 1231000
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "OFICINA",
+      "precio": 877000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "OFICINA",
+      "precio": 1517000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "OFICINA",
+      "precio": 1934000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "OFICINA",
+      "precio": 894000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "OFICINA",
+      "precio": 904000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "OFICINA",
+      "precio": 1641000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "OFICINA",
+      "precio": 1943000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "OFICINA",
+      "precio": 870000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "OFICINA",
+      "precio": 883000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "OFICINA",
+      "precio": 1714000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "OFICINA",
+      "precio": 1934000
+    }
+  ]
+}

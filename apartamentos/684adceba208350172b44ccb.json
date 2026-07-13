@@ -1,0 +1,180 @@
+{
+  "co_ownership_id": "684adceba208350172b44ccb",
+  "co_ownership_name": "URBANIZACION TERRAVERDE LATITUDE",
+  "address": "CL 17 40 B 320",
+  "city": "Medellín",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1597657",
+  "total": 28,
+  "apartamentos": [
+    {
+      "inmueble": "805",
+      "referencia": "805",
+      "tipo": "OTROS",
+      "precio": 1045078
+    },
+    {
+      "inmueble": "905",
+      "referencia": "905",
+      "tipo": "OTROS",
+      "precio": 866415
+    },
+    {
+      "inmueble": "901",
+      "referencia": "901",
+      "tipo": "OTROS",
+      "precio": 2466629
+    },
+    {
+      "inmueble": "1001",
+      "referencia": "1001",
+      "tipo": "OTROS",
+      "precio": 3770913
+    },
+    {
+      "inmueble": "902",
+      "referencia": "902",
+      "tipo": "OTROS",
+      "precio": 742181
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "903",
+      "referencia": "903",
+      "tipo": "OTROS",
+      "precio": 981429
+    },
+    {
+      "inmueble": "904",
+      "referencia": "904",
+      "tipo": "OTROS",
+      "precio": 1211154
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "OTROS",
+      "precio": 1127973
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 1817687
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "OTROS",
+      "precio": 1488174
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 2590626
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "OTROS",
+      "precio": 796705
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "OTROS",
+      "precio": 1514866
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "OTROS",
+      "precio": 1857729
+    },
+    {
+      "inmueble": "604",
+      "referencia": "604",
+      "tipo": "OTROS",
+      "precio": 705139
+    },
+    {
+      "inmueble": "703",
+      "referencia": "703",
+      "tipo": "OTROS",
+      "precio": 815058
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "OTROS",
+      "precio": 2960686
+    },
+    {
+      "inmueble": "605",
+      "referencia": "605",
+      "tipo": "OTROS",
+      "precio": 736066
+    },
+    {
+      "inmueble": "704",
+      "referencia": "704",
+      "tipo": "OTROS",
+      "precio": 723490
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "OTROS",
+      "precio": 1128214
+    },
+    {
+      "inmueble": "606",
+      "referencia": "606",
+      "tipo": "OTROS",
+      "precio": 698265
+    },
+    {
+      "inmueble": "705",
+      "referencia": "705",
+      "tipo": "OTROS",
+      "precio": 754421
+    },
+    {
+      "inmueble": "706",
+      "referencia": "706",
+      "tipo": "OTROS",
+      "precio": 698265
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "OTROS",
+      "precio": 1128214
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": "OTROS",
+      "precio": 737041
+    },
+    {
+      "inmueble": "803",
+      "referencia": "803",
+      "tipo": "OTROS",
+      "precio": 796705
+    },
+    {
+      "inmueble": "804",
+      "referencia": "804",
+      "tipo": "OTROS",
+      "precio": 2112993
+    }
+  ]
+}

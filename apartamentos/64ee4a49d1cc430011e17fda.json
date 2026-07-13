@@ -1,0 +1,150 @@
+{
+  "co_ownership_id": "64ee4a49d1cc430011e17fda",
+  "co_ownership_name": "EDIFICIO SAN BASILIO PH",
+  "address": "CL 135 B 13 24",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1509959",
+  "total": 23,
+  "apartamentos": [
+    {
+      "inmueble": "APTO 201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 832880
+    },
+    {
+      "inmueble": "APTO 301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 832880
+    },
+    {
+      "inmueble": "APTO 202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 690200
+    },
+    {
+      "inmueble": "APTO 302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 690200
+    },
+    {
+      "inmueble": "APTO 203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 397880
+    },
+    {
+      "inmueble": "APTO 303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 397880
+    },
+    {
+      "inmueble": "APTO 306",
+      "referencia": "306",
+      "tipo": "APARTAMENTO",
+      "precio": 657720
+    },
+    {
+      "inmueble": "APTO 204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 737760
+    },
+    {
+      "inmueble": "APTO 401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 832880
+    },
+    {
+      "inmueble": "APTO 304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 737760
+    },
+    {
+      "inmueble": "APTO 504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 737760
+    },
+    {
+      "inmueble": "APTO 402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 690200
+    },
+    {
+      "inmueble": "APTO 205",
+      "referencia": "205",
+      "tipo": "APARTAMENTO",
+      "precio": 747040
+    },
+    {
+      "inmueble": "APTO 305",
+      "referencia": "305",
+      "tipo": "APARTAMENTO",
+      "precio": 747040
+    },
+    {
+      "inmueble": "APTO 505",
+      "referencia": "505",
+      "tipo": "APARTAMENTO",
+      "precio": 747040
+    },
+    {
+      "inmueble": "APTO 403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 397880
+    },
+    {
+      "inmueble": "INM 999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "APTO 404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 737760
+    },
+    {
+      "inmueble": "APTO 405",
+      "referencia": "405",
+      "tipo": "APARTAMENTO",
+      "precio": 747040
+    },
+    {
+      "inmueble": "APTO 406",
+      "referencia": "406",
+      "tipo": "APARTAMENTO",
+      "precio": 657720
+    },
+    {
+      "inmueble": "APTO 501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 832880
+    },
+    {
+      "inmueble": "APTO 502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 690200
+    },
+    {
+      "inmueble": "APTO 503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 397880
+    }
+  ]
+}

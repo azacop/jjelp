@@ -1,0 +1,216 @@
+{
+  "co_ownership_id": "6350ba3c109cf50009be1784",
+  "co_ownership_name": "ETAPA 3A CHINGAZA",
+  "address": "KM 1.5 VARIANTE COTA-CHIA",
+  "city": "Cota",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1141803",
+  "total": 34,
+  "apartamentos": [
+    {
+      "inmueble": "323",
+      "referencia": "323",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "326",
+      "referencia": "326",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "332",
+      "referencia": "332",
+      "tipo": "APARTAMENTO",
+      "precio": 879058
+    },
+    {
+      "inmueble": "320",
+      "referencia": "320",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "322",
+      "referencia": "322",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 20
+    },
+    {
+      "inmueble": "330",
+      "referencia": "330",
+      "tipo": "APARTAMENTO",
+      "precio": 879058
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 1169267
+    },
+    {
+      "inmueble": "310",
+      "referencia": "310",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "331",
+      "referencia": "331",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "315",
+      "referencia": "315",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "311",
+      "referencia": "311",
+      "tipo": "APARTAMENTO",
+      "precio": 1241819
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 20
+    },
+    {
+      "inmueble": "325",
+      "referencia": "325",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "318",
+      "referencia": "318",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "319",
+      "referencia": "319",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "327",
+      "referencia": "327",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "314",
+      "referencia": "314",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "328",
+      "referencia": "328",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "324",
+      "referencia": "324",
+      "tipo": "APARTAMENTO",
+      "precio": 1026557
+    },
+    {
+      "inmueble": "312",
+      "referencia": "312",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 1241819
+    },
+    {
+      "inmueble": "309",
+      "referencia": "309",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "317",
+      "referencia": "317",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "308",
+      "referencia": "308",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "329",
+      "referencia": "329",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "307",
+      "referencia": "307",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "313",
+      "referencia": "313",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "321",
+      "referencia": "321",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 1241819
+    },
+    {
+      "inmueble": "316",
+      "referencia": "316",
+      "tipo": "APARTAMENTO",
+      "precio": 829718
+    }
+  ]
+}

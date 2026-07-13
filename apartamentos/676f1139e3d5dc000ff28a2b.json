@@ -1,0 +1,144 @@
+{
+  "co_ownership_id": "676f1139e3d5dc000ff28a2b",
+  "co_ownership_name": "CONJUNTO BODEGAS AEPI PH",
+  "address": "VIA PC DE COTA KM 1 3 SIBERIA COTA",
+  "city": "Cota",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1575430",
+  "total": 22,
+  "apartamentos": [
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "31",
+      "referencia": "31",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "32",
+      "referencia": "32",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "LOCAL",
+      "precio": 450000
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "LOCAL",
+      "precio": 450000
+    }
+  ]
+}

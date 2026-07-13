@@ -1,0 +1,144 @@
+{
+  "co_ownership_id": "69a05eb500a3e9346bd50590",
+  "co_ownership_name": "COPROPIEDAD EDIFICIO TORRE DEL PARQUE",
+  "address": "BOCAGRANDE KR 5 7 45",
+  "city": "Cartagena",
+  "department": "Bolívar",
+  "country": "COLOMBIA",
+  "agreement_number": "1635739",
+  "total": 22,
+  "apartamentos": [
+    {
+      "inmueble": "10A",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 1815000
+    },
+    {
+      "inmueble": "2B",
+      "referencia": "22",
+      "tipo": "APARTAMENTO",
+      "precio": 1441000
+    },
+    {
+      "inmueble": "3A",
+      "referencia": "31",
+      "tipo": "APARTAMENTO",
+      "precio": 1815000
+    },
+    {
+      "inmueble": "10B",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 1512000
+    },
+    {
+      "inmueble": "3B",
+      "referencia": "32",
+      "tipo": "APARTAMENTO",
+      "precio": 1441000
+    },
+    {
+      "inmueble": "11A",
+      "referencia": "111",
+      "tipo": "APARTAMENTO",
+      "precio": 1805000
+    },
+    {
+      "inmueble": "11B",
+      "referencia": "112",
+      "tipo": "APARTAMENTO",
+      "precio": 1441000
+    },
+    {
+      "inmueble": "4A",
+      "referencia": "41",
+      "tipo": "APARTAMENTO",
+      "precio": 1815000
+    },
+    {
+      "inmueble": "12A",
+      "referencia": "121",
+      "tipo": "APARTAMENTO",
+      "precio": 1588000
+    },
+    {
+      "inmueble": "4B",
+      "referencia": "42",
+      "tipo": "APARTAMENTO",
+      "precio": 1441000
+    },
+    {
+      "inmueble": "12B",
+      "referencia": "122",
+      "tipo": "APARTAMENTO",
+      "precio": 1675000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 2
+    },
+    {
+      "inmueble": "7B",
+      "referencia": "72",
+      "tipo": "APARTAMENTO",
+      "precio": 1441000
+    },
+    {
+      "inmueble": "5A",
+      "referencia": "51",
+      "tipo": "APARTAMENTO",
+      "precio": 1805000
+    },
+    {
+      "inmueble": "8A",
+      "referencia": "81",
+      "tipo": "APARTAMENTO",
+      "precio": 1805000
+    },
+    {
+      "inmueble": "5B",
+      "referencia": "52",
+      "tipo": "APARTAMENTO",
+      "precio": 1441000
+    },
+    {
+      "inmueble": "8B",
+      "referencia": "82",
+      "tipo": "APARTAMENTO",
+      "precio": 1441000
+    },
+    {
+      "inmueble": "6A",
+      "referencia": "61",
+      "tipo": "APARTAMENTO",
+      "precio": 1815000
+    },
+    {
+      "inmueble": "9A",
+      "referencia": "91",
+      "tipo": "APARTAMENTO",
+      "precio": 1832000
+    },
+    {
+      "inmueble": "9B",
+      "referencia": "92",
+      "tipo": "APARTAMENTO",
+      "precio": 1441000
+    },
+    {
+      "inmueble": "6B",
+      "referencia": "62",
+      "tipo": "APARTAMENTO",
+      "precio": 1441000
+    },
+    {
+      "inmueble": "7A",
+      "referencia": "71",
+      "tipo": "APARTAMENTO",
+      "precio": 1832000
+    }
+  ]
+}

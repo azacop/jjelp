@@ -1,0 +1,360 @@
+{
+  "co_ownership_id": "6888dd7807b75436cb9aa71e",
+  "co_ownership_name": "CR LINDARAJA DE CHIA II",
+  "address": "CALLE 35 0 09",
+  "city": "Chía",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1606391",
+  "total": 58,
+  "apartamentos": [
+    {
+      "inmueble": "CASA17",
+      "referencia": "17",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA12",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA18",
+      "referencia": "18",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA14",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA19",
+      "referencia": "19",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA15",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA20",
+      "referencia": "20",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA16",
+      "referencia": "16",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA21",
+      "referencia": "21",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA27",
+      "referencia": "27",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA22",
+      "referencia": "22",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA28",
+      "referencia": "28",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA23",
+      "referencia": "23",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA29",
+      "referencia": "29",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA24",
+      "referencia": "24",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "ADMON99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "CASA25",
+      "referencia": "25",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA26",
+      "referencia": "26",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA17",
+      "referencia": "17",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA12",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA18",
+      "referencia": "18",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA14",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA19",
+      "referencia": "19",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA15",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA20",
+      "referencia": "20",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA16",
+      "referencia": "16",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA21",
+      "referencia": "21",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA27",
+      "referencia": "27",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA22",
+      "referencia": "22",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA28",
+      "referencia": "28",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA23",
+      "referencia": "23",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA29",
+      "referencia": "29",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA24",
+      "referencia": "24",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "ADMON99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "CASA25",
+      "referencia": "25",
+      "tipo": "CASA",
+      "precio": 274000
+    },
+    {
+      "inmueble": "CASA26",
+      "referencia": "26",
+      "tipo": "CASA",
+      "precio": 274000
+    }
+  ]
+}

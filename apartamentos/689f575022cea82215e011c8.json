@@ -1,0 +1,162 @@
+{
+  "co_ownership_id": "689f575022cea82215e011c8",
+  "co_ownership_name": "EDIFICIO LAGOS 80 PH",
+  "address": "CR 14 79 60",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1608231",
+  "total": 25,
+  "apartamentos": [
+    {
+      "inmueble": "DEP1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 47863
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "LOCAL",
+      "precio": 360454
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "LOCAL",
+      "precio": 450205
+    },
+    {
+      "inmueble": "DEP2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 47863
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "LOCAL",
+      "precio": 468753
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "LOCAL",
+      "precio": 747067
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "LOCAL",
+      "precio": 754104
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "LOCAL",
+      "precio": 627136
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "LOCAL",
+      "precio": 729629
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "LOCAL",
+      "precio": 743314
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "LOCAL",
+      "precio": 738118
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "LOCAL",
+      "precio": 620872
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "LOCAL",
+      "precio": 544200
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "LOCAL",
+      "precio": 642671
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "LOCAL",
+      "precio": 694870
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "LOCAL",
+      "precio": 747067
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "LOCAL",
+      "precio": 764159
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "LOCAL",
+      "precio": 670823
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "LOCAL",
+      "precio": 736968
+    },
+    {
+      "inmueble": "604",
+      "referencia": "604",
+      "tipo": "LOCAL",
+      "precio": 730851
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "LOCAL",
+      "precio": 701921
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "LOCAL",
+      "precio": 621102
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "LOCAL",
+      "precio": 718593
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "LOCAL",
+      "precio": 699188
+    }
+  ]
+}

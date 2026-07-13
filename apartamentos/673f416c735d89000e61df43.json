@@ -1,0 +1,48 @@
+{
+  "co_ownership_id": "673f416c735d89000e61df43",
+  "co_ownership_name": "GRUPO ABC PROPIEDAD HORIZONTAL ",
+  "address": "AV CL 34 24 05 OF 206",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1570530",
+  "total": 6,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "9008253096",
+      "referencia": "9008253096",
+      "tipo": "APARTAMENTO",
+      "precio": 206000
+    },
+    {
+      "inmueble": "9007279855",
+      "referencia": "9007279855",
+      "tipo": "APARTAMENTO",
+      "precio": 206000
+    },
+    {
+      "inmueble": "9013075657",
+      "referencia": "9013075657",
+      "tipo": "APARTAMENTO",
+      "precio": 206000
+    },
+    {
+      "inmueble": "9014358764",
+      "referencia": "9014358764",
+      "tipo": "APARTAMENTO",
+      "precio": 206000
+    },
+    {
+      "inmueble": "9016770044",
+      "referencia": "9016770044",
+      "tipo": "APARTAMENTO",
+      "precio": 206000
+    }
+  ]
+}

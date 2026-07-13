@@ -1,0 +1,180 @@
+{
+  "co_ownership_id": "68cac76f9b2877529950e516",
+  "co_ownership_name": "EDIFICIO GALAXIA PH",
+  "address": "CL 59 A BIS 5 80",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1612654",
+  "total": 28,
+  "apartamentos": [
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": null,
+      "precio": 651300
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": null,
+      "precio": 188500
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": null,
+      "precio": 579000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": null,
+      "precio": 188500
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": null,
+      "precio": 651300
+    },
+    {
+      "inmueble": "1010",
+      "referencia": "1010",
+      "tipo": null,
+      "precio": 651100
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": null,
+      "precio": 579100
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": null,
+      "precio": 688100
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": null,
+      "precio": 537600
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": null,
+      "precio": 615200
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": null,
+      "precio": 537600
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": null,
+      "precio": 512600
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": null,
+      "precio": 512600
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": null,
+      "precio": 512600
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": null,
+      "precio": 512600
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": null,
+      "precio": 512600
+    },
+    {
+      "inmueble": "1002",
+      "referencia": "1002",
+      "tipo": null,
+      "precio": 512600
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": null,
+      "precio": 512600
+    },
+    {
+      "inmueble": "1101",
+      "referencia": "1101",
+      "tipo": null,
+      "precio": 512600
+    },
+    {
+      "inmueble": "901",
+      "referencia": "901",
+      "tipo": null,
+      "precio": 512600
+    },
+    {
+      "inmueble": "1102",
+      "referencia": "1102",
+      "tipo": null,
+      "precio": 512600
+    },
+    {
+      "inmueble": "902",
+      "referencia": "902",
+      "tipo": null,
+      "precio": 512600
+    },
+    {
+      "inmueble": "1201",
+      "referencia": "1201",
+      "tipo": null,
+      "precio": 512600
+    },
+    {
+      "inmueble": "1001",
+      "referencia": "1001",
+      "tipo": null,
+      "precio": 512600
+    },
+    {
+      "inmueble": "1202",
+      "referencia": "1202",
+      "tipo": null,
+      "precio": 512600
+    },
+    {
+      "inmueble": "1301",
+      "referencia": "1301",
+      "tipo": null,
+      "precio": 765100
+    },
+    {
+      "inmueble": "1302",
+      "referencia": "1302",
+      "tipo": null,
+      "precio": 765100
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": null,
+      "precio": 100
+    }
+  ]
+}

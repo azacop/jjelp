@@ -1,0 +1,78 @@
+{
+  "co_ownership_id": "68b06e5e22cea82215e04dee",
+  "co_ownership_name": "EDIFICIO PALMERAS",
+  "address": "CR 14 16 44 SEC CENTRO",
+  "city": "Armenia",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1609486",
+  "total": 11,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "LOCAL1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 598000
+    },
+    {
+      "inmueble": "LOCAL2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 651000
+    },
+    {
+      "inmueble": "APTO 301",
+      "referencia": "301",
+      "tipo": null,
+      "precio": 476000
+    },
+    {
+      "inmueble": "OFICINA 1",
+      "referencia": "11",
+      "tipo": null,
+      "precio": 147000
+    },
+    {
+      "inmueble": "APTO 401",
+      "referencia": "401",
+      "tipo": null,
+      "precio": 476000
+    },
+    {
+      "inmueble": "OFICINA 2",
+      "referencia": "12",
+      "tipo": null,
+      "precio": 190000
+    },
+    {
+      "inmueble": "APTO 501",
+      "referencia": "501",
+      "tipo": null,
+      "precio": 556000
+    },
+    {
+      "inmueble": "OFICINA 3",
+      "referencia": "13",
+      "tipo": null,
+      "precio": 200000
+    },
+    {
+      "inmueble": "OFICINA 4",
+      "referencia": "14",
+      "tipo": null,
+      "precio": 59000
+    },
+    {
+      "inmueble": "APTO 201",
+      "referencia": "201",
+      "tipo": null,
+      "precio": 452000
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "co_ownership_id": "6489e4dc55718d00103d3802",
+  "co_ownership_name": "EDIFICIO SANTA MARTA",
+  "address": "CR 51B 79 133",
+  "city": "Barranquilla",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1500370",
+  "total": 14,
+  "apartamentos": [
+    {
+      "inmueble": "9226",
+      "referencia": "9226",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "9230",
+      "referencia": "9230",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "9236",
+      "referencia": "9236",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "200",
+      "referencia": "200",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "1060",
+      "referencia": "1060",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "9206",
+      "referencia": "9206",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "9210",
+      "referencia": "9210",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "9212",
+      "referencia": "9212",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "9222",
+      "referencia": "9222",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 450000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

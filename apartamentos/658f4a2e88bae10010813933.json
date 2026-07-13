@@ -1,0 +1,102 @@
+{
+  "co_ownership_id": "658f4a2e88bae10010813933",
+  "co_ownership_name": "ARQUITECTURA DISENO Y CONSTRUCCION REAL ESTATE SAS",
+  "address": "AV 03 OESTE 10 40",
+  "city": "Cali",
+  "department": "Valle del Cauca",
+  "country": "COLOMBIA",
+  "agreement_number": "1525435",
+  "total": 15,
+  "apartamentos": [
+    {
+      "inmueble": "457799",
+      "referencia": "457799",
+      "tipo": "APARTAMENTO",
+      "precio": 897770
+    },
+    {
+      "inmueble": "1151941463",
+      "referencia": "1151941463",
+      "tipo": "APARTAMENTO",
+      "precio": 3732960
+    },
+    {
+      "inmueble": "376140",
+      "referencia": "376140",
+      "tipo": "APARTAMENTO",
+      "precio": 1674000
+    },
+    {
+      "inmueble": "1114480446",
+      "referencia": "1114480446",
+      "tipo": "APARTAMENTO",
+      "precio": 905000
+    },
+    {
+      "inmueble": "12910075",
+      "referencia": "12910075",
+      "tipo": "APARTAMENTO",
+      "precio": 2859173
+    },
+    {
+      "inmueble": "94539861",
+      "referencia": "94539861",
+      "tipo": "APARTAMENTO",
+      "precio": 2289465
+    },
+    {
+      "inmueble": "16580907",
+      "referencia": "16580907",
+      "tipo": "APARTAMENTO",
+      "precio": 1850000
+    },
+    {
+      "inmueble": "34599697",
+      "referencia": "34599697",
+      "tipo": "APARTAMENTO",
+      "precio": 3732960
+    },
+    {
+      "inmueble": "901379483",
+      "referencia": "901379483",
+      "tipo": "APARTAMENTO",
+      "precio": 1550000
+    },
+    {
+      "inmueble": "52871909",
+      "referencia": "52871909",
+      "tipo": "APARTAMENTO",
+      "precio": 4180320
+    },
+    {
+      "inmueble": "1130629618",
+      "referencia": "1130629618",
+      "tipo": "APARTAMENTO",
+      "precio": 1050000
+    },
+    {
+      "inmueble": "3487642",
+      "referencia": "3487642",
+      "tipo": "APARTAMENTO",
+      "precio": 650000
+    },
+    {
+      "inmueble": "16589029",
+      "referencia": "16589029",
+      "tipo": "APARTAMENTO",
+      "precio": 1162000
+    },
+    {
+      "inmueble": "31446061",
+      "referencia": "31446061",
+      "tipo": "APARTAMENTO",
+      "precio": 2900000
+    },
+    {
+      "inmueble": "9999999999",
+      "referencia": "9999999999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

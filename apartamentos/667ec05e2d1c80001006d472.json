@@ -1,0 +1,48 @@
+{
+  "co_ownership_id": "667ec05e2d1c80001006d472",
+  "co_ownership_name": "TORRE SURAMERICANA PH",
+  "address": "CR 11 93 46",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1546753",
+  "total": 6,
+  "apartamentos": [
+    {
+      "inmueble": "900493698",
+      "referencia": "900493698",
+      "tipo": "OTROS",
+      "precio": 450000
+    },
+    {
+      "inmueble": "830115054",
+      "referencia": "830115054",
+      "tipo": "OTROS",
+      "precio": 450000
+    },
+    {
+      "inmueble": "811036875",
+      "referencia": "811036875",
+      "tipo": "OTROS",
+      "precio": 450000
+    },
+    {
+      "inmueble": "830114921",
+      "referencia": "830114921",
+      "tipo": "OTROS",
+      "precio": 450000
+    },
+    {
+      "inmueble": "899999115",
+      "referencia": "899999115",
+      "tipo": "OTROS",
+      "precio": 450000
+    },
+    {
+      "inmueble": "999999999",
+      "referencia": "999999999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

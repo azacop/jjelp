@@ -1,0 +1,168 @@
+{
+  "co_ownership_id": "68c823a39b2877529950d443",
+  "co_ownership_name": "EDIFICIO ASTAF PH",
+  "address": "CR 13 97 76",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1612100",
+  "total": 26,
+  "apartamentos": [
+    {
+      "inmueble": "OFC401",
+      "referencia": "401",
+      "tipo": "OTROS",
+      "precio": 1823400
+    },
+    {
+      "inmueble": "OFC402",
+      "referencia": "402",
+      "tipo": "OTROS",
+      "precio": 2064900
+    },
+    {
+      "inmueble": "OFC403",
+      "referencia": "403",
+      "tipo": "OTROS",
+      "precio": 2438500
+    },
+    {
+      "inmueble": "OFC404",
+      "referencia": "404",
+      "tipo": "OTROS",
+      "precio": 1854200
+    },
+    {
+      "inmueble": "OFC405",
+      "referencia": "405",
+      "tipo": "OTROS",
+      "precio": 580300
+    },
+    {
+      "inmueble": "OFC601",
+      "referencia": "601",
+      "tipo": "OTROS",
+      "precio": 8893100
+    },
+    {
+      "inmueble": "OFC602",
+      "referencia": "602",
+      "tipo": "OTROS",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "OFC603",
+      "referencia": "603",
+      "tipo": "OTROS",
+      "precio": 900000
+    },
+    {
+      "inmueble": "OFC604",
+      "referencia": "604",
+      "tipo": "OTROS",
+      "precio": 900000
+    },
+    {
+      "inmueble": "OFC605",
+      "referencia": "605",
+      "tipo": "OTROS",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "OFC201",
+      "referencia": "201",
+      "tipo": "OTROS",
+      "precio": 1823600
+    },
+    {
+      "inmueble": "JELPIT999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "OFC501",
+      "referencia": "501",
+      "tipo": "OTROS",
+      "precio": 1823500
+    },
+    {
+      "inmueble": "OFC502",
+      "referencia": "502",
+      "tipo": "OTROS",
+      "precio": 2064900
+    },
+    {
+      "inmueble": "OFC202",
+      "referencia": "202",
+      "tipo": "OTROS",
+      "precio": 2065500
+    },
+    {
+      "inmueble": "OFC503",
+      "referencia": "503",
+      "tipo": "OTROS",
+      "precio": 2438800
+    },
+    {
+      "inmueble": "OFC203",
+      "referencia": "203",
+      "tipo": "OTROS",
+      "precio": 2438700
+    },
+    {
+      "inmueble": "OFC504",
+      "referencia": "504",
+      "tipo": "OTROS",
+      "precio": 2434100
+    },
+    {
+      "inmueble": "OFC204",
+      "referencia": "204",
+      "tipo": "OTROS",
+      "precio": 1854400
+    },
+    {
+      "inmueble": "OFC505",
+      "referencia": "505",
+      "tipo": "OTROS",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "OFC205",
+      "referencia": "205",
+      "tipo": "OTROS",
+      "precio": 580300
+    },
+    {
+      "inmueble": "OFC301",
+      "referencia": "301",
+      "tipo": "OTROS",
+      "precio": 8761600
+    },
+    {
+      "inmueble": "OFC302",
+      "referencia": "302",
+      "tipo": "OTROS",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "OFC303",
+      "referencia": "303",
+      "tipo": "OTROS",
+      "precio": 800000
+    },
+    {
+      "inmueble": "OFC304",
+      "referencia": "304",
+      "tipo": "OTROS",
+      "precio": 800000
+    },
+    {
+      "inmueble": "OFC305",
+      "referencia": "305",
+      "tipo": "OTROS",
+      "precio": 900000
+    }
+  ]
+}

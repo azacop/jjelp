@@ -1,0 +1,474 @@
+{
+  "co_ownership_id": "6282a9c3b19f830009991f0b",
+  "co_ownership_name": "EDIFICIO OFICENTRO II PH",
+  "address": "CL 79 18 34 BARRIO EL LAGO",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1459122",
+  "total": 77,
+  "apartamentos": [
+    {
+      "inmueble": "L02",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 237600
+    },
+    {
+      "inmueble": "OF104",
+      "referencia": "104",
+      "tipo": "LOCAL",
+      "precio": 265500
+    },
+    {
+      "inmueble": "OF105",
+      "referencia": "105",
+      "tipo": "LOCAL",
+      "precio": 330000
+    },
+    {
+      "inmueble": "OF312",
+      "referencia": "312",
+      "tipo": "LOCAL",
+      "precio": 304200
+    },
+    {
+      "inmueble": "OF513",
+      "referencia": "513",
+      "tipo": "LOCAL",
+      "precio": 190300
+    },
+    {
+      "inmueble": "OF314",
+      "referencia": "314",
+      "tipo": "LOCAL",
+      "precio": 367700
+    },
+    {
+      "inmueble": "OF304",
+      "referencia": "304",
+      "tipo": "LOCAL",
+      "precio": 367700
+    },
+    {
+      "inmueble": "OF307",
+      "referencia": "307",
+      "tipo": "LOCAL",
+      "precio": 203200
+    },
+    {
+      "inmueble": "OF412",
+      "referencia": "412",
+      "tipo": "LOCAL",
+      "precio": 190300
+    },
+    {
+      "inmueble": "OF508",
+      "referencia": "508",
+      "tipo": "LOCAL",
+      "precio": 203200
+    },
+    {
+      "inmueble": "OF509",
+      "referencia": "509",
+      "tipo": "LOCAL",
+      "precio": 545000
+    },
+    {
+      "inmueble": "OF414",
+      "referencia": "414",
+      "tipo": "LOCAL",
+      "precio": 367700
+    },
+    {
+      "inmueble": "OF310",
+      "referencia": "310",
+      "tipo": "LOCAL",
+      "precio": 281700
+    },
+    {
+      "inmueble": "OF107",
+      "referencia": "107",
+      "tipo": "LOCAL",
+      "precio": 265500
+    },
+    {
+      "inmueble": "OF103",
+      "referencia": "103",
+      "tipo": "LOCAL",
+      "precio": 409600
+    },
+    {
+      "inmueble": "L04",
+      "referencia": "4",
+      "tipo": "LOCAL",
+      "precio": 545000
+    },
+    {
+      "inmueble": "OF106",
+      "referencia": "106",
+      "tipo": "LOCAL",
+      "precio": 311800
+    },
+    {
+      "inmueble": "OF302",
+      "referencia": "302",
+      "tipo": "LOCAL",
+      "precio": 337600
+    },
+    {
+      "inmueble": "OF204",
+      "referencia": "204",
+      "tipo": "LOCAL",
+      "precio": 251600
+    },
+    {
+      "inmueble": "OF567",
+      "referencia": "205",
+      "tipo": "LOCAL",
+      "precio": 1132000
+    },
+    {
+      "inmueble": "OF313",
+      "referencia": "313",
+      "tipo": "LOCAL",
+      "precio": 298900
+    },
+    {
+      "inmueble": "OF408",
+      "referencia": "408",
+      "tipo": "LOCAL",
+      "precio": 203200
+    },
+    {
+      "inmueble": "OF503",
+      "referencia": "503",
+      "tipo": "LOCAL",
+      "precio": 251600
+    },
+    {
+      "inmueble": "OF409",
+      "referencia": "409",
+      "tipo": "LOCAL",
+      "precio": 609500
+    },
+    {
+      "inmueble": "OF514",
+      "referencia": "514",
+      "tipo": "LOCAL",
+      "precio": 367700
+    },
+    {
+      "inmueble": "OF505",
+      "referencia": "505",
+      "tipo": "LOCAL",
+      "precio": 251600
+    },
+    {
+      "inmueble": "OF210",
+      "referencia": "210",
+      "tipo": "LOCAL",
+      "precio": 240800
+    },
+    {
+      "inmueble": "OF306",
+      "referencia": "306",
+      "tipo": "LOCAL",
+      "precio": 587000
+    },
+    {
+      "inmueble": "OF308",
+      "referencia": "308",
+      "tipo": "LOCAL",
+      "precio": 203200
+    },
+    {
+      "inmueble": "D22",
+      "referencia": "22",
+      "tipo": "LOCAL",
+      "precio": 64500
+    },
+    {
+      "inmueble": "OF501",
+      "referencia": "501",
+      "tipo": "LOCAL",
+      "precio": 621400
+    },
+    {
+      "inmueble": "B1003",
+      "referencia": "1003",
+      "tipo": "LOCAL",
+      "precio": 111800
+    },
+    {
+      "inmueble": "L03",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 237600
+    },
+    {
+      "inmueble": "OF109",
+      "referencia": "109",
+      "tipo": "LOCAL",
+      "precio": 178500
+    },
+    {
+      "inmueble": "OF203",
+      "referencia": "203",
+      "tipo": "LOCAL",
+      "precio": 383800
+    },
+    {
+      "inmueble": "OF202",
+      "referencia": "202",
+      "tipo": "LOCAL",
+      "precio": 362300
+    },
+    {
+      "inmueble": "OF301",
+      "referencia": "301",
+      "tipo": "LOCAL",
+      "precio": 469800
+    },
+    {
+      "inmueble": "OF407",
+      "referencia": "407",
+      "tipo": "LOCAL",
+      "precio": 203200
+    },
+    {
+      "inmueble": "OF504",
+      "referencia": "504",
+      "tipo": "LOCAL",
+      "precio": 251600
+    },
+    {
+      "inmueble": "OF401",
+      "referencia": "401",
+      "tipo": "LOCAL",
+      "precio": 485900
+    },
+    {
+      "inmueble": "OF209",
+      "referencia": "209",
+      "tipo": "LOCAL",
+      "precio": 455800
+    },
+    {
+      "inmueble": "OF403",
+      "referencia": "403",
+      "tipo": "LOCAL",
+      "precio": 251600
+    },
+    {
+      "inmueble": "OF211",
+      "referencia": "211",
+      "tipo": "LOCAL",
+      "precio": 240800
+    },
+    {
+      "inmueble": "OF507",
+      "referencia": "507",
+      "tipo": "LOCAL",
+      "precio": 250500
+    },
+    {
+      "inmueble": "OF413",
+      "referencia": "413",
+      "tipo": "LOCAL",
+      "precio": 190300
+    },
+    {
+      "inmueble": "G24",
+      "referencia": "24",
+      "tipo": "LOCAL",
+      "precio": 109700
+    },
+    {
+      "inmueble": "OF405",
+      "referencia": "405",
+      "tipo": "LOCAL",
+      "precio": 641800
+    },
+    {
+      "inmueble": "OF309",
+      "referencia": "309",
+      "tipo": "LOCAL",
+      "precio": 387000
+    },
+    {
+      "inmueble": "OF510",
+      "referencia": "510",
+      "tipo": "LOCAL",
+      "precio": 190300
+    },
+    {
+      "inmueble": "OF214",
+      "referencia": "214",
+      "tipo": "LOCAL",
+      "precio": 436500
+    },
+    {
+      "inmueble": "OF502",
+      "referencia": "502",
+      "tipo": "LOCAL",
+      "precio": 340800
+    },
+    {
+      "inmueble": "L01",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 237600
+    },
+    {
+      "inmueble": "OF102",
+      "referencia": "102",
+      "tipo": "LOCAL",
+      "precio": 265500
+    },
+    {
+      "inmueble": "OF108",
+      "referencia": "108",
+      "tipo": "LOCAL",
+      "precio": 539700
+    },
+    {
+      "inmueble": "OF201",
+      "referencia": "201",
+      "tipo": "LOCAL",
+      "precio": 621400
+    },
+    {
+      "inmueble": "OF101",
+      "referencia": "101",
+      "tipo": "LOCAL",
+      "precio": 200000
+    },
+    {
+      "inmueble": "OF311",
+      "referencia": "311",
+      "tipo": "LOCAL",
+      "precio": 304200
+    },
+    {
+      "inmueble": "OF303",
+      "referencia": "303",
+      "tipo": "LOCAL",
+      "precio": 331100
+    },
+    {
+      "inmueble": "OF208",
+      "referencia": "208",
+      "tipo": "LOCAL",
+      "precio": 203200
+    },
+    {
+      "inmueble": "OF410",
+      "referencia": "410",
+      "tipo": "LOCAL",
+      "precio": 190300
+    },
+    {
+      "inmueble": "OF305",
+      "referencia": "305",
+      "tipo": "LOCAL",
+      "precio": 367700
+    },
+    {
+      "inmueble": "OF601",
+      "referencia": "601",
+      "tipo": "LOCAL",
+      "precio": 1086800
+    },
+    {
+      "inmueble": "OF402",
+      "referencia": "402",
+      "tipo": "LOCAL",
+      "precio": 332200
+    },
+    {
+      "inmueble": "OF411",
+      "referencia": "411",
+      "tipo": "LOCAL",
+      "precio": 118300
+    },
+    {
+      "inmueble": "OF602",
+      "referencia": "602",
+      "tipo": "LOCAL",
+      "precio": 1105100
+    },
+    {
+      "inmueble": "OF506",
+      "referencia": "506",
+      "tipo": "LOCAL",
+      "precio": 561200
+    },
+    {
+      "inmueble": "G21",
+      "referencia": "21",
+      "tipo": "LOCAL",
+      "precio": 251600
+    },
+    {
+      "inmueble": "OF212",
+      "referencia": "212",
+      "tipo": "LOCAL",
+      "precio": 240800
+    },
+    {
+      "inmueble": "OF404",
+      "referencia": "404",
+      "tipo": "LOCAL",
+      "precio": 405300
+    },
+    {
+      "inmueble": "OF213",
+      "referencia": "213",
+      "tipo": "LOCAL",
+      "precio": 350500
+    },
+    {
+      "inmueble": "OF406",
+      "referencia": "406",
+      "tipo": "LOCAL",
+      "precio": 477300
+    },
+    {
+      "inmueble": "B25",
+      "referencia": "25",
+      "tipo": "LOCAL",
+      "precio": 144100
+    },
+    {
+      "inmueble": "OF511",
+      "referencia": "511",
+      "tipo": "LOCAL",
+      "precio": 190300
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "OF512",
+      "referencia": "512",
+      "tipo": "LOCAL",
+      "precio": 190300
+    },
+    {
+      "inmueble": "G13",
+      "referencia": "13",
+      "tipo": "LOCAL",
+      "precio": 111800
+    },
+    {
+      "inmueble": "G 38",
+      "referencia": "38",
+      "tipo": null,
+      "precio": 227900
+    }
+  ]
+}

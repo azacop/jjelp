@@ -1,0 +1,210 @@
+{
+  "co_ownership_id": "650e2101b39188000f653a55",
+  "co_ownership_name": "CONJUNTO DE PH MIXTO SALAMANCA P.H  RETIRO",
+  "address": "CARRERA 20  31 28",
+  "city": "Retiro",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1250125",
+  "total": 33,
+  "apartamentos": [
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "APARTAMENTO",
+      "precio": 137829
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 262319
+    },
+    {
+      "inmueble": "210",
+      "referencia": "210",
+      "tipo": "APARTAMENTO",
+      "precio": 268247
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 226009
+    },
+    {
+      "inmueble": "212",
+      "referencia": "212",
+      "tipo": "APARTAMENTO",
+      "precio": 274175
+    },
+    {
+      "inmueble": "214",
+      "referencia": "214",
+      "tipo": "APARTAMENTO",
+      "precio": 226750
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "APARTAMENTO",
+      "precio": 226750
+    },
+    {
+      "inmueble": "216",
+      "referencia": "216",
+      "tipo": "APARTAMENTO",
+      "precio": 225268
+    },
+    {
+      "inmueble": "218",
+      "referencia": "218",
+      "tipo": "APARTAMENTO",
+      "precio": 220081
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": "APARTAMENTO",
+      "precio": 268247
+    },
+    {
+      "inmueble": "222",
+      "referencia": "222",
+      "tipo": "APARTAMENTO",
+      "precio": 315672
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 224550
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 226009
+    },
+    {
+      "inmueble": "408",
+      "referencia": "408",
+      "tipo": "APARTAMENTO",
+      "precio": 224550
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "APARTAMENTO",
+      "precio": 268247
+    },
+    {
+      "inmueble": "308",
+      "referencia": "308",
+      "tipo": "APARTAMENTO",
+      "precio": 224550
+    },
+    {
+      "inmueble": "410",
+      "referencia": "410",
+      "tipo": "APARTAMENTO",
+      "precio": 224550
+    },
+    {
+      "inmueble": "412",
+      "referencia": "412",
+      "tipo": "APARTAMENTO",
+      "precio": 224550
+    },
+    {
+      "inmueble": "310",
+      "referencia": "310",
+      "tipo": "APARTAMENTO",
+      "precio": 224550
+    },
+    {
+      "inmueble": "414",
+      "referencia": "414",
+      "tipo": "APARTAMENTO",
+      "precio": 224550
+    },
+    {
+      "inmueble": "312",
+      "referencia": "312",
+      "tipo": "APARTAMENTO",
+      "precio": 224550
+    },
+    {
+      "inmueble": "416",
+      "referencia": "416",
+      "tipo": "APARTAMENTO",
+      "precio": 268247
+    },
+    {
+      "inmueble": "418",
+      "referencia": "418",
+      "tipo": "APARTAMENTO",
+      "precio": 266765
+    },
+    {
+      "inmueble": "314",
+      "referencia": "314",
+      "tipo": "APARTAMENTO",
+      "precio": 224550
+    },
+    {
+      "inmueble": "316",
+      "referencia": "316",
+      "tipo": "APARTAMENTO",
+      "precio": 226750
+    },
+    {
+      "inmueble": "420",
+      "referencia": "420",
+      "tipo": "APARTAMENTO",
+      "precio": 261578
+    },
+    {
+      "inmueble": "318",
+      "referencia": "318",
+      "tipo": "APARTAMENTO",
+      "precio": 226009
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "320",
+      "referencia": "320",
+      "tipo": "APARTAMENTO",
+      "precio": 261578
+    },
+    {
+      "inmueble": "333",
+      "referencia": "333",
+      "tipo": "APARTAMENTO",
+      "precio": 110411
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 262319
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 226009
+    },
+    {
+      "inmueble": "406",
+      "referencia": "406",
+      "tipo": "APARTAMENTO",
+      "precio": 264542
+    }
+  ]
+}

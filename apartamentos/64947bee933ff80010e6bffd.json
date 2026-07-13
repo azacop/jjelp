@@ -1,0 +1,258 @@
+{
+  "co_ownership_id": "64947bee933ff80010e6bffd",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL PERPOS PROPIEDAD HORIZONTAL  KR 12 N 55 60 MONTERIA",
+  "address": "KR 12 N 55 60",
+  "city": "Montería",
+  "department": "Córdoba",
+  "country": "COLOMBIA",
+  "agreement_number": "1426899",
+  "total": 41,
+  "apartamentos": [
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 957332
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 5504060
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 1100812
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 550406
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 2405664
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "CASA",
+      "precio": 4811660
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 744361
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "CASA",
+      "precio": 680526
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "CASA",
+      "precio": 865432
+    },
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "LOCAL",
+      "precio": 529618
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 872176
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "CASA",
+      "precio": 274289
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1100812
+    },
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": "CASA",
+      "precio": 2053160
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "CASA",
+      "precio": 3441890
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 5879900
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "CASA",
+      "precio": 396184
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "CASA",
+      "precio": 288986
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 481166
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "CASA",
+      "precio": 5591840
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 3869380
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 1
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "CASA",
+      "precio": 1150900
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "CASA",
+      "precio": 1630423
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "CASA",
+      "precio": 3196699
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 547060
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "CASA",
+      "precio": 10097345
+    },
+    {
+      "inmueble": "222",
+      "referencia": "222",
+      "tipo": "LOCAL",
+      "precio": 427763
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 7753660
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "CASA",
+      "precio": 396184
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "CASA",
+      "precio": 414240
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 21231460
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "CASA",
+      "precio": 853347
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "CASA",
+      "precio": 1619541
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "CASA",
+      "precio": 731288
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "CASA",
+      "precio": 1706694
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "CASA",
+      "precio": 792385
+    },
+    {
+      "inmueble": "333",
+      "referencia": "333",
+      "tipo": "LOCAL",
+      "precio": 723104
+    },
+    {
+      "inmueble": "703",
+      "referencia": "703",
+      "tipo": "CASA",
+      "precio": 540430
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "CASA",
+      "precio": 2485312
+    }
+  ]
+}

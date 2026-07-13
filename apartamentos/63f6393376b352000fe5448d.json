@@ -1,0 +1,216 @@
+{
+  "co_ownership_id": "63f6393376b352000fe5448d",
+  "co_ownership_name": "COPROPIEDAD EDIFICIO LA ZARZUELA  CARTAGENA",
+  "address": "MANGA CLL 27 N 20 26",
+  "city": "Cartagena",
+  "department": "Bolívar",
+  "country": "COLOMBIA",
+  "agreement_number": "1300300",
+  "total": 34,
+  "apartamentos": [
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "APARTAMENTO",
+      "precio": 335941
+    },
+    {
+      "inmueble": "321",
+      "referencia": "321",
+      "tipo": "APARTAMENTO",
+      "precio": 352500
+    },
+    {
+      "inmueble": "121",
+      "referencia": "121",
+      "tipo": "APARTAMENTO",
+      "precio": 355500
+    },
+    {
+      "inmueble": "411",
+      "referencia": "411",
+      "tipo": "APARTAMENTO",
+      "precio": 344000
+    },
+    {
+      "inmueble": "421",
+      "referencia": "421",
+      "tipo": "APARTAMENTO",
+      "precio": 356000
+    },
+    {
+      "inmueble": "211",
+      "referencia": "211",
+      "tipo": "APARTAMENTO",
+      "precio": 342500
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "APARTAMENTO",
+      "precio": 396000
+    },
+    {
+      "inmueble": "221",
+      "referencia": "221",
+      "tipo": "APARTAMENTO",
+      "precio": 350000
+    },
+    {
+      "inmueble": "311",
+      "referencia": "311",
+      "tipo": "APARTAMENTO",
+      "precio": 382000
+    },
+    {
+      "inmueble": "212",
+      "referencia": "212",
+      "tipo": "APARTAMENTO",
+      "precio": 420500
+    },
+    {
+      "inmueble": "222",
+      "referencia": "222",
+      "tipo": "APARTAMENTO",
+      "precio": 335941
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 335941
+    },
+    {
+      "inmueble": "412",
+      "referencia": "412",
+      "tipo": "APARTAMENTO",
+      "precio": 344500
+    },
+    {
+      "inmueble": "312",
+      "referencia": "312",
+      "tipo": "APARTAMENTO",
+      "precio": 379500
+    },
+    {
+      "inmueble": "422",
+      "referencia": "422",
+      "tipo": "APARTAMENTO",
+      "precio": 320000
+    },
+    {
+      "inmueble": "432",
+      "referencia": "432",
+      "tipo": "APARTAMENTO",
+      "precio": 401500
+    },
+    {
+      "inmueble": "442",
+      "referencia": "442",
+      "tipo": "APARTAMENTO",
+      "precio": 335941
+    },
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "APARTAMENTO",
+      "precio": 335941
+    },
+    {
+      "inmueble": "321",
+      "referencia": "321",
+      "tipo": "APARTAMENTO",
+      "precio": 352500
+    },
+    {
+      "inmueble": "121",
+      "referencia": "121",
+      "tipo": "APARTAMENTO",
+      "precio": 355500
+    },
+    {
+      "inmueble": "411",
+      "referencia": "411",
+      "tipo": "APARTAMENTO",
+      "precio": 344000
+    },
+    {
+      "inmueble": "421",
+      "referencia": "421",
+      "tipo": "APARTAMENTO",
+      "precio": 356000
+    },
+    {
+      "inmueble": "211",
+      "referencia": "211",
+      "tipo": "APARTAMENTO",
+      "precio": 342500
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "APARTAMENTO",
+      "precio": 396000
+    },
+    {
+      "inmueble": "221",
+      "referencia": "221",
+      "tipo": "APARTAMENTO",
+      "precio": 350000
+    },
+    {
+      "inmueble": "311",
+      "referencia": "311",
+      "tipo": "APARTAMENTO",
+      "precio": 382000
+    },
+    {
+      "inmueble": "212",
+      "referencia": "212",
+      "tipo": "APARTAMENTO",
+      "precio": 420500
+    },
+    {
+      "inmueble": "222",
+      "referencia": "222",
+      "tipo": "APARTAMENTO",
+      "precio": 335941
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 335941
+    },
+    {
+      "inmueble": "412",
+      "referencia": "412",
+      "tipo": "APARTAMENTO",
+      "precio": 344500
+    },
+    {
+      "inmueble": "312",
+      "referencia": "312",
+      "tipo": "APARTAMENTO",
+      "precio": 379500
+    },
+    {
+      "inmueble": "422",
+      "referencia": "422",
+      "tipo": "APARTAMENTO",
+      "precio": 320000
+    },
+    {
+      "inmueble": "432",
+      "referencia": "432",
+      "tipo": "APARTAMENTO",
+      "precio": 401500
+    },
+    {
+      "inmueble": "442",
+      "referencia": "442",
+      "tipo": "APARTAMENTO",
+      "precio": 335941
+    }
+  ]
+}

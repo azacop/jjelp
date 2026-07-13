@@ -1,0 +1,18 @@
+{
+  "co_ownership_id": "650d1582fedb88000fb99ccf",
+  "co_ownership_name": "RESERVA DE BACOTA P.H",
+  "address": "Sin direccion ",
+  "city": "Apartadó",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1151455",
+  "total": 1,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "co_ownership_id": "68d419d49b2877529950f227",
+  "co_ownership_name": "EDIFICIO DA VINCI PH",
+  "address": "CR 25 65 140",
+  "city": "Manizales",
+  "department": "Caldas",
+  "country": "COLOMBIA",
+  "agreement_number": "1613413",
+  "total": 19,
+  "apartamentos": [
+    {
+      "inmueble": "501",
+      "referencia": "7501",
+      "tipo": "APARTAMENTO",
+      "precio": 574080
+    },
+    {
+      "inmueble": "502",
+      "referencia": "7502",
+      "tipo": "APARTAMENTO",
+      "precio": 616860
+    },
+    {
+      "inmueble": "601",
+      "referencia": "7601",
+      "tipo": "APARTAMENTO",
+      "precio": 603060
+    },
+    {
+      "inmueble": "602",
+      "referencia": "7602",
+      "tipo": "APARTAMENTO",
+      "precio": 616860
+    },
+    {
+      "inmueble": "701",
+      "referencia": "7701",
+      "tipo": "APARTAMENTO",
+      "precio": 614100
+    },
+    {
+      "inmueble": "101",
+      "referencia": "7101",
+      "tipo": "APARTAMENTO",
+      "precio": 273240
+    },
+    {
+      "inmueble": "102",
+      "referencia": "7102",
+      "tipo": "APARTAMENTO",
+      "precio": 260820
+    },
+    {
+      "inmueble": "103",
+      "referencia": "7103",
+      "tipo": "APARTAMENTO",
+      "precio": 210000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "7104",
+      "tipo": "APARTAMENTO",
+      "precio": 241500
+    },
+    {
+      "inmueble": "201",
+      "referencia": "7201",
+      "tipo": "APARTAMENTO",
+      "precio": 587888
+    },
+    {
+      "inmueble": "702",
+      "referencia": "7702",
+      "tipo": "APARTAMENTO",
+      "precio": 626520
+    },
+    {
+      "inmueble": "202",
+      "referencia": "7202",
+      "tipo": "APARTAMENTO",
+      "precio": 601680
+    },
+    {
+      "inmueble": "801",
+      "referencia": "7801",
+      "tipo": "APARTAMENTO",
+      "precio": 575460
+    },
+    {
+      "inmueble": "301",
+      "referencia": "7301",
+      "tipo": "APARTAMENTO",
+      "precio": 603068
+    },
+    {
+      "inmueble": "802",
+      "referencia": "7802",
+      "tipo": "APARTAMENTO",
+      "precio": 937020
+    },
+    {
+      "inmueble": "302",
+      "referencia": "7302",
+      "tipo": "APARTAMENTO",
+      "precio": 616860
+    },
+    {
+      "inmueble": "999",
+      "referencia": "7777",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "401",
+      "referencia": "7401",
+      "tipo": "APARTAMENTO",
+      "precio": 603060
+    },
+    {
+      "inmueble": "402",
+      "referencia": "7402",
+      "tipo": "APARTAMENTO",
+      "precio": 616860
+    }
+  ]
+}

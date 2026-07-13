@@ -1,0 +1,48 @@
+{
+  "co_ownership_id": "67b895ea371ef776f1d82e5c",
+  "co_ownership_name": "BODEGAS ZONA FRANCA DE BOGOTA",
+  "address": "CR 106 15 25 IN 121 A",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1580976",
+  "total": 6,
+  "apartamentos": [
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 334000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 334000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "OTROS",
+      "precio": 334000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "OTROS",
+      "precio": 334000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "OTROS",
+      "precio": 334000
+    }
+  ]
+}

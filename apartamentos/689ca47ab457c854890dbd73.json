@@ -1,0 +1,144 @@
+{
+  "co_ownership_id": "689ca47ab457c854890dbd73",
+  "co_ownership_name": "EDIFICIO DIAGO",
+  "address": "CR 51 79 122",
+  "city": "Barranquilla",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1607738",
+  "total": 22,
+  "apartamentos": [
+    {
+      "inmueble": "8B",
+      "referencia": "82",
+      "tipo": "APARTAMENTO",
+      "precio": 819000
+    },
+    {
+      "inmueble": "9A",
+      "referencia": "91",
+      "tipo": "APARTAMENTO",
+      "precio": 768000
+    },
+    {
+      "inmueble": "9B",
+      "referencia": "92",
+      "tipo": "APARTAMENTO",
+      "precio": 819000
+    },
+    {
+      "inmueble": "10A",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 768000
+    },
+    {
+      "inmueble": "10B",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 819000
+    },
+    {
+      "inmueble": "6A",
+      "referencia": "61",
+      "tipo": "APARTAMENTO",
+      "precio": 841000
+    },
+    {
+      "inmueble": "3B",
+      "referencia": "32",
+      "tipo": "APARTAMENTO",
+      "precio": 819000
+    },
+    {
+      "inmueble": "6B",
+      "referencia": "62",
+      "tipo": "APARTAMENTO",
+      "precio": 819000
+    },
+    {
+      "inmueble": "4A",
+      "referencia": "41",
+      "tipo": "APARTAMENTO",
+      "precio": 841000
+    },
+    {
+      "inmueble": "7A",
+      "referencia": "71",
+      "tipo": "APARTAMENTO",
+      "precio": 768000
+    },
+    {
+      "inmueble": "4B",
+      "referencia": "42",
+      "tipo": "APARTAMENTO",
+      "precio": 819000
+    },
+    {
+      "inmueble": "7B",
+      "referencia": "72",
+      "tipo": "APARTAMENTO",
+      "precio": 819000
+    },
+    {
+      "inmueble": "5A",
+      "referencia": "51",
+      "tipo": "APARTAMENTO",
+      "precio": 768000
+    },
+    {
+      "inmueble": "8A",
+      "referencia": "81",
+      "tipo": "APARTAMENTO",
+      "precio": 768000
+    },
+    {
+      "inmueble": "5B",
+      "referencia": "52",
+      "tipo": "APARTAMENTO",
+      "precio": 819000
+    },
+    {
+      "inmueble": "1A",
+      "referencia": "11",
+      "tipo": "APARTAMENTO",
+      "precio": 763000
+    },
+    {
+      "inmueble": "1B",
+      "referencia": "12",
+      "tipo": "APARTAMENTO",
+      "precio": 819000
+    },
+    {
+      "inmueble": "2A",
+      "referencia": "21",
+      "tipo": "APARTAMENTO",
+      "precio": 768000
+    },
+    {
+      "inmueble": "2B",
+      "referencia": "22",
+      "tipo": "APARTAMENTO",
+      "precio": 819000
+    },
+    {
+      "inmueble": "3A",
+      "referencia": "31",
+      "tipo": "APARTAMENTO",
+      "precio": 768000
+    },
+    {
+      "inmueble": "11A",
+      "referencia": "111",
+      "tipo": "APARTAMENTO",
+      "precio": 1404000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

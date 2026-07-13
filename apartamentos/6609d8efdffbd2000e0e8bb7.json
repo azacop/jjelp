@@ -1,0 +1,24 @@
+{
+  "co_ownership_id": "6609d8efdffbd2000e0e8bb7",
+  "co_ownership_name": "AS CORPORACION ACADEMIA DE BAILE",
+  "address": "DG 40 NO. 36 123",
+  "city": "Soacha",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1533199",
+  "total": 2,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 5000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 5000
+    }
+  ]
+}

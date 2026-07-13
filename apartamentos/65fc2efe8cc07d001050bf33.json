@@ -1,0 +1,246 @@
+{
+  "co_ownership_id": "65fc2efe8cc07d001050bf33",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL PORTAL DE VENECIA CALLE 98 43 46 BARRANQUILLA",
+  "address": "CALLE 98  43 46",
+  "city": "Barranquilla",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1256528",
+  "total": 39,
+  "apartamentos": [
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": null,
+      "precio": 580219
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": null,
+      "precio": 390197
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": null,
+      "precio": 404703
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": null,
+      "precio": 404703
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": null,
+      "precio": 404703
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": null,
+      "precio": 390197
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": null,
+      "precio": 404703
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": null,
+      "precio": 404703
+    },
+    {
+      "inmueble": "29",
+      "referencia": "29",
+      "tipo": null,
+      "precio": 390197
+    },
+    {
+      "inmueble": "38",
+      "referencia": "38",
+      "tipo": null,
+      "precio": 404703
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": null,
+      "precio": 404703
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": null,
+      "precio": 404703
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": null,
+      "precio": 580219
+    },
+    {
+      "inmueble": "39",
+      "referencia": "39",
+      "tipo": null,
+      "precio": 390197
+    },
+    {
+      "inmueble": "1720",
+      "referencia": "1720",
+      "tipo": null,
+      "precio": 842768
+    },
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": null,
+      "precio": 404703
+    },
+    {
+      "inmueble": "30",
+      "referencia": "30",
+      "tipo": null,
+      "precio": 390197
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": null,
+      "precio": 403252
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": null,
+      "precio": 403252
+    },
+    {
+      "inmueble": "31",
+      "referencia": "31",
+      "tipo": null,
+      "precio": 404703
+    },
+    {
+      "inmueble": "40",
+      "referencia": "40",
+      "tipo": null,
+      "precio": 400351
+    },
+    {
+      "inmueble": "23",
+      "referencia": "23",
+      "tipo": null,
+      "precio": 403252
+    },
+    {
+      "inmueble": "32",
+      "referencia": "32",
+      "tipo": null,
+      "precio": 404703
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": null,
+      "precio": 403252
+    },
+    {
+      "inmueble": "33",
+      "referencia": "33",
+      "tipo": null,
+      "precio": 400351
+    },
+    {
+      "inmueble": "24",
+      "referencia": "24",
+      "tipo": null,
+      "precio": 404703
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": null,
+      "precio": 403252
+    },
+    {
+      "inmueble": "25",
+      "referencia": "25",
+      "tipo": null,
+      "precio": 390197
+    },
+    {
+      "inmueble": "34",
+      "referencia": "34",
+      "tipo": null,
+      "precio": 400351
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": null,
+      "precio": 403252
+    },
+    {
+      "inmueble": "35",
+      "referencia": "35",
+      "tipo": null,
+      "precio": 404703
+    },
+    {
+      "inmueble": "26",
+      "referencia": "26",
+      "tipo": null,
+      "precio": 390197
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": null,
+      "precio": 404703
+    },
+    {
+      "inmueble": "27",
+      "referencia": "27",
+      "tipo": null,
+      "precio": 404703
+    },
+    {
+      "inmueble": "36",
+      "referencia": "36",
+      "tipo": null,
+      "precio": 390197
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": null,
+      "precio": 390197
+    },
+    {
+      "inmueble": "37",
+      "referencia": "37",
+      "tipo": null,
+      "precio": 400351
+    },
+    {
+      "inmueble": "28",
+      "referencia": "28",
+      "tipo": null,
+      "precio": 404703
+    }
+  ]
+}

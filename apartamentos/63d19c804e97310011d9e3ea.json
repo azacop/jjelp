@@ -1,0 +1,108 @@
+{
+  "co_ownership_id": "63d19c804e97310011d9e3ea",
+  "co_ownership_name": "VER PADILLA CONDOMINIO CAMPESTRE FINCAS DEL EDEN",
+  "address": "VEREDA PADILLA CONJUNTO CAMPESTRE FINCAS DEL EDEN",
+  "city": "La Tebaida",
+  "department": "Quindio",
+  "country": "COLOMBIA",
+  "agreement_number": "1219328",
+  "total": 16,
+  "apartamentos": [
+    {
+      "inmueble": "706",
+      "referencia": "706",
+      "tipo": "APARTAMENTO",
+      "precio": 980000
+    },
+    {
+      "inmueble": "707",
+      "referencia": "707",
+      "tipo": "APARTAMENTO",
+      "precio": 490000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 100
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 441000
+    },
+    {
+      "inmueble": "708",
+      "referencia": "708",
+      "tipo": "APARTAMENTO",
+      "precio": 980000
+    },
+    {
+      "inmueble": "709",
+      "referencia": "709",
+      "tipo": "APARTAMENTO",
+      "precio": 980000
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 441000
+    },
+    {
+      "inmueble": "713",
+      "referencia": "713",
+      "tipo": "APARTAMENTO",
+      "precio": 505331
+    },
+    {
+      "inmueble": "710",
+      "referencia": "710",
+      "tipo": "APARTAMENTO",
+      "precio": 980000
+    },
+    {
+      "inmueble": "703",
+      "referencia": "703",
+      "tipo": "APARTAMENTO",
+      "precio": 441000
+    },
+    {
+      "inmueble": "714",
+      "referencia": "714",
+      "tipo": "APARTAMENTO",
+      "precio": 100
+    },
+    {
+      "inmueble": "704",
+      "referencia": "704",
+      "tipo": "APARTAMENTO",
+      "precio": 980000
+    },
+    {
+      "inmueble": "711",
+      "referencia": "711",
+      "tipo": "APARTAMENTO",
+      "precio": 441000
+    },
+    {
+      "inmueble": "715",
+      "referencia": "715",
+      "tipo": "APARTAMENTO",
+      "precio": 100
+    },
+    {
+      "inmueble": "705",
+      "referencia": "705",
+      "tipo": "APARTAMENTO",
+      "precio": 505331
+    },
+    {
+      "inmueble": "712",
+      "referencia": "712",
+      "tipo": "APARTAMENTO",
+      "precio": 505331
+    }
+  ]
+}

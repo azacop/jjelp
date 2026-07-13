@@ -1,0 +1,174 @@
+{
+  "co_ownership_id": "63f67bc75bf04a0011b17d61",
+  "co_ownership_name": "AV 3 CONJUNTO RESIDENCIAL BUGANVILES",
+  "address": "AV 3 57 70 LOS PATIOS",
+  "city": "Cúcuta",
+  "department": "Norte de Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1208222",
+  "total": 27,
+  "apartamentos": [
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 128430
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "24",
+      "referencia": "24",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 128430
+    },
+    {
+      "inmueble": "921",
+      "referencia": "921",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "17",
+      "referencia": "17",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 66593
+    },
+    {
+      "inmueble": "94",
+      "referencia": "94",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "23",
+      "referencia": "23",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "93",
+      "referencia": "93",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "91",
+      "referencia": "91",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "APARTAMENTO",
+      "precio": 64215
+    }
+  ]
+}

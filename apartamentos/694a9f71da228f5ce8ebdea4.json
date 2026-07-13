@@ -1,0 +1,144 @@
+{
+  "co_ownership_id": "694a9f71da228f5ce8ebdea4",
+  "co_ownership_name": "COP SUBCONJUNTO MESSINA",
+  "address": "KM 5 VIA GIRARDOT  MELGAR",
+  "city": "Girardot",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1627090",
+  "total": 22,
+  "apartamentos": [
+    {
+      "inmueble": "MES01",
+      "referencia": "19001009",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES02",
+      "referencia": "19002008",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES03",
+      "referencia": "19003007",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES04 05",
+      "referencia": "19005005",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES06",
+      "referencia": "19006004",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES07",
+      "referencia": "19007003",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES08",
+      "referencia": "19008002",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES09",
+      "referencia": "19009001",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES10",
+      "referencia": "19010008",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES11",
+      "referencia": "19011007",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "MES01",
+      "referencia": "19001009",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES02",
+      "referencia": "19002008",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES03",
+      "referencia": "19003007",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES04 05",
+      "referencia": "19005005",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES06",
+      "referencia": "19006004",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES07",
+      "referencia": "19007003",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES08",
+      "referencia": "19008002",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES09",
+      "referencia": "19009001",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES10",
+      "referencia": "19010008",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "MES11",
+      "referencia": "19011007",
+      "tipo": "CASA",
+      "precio": 800000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

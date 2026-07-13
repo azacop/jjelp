@@ -1,0 +1,144 @@
+{
+  "co_ownership_id": "68237d5c5c5a8443050392ff",
+  "co_ownership_name": "CR LOS URAPANES",
+  "address": "CALLE 12 12 85",
+  "city": "Chía",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1592724",
+  "total": 22,
+  "apartamentos": [
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "Int1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int6",
+      "referencia": "6",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int7",
+      "referencia": "7",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int8",
+      "referencia": "8",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int9",
+      "referencia": "9",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int10",
+      "referencia": "10",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "Int1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int6",
+      "referencia": "6",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int7",
+      "referencia": "7",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int8",
+      "referencia": "8",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int9",
+      "referencia": "9",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "Int10",
+      "referencia": "10",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    }
+  ]
+}

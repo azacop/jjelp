@@ -1,0 +1,186 @@
+{
+  "co_ownership_id": "67642acfa10159000ff1e8a2",
+  "co_ownership_name": "EDIFICIO VALPARAISO PH",
+  "address": "CL 127B 13 A 27",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1574284",
+  "total": 29,
+  "apartamentos": [
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "LOCAL",
+      "precio": 436361
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "OFICINA",
+      "precio": 1631304
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "OFICINA",
+      "precio": 1234734
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "OFICINA",
+      "precio": 1630457
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "OFICINA",
+      "precio": 1259882
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "OFICINA",
+      "precio": 1234159
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "OFICINA",
+      "precio": 1234825
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "OFICINA",
+      "precio": 1630881
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "OFICINA",
+      "precio": 1196509
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "OFICINA",
+      "precio": 1234174
+    },
+    {
+      "inmueble": "1093",
+      "referencia": "1093",
+      "tipo": "LOCAL",
+      "precio": 680571
+    },
+    {
+      "inmueble": "7136",
+      "referencia": "7136",
+      "tipo": "LOCAL",
+      "precio": 437877
+    },
+    {
+      "inmueble": "7138",
+      "referencia": "7138",
+      "tipo": "LOCAL",
+      "precio": 354823
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "OFICINA",
+      "precio": 1234897
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "LOCAL",
+      "precio": 363679
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "OFICINA",
+      "precio": 1196659
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "LOCAL",
+      "precio": 224613
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": "OFICINA",
+      "precio": 1234989
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "LOCAL",
+      "precio": 309449
+    },
+    {
+      "inmueble": "901",
+      "referencia": "901",
+      "tipo": "OFICINA",
+      "precio": 1196946
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "LOCAL",
+      "precio": 338000
+    },
+    {
+      "inmueble": "902",
+      "referencia": "902",
+      "tipo": "OFICINA",
+      "precio": 1235061
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "LOCAL",
+      "precio": 299069
+    },
+    {
+      "inmueble": "1001",
+      "referencia": "1001",
+      "tipo": "OFICINA",
+      "precio": 1191632
+    },
+    {
+      "inmueble": "1002",
+      "referencia": "1002",
+      "tipo": "OFICINA",
+      "precio": 2060050
+    },
+    {
+      "inmueble": "PARQ2007",
+      "referencia": "2007",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "1087",
+      "referencia": "1087",
+      "tipo": "LOCAL",
+      "precio": 943260
+    },
+    {
+      "inmueble": "1091",
+      "referencia": "1091",
+      "tipo": "LOCAL",
+      "precio": 352710
+    }
+  ]
+}

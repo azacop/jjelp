@@ -1,0 +1,72 @@
+{
+  "co_ownership_id": "61f312c42026b4000820d4cf",
+  "co_ownership_name": "EDIFICIO MULTIFAMILIAR TAMLO PH",
+  "address": "CALLE 134 No. 12B - 30",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1451038",
+  "total": 10,
+  "apartamentos": [
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": null,
+      "precio": 1000000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": null,
+      "precio": 1000000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": null,
+      "precio": 1000000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": null,
+      "precio": 1000000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": null,
+      "precio": 1000000
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": null,
+      "precio": 1000000
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": null,
+      "precio": 1000000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": null,
+      "precio": 1000000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": null,
+      "precio": 1000000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": null,
+      "precio": 1
+    }
+  ]
+}

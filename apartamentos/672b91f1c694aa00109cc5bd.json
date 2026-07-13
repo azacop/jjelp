@@ -1,0 +1,18 @@
+{
+  "co_ownership_id": "672b91f1c694aa00109cc5bd",
+  "co_ownership_name": "URB BOSQ DE LOS ALPES PS PARQUEA",
+  "address": "KR 11 A ES 36 G 22 SUR",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1568799",
+  "total": 1,
+  "apartamentos": [
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 99999
+    }
+  ]
+}

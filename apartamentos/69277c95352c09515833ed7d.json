@@ -1,0 +1,42 @@
+{
+  "co_ownership_id": "69277c95352c09515833ed7d",
+  "co_ownership_name": "PARQUE CENTRAL MADEROS DEL CAMPO",
+  "address": "CL 77 SUR 35 A 105",
+  "city": "Sabaneta",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1622554",
+  "total": 5,
+  "apartamentos": [
+    {
+      "inmueble": "0001MDC1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 16509229
+    },
+    {
+      "inmueble": "0002MDC2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 24764304
+    },
+    {
+      "inmueble": "0003MDC3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 16509229
+    },
+    {
+      "inmueble": "0004TPC",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

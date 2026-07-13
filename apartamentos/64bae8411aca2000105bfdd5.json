@@ -1,0 +1,120 @@
+{
+  "co_ownership_id": "64bae8411aca2000105bfdd5",
+  "co_ownership_name": "EDIFICIO RESERVAS DE MODELIA PROPIEDAD HORIZONTAL",
+  "address": "CL 23 G 74 A 50",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1505650",
+  "total": 18,
+  "apartamentos": [
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 180000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 180000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 180000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 180000
+    },
+    {
+      "inmueble": "Garaje 1",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 180000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 180000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 180000
+    },
+    {
+      "inmueble": "Garaje 2",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 180000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 180000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 180000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 180000
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 180000
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 180000
+    },
+    {
+      "inmueble": "305",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 180000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 180000
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 233698
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 70271
+    },
+    {
+      "inmueble": "405",
+      "referencia": "405",
+      "tipo": "OTROS",
+      "precio": 201659
+    }
+  ]
+}

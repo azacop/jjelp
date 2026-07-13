@@ -1,0 +1,102 @@
+{
+  "co_ownership_id": "682f37d391e17a2e4a8e2d7c",
+  "co_ownership_name": "CAMINO DE MORAJI TORRE  5",
+  "address": "CLL 112 1 10 ESTE",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1594027",
+  "total": 15,
+  "apartamentos": [
+    {
+      "inmueble": "apto101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 2100000
+    },
+    {
+      "inmueble": "apto601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 2100000
+    },
+    {
+      "inmueble": "apto601",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 2100000
+    },
+    {
+      "inmueble": "apto102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 2100000
+    },
+    {
+      "inmueble": "apto701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 2100000
+    },
+    {
+      "inmueble": "apto201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 2100000
+    },
+    {
+      "inmueble": "apto202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 2100000
+    },
+    {
+      "inmueble": "apto702",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 2100000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "apto301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 2100000
+    },
+    {
+      "inmueble": "apto302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 2100000
+    },
+    {
+      "inmueble": "apto401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 2100000
+    },
+    {
+      "inmueble": "apto402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 2100000
+    },
+    {
+      "inmueble": "apto501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 2100000
+    },
+    {
+      "inmueble": "apto502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 2100000
+    }
+  ]
+}

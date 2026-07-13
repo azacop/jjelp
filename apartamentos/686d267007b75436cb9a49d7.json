@@ -1,0 +1,108 @@
+{
+  "co_ownership_id": "686d267007b75436cb9a49d7",
+  "co_ownership_name": "ED MULT RINCON DE LAS TORRES V",
+  "address": "CL 118 16 93",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1602499",
+  "total": 16,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "APT203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 750000
+    },
+    {
+      "inmueble": "APT204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 750000
+    },
+    {
+      "inmueble": "APT301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1650000
+    },
+    {
+      "inmueble": "APT302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 1650000
+    },
+    {
+      "inmueble": "APT303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 750000
+    },
+    {
+      "inmueble": "APT304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 800000
+    },
+    {
+      "inmueble": "APT401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 2500000
+    },
+    {
+      "inmueble": "APT402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 2300000
+    },
+    {
+      "inmueble": "APT403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "APT404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 750000
+    },
+    {
+      "inmueble": "APT101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 1500000
+    },
+    {
+      "inmueble": "APT102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 1500000
+    },
+    {
+      "inmueble": "APT103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 750000
+    },
+    {
+      "inmueble": "APT201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1700000
+    },
+    {
+      "inmueble": "APT202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 1650000
+    }
+  ]
+}

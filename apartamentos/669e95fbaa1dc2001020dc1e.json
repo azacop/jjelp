@@ -1,0 +1,96 @@
+{
+  "co_ownership_id": "669e95fbaa1dc2001020dc1e",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL LOS CEDROS",
+  "address": "AV 2 CR 27 21 109 BRR MANGA",
+  "city": "Cartagena",
+  "department": "Bolívar",
+  "country": "COLOMBIA",
+  "agreement_number": "1550524",
+  "total": 14,
+  "apartamentos": [
+    {
+      "inmueble": "1A",
+      "referencia": "11",
+      "tipo": "APARTAMENTO",
+      "precio": 700000
+    },
+    {
+      "inmueble": "2A",
+      "referencia": "21",
+      "tipo": "APARTAMENTO",
+      "precio": 700000
+    },
+    {
+      "inmueble": "3A",
+      "referencia": "31",
+      "tipo": "APARTAMENTO",
+      "precio": 700000
+    },
+    {
+      "inmueble": "2B",
+      "referencia": "22",
+      "tipo": "APARTAMENTO",
+      "precio": 700000
+    },
+    {
+      "inmueble": "4A",
+      "referencia": "41",
+      "tipo": "APARTAMENTO",
+      "precio": 700000
+    },
+    {
+      "inmueble": "3B",
+      "referencia": "32",
+      "tipo": "APARTAMENTO",
+      "precio": 700000
+    },
+    {
+      "inmueble": "3C",
+      "referencia": "33",
+      "tipo": "APARTAMENTO",
+      "precio": 700000
+    },
+    {
+      "inmueble": "1B",
+      "referencia": "12",
+      "tipo": "APARTAMENTO",
+      "precio": 700000
+    },
+    {
+      "inmueble": "4B",
+      "referencia": "42",
+      "tipo": "APARTAMENTO",
+      "precio": 700000
+    },
+    {
+      "inmueble": "4C",
+      "referencia": "43",
+      "tipo": "APARTAMENTO",
+      "precio": 700000
+    },
+    {
+      "inmueble": "5B",
+      "referencia": "52",
+      "tipo": "APARTAMENTO",
+      "precio": 700000
+    },
+    {
+      "inmueble": "5C",
+      "referencia": "53",
+      "tipo": "APARTAMENTO",
+      "precio": 700000
+    },
+    {
+      "inmueble": "2C",
+      "referencia": "23",
+      "tipo": "APARTAMENTO",
+      "precio": 700000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 50001
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "co_ownership_id": "6524c7d1c3d667000f12fd46",
+  "co_ownership_name": "GREEN OFFICE CORPORATIVO - PROPIEDAD HORIZONTAL",
+  "address": "CARRERA 11 98 07",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1513993",
+  "total": 39,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 9780105
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "LOCAL",
+      "precio": 191018
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "LOCAL",
+      "precio": 2440097
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "LOCAL",
+      "precio": 193827
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "LOCAL",
+      "precio": 208463
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "LOCAL",
+      "precio": 2058061
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "LOCAL",
+      "precio": 2352812
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 4234315
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "OTROS",
+      "precio": 1230200
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "LOCAL",
+      "precio": 93314
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 2511105
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "LOCAL",
+      "precio": 855572
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "OTROS",
+      "precio": 1503114
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "LOCAL",
+      "precio": 463702
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "OTROS",
+      "precio": 78815
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "LOCAL",
+      "precio": 1471184
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "OTROS",
+      "precio": 1184326
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "LOCAL",
+      "precio": 1144388
+    },
+    {
+      "inmueble": "4022",
+      "referencia": "4022",
+      "tipo": "OTROS",
+      "precio": 15880420
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": "OTROS",
+      "precio": 1927550
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": "LOCAL",
+      "precio": 635272
+    },
+    {
+      "inmueble": "5011",
+      "referencia": "5011",
+      "tipo": "OTROS",
+      "precio": 48824561
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": "OTROS",
+      "precio": 875039
+    },
+    {
+      "inmueble": "803",
+      "referencia": "803",
+      "tipo": "LOCAL",
+      "precio": 2024745
+    },
+    {
+      "inmueble": "5012",
+      "referencia": "5012",
+      "tipo": "OTROS",
+      "precio": 18764835
+    },
+    {
+      "inmueble": "209",
+      "referencia": "209",
+      "tipo": "OTROS",
+      "precio": 602129
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "LOCAL",
+      "precio": 3728140
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "OTROS",
+      "precio": 17034826
+    },
+    {
+      "inmueble": "210",
+      "referencia": "210",
+      "tipo": "OTROS",
+      "precio": 1280473
+    },
+    {
+      "inmueble": "2011",
+      "referencia": "2011",
+      "tipo": "OTROS",
+      "precio": 17087732
+    },
+    {
+      "inmueble": "6021",
+      "referencia": "6021",
+      "tipo": "OTROS",
+      "precio": 14792578
+    },
+    {
+      "inmueble": "211",
+      "referencia": "211",
+      "tipo": "OTROS",
+      "precio": 914885
+    },
+    {
+      "inmueble": "2012",
+      "referencia": "2012",
+      "tipo": "OTROS",
+      "precio": 2482877
+    },
+    {
+      "inmueble": "6022",
+      "referencia": "6022",
+      "tipo": "OTROS",
+      "precio": 1454656
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "OTROS",
+      "precio": 41462689
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "OTROS",
+      "precio": 1263101
+    },
+    {
+      "inmueble": "6023",
+      "referencia": "6023",
+      "tipo": "OTROS",
+      "precio": 1090994
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "OTROS",
+      "precio": 3346784
+    }
+  ]
+}

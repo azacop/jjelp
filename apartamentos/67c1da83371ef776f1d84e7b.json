@@ -1,0 +1,102 @@
+{
+  "co_ownership_id": "67c1da83371ef776f1d84e7b",
+  "co_ownership_name": "EDIFICIO EL PARAISO PH",
+  "address": "CRA 8F 160 02",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1582451",
+  "total": 15,
+  "apartamentos": [
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": null,
+      "precio": 261800
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": null,
+      "precio": 231000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": null,
+      "precio": 261800
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": null,
+      "precio": 256300
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": null,
+      "precio": 256300
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": null,
+      "precio": 262900
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": null,
+      "precio": 253000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": null,
+      "precio": 262900
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": null,
+      "precio": 232100
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": null,
+      "precio": 232100
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": null,
+      "precio": 232100
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": null,
+      "precio": 232100
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": null,
+      "precio": 232100
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": null,
+      "precio": 270600
+    }
+  ]
+}

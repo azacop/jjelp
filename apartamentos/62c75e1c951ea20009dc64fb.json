@@ -1,0 +1,288 @@
+{
+  "co_ownership_id": "62c75e1c951ea20009dc64fb",
+  "co_ownership_name": "CONJUNTO MULTIFAMILIAR LOS CONQUISTADORES DOS",
+  "address": "Calle 57A 46-34",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1464346",
+  "total": 46,
+  "apartamentos": [
+    {
+      "inmueble": "109",
+      "referencia": "109",
+      "tipo": "APARTAMENTO",
+      "precio": 173000
+    },
+    {
+      "inmueble": "314",
+      "referencia": "314",
+      "tipo": "APARTAMENTO",
+      "precio": 277000
+    },
+    {
+      "inmueble": "213",
+      "referencia": "213",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "315",
+      "referencia": "315",
+      "tipo": "APARTAMENTO",
+      "precio": 276000
+    },
+    {
+      "inmueble": "612",
+      "referencia": "612",
+      "tipo": "APARTAMENTO",
+      "precio": 232000
+    },
+    {
+      "inmueble": "410",
+      "referencia": "410",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "114",
+      "referencia": "114",
+      "tipo": "APARTAMENTO",
+      "precio": 168000
+    },
+    {
+      "inmueble": "416",
+      "referencia": "416",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "116",
+      "referencia": "116",
+      "tipo": "APARTAMENTO",
+      "precio": 302000
+    },
+    {
+      "inmueble": "610",
+      "referencia": "610",
+      "tipo": "APARTAMENTO",
+      "precio": 257000
+    },
+    {
+      "inmueble": "513",
+      "referencia": "513",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "412",
+      "referencia": "412",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "616",
+      "referencia": "616",
+      "tipo": "APARTAMENTO",
+      "precio": 257000
+    },
+    {
+      "inmueble": "115",
+      "referencia": "115",
+      "tipo": "APARTAMENTO",
+      "precio": 165000
+    },
+    {
+      "inmueble": "212",
+      "referencia": "212",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "APARTAMENTO",
+      "precio": 171000
+    },
+    {
+      "inmueble": "316",
+      "referencia": "316",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "113",
+      "referencia": "113",
+      "tipo": "APARTAMENTO",
+      "precio": 303000
+    },
+    {
+      "inmueble": "409",
+      "referencia": "409",
+      "tipo": "APARTAMENTO",
+      "precio": 277000
+    },
+    {
+      "inmueble": "216",
+      "referencia": "216",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "512",
+      "referencia": "512",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "309",
+      "referencia": "309",
+      "tipo": "APARTAMENTO",
+      "precio": 277000
+    },
+    {
+      "inmueble": "613",
+      "referencia": "613",
+      "tipo": "APARTAMENTO",
+      "precio": 257000
+    },
+    {
+      "inmueble": "411",
+      "referencia": "411",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "413",
+      "referencia": "413",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "515",
+      "referencia": "515",
+      "tipo": "APARTAMENTO",
+      "precio": 434000
+    },
+    {
+      "inmueble": "516",
+      "referencia": "516",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "313",
+      "referencia": "313",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "211",
+      "referencia": "211",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "415",
+      "referencia": "415",
+      "tipo": "APARTAMENTO",
+      "precio": 276000
+    },
+    {
+      "inmueble": "110",
+      "referencia": "110",
+      "tipo": "APARTAMENTO",
+      "precio": 303000
+    },
+    {
+      "inmueble": "209",
+      "referencia": "209",
+      "tipo": "APARTAMENTO",
+      "precio": 277000
+    },
+    {
+      "inmueble": "509",
+      "referencia": "509",
+      "tipo": "APARTAMENTO",
+      "precio": 436000
+    },
+    {
+      "inmueble": "214",
+      "referencia": "214",
+      "tipo": "APARTAMENTO",
+      "precio": 277000
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "APARTAMENTO",
+      "precio": 303000
+    },
+    {
+      "inmueble": "215",
+      "referencia": "215",
+      "tipo": "APARTAMENTO",
+      "precio": 276000
+    },
+    {
+      "inmueble": "510",
+      "referencia": "510",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "210",
+      "referencia": "210",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "611",
+      "referencia": "611",
+      "tipo": "APARTAMENTO",
+      "precio": 232000
+    },
+    {
+      "inmueble": "511",
+      "referencia": "511",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "310",
+      "referencia": "310",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "311",
+      "referencia": "311",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "514",
+      "referencia": "514",
+      "tipo": "APARTAMENTO",
+      "precio": 436000
+    },
+    {
+      "inmueble": "312",
+      "referencia": "312",
+      "tipo": "APARTAMENTO",
+      "precio": 337000
+    },
+    {
+      "inmueble": "414",
+      "referencia": "414",
+      "tipo": "APARTAMENTO",
+      "precio": 277000
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "co_ownership_id": "650c3a02f5807e0010cc7cba",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL ARTEMIS SECTOR DOS",
+  "address": "calle 64 # 17A-29",
+  "city": "Bucaramanga",
+  "department": "Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1131267",
+  "total": 1,
+  "apartamentos": [
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

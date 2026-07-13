@@ -1,0 +1,84 @@
+{
+  "co_ownership_id": "63f8e388ad6c1100106ebfc6",
+  "co_ownership_name": "EDIFICIO CENTRO COMERCIAL LUCERNA",
+  "address": "AVENIDA CALLE 127 # 20 43 45/47",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1487248",
+  "total": 12,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "0101",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "2032",
+      "referencia": "2032",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "2011",
+      "referencia": "2011",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "2041",
+      "referencia": "2041",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "2012",
+      "referencia": "2012",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "2042",
+      "referencia": "2042",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "2021",
+      "referencia": "2021",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "3011",
+      "referencia": "3011",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "2022",
+      "referencia": "2022",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "3012",
+      "referencia": "3012",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "2031",
+      "referencia": "2031",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

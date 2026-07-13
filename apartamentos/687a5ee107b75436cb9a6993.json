@@ -1,0 +1,180 @@
+{
+  "co_ownership_id": "687a5ee107b75436cb9a6993",
+  "co_ownership_name": "EDIFICIO PRADO SENORIAL",
+  "address": "CR 58 66 81 BRR EL PRADO",
+  "city": "Barranquilla",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1603737",
+  "total": 28,
+  "apartamentos": [
+    {
+      "inmueble": "TA101",
+      "referencia": "1101",
+      "tipo": "APARTAMENTO",
+      "precio": 1104000
+    },
+    {
+      "inmueble": "TA102",
+      "referencia": "1102",
+      "tipo": "APARTAMENTO",
+      "precio": 896000
+    },
+    {
+      "inmueble": "TA201",
+      "referencia": "1201",
+      "tipo": "APARTAMENTO",
+      "precio": 970000
+    },
+    {
+      "inmueble": "TA202",
+      "referencia": "1202",
+      "tipo": "APARTAMENTO",
+      "precio": 972000
+    },
+    {
+      "inmueble": "TA301",
+      "referencia": "1301",
+      "tipo": "APARTAMENTO",
+      "precio": 912000
+    },
+    {
+      "inmueble": "TB203",
+      "referencia": "2203",
+      "tipo": "APARTAMENTO",
+      "precio": 1072000
+    },
+    {
+      "inmueble": "TB703",
+      "referencia": "2703",
+      "tipo": "APARTAMENTO",
+      "precio": 1099000
+    },
+    {
+      "inmueble": "TA601",
+      "referencia": "1601",
+      "tipo": "APARTAMENTO",
+      "precio": 956000
+    },
+    {
+      "inmueble": "TB204",
+      "referencia": "2204",
+      "tipo": "APARTAMENTO",
+      "precio": 811000
+    },
+    {
+      "inmueble": "TA602",
+      "referencia": "1602",
+      "tipo": "APARTAMENTO",
+      "precio": 1009000
+    },
+    {
+      "inmueble": "TB704",
+      "referencia": "2704",
+      "tipo": "APARTAMENTO",
+      "precio": 814000
+    },
+    {
+      "inmueble": "TB303",
+      "referencia": "2303",
+      "tipo": "APARTAMENTO",
+      "precio": 1104000
+    },
+    {
+      "inmueble": "TA701",
+      "referencia": "1701",
+      "tipo": "APARTAMENTO",
+      "precio": 964000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "TB304",
+      "referencia": "2304",
+      "tipo": "APARTAMENTO",
+      "precio": 838000
+    },
+    {
+      "inmueble": "TA702",
+      "referencia": "1702",
+      "tipo": "APARTAMENTO",
+      "precio": 964000
+    },
+    {
+      "inmueble": "7B403",
+      "referencia": "2403",
+      "tipo": "APARTAMENTO",
+      "precio": 1093000
+    },
+    {
+      "inmueble": "TB104",
+      "referencia": "2104",
+      "tipo": "APARTAMENTO",
+      "precio": 970000
+    },
+    {
+      "inmueble": "TB404",
+      "referencia": "2404",
+      "tipo": "APARTAMENTO",
+      "precio": 851000
+    },
+    {
+      "inmueble": "TA302",
+      "referencia": "1302",
+      "tipo": "APARTAMENTO",
+      "precio": 975000
+    },
+    {
+      "inmueble": "TA401",
+      "referencia": "1401",
+      "tipo": "APARTAMENTO",
+      "precio": 948000
+    },
+    {
+      "inmueble": "TA402",
+      "referencia": "1402",
+      "tipo": "APARTAMENTO",
+      "precio": 972000
+    },
+    {
+      "inmueble": "TB503",
+      "referencia": "2503",
+      "tipo": "APARTAMENTO",
+      "precio": 1236000
+    },
+    {
+      "inmueble": "TB504",
+      "referencia": "2504",
+      "tipo": "APARTAMENTO",
+      "precio": 827000
+    },
+    {
+      "inmueble": "TA501",
+      "referencia": "1501",
+      "tipo": "APARTAMENTO",
+      "precio": 964000
+    },
+    {
+      "inmueble": "TB603",
+      "referencia": "2603",
+      "tipo": "APARTAMENTO",
+      "precio": 1149000
+    },
+    {
+      "inmueble": "TA502",
+      "referencia": "1502",
+      "tipo": "APARTAMENTO",
+      "precio": 964000
+    },
+    {
+      "inmueble": "TB604",
+      "referencia": "2604",
+      "tipo": "APARTAMENTO",
+      "precio": 835000
+    }
+  ]
+}

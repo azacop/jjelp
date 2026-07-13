@@ -1,0 +1,66 @@
+{
+  "co_ownership_id": "694ac4d8da228f5ce8ebe5a0",
+  "co_ownership_name": "EDIFICIO CADAQUEZ PH",
+  "address": "CL 103 17 41",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1627355",
+  "total": 9,
+  "apartamentos": [
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": null,
+      "precio": 1200000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": null,
+      "precio": 1200000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": null,
+      "precio": 1200000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": null,
+      "precio": 1200000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": null,
+      "precio": 1200000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": null,
+      "precio": 1200000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": null,
+      "precio": 1200000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": null,
+      "precio": 1200000
+    }
+  ]
+}

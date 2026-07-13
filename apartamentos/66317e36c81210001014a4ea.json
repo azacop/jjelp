@@ -1,0 +1,222 @@
+{
+  "co_ownership_id": "66317e36c81210001014a4ea",
+  "co_ownership_name": "EDIFICIO PORTALES PH",
+  "address": "CR 62 167B 64",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1536887",
+  "total": 35,
+  "apartamentos": [
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": "LOCAL",
+      "precio": 514900
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "LOCAL",
+      "precio": 361400
+    },
+    {
+      "inmueble": "107",
+      "referencia": "107",
+      "tipo": "LOCAL",
+      "precio": 577700
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "LOCAL",
+      "precio": 460400
+    },
+    {
+      "inmueble": "108",
+      "referencia": "108",
+      "tipo": "LOCAL",
+      "precio": 620900
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "LOCAL",
+      "precio": 488300
+    },
+    {
+      "inmueble": "109",
+      "referencia": "109",
+      "tipo": "LOCAL",
+      "precio": 521900
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "LOCAL",
+      "precio": 253900
+    },
+    {
+      "inmueble": "110",
+      "referencia": "110",
+      "tipo": "LOCAL",
+      "precio": 489700
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "LOCAL",
+      "precio": 528900
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "APARTAMENTO",
+      "precio": 534500
+    },
+    {
+      "inmueble": "308",
+      "referencia": "308",
+      "tipo": "APARTAMENTO",
+      "precio": 394800
+    },
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "LOCAL",
+      "precio": 336300
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": "APARTAMENTO",
+      "precio": 180000
+    },
+    {
+      "inmueble": "309",
+      "referencia": "309",
+      "tipo": "APARTAMENTO",
+      "precio": 178600
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "LOCAL",
+      "precio": 1626900
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": "APARTAMENTO",
+      "precio": 135400
+    },
+    {
+      "inmueble": "310",
+      "referencia": "310",
+      "tipo": "APARTAMENTO",
+      "precio": 188400
+    },
+    {
+      "inmueble": "113",
+      "referencia": "113",
+      "tipo": "LOCAL",
+      "precio": 1015800
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 385100
+    },
+    {
+      "inmueble": "1081",
+      "referencia": "1081",
+      "tipo": "APARTAMENTO",
+      "precio": 51600
+    },
+    {
+      "inmueble": "114",
+      "referencia": "114",
+      "tipo": "LOCAL",
+      "precio": 926500
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 415800
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "1051",
+      "referencia": "1051",
+      "tipo": "LOCAL",
+      "precio": 127000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 394800
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 385100
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 399100
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 365500
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "APARTAMENTO",
+      "precio": 468800
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 376800
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "APARTAMENTO",
+      "precio": 443700
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 415800
+    },
+    {
+      "inmueble": "307",
+      "referencia": "307",
+      "tipo": "APARTAMENTO",
+      "precio": 443700
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "APARTAMENTO",
+      "precio": 510800
+    }
+  ]
+}

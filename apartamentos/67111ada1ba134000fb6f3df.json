@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "67111ada1ba134000fb6f3df",
+  "co_ownership_name": "CEN EMPR VALLE DE ATRIZ Z COMUN",
+  "address": "AV PANAMERICANA 18 A 94",
+  "city": "Pasto",
+  "department": "Nariño",
+  "country": "COLOMBIA",
+  "agreement_number": "1565225",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "ZONACOMUN1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 200000
+    },
+    {
+      "inmueble": "ZONACOMUN2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 200000
+    },
+    {
+      "inmueble": "ZONACOMUN3",
+      "referencia": "3",
+      "tipo": "OTROS",
+      "precio": 200000
+    },
+    {
+      "inmueble": "ZONACOMUN4",
+      "referencia": "4",
+      "tipo": "OTROS",
+      "precio": 200000
+    },
+    {
+      "inmueble": "ZONACOMUN5",
+      "referencia": "5",
+      "tipo": "OTROS",
+      "precio": 200000
+    },
+    {
+      "inmueble": "ZONACOMUN6",
+      "referencia": "6",
+      "tipo": "OTROS",
+      "precio": 200000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

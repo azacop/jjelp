@@ -1,0 +1,96 @@
+{
+  "co_ownership_id": "67d479741c997b312e9b579f",
+  "co_ownership_name": "CR ALTOS DE VILLA CAMPESTRE",
+  "address": "CR 26 2 D 167",
+  "city": "Puerto Colombia",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1584481",
+  "total": 14,
+  "apartamentos": [
+    {
+      "inmueble": "CASA1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 2095000
+    },
+    {
+      "inmueble": "CASA2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 1909000
+    },
+    {
+      "inmueble": "CASA3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1915000
+    },
+    {
+      "inmueble": "CASA4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1819000
+    },
+    {
+      "inmueble": "CASA5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 1909000
+    },
+    {
+      "inmueble": "CASA6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1909000
+    },
+    {
+      "inmueble": "CASA11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 1934000
+    },
+    {
+      "inmueble": "CASA7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 2166000
+    },
+    {
+      "inmueble": "CASA12",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 1891000
+    },
+    {
+      "inmueble": "CASA13",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 1883000
+    },
+    {
+      "inmueble": "CASA8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 2068000
+    },
+    {
+      "inmueble": "ADMON99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "CASA9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 1915000
+    },
+    {
+      "inmueble": "CASA10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 1915000
+    }
+  ]
+}

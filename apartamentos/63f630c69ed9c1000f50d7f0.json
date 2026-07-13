@@ -1,0 +1,216 @@
+{
+  "co_ownership_id": "63f630c69ed9c1000f50d7f0",
+  "co_ownership_name": "CABAÑAS DE GAIRA",
+  "address": "CL 17 1 78",
+  "city": "Santa Marta",
+  "department": "Magdalena",
+  "country": "COLOMBIA",
+  "agreement_number": "1137884",
+  "total": 34,
+  "apartamentos": [
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "CASA",
+      "precio": 553400
+    },
+    {
+      "inmueble": "323",
+      "referencia": "323",
+      "tipo": "CASA",
+      "precio": 328100
+    },
+    {
+      "inmueble": "230",
+      "referencia": "230",
+      "tipo": "CASA",
+      "precio": 409000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "315",
+      "referencia": "315",
+      "tipo": "CASA",
+      "precio": 738900
+    },
+    {
+      "inmueble": "332",
+      "referencia": "332",
+      "tipo": "CASA",
+      "precio": 472700
+    },
+    {
+      "inmueble": "100",
+      "referencia": "100",
+      "tipo": "APARTAMENTO",
+      "precio": 1100000
+    },
+    {
+      "inmueble": "324",
+      "referencia": "324",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "228",
+      "referencia": "228",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "317",
+      "referencia": "317",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "210",
+      "referencia": "210",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "125",
+      "referencia": "125",
+      "tipo": "CASA",
+      "precio": 590800
+    },
+    {
+      "inmueble": "113",
+      "referencia": "113",
+      "tipo": "CASA",
+      "precio": 553400
+    },
+    {
+      "inmueble": "099",
+      "referencia": "099",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "319",
+      "referencia": "319",
+      "tipo": "CASA",
+      "precio": 370800
+    },
+    {
+      "inmueble": "229",
+      "referencia": "229",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "226",
+      "referencia": "226",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "114",
+      "referencia": "114",
+      "tipo": "CASA",
+      "precio": 590800
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "209",
+      "referencia": "209",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "CASA",
+      "precio": 700000
+    },
+    {
+      "inmueble": "322",
+      "referencia": "322",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "231",
+      "referencia": "231",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "316",
+      "referencia": "316",
+      "tipo": "APARTAMENTO",
+      "precio": 738900
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "CASA",
+      "precio": 628000
+    },
+    {
+      "inmueble": "321",
+      "referencia": "321",
+      "tipo": "CASA",
+      "precio": 370800
+    },
+    {
+      "inmueble": "318",
+      "referencia": "318",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "227",
+      "referencia": "227",
+      "tipo": "CASA",
+      "precio": 464700
+    },
+    {
+      "inmueble": "320",
+      "referencia": "320",
+      "tipo": "CASA",
+      "precio": 464700
+    }
+  ]
+}

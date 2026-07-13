@@ -1,0 +1,84 @@
+{
+  "co_ownership_id": "697b68c47d966e2d5d9f021e",
+  "co_ownership_name": "EDIFICIO 14 111",
+  "address": "CR 14 111 32",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1630664",
+  "total": 12,
+  "apartamentos": [
+    {
+      "inmueble": "APT 1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 1000784832
+    },
+    {
+      "inmueble": "APT 6",
+      "referencia": "6",
+      "tipo": "APARTAMENTO",
+      "precio": 84823206
+    },
+    {
+      "inmueble": "APT 7",
+      "referencia": "7",
+      "tipo": "APARTAMENTO",
+      "precio": 985353791
+    },
+    {
+      "inmueble": "APT 2",
+      "referencia": "2",
+      "tipo": "APARTAMENTO",
+      "precio": 969157262
+    },
+    {
+      "inmueble": "APT 8",
+      "referencia": "8",
+      "tipo": "APARTAMENTO",
+      "precio": 917066314
+    },
+    {
+      "inmueble": "APT 3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 867492529
+    },
+    {
+      "inmueble": "APT 9",
+      "referencia": "9",
+      "tipo": "APARTAMENTO",
+      "precio": 839915085
+    },
+    {
+      "inmueble": "APT 4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 994327892
+    },
+    {
+      "inmueble": "APT 10",
+      "referencia": "10",
+      "tipo": "APARTAMENTO",
+      "precio": 1302825441
+    },
+    {
+      "inmueble": "APT 5",
+      "referencia": "5",
+      "tipo": "APARTAMENTO",
+      "precio": 924727157
+    },
+    {
+      "inmueble": "APT 11",
+      "referencia": "11",
+      "tipo": "APARTAMENTO",
+      "precio": 1293623628
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "APARTAMENTO",
+      "precio": 2
+    }
+  ]
+}

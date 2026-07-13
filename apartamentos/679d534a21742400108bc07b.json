@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "679d534a21742400108bc07b",
+  "co_ownership_name": "GRUPO EMPRESARIAL PEBER LTDA",
+  "address": "DG 167 12 69",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1578004",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "900662912",
+      "referencia": "900662912",
+      "tipo": "LOCAL",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "800178892",
+      "referencia": "800178892",
+      "tipo": "LOCAL",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "900373097",
+      "referencia": "900373097",
+      "tipo": "LOCAL",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "900703612",
+      "referencia": "900703612",
+      "tipo": "LOCAL",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "900105789",
+      "referencia": "900105789",
+      "tipo": "LOCAL",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "860518850",
+      "referencia": "860518850",
+      "tipo": "LOCAL",
+      "precio": 1000000
+    }
+  ]
+}

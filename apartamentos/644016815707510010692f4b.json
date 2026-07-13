@@ -1,0 +1,192 @@
+{
+  "co_ownership_id": "644016815707510010692f4b",
+  "co_ownership_name": "CLL 115 EDIFICIO ILARCO I PROPIEDAD HORIZONTAL",
+  "address": "CLL 115 59 25",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1189521",
+  "total": 30,
+  "apartamentos": [
+    {
+      "inmueble": "209",
+      "referencia": "209",
+      "tipo": "APARTAMENTO",
+      "precio": 435383
+    },
+    {
+      "inmueble": "11280",
+      "referencia": "11280",
+      "tipo": "APARTAMENTO",
+      "precio": 428000
+    },
+    {
+      "inmueble": "405",
+      "referencia": "405",
+      "tipo": "APARTAMENTO",
+      "precio": 470051
+    },
+    {
+      "inmueble": "5935",
+      "referencia": "5935",
+      "tipo": "APARTAMENTO",
+      "precio": 127544
+    },
+    {
+      "inmueble": "5063",
+      "referencia": "5063",
+      "tipo": "APARTAMENTO",
+      "precio": 461705
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 464808
+    },
+    {
+      "inmueble": "11286",
+      "referencia": "11286",
+      "tipo": "APARTAMENTO",
+      "precio": 219243
+    },
+    {
+      "inmueble": "5943",
+      "referencia": "5943",
+      "tipo": "APARTAMENTO",
+      "precio": 114918
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 449079
+    },
+    {
+      "inmueble": "406",
+      "referencia": "406",
+      "tipo": "APARTAMENTO",
+      "precio": 453252
+    },
+    {
+      "inmueble": "5945",
+      "referencia": "5945",
+      "tipo": "APARTAMENTO",
+      "precio": 248100
+    },
+    {
+      "inmueble": "5813",
+      "referencia": "5813",
+      "tipo": "APARTAMENTO",
+      "precio": 356082
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 449079
+    },
+    {
+      "inmueble": "5955",
+      "referencia": "5955",
+      "tipo": "APARTAMENTO",
+      "precio": 122301
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "APARTAMENTO",
+      "precio": 464808
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 453252
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 445548
+    },
+    {
+      "inmueble": "407",
+      "referencia": "407",
+      "tipo": "APARTAMENTO",
+      "precio": 453252
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 356082
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 453252
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "APARTAMENTO",
+      "precio": 453252
+    },
+    {
+      "inmueble": "5909",
+      "referencia": "5909",
+      "tipo": "APARTAMENTO",
+      "precio": 356082
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 464808
+    },
+    {
+      "inmueble": "408",
+      "referencia": "408",
+      "tipo": "APARTAMENTO",
+      "precio": 453252
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": "APARTAMENTO",
+      "precio": 453252
+    },
+    {
+      "inmueble": "5915",
+      "referencia": "5915",
+      "tipo": "APARTAMENTO",
+      "precio": 118021
+    },
+    {
+      "inmueble": "409",
+      "referencia": "409",
+      "tipo": "APARTAMENTO",
+      "precio": 483533
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 453252
+    },
+    {
+      "inmueble": "5933",
+      "referencia": "5933",
+      "tipo": "APARTAMENTO",
+      "precio": 143594
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": "APARTAMENTO",
+      "precio": 453252
+    }
+  ]
+}

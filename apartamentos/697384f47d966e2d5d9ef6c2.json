@@ -1,0 +1,180 @@
+{
+  "co_ownership_id": "697384f47d966e2d5d9ef6c2",
+  "co_ownership_name": "BAMBU CONDOMINIO CAMPESTRE",
+  "address": "VDA SAN ANTONIO PREDIO LOS CAPOTES",
+  "city": "Anapoima",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1630045",
+  "total": 28,
+  "apartamentos": [
+    {
+      "inmueble": "lote 1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 1087531
+    },
+    {
+      "inmueble": "lote 2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 1086581
+    },
+    {
+      "inmueble": "lote 3",
+      "referencia": "3",
+      "tipo": "OTROS",
+      "precio": 1097092
+    },
+    {
+      "inmueble": "lote 4",
+      "referencia": "4",
+      "tipo": "OTROS",
+      "precio": 1089758
+    },
+    {
+      "inmueble": "lote 5",
+      "referencia": "5",
+      "tipo": "OTROS",
+      "precio": 1087561
+    },
+    {
+      "inmueble": "lote 11",
+      "referencia": "11",
+      "tipo": "OTROS",
+      "precio": 1098280
+    },
+    {
+      "inmueble": "lote 12",
+      "referencia": "12",
+      "tipo": "OTROS",
+      "precio": 1086848
+    },
+    {
+      "inmueble": "lote 13",
+      "referencia": "13",
+      "tipo": "OTROS",
+      "precio": 1111583
+    },
+    {
+      "inmueble": "lote 14",
+      "referencia": "14",
+      "tipo": "OTROS",
+      "precio": 1089580
+    },
+    {
+      "inmueble": "lote 15",
+      "referencia": "15",
+      "tipo": "OTROS",
+      "precio": 1165805
+    },
+    {
+      "inmueble": "lote 26",
+      "referencia": "26",
+      "tipo": "OTROS",
+      "precio": 1087798
+    },
+    {
+      "inmueble": "lote 21",
+      "referencia": "21",
+      "tipo": "OTROS",
+      "precio": 1088808
+    },
+    {
+      "inmueble": "lote 27",
+      "referencia": "27",
+      "tipo": "OTROS",
+      "precio": 1134686
+    },
+    {
+      "inmueble": "lote 22",
+      "referencia": "22",
+      "tipo": "OTROS",
+      "precio": 1087323
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 2
+    },
+    {
+      "inmueble": "lote 23",
+      "referencia": "23",
+      "tipo": "OTROS",
+      "precio": 1089609
+    },
+    {
+      "inmueble": "lote 24",
+      "referencia": "24",
+      "tipo": "OTROS",
+      "precio": 1086254
+    },
+    {
+      "inmueble": "lote 25",
+      "referencia": "25",
+      "tipo": "OTROS",
+      "precio": 1086373
+    },
+    {
+      "inmueble": "lote 16",
+      "referencia": "16",
+      "tipo": "OTROS",
+      "precio": 1131390
+    },
+    {
+      "inmueble": "lote 17",
+      "referencia": "17",
+      "tipo": "OTROS",
+      "precio": 1085274
+    },
+    {
+      "inmueble": "lote 18",
+      "referencia": "18",
+      "tipo": "OTROS",
+      "precio": 1088214
+    },
+    {
+      "inmueble": "lote 19",
+      "referencia": "19",
+      "tipo": "OTROS",
+      "precio": 1088273
+    },
+    {
+      "inmueble": "lote 20",
+      "referencia": "20",
+      "tipo": "OTROS",
+      "precio": 1131182
+    },
+    {
+      "inmueble": "lote 6",
+      "referencia": "6",
+      "tipo": "OTROS",
+      "precio": 1102437
+    },
+    {
+      "inmueble": "lote 7",
+      "referencia": "7",
+      "tipo": "OTROS",
+      "precio": 1094331
+    },
+    {
+      "inmueble": "lote 8",
+      "referencia": "8",
+      "tipo": "OTROS",
+      "precio": 1100032
+    },
+    {
+      "inmueble": "lote 9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 1085244
+    },
+    {
+      "inmueble": "lote 10",
+      "referencia": "10",
+      "tipo": "OTROS",
+      "precio": 1140892
+    }
+  ]
+}

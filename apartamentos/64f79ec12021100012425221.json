@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "64f79ec12021100012425221",
+  "co_ownership_name": "EDIFICIO MULTIFAMILIAR PIEDRA ANCHA PH",
+  "address": "CR 6 6D 50",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1510932",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "101",
+      "tipo": "OTROS",
+      "precio": 42000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "102",
+      "tipo": "OTROS",
+      "precio": 42000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "106",
+      "tipo": "OTROS",
+      "precio": 74000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "103",
+      "tipo": "OTROS",
+      "precio": 47000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "4",
+      "referencia": "104",
+      "tipo": "OTROS",
+      "precio": 47000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "105",
+      "tipo": "OTROS",
+      "precio": 56000
+    }
+  ]
+}

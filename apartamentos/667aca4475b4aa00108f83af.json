@@ -1,0 +1,108 @@
+{
+  "co_ownership_id": "667aca4475b4aa00108f83af",
+  "co_ownership_name": "EDIFICIO TAMACA COUNTRY I",
+  "address": "cr 2 16 64 br rodadero",
+  "city": "Santa Marta",
+  "department": "Magdalena",
+  "country": "COLOMBIA",
+  "agreement_number": "1545730",
+  "total": 16,
+  "apartamentos": [
+    {
+      "inmueble": "APTO2C",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 371000
+    },
+    {
+      "inmueble": "APTO1A",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 179000
+    },
+    {
+      "inmueble": "APTO3A",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 389000
+    },
+    {
+      "inmueble": "APTO1B",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 283000
+    },
+    {
+      "inmueble": "APTO3B",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 295000
+    },
+    {
+      "inmueble": "APTO1C",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 371000
+    },
+    {
+      "inmueble": "APTO3C",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 215000
+    },
+    {
+      "inmueble": "APTO2A",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 391000
+    },
+    {
+      "inmueble": "APTO3D",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 146000
+    },
+    {
+      "inmueble": "APTO2B",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 283000
+    },
+    {
+      "inmueble": "APTO4A",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 422000
+    },
+    {
+      "inmueble": "APTO4B",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 311000
+    },
+    {
+      "inmueble": "APTO4C",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 215000
+    },
+    {
+      "inmueble": "APTO4D",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 179000
+    },
+    {
+      "inmueble": "APTO5A",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 311000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    }
+  ]
+}

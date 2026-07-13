@@ -1,0 +1,138 @@
+{
+  "co_ownership_id": "650e0f83ac87c7000f63ecb8",
+  "co_ownership_name": "AV 15 EDIFICIO EKO II PROPIEDAD HORIZONTAL",
+  "address": "Sin direccion ",
+  "city": "Zipaquirá",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1177609",
+  "total": 21,
+  "apartamentos": [
+    {
+      "inmueble": "10121",
+      "referencia": "10121",
+      "tipo": "APARTAMENTO",
+      "precio": 100
+    },
+    {
+      "inmueble": "20101",
+      "referencia": "20101",
+      "tipo": "APARTAMENTO",
+      "precio": 158700
+    },
+    {
+      "inmueble": "30206",
+      "referencia": "30206",
+      "tipo": "APARTAMENTO",
+      "precio": 141207
+    },
+    {
+      "inmueble": "20202",
+      "referencia": "20202",
+      "tipo": "APARTAMENTO",
+      "precio": 141207
+    },
+    {
+      "inmueble": "30307",
+      "referencia": "30307",
+      "tipo": "APARTAMENTO",
+      "precio": 141207
+    },
+    {
+      "inmueble": "20303",
+      "referencia": "20303",
+      "tipo": "APARTAMENTO",
+      "precio": 141207
+    },
+    {
+      "inmueble": "30408",
+      "referencia": "30408",
+      "tipo": "APARTAMENTO",
+      "precio": 141207
+    },
+    {
+      "inmueble": "20404",
+      "referencia": "20404",
+      "tipo": "APARTAMENTO",
+      "precio": 141207
+    },
+    {
+      "inmueble": "40109",
+      "referencia": "40109",
+      "tipo": "APARTAMENTO",
+      "precio": 141207
+    },
+    {
+      "inmueble": "50416",
+      "referencia": "50416",
+      "tipo": "APARTAMENTO",
+      "precio": 138000
+    },
+    {
+      "inmueble": "40210",
+      "referencia": "40210",
+      "tipo": "APARTAMENTO",
+      "precio": 141207
+    },
+    {
+      "inmueble": "60117",
+      "referencia": "60117",
+      "tipo": "APARTAMENTO",
+      "precio": 161000
+    },
+    {
+      "inmueble": "40311",
+      "referencia": "40311",
+      "tipo": "APARTAMENTO",
+      "precio": 766000
+    },
+    {
+      "inmueble": "60218",
+      "referencia": "60218",
+      "tipo": "APARTAMENTO",
+      "precio": 141207
+    },
+    {
+      "inmueble": "60319",
+      "referencia": "60319",
+      "tipo": "APARTAMENTO",
+      "precio": 141207
+    },
+    {
+      "inmueble": "40412",
+      "referencia": "40412",
+      "tipo": "APARTAMENTO",
+      "precio": 136700
+    },
+    {
+      "inmueble": "50113",
+      "referencia": "50113",
+      "tipo": "APARTAMENTO",
+      "precio": 161400
+    },
+    {
+      "inmueble": "60420",
+      "referencia": "60420",
+      "tipo": "APARTAMENTO",
+      "precio": 141207
+    },
+    {
+      "inmueble": "50214",
+      "referencia": "50214",
+      "tipo": "APARTAMENTO",
+      "precio": 109400
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "50315",
+      "referencia": "50315",
+      "tipo": "APARTAMENTO",
+      "precio": 76600
+    }
+  ]
+}

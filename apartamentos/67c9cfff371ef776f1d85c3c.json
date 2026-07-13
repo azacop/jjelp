@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "67c9cfff371ef776f1d85c3c",
+  "co_ownership_name": "AGRUPACION HACIENDA SANTA CRUZ",
+  "address": "CARRERA 14 SUR 100 80",
+  "city": "Ibagué",
+  "department": "Tolima",
+  "country": "COLOMBIA",
+  "agreement_number": "1583087",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": null,
+      "precio": 2400000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": null,
+      "precio": 2400000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": null,
+      "precio": 2400000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": null,
+      "precio": 2400000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": null,
+      "precio": 2400000
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": null,
+      "precio": 2400000
+    }
+  ]
+}

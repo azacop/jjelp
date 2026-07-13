@@ -1,0 +1,30 @@
+{
+  "co_ownership_id": "666c6be5a733ff0010386edc",
+  "co_ownership_name": "EDIFICIO LONOVA BODEGAS",
+  "address": "CR 7 1N 47",
+  "city": "Popayán",
+  "department": "Cauca",
+  "country": "COLOMBIA",
+  "agreement_number": "1543362",
+  "total": 3,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 17100
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 11300
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

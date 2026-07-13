@@ -1,0 +1,84 @@
+{
+  "co_ownership_id": "68a5fdce22cea82215e02104",
+  "co_ownership_name": "EDIFICIO HAUS EL VIRREY PH",
+  "address": "CR 16A 8546",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1608504",
+  "total": 12,
+  "apartamentos": [
+    {
+      "inmueble": "APTO201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 986000
+    },
+    {
+      "inmueble": "APTO202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 1211000
+    },
+    {
+      "inmueble": "APTO301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1573000
+    },
+    {
+      "inmueble": "APTO302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 946000
+    },
+    {
+      "inmueble": "APTO401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 1633000
+    },
+    {
+      "inmueble": "APTO501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 1563000
+    },
+    {
+      "inmueble": "APTO502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 946000
+    },
+    {
+      "inmueble": "APTO601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 1633000
+    },
+    {
+      "inmueble": "APTO701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 948000
+    },
+    {
+      "inmueble": "APTO702",
+      "referencia": "702",
+      "tipo": "APARTAMENTO",
+      "precio": 1167000
+    },
+    {
+      "inmueble": "APTO801",
+      "referencia": "801",
+      "tipo": "APARTAMENTO",
+      "precio": 2114000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

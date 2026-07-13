@@ -1,0 +1,84 @@
+{
+  "co_ownership_id": "65fc813877f579000f0f564a",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL CEIBA BRUJA P.H",
+  "address": "Carrera 28 No 37 b sur 10",
+  "city": "Medellín",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1150523",
+  "total": 12,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": null,
+      "precio": 1
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": null,
+      "precio": 459600
+    },
+    {
+      "inmueble": "110",
+      "referencia": "110",
+      "tipo": null,
+      "precio": 697400
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": null,
+      "precio": 429700
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": null,
+      "precio": 693000
+    },
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": null,
+      "precio": 430300
+    },
+    {
+      "inmueble": "114",
+      "referencia": "114",
+      "tipo": null,
+      "precio": 737100
+    },
+    {
+      "inmueble": "108",
+      "referencia": "108",
+      "tipo": null,
+      "precio": 676700
+    },
+    {
+      "inmueble": "116",
+      "referencia": "116",
+      "tipo": null,
+      "precio": 483000
+    },
+    {
+      "inmueble": "118",
+      "referencia": "118",
+      "tipo": null,
+      "precio": 797600
+    },
+    {
+      "inmueble": "120",
+      "referencia": "120",
+      "tipo": null,
+      "precio": 669400
+    },
+    {
+      "inmueble": "122",
+      "referencia": "122",
+      "tipo": null,
+      "precio": 430300
+    }
+  ]
+}

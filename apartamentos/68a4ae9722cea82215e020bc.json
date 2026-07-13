@@ -1,0 +1,78 @@
+{
+  "co_ownership_id": "68a4ae9722cea82215e020bc",
+  "co_ownership_name": "EDIFICIO MACAROL",
+  "address": "CR 64 D 85 179",
+  "city": "Barranquilla",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1608405",
+  "total": 11,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "APTO 302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 361920
+    },
+    {
+      "inmueble": "APTO 101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 407160
+    },
+    {
+      "inmueble": "APTO 102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 334776
+    },
+    {
+      "inmueble": "APTO 401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 425256
+    },
+    {
+      "inmueble": "APTO 402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 361920
+    },
+    {
+      "inmueble": "APTO 201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 416208
+    },
+    {
+      "inmueble": "APTO 501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 452400
+    },
+    {
+      "inmueble": "APTO 202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 361920
+    },
+    {
+      "inmueble": "APTO 502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 253344
+    },
+    {
+      "inmueble": "APTO 301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 416208
+    }
+  ]
+}

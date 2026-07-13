@@ -1,0 +1,168 @@
+{
+  "co_ownership_id": "683a379791e17a2e4a8e8ded",
+  "co_ownership_name": "EDIFICIO PALOS VERDES PH",
+  "address": "CR 9 85 57",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1596568",
+  "total": 26,
+  "apartamentos": [
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 2342000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 4136000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 2728000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 3517000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 2611000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 2781000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 2738000
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 2446000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 2076000
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "803",
+      "referencia": "803",
+      "tipo": "APARTAMENTO",
+      "precio": 1804000
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 1885000
+    },
+    {
+      "inmueble": "901",
+      "referencia": "901",
+      "tipo": "APARTAMENTO",
+      "precio": 2314000
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 1708000
+    },
+    {
+      "inmueble": "2011",
+      "referencia": "2011",
+      "tipo": "APARTAMENTO",
+      "precio": 87000
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 2058000
+    },
+    {
+      "inmueble": "2031",
+      "referencia": "2031",
+      "tipo": "APARTAMENTO",
+      "precio": 87000
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "APARTAMENTO",
+      "precio": 2058000
+    },
+    {
+      "inmueble": "2041",
+      "referencia": "2041",
+      "tipo": "APARTAMENTO",
+      "precio": 87000
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": "APARTAMENTO",
+      "precio": 2142000
+    },
+    {
+      "inmueble": "4031",
+      "referencia": "4031",
+      "tipo": "APARTAMENTO",
+      "precio": 138000
+    },
+    {
+      "inmueble": "6011",
+      "referencia": "6011",
+      "tipo": "APARTAMENTO",
+      "precio": 87000
+    },
+    {
+      "inmueble": "6021",
+      "referencia": "6021",
+      "tipo": "APARTAMENTO",
+      "precio": 302448
+    },
+    {
+      "inmueble": "7011",
+      "referencia": "7011",
+      "tipo": "APARTAMENTO",
+      "precio": 139000
+    },
+    {
+      "inmueble": "8011",
+      "referencia": "8011",
+      "tipo": "APARTAMENTO",
+      "precio": 502000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

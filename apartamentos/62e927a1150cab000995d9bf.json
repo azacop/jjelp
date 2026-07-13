@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "62e927a1150cab000995d9bf",
+  "co_ownership_name": "PARCELACION RECREACIONAL LA PIRAMIDE P.H",
+  "address": "VEREDA ZAPATA MUNICIPIO DE LA MESA",
+  "city": "La Mesa",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1466341",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 525000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 525000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "LOCAL",
+      "precio": 1
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 525000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 525000
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 525000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 525000
+    }
+  ]
+}

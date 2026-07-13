@@ -1,0 +1,204 @@
+{
+  "co_ownership_id": "683718e791e17a2e4a8e43fc",
+  "co_ownership_name": "CR CLUB HOUSE VILLAGE",
+  "address": "CR 24 3 126",
+  "city": "Puerto Colombia",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1595131",
+  "total": 32,
+  "apartamentos": [
+    {
+      "inmueble": "CASA6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1390000
+    },
+    {
+      "inmueble": "CASA7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 1411000
+    },
+    {
+      "inmueble": "CASA8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 1592000
+    },
+    {
+      "inmueble": "CASA9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 1444000
+    },
+    {
+      "inmueble": "CASA10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 1391000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "CASA1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 1470000
+    },
+    {
+      "inmueble": "CASA11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 1399000
+    },
+    {
+      "inmueble": "CASA2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 1356000
+    },
+    {
+      "inmueble": "CASA12",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 1354000
+    },
+    {
+      "inmueble": "CASA13",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 1349000
+    },
+    {
+      "inmueble": "CASA3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1367000
+    },
+    {
+      "inmueble": "CASA4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1322000
+    },
+    {
+      "inmueble": "CASA14",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 1373000
+    },
+    {
+      "inmueble": "CASA15",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 1389000
+    },
+    {
+      "inmueble": "CASA5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 1404000
+    },
+    {
+      "inmueble": "CASA6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1390000
+    },
+    {
+      "inmueble": "CASA7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 1411000
+    },
+    {
+      "inmueble": "CASA8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 1592000
+    },
+    {
+      "inmueble": "CASA9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 1444000
+    },
+    {
+      "inmueble": "CASA10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 1391000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "CASA1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 1470000
+    },
+    {
+      "inmueble": "CASA11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 1399000
+    },
+    {
+      "inmueble": "CASA2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 1356000
+    },
+    {
+      "inmueble": "CASA12",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 1354000
+    },
+    {
+      "inmueble": "CASA13",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 1349000
+    },
+    {
+      "inmueble": "CASA3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1367000
+    },
+    {
+      "inmueble": "CASA4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1322000
+    },
+    {
+      "inmueble": "CASA14",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 1373000
+    },
+    {
+      "inmueble": "CASA15",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 1389000
+    },
+    {
+      "inmueble": "CASA5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 1404000
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "co_ownership_id": "6557c6927415c4000fe1519e",
+  "co_ownership_name": "EDIFICIO ZONA LOFT",
+  "address": "CR 64B 85 180 BRR ANDALUCIA",
+  "city": "Barranquilla",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1518463",
+  "total": 18,
+  "apartamentos": [
+    {
+      "inmueble": "Apto 301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 858000
+    },
+    {
+      "inmueble": "Apto 101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 300700
+    },
+    {
+      "inmueble": "Apto 302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 366700
+    },
+    {
+      "inmueble": "Apto 102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 792000
+    },
+    {
+      "inmueble": "Apto 303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 403300
+    },
+    {
+      "inmueble": "Apto 201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 858000
+    },
+    {
+      "inmueble": "Apto 304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 293400
+    },
+    {
+      "inmueble": "Apto 202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 440000
+    },
+    {
+      "inmueble": "Apto 401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 858000
+    },
+    {
+      "inmueble": "Apto 203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 623300
+    },
+    {
+      "inmueble": "Apto 402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 440000
+    },
+    {
+      "inmueble": "Apto 403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 623300
+    },
+    {
+      "inmueble": "Apto 501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 506000
+    },
+    {
+      "inmueble": "Apto 502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 293400
+    },
+    {
+      "inmueble": "Apto 503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 677600
+    },
+    {
+      "inmueble": "Apto 504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 953300
+    },
+    {
+      "inmueble": "Apto 505",
+      "referencia": "505",
+      "tipo": "APARTAMENTO",
+      "precio": 293400
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": null,
+      "precio": 1
+    }
+  ]
+}

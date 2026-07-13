@@ -1,0 +1,84 @@
+{
+  "co_ownership_id": "654412af79995500103d380e",
+  "co_ownership_name": "EDIFICIO CELTA P H",
+  "address": "Calle 94 A 13 - 59",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1516509",
+  "total": 12,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "OTROS",
+      "precio": 200000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "OTROS",
+      "precio": 200000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "OTROS",
+      "precio": 200000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "OTROS",
+      "precio": 200000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "OTROS",
+      "precio": 200000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "OTROS",
+      "precio": 200000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "OTROS",
+      "precio": 200000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "OTROS",
+      "precio": 200000
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "OTROS",
+      "precio": 200000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "OTROS",
+      "precio": 200000
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "OTROS",
+      "precio": 200000
+    }
+  ]
+}

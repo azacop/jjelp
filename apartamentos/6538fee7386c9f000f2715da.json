@@ -1,0 +1,18 @@
+{
+  "co_ownership_id": "6538fee7386c9f000f2715da",
+  "co_ownership_name": "CONDOMINIO SOL Y BRISA",
+  "address": "VER EL COLEGIO VIA GIRARDOT ESPINAL",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1129568",
+  "total": 1,
+  "apartamentos": [
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

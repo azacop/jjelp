@@ -1,0 +1,108 @@
+{
+  "co_ownership_id": "680a67f2b9e148557d246faf",
+  "co_ownership_name": "EDIFICIO RINCON DEL RECREO",
+  "address": "CR 10A 28 19",
+  "city": "Sogamoso",
+  "department": "Boyacá",
+  "country": "COLOMBIA",
+  "agreement_number": "1589613",
+  "total": 16,
+  "apartamentos": [
+    {
+      "inmueble": "1302",
+      "referencia": "1302",
+      "tipo": "APARTAMENTO",
+      "precio": 158400
+    },
+    {
+      "inmueble": "2402",
+      "referencia": "2402",
+      "tipo": "APARTAMENTO",
+      "precio": 171600
+    },
+    {
+      "inmueble": "2201",
+      "referencia": "2201",
+      "tipo": "APARTAMENTO",
+      "precio": 163900
+    },
+    {
+      "inmueble": "2202",
+      "referencia": "2202",
+      "tipo": "APARTAMENTO",
+      "precio": 205700
+    },
+    {
+      "inmueble": "1401",
+      "referencia": "1401",
+      "tipo": "APARTAMENTO",
+      "precio": 293700
+    },
+    {
+      "inmueble": "2301",
+      "referencia": "2301",
+      "tipo": "APARTAMENTO",
+      "precio": 179500
+    },
+    {
+      "inmueble": "1402",
+      "referencia": "1402",
+      "tipo": "APARTAMENTO",
+      "precio": 288200
+    },
+    {
+      "inmueble": "2302",
+      "referencia": "2302",
+      "tipo": "APARTAMENTO",
+      "precio": 172700
+    },
+    {
+      "inmueble": "2101",
+      "referencia": "2101",
+      "tipo": "APARTAMENTO",
+      "precio": 196900
+    },
+    {
+      "inmueble": "2401",
+      "referencia": "2401",
+      "tipo": "APARTAMENTO",
+      "precio": 161700
+    },
+    {
+      "inmueble": "2102",
+      "referencia": "2102",
+      "tipo": "APARTAMENTO",
+      "precio": 188100
+    },
+    {
+      "inmueble": "1101",
+      "referencia": "1101",
+      "tipo": "APARTAMENTO",
+      "precio": 199100
+    },
+    {
+      "inmueble": "1102",
+      "referencia": "1102",
+      "tipo": "APARTAMENTO",
+      "precio": 182600
+    },
+    {
+      "inmueble": "1201",
+      "referencia": "1201",
+      "tipo": "APARTAMENTO",
+      "precio": 179400
+    },
+    {
+      "inmueble": "1202",
+      "referencia": "1202",
+      "tipo": "APARTAMENTO",
+      "precio": 169400
+    },
+    {
+      "inmueble": "1301",
+      "referencia": "1301",
+      "tipo": "APARTAMENTO",
+      "precio": 176000
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "co_ownership_id": "63446386cd54bf0009b96376",
+  "co_ownership_name": "TRAPICHE RESIDENCIAL HOUSE PROPIEDAD HORIZONTAL",
+  "address": "CL 102  21  47  SUR SEC APARCO",
+  "city": "Ibagué",
+  "department": "Tolima",
+  "country": "COLOMBIA",
+  "agreement_number": "1474782",
+  "total": 9,
+  "apartamentos": [
+    {
+      "inmueble": "casa 1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 550000
+    },
+    {
+      "inmueble": "casa 7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 550000
+    },
+    {
+      "inmueble": "casa 6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 550000
+    },
+    {
+      "inmueble": "casa 2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 550000
+    },
+    {
+      "inmueble": "casa 8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 550000
+    },
+    {
+      "inmueble": "casa 3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 550000
+    },
+    {
+      "inmueble": "casa 4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 550000
+    },
+    {
+      "inmueble": "casa 5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 550000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "LOCAL",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "co_ownership_id": "697246b07d966e2d5d9eeddb",
+  "co_ownership_name": "MULTIFAMILIAR BASILEA PH",
+  "address": "CR 68 180 30",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1629732",
+  "total": 9,
+  "apartamentos": [
+    {
+      "inmueble": "CASA 6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1200000
+    },
+    {
+      "inmueble": "CASA 7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 1200000
+    },
+    {
+      "inmueble": "CASA 8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 1200000
+    },
+    {
+      "inmueble": "ADMON 9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 2
+    },
+    {
+      "inmueble": "CASA 1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 1200000
+    },
+    {
+      "inmueble": "CASA 2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 1200000
+    },
+    {
+      "inmueble": "CASA 3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1200000
+    },
+    {
+      "inmueble": "CASA 4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1200000
+    },
+    {
+      "inmueble": "CASA 5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 1200000
+    }
+  ]
+}

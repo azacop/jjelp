@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "69973ced00a3e9346bd4e01e",
+  "co_ownership_name": "EDIFICIO MULTIFAMILIAR CIMA I P H",
+  "address": "CR19A 13716",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1633932",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "TO1APT101",
+      "referencia": "1101",
+      "tipo": "APARTAMENTO",
+      "precio": 366000
+    },
+    {
+      "inmueble": "TO1APT102",
+      "referencia": "1102",
+      "tipo": "APARTAMENTO",
+      "precio": 333411
+    },
+    {
+      "inmueble": "TO1APT103",
+      "referencia": "1103",
+      "tipo": "APARTAMENTO",
+      "precio": 293678
+    },
+    {
+      "inmueble": "TO1APT201",
+      "referencia": "1201",
+      "tipo": "APARTAMENTO",
+      "precio": 574267
+    },
+    {
+      "inmueble": "TO1APT202",
+      "referencia": "1202",
+      "tipo": "APARTAMENTO",
+      "precio": 264311
+    },
+    {
+      "inmueble": "TO1APT301",
+      "referencia": "1301",
+      "tipo": "APARTAMENTO",
+      "precio": 616725
+    },
+    {
+      "inmueble": "999999999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 2
+    }
+  ]
+}

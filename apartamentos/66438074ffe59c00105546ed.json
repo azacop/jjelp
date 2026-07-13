@@ -1,0 +1,528 @@
+{
+  "co_ownership_id": "66438074ffe59c00105546ed",
+  "co_ownership_name": "MANUFACTURAS REYMON SA",
+  "address": "CALLE 11 N 27-47",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1539105",
+  "total": 86,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "107",
+      "referencia": "107",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "108",
+      "referencia": "108",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "109",
+      "referencia": "109",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "110",
+      "referencia": "110",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "209",
+      "referencia": "209",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "210",
+      "referencia": "210",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "211",
+      "referencia": "211",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "121",
+      "referencia": "121",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "307",
+      "referencia": "307",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "113",
+      "referencia": "113",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "212",
+      "referencia": "212",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "308",
+      "referencia": "308",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "122",
+      "referencia": "122",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "114",
+      "referencia": "114",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "309",
+      "referencia": "309",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "213",
+      "referencia": "213",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "123",
+      "referencia": "123",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "310",
+      "referencia": "310",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "115",
+      "referencia": "115",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "214",
+      "referencia": "214",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "124",
+      "referencia": "124",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "116",
+      "referencia": "116",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "125",
+      "referencia": "125",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "804",
+      "referencia": "804",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "117",
+      "referencia": "117",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "514",
+      "referencia": "514",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "311",
+      "referencia": "311",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "126",
+      "referencia": "126",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "805",
+      "referencia": "805",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "118",
+      "referencia": "118",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "312",
+      "referencia": "312",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "515",
+      "referencia": "515",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "505",
+      "referencia": "505",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "806",
+      "referencia": "806",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "119",
+      "referencia": "119",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "506",
+      "referencia": "506",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "313",
+      "referencia": "313",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "516",
+      "referencia": "516",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "807",
+      "referencia": "807",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "120",
+      "referencia": "120",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "314",
+      "referencia": "314",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "507",
+      "referencia": "507",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "517",
+      "referencia": "517",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "808",
+      "referencia": "808",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "508",
+      "referencia": "508",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "414",
+      "referencia": "414",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "518",
+      "referencia": "518",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "509",
+      "referencia": "509",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "519",
+      "referencia": "519",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "415",
+      "referencia": "415",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "510",
+      "referencia": "510",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "520",
+      "referencia": "520",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "416",
+      "referencia": "416",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "511",
+      "referencia": "511",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "801",
+      "referencia": "801",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "512",
+      "referencia": "512",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "802",
+      "referencia": "802",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "803",
+      "referencia": "803",
+      "tipo": "LOCAL",
+      "precio": 800000
+    },
+    {
+      "inmueble": "513",
+      "referencia": "513",
+      "tipo": "LOCAL",
+      "precio": 800000
+    }
+  ]
+}

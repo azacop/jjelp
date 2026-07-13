@@ -1,0 +1,66 @@
+{
+  "co_ownership_id": "66d712f9c0f27a00107ebfa7",
+  "co_ownership_name": "EDIFICIO PLAZUELA 94 PH",
+  "address": "CR 14 94 65",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1558733",
+  "total": 9,
+  "apartamentos": [
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "OFICINA",
+      "precio": 450000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "OFICINA",
+      "precio": 450000
+    }
+  ]
+}

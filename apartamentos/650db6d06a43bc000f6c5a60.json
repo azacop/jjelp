@@ -1,0 +1,18 @@
+{
+  "co_ownership_id": "650db6d06a43bc000f6c5a60",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL VIPA VERDE-PROPIEDAD HORIZONTAL",
+  "address": "CARRERA 9 G# 131-30",
+  "city": "Barranquilla",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1146695",
+  "total": 1,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

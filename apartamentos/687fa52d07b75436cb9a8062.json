@@ -1,0 +1,120 @@
+{
+  "co_ownership_id": "687fa52d07b75436cb9a8062",
+  "co_ownership_name": "EDIFICIO ABADIA PH",
+  "address": "CR 6 22 36",
+  "city": "Pereira",
+  "department": "Risaralda",
+  "country": "COLOMBIA",
+  "agreement_number": "1604594",
+  "total": 18,
+  "apartamentos": [
+    {
+      "inmueble": "Local1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 214000
+    },
+    {
+      "inmueble": "Local2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 155000
+    },
+    {
+      "inmueble": "Local3",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 149000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 636000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 505500
+    },
+    {
+      "inmueble": "Park1",
+      "referencia": "10",
+      "tipo": "OTROS",
+      "precio": 222000
+    },
+    {
+      "inmueble": "Park4",
+      "referencia": "40",
+      "tipo": "OTROS",
+      "precio": 92500
+    },
+    {
+      "inmueble": "Park5",
+      "referencia": "50",
+      "tipo": "OTROS",
+      "precio": 92500
+    },
+    {
+      "inmueble": "Park8",
+      "referencia": "80",
+      "tipo": "OTROS",
+      "precio": 92500
+    },
+    {
+      "inmueble": "Park7",
+      "referencia": "70",
+      "tipo": "OTROS",
+      "precio": 92500
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 442000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 424000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 519000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 500500
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 519000
+    },
+    {
+      "inmueble": "Park9",
+      "referencia": "90",
+      "tipo": "OTROS",
+      "precio": 92500
+    },
+    {
+      "inmueble": "Park12",
+      "referencia": "120",
+      "tipo": "OTROS",
+      "precio": 92500
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 999999
+    }
+  ]
+}

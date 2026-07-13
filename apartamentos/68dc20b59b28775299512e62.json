@@ -1,0 +1,138 @@
+{
+  "co_ownership_id": "68dc20b59b28775299512e62",
+  "co_ownership_name": "ED MULTIFAMILIAR ESPACIO 118",
+  "address": "CRA 17 118 27",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1614742",
+  "total": 21,
+  "apartamentos": [
+    {
+      "inmueble": "JELPIT999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "APTO302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 601000
+    },
+    {
+      "inmueble": "APTO303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 757000
+    },
+    {
+      "inmueble": "APTO304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 608000
+    },
+    {
+      "inmueble": "APTO401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 1292000
+    },
+    {
+      "inmueble": "APTO402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 601000
+    },
+    {
+      "inmueble": "APTO403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 757000
+    },
+    {
+      "inmueble": "APTO404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 608000
+    },
+    {
+      "inmueble": "APTO501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 1292000
+    },
+    {
+      "inmueble": "APTO502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 601000
+    },
+    {
+      "inmueble": "APTO503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 757000
+    },
+    {
+      "inmueble": "APTO201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1292000
+    },
+    {
+      "inmueble": "APTO202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 601000
+    },
+    {
+      "inmueble": "APTO203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 757000
+    },
+    {
+      "inmueble": "APTO204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 608000
+    },
+    {
+      "inmueble": "APTO301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1292000
+    },
+    {
+      "inmueble": "APTO504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 608000
+    },
+    {
+      "inmueble": "APTO601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 1292000
+    },
+    {
+      "inmueble": "APTO602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 601000
+    },
+    {
+      "inmueble": "APTO603",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 757000
+    },
+    {
+      "inmueble": "APTO604",
+      "referencia": "604",
+      "tipo": "APARTAMENTO",
+      "precio": 608000
+    }
+  ]
+}

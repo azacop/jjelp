@@ -1,0 +1,42 @@
+{
+  "co_ownership_id": "6915fccc1644cf44658be20e",
+  "co_ownership_name": "CECJR CASTILLA REAL III ETP G PH",
+  "address": "TV 78D 10D 97",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1620707",
+  "total": 5,
+  "apartamentos": [
+    {
+      "inmueble": "PARQ1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 2500
+    },
+    {
+      "inmueble": "PARQ2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 5000
+    },
+    {
+      "inmueble": "PARQ3",
+      "referencia": "3",
+      "tipo": "OTROS",
+      "precio": 6000
+    },
+    {
+      "inmueble": "PARQ4",
+      "referencia": "4",
+      "tipo": "OTROS",
+      "precio": 8000
+    },
+    {
+      "inmueble": "99999",
+      "referencia": "99999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

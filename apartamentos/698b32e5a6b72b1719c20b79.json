@@ -1,0 +1,66 @@
+{
+  "co_ownership_id": "698b32e5a6b72b1719c20b79",
+  "co_ownership_name": "EDIFICIO CARIBE REAL",
+  "address": "CR 13 A 34 89",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1632454",
+  "total": 9,
+  "apartamentos": [
+    {
+      "inmueble": "001",
+      "referencia": "001",
+      "tipo": "OFICINA",
+      "precio": 839470
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "OFICINA",
+      "precio": 2014959
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "OFICINA",
+      "precio": 1001129
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "OFICINA",
+      "precio": 1001129
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "OFICINA",
+      "precio": 2026507
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "OFICINA",
+      "precio": 2029971
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "OFICINA",
+      "precio": 2039208
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 2
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "OFICINA",
+      "precio": 594673
+    }
+  ]
+}

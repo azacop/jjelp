@@ -1,0 +1,18 @@
+{
+  "co_ownership_id": "650d285ee2d590001086eadf",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL ARBOLEDA REAL",
+  "address": "Sin direccion ",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1149640",
+  "total": 1,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

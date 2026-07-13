@@ -1,0 +1,36 @@
+{
+  "co_ownership_id": "666b54350dfa25001093e148",
+  "co_ownership_name": "EDIFICIO LONOVA LOCALES",
+  "address": "CR 7 1N 47",
+  "city": "Popayán",
+  "department": "Cauca",
+  "country": "COLOMBIA",
+  "agreement_number": "1543867",
+  "total": 4,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "LOCAL",
+      "precio": 457700
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "LOCAL",
+      "precio": 360300
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "LOCAL",
+      "precio": 310500
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

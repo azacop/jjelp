@@ -1,0 +1,96 @@
+{
+  "co_ownership_id": "682ddf2291e17a2e4a8e274c",
+  "co_ownership_name": "CR MORAJI INTERIOR 1 PH",
+  "address": "CLL 112 1 10 ESTE",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1593805",
+  "total": 14,
+  "apartamentos": [
+    {
+      "inmueble": "apto701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 2300000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "apto201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 2300000
+    },
+    {
+      "inmueble": "apto301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 2300000
+    },
+    {
+      "inmueble": "apto401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 2300000
+    },
+    {
+      "inmueble": "apto501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 2300000
+    },
+    {
+      "inmueble": "apto601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 2300000
+    },
+    {
+      "inmueble": "apto701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 2300000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "apto201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 2300000
+    },
+    {
+      "inmueble": "apto301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 2300000
+    },
+    {
+      "inmueble": "apto401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 2300000
+    },
+    {
+      "inmueble": "apto501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 2300000
+    },
+    {
+      "inmueble": "apto601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 2300000
+    }
+  ]
+}

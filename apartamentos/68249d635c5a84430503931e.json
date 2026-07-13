@@ -1,0 +1,78 @@
+{
+  "co_ownership_id": "68249d635c5a84430503931e",
+  "co_ownership_name": "ZONA SOCIAL ALTAVISTA CAMPANARIO",
+  "address": "CR 4 0 75 SUR",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1592880",
+  "total": 11,
+  "apartamentos": [
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "MOTO55",
+      "referencia": "55",
+      "tipo": "OTROS",
+      "precio": 10000
+    },
+    {
+      "inmueble": "MOTO56",
+      "referencia": "56",
+      "tipo": "OTROS",
+      "precio": 10000
+    },
+    {
+      "inmueble": "MOTO57",
+      "referencia": "57",
+      "tipo": "OTROS",
+      "precio": 10000
+    },
+    {
+      "inmueble": "MOTO28",
+      "referencia": "28",
+      "tipo": "OTROS",
+      "precio": 10000
+    },
+    {
+      "inmueble": "CARRO46",
+      "referencia": "46",
+      "tipo": "OTROS",
+      "precio": 10000
+    },
+    {
+      "inmueble": "CARRO47",
+      "referencia": "47",
+      "tipo": "OTROS",
+      "precio": 10000
+    },
+    {
+      "inmueble": "CARRO48",
+      "referencia": "48",
+      "tipo": "OTROS",
+      "precio": 10000
+    },
+    {
+      "inmueble": "CARRO49",
+      "referencia": "49",
+      "tipo": "OTROS",
+      "precio": 10000
+    },
+    {
+      "inmueble": "SALON1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 120000
+    },
+    {
+      "inmueble": "SALON2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 120000
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "co_ownership_id": "69304e84352c095158341252",
+  "co_ownership_name": "EDIFICIO CORREDOR HERNANDEZ III PH",
+  "address": "KR 17 A # 116 40",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1624519",
+  "total": 11,
+  "apartamentos": [
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 397721
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 612640
+    },
+    {
+      "inmueble": "1101",
+      "referencia": "1101",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "1102",
+      "referencia": "1102",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "1103",
+      "referencia": "1103",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 367000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 336660
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 489405
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 489405
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 367099
+    }
+  ]
+}

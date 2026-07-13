@@ -1,0 +1,498 @@
+{
+  "co_ownership_id": "668d4ff93a737a00101f1461",
+  "co_ownership_name": "MULTIFAMILIAR EDIFICIO BENTHO",
+  "address": "CR 46 67 49",
+  "city": "Barranquilla",
+  "department": "Atlántico",
+  "country": "COLOMBIA",
+  "agreement_number": "1548536",
+  "total": 81,
+  "apartamentos": [
+    {
+      "inmueble": "APTO101B",
+      "referencia": "1012",
+      "tipo": "APARTAMENTO",
+      "precio": 276529
+    },
+    {
+      "inmueble": "APTO105A",
+      "referencia": "1051",
+      "tipo": "APARTAMENTO",
+      "precio": 303100
+    },
+    {
+      "inmueble": "APTO106A",
+      "referencia": "1061",
+      "tipo": "APARTAMENTO",
+      "precio": 327448
+    },
+    {
+      "inmueble": "APTO102B",
+      "referencia": "1022",
+      "tipo": "APARTAMENTO",
+      "precio": 301843
+    },
+    {
+      "inmueble": "APTO201A",
+      "referencia": "2011",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    },
+    {
+      "inmueble": "APTO103B",
+      "referencia": "1032",
+      "tipo": "APARTAMENTO",
+      "precio": 267156
+    },
+    {
+      "inmueble": "APTO201B",
+      "referencia": "2012",
+      "tipo": "APARTAMENTO",
+      "precio": 271504
+    },
+    {
+      "inmueble": "APTO104A",
+      "referencia": "1041",
+      "tipo": "APARTAMENTO",
+      "precio": 366676
+    },
+    {
+      "inmueble": "APTO104B",
+      "referencia": "1042",
+      "tipo": "APARTAMENTO",
+      "precio": 265707
+    },
+    {
+      "inmueble": "APTO202A",
+      "referencia": "2021",
+      "tipo": "APARTAMENTO",
+      "precio": 272954
+    },
+    {
+      "inmueble": "APTO202B",
+      "referencia": "2022",
+      "tipo": "APARTAMENTO",
+      "precio": 287447
+    },
+    {
+      "inmueble": "APTO203A",
+      "referencia": "2031",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    },
+    {
+      "inmueble": "APTO203B",
+      "referencia": "2032",
+      "tipo": "APARTAMENTO",
+      "precio": 283582
+    },
+    {
+      "inmueble": "APTO204A",
+      "referencia": "2041",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    },
+    {
+      "inmueble": "APTO204B",
+      "referencia": "2042",
+      "tipo": "APARTAMENTO",
+      "precio": 279717
+    },
+    {
+      "inmueble": "APTO205A",
+      "referencia": "205",
+      "tipo": "APARTAMENTO",
+      "precio": 272954
+    },
+    {
+      "inmueble": "APTO206A",
+      "referencia": "2061",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    },
+    {
+      "inmueble": "APTO301A",
+      "referencia": "3011",
+      "tipo": "APARTAMENTO",
+      "precio": 332859
+    },
+    {
+      "inmueble": "APTO301B",
+      "referencia": "3012",
+      "tipo": "APARTAMENTO",
+      "precio": 275176
+    },
+    {
+      "inmueble": "APTO302B",
+      "referencia": "3022",
+      "tipo": "APARTAMENTO",
+      "precio": 283582
+    },
+    {
+      "inmueble": "APTO303A",
+      "referencia": "3031",
+      "tipo": "APARTAMENTO",
+      "precio": 305225
+    },
+    {
+      "inmueble": "APTO303B",
+      "referencia": "3032",
+      "tipo": "APARTAMENTO",
+      "precio": 283582
+    },
+    {
+      "inmueble": "APTO304A",
+      "referencia": "3041",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    },
+    {
+      "inmueble": "APTO405A",
+      "referencia": "4051",
+      "tipo": "APARTAMENTO",
+      "precio": 272954
+    },
+    {
+      "inmueble": "APTO306A",
+      "referencia": "3061",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    },
+    {
+      "inmueble": "APTO401A",
+      "referencia": "4011",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    },
+    {
+      "inmueble": "APTO406A",
+      "referencia": "4061",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    },
+    {
+      "inmueble": "APTO402B",
+      "referencia": "4022",
+      "tipo": "APARTAMENTO",
+      "precio": 283582
+    },
+    {
+      "inmueble": "APTO501A",
+      "referencia": "5011",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    },
+    {
+      "inmueble": "APTO502A",
+      "referencia": "5021",
+      "tipo": "APARTAMENTO",
+      "precio": 276954
+    },
+    {
+      "inmueble": "APTO403A",
+      "referencia": "4031",
+      "tipo": "APARTAMENTO",
+      "precio": 309476
+    },
+    {
+      "inmueble": "APTO403B",
+      "referencia": "4032",
+      "tipo": "APARTAMENTO",
+      "precio": 283582
+    },
+    {
+      "inmueble": "APTO502B",
+      "referencia": "5022",
+      "tipo": "APARTAMENTO",
+      "precio": 283582
+    },
+    {
+      "inmueble": "APTO404A",
+      "referencia": "4041",
+      "tipo": "APARTAMENTO",
+      "precio": 309283
+    },
+    {
+      "inmueble": "APTO404B",
+      "referencia": "4042",
+      "tipo": "APARTAMENTO",
+      "precio": 279717
+    },
+    {
+      "inmueble": "APTO506A",
+      "referencia": "5061",
+      "tipo": "APARTAMENTO",
+      "precio": 304259
+    },
+    {
+      "inmueble": "APTO503A",
+      "referencia": "5031",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    },
+    {
+      "inmueble": "APTO601A",
+      "referencia": "6011",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    },
+    {
+      "inmueble": "APTO606A",
+      "referencia": "6061",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    },
+    {
+      "inmueble": "APTO503B",
+      "referencia": "5032",
+      "tipo": "APARTAMENTO",
+      "precio": 295563
+    },
+    {
+      "inmueble": "APTO601B",
+      "referencia": "6012",
+      "tipo": "APARTAMENTO",
+      "precio": 271504
+    },
+    {
+      "inmueble": "APTO401B",
+      "referencia": "4012",
+      "tipo": "APARTAMENTO",
+      "precio": 271504
+    },
+    {
+      "inmueble": "APTO801ADX",
+      "referencia": "8011",
+      "tipo": "APARTAMENTO",
+      "precio": 499530
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "APTO505A",
+      "referencia": "5051",
+      "tipo": "APARTAMENTO",
+      "precio": 276432
+    },
+    {
+      "inmueble": "APTO701B",
+      "referencia": "7012",
+      "tipo": "APARTAMENTO",
+      "precio": 271504
+    },
+    {
+      "inmueble": "APTO602A",
+      "referencia": "6021",
+      "tipo": "APARTAMENTO",
+      "precio": 276819
+    },
+    {
+      "inmueble": "APTO501B",
+      "referencia": "5012",
+      "tipo": "APARTAMENTO",
+      "precio": 271504
+    },
+    {
+      "inmueble": "APTO504A",
+      "referencia": "5041",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    },
+    {
+      "inmueble": "APTO801BDX",
+      "referencia": "8012",
+      "tipo": "APARTAMENTO",
+      "precio": 460494
+    },
+    {
+      "inmueble": "APTO702A",
+      "referencia": "7021",
+      "tipo": "APARTAMENTO",
+      "precio": 272954
+    },
+    {
+      "inmueble": "APTO602B",
+      "referencia": "6022",
+      "tipo": "APARTAMENTO",
+      "precio": 289766
+    },
+    {
+      "inmueble": "APTO701A",
+      "referencia": "7011",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    },
+    {
+      "inmueble": "APTO802BDX",
+      "referencia": "8022",
+      "tipo": "APARTAMENTO",
+      "precio": 505423
+    },
+    {
+      "inmueble": "APTO702B",
+      "referencia": "7022",
+      "tipo": "APARTAMENTO",
+      "precio": 290539
+    },
+    {
+      "inmueble": "APTO504B",
+      "referencia": "5042",
+      "tipo": "APARTAMENTO",
+      "precio": 283582
+    },
+    {
+      "inmueble": "APTO802ADX",
+      "referencia": "8021",
+      "tipo": "APARTAMENTO",
+      "precio": 474022
+    },
+    {
+      "inmueble": "APTO603A",
+      "referencia": "6031",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    },
+    {
+      "inmueble": "APTO803ADX",
+      "referencia": "8031",
+      "tipo": "APARTAMENTO",
+      "precio": 499336
+    },
+    {
+      "inmueble": "APTO703A",
+      "referencia": "7031",
+      "tipo": "APARTAMENTO",
+      "precio": 309476
+    },
+    {
+      "inmueble": "APTO803BDX",
+      "referencia": "8032",
+      "tipo": "APARTAMENTO",
+      "precio": 494892
+    },
+    {
+      "inmueble": "APTO804ADX",
+      "referencia": "8041",
+      "tipo": "APARTAMENTO",
+      "precio": 499336
+    },
+    {
+      "inmueble": "APTO603B",
+      "referencia": "6032",
+      "tipo": "APARTAMENTO",
+      "precio": 298655
+    },
+    {
+      "inmueble": "APTO804BDX",
+      "referencia": "8042",
+      "tipo": "APARTAMENTO",
+      "precio": 492476
+    },
+    {
+      "inmueble": "APTO703B",
+      "referencia": "7032",
+      "tipo": "APARTAMENTO",
+      "precio": 283582
+    },
+    {
+      "inmueble": "APTO806ADX",
+      "referencia": "8061",
+      "tipo": "APARTAMENTO",
+      "precio": 500592
+    },
+    {
+      "inmueble": "APTO604A",
+      "referencia": "6041",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    },
+    {
+      "inmueble": "Local1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 60678
+    },
+    {
+      "inmueble": "APTO805ADX",
+      "referencia": "8051",
+      "tipo": "APARTAMENTO",
+      "precio": 483104
+    },
+    {
+      "inmueble": "APTO704A",
+      "referencia": "7041",
+      "tipo": "APARTAMENTO",
+      "precio": 301940
+    },
+    {
+      "inmueble": "Local2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 114399
+    },
+    {
+      "inmueble": "APTO604B",
+      "referencia": "6042",
+      "tipo": "APARTAMENTO",
+      "precio": 291118
+    },
+    {
+      "inmueble": "APTO302A",
+      "referencia": "3021",
+      "tipo": "APARTAMENTO",
+      "precio": 272954
+    },
+    {
+      "inmueble": "Local3",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 61451
+    },
+    {
+      "inmueble": "APTO704B",
+      "referencia": "7042",
+      "tipo": "APARTAMENTO",
+      "precio": 279717
+    },
+    {
+      "inmueble": "APTO305A",
+      "referencia": "3051",
+      "tipo": "APARTAMENTO",
+      "precio": 272954
+    },
+    {
+      "inmueble": "APTO605A",
+      "referencia": "6051",
+      "tipo": "APARTAMENTO",
+      "precio": 272954
+    },
+    {
+      "inmueble": "APTO402A",
+      "referencia": "4021",
+      "tipo": "APARTAMENTO",
+      "precio": 272954
+    },
+    {
+      "inmueble": "APTO705A",
+      "referencia": "7051",
+      "tipo": "APARTAMENTO",
+      "precio": 272954
+    },
+    {
+      "inmueble": "APTO304B",
+      "referencia": "3042",
+      "tipo": "APARTAMENTO",
+      "precio": 279717
+    },
+    {
+      "inmueble": "APTO706A",
+      "referencia": "7061",
+      "tipo": "APARTAMENTO",
+      "precio": 298075
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "co_ownership_id": "678e6003e96627000f9723f9",
+  "co_ownership_name": "EDIFICIO EL PARQUE PH",
+  "address": "CR 11 A 93 94",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1577212",
+  "total": 16,
+  "apartamentos": [
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "OTROS",
+      "precio": 1297000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "OTROS",
+      "precio": 813000
+    },
+    {
+      "inmueble": "2014",
+      "referencia": "2014",
+      "tipo": "OTROS",
+      "precio": 3435000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 1738000
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "OTROS",
+      "precio": 1297000
+    },
+    {
+      "inmueble": "3045",
+      "referencia": "3045",
+      "tipo": "OTROS",
+      "precio": 1545000
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 783000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "OTROS",
+      "precio": 1061000
+    },
+    {
+      "inmueble": "307",
+      "referencia": "307",
+      "tipo": "OTROS",
+      "precio": 1441000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "OTROS",
+      "precio": 789000
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": "OTROS",
+      "precio": 1441000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 2170000
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "OTROS",
+      "precio": 772000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "LOCAL",
+      "precio": 1667000
+    },
+    {
+      "inmueble": "4000",
+      "referencia": "4000",
+      "tipo": "OTROS",
+      "precio": 6946000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

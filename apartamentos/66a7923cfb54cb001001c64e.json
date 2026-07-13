@@ -1,0 +1,228 @@
+{
+  "co_ownership_id": "66a7923cfb54cb001001c64e",
+  "co_ownership_name": "EXTRAORDINARIA ETAPA 6 ESTORAQUES",
+  "address": "KM 1 5 VTE COTA CHIA VDA PUEBLO VIEJO",
+  "city": "Cota",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1551779",
+  "total": 36,
+  "apartamentos": [
+    {
+      "inmueble": "500",
+      "referencia": "500",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "505",
+      "referencia": "505",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "506",
+      "referencia": "506",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "507",
+      "referencia": "507",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "508",
+      "referencia": "508",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "509",
+      "referencia": "509",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "510",
+      "referencia": "510",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "511",
+      "referencia": "511",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "512",
+      "referencia": "512",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "513",
+      "referencia": "513",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "520",
+      "referencia": "520",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "514",
+      "referencia": "514",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "521",
+      "referencia": "521",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "515",
+      "referencia": "515",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "522",
+      "referencia": "522",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "516",
+      "referencia": "516",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "517",
+      "referencia": "517",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "523",
+      "referencia": "523",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "524",
+      "referencia": "524",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "518",
+      "referencia": "518",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "519",
+      "referencia": "519",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "525",
+      "referencia": "525",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "526",
+      "referencia": "526",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "530",
+      "referencia": "530",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "527",
+      "referencia": "527",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "528",
+      "referencia": "528",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "531",
+      "referencia": "531",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "529",
+      "referencia": "529",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "532",
+      "referencia": "532",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "533",
+      "referencia": "533",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "534",
+      "referencia": "534",
+      "tipo": "CASA",
+      "precio": 500000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "co_ownership_id": "634833d16eaf5200095a55aa",
+  "co_ownership_name": "EDIFICIO VILLA DE PARIS PH",
+  "address": "CALLE 105 N 15 95",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1474980",
+  "total": 13,
+  "apartamentos": [
+    {
+      "inmueble": "Apto 601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 900000
+    },
+    {
+      "inmueble": "Apto 402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 900000
+    },
+    {
+      "inmueble": "Apto 301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 950000
+    },
+    {
+      "inmueble": "Apto 302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 900000
+    },
+    {
+      "inmueble": "Apto 501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 900000
+    },
+    {
+      "inmueble": "Apto 502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 950000
+    },
+    {
+      "inmueble": "Apto 602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 950000
+    },
+    {
+      "inmueble": "Apto 303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 950000
+    },
+    {
+      "inmueble": "Apto 201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 850000
+    },
+    {
+      "inmueble": "Apto 403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 850000
+    },
+    {
+      "inmueble": "Apto 401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 800000
+    },
+    {
+      "inmueble": "Apto 202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 900000
+    },
+    {
+      "inmueble": "Apto 999",
+      "referencia": "999",
+      "tipo": "LOCAL",
+      "precio": 1
+    }
+  ]
+}

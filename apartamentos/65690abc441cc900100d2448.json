@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "65690abc441cc900100d2448",
+  "co_ownership_name": "GARBIRAS INMOBILIARIA S A S",
+  "address": "AV 4 # 6 NORTE - 67",
+  "city": "Cali",
+  "department": "Valle del Cauca",
+  "country": "COLOMBIA",
+  "agreement_number": "1521905",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "1581",
+      "referencia": "1581",
+      "tipo": "APARTAMENTO",
+      "precio": 937999
+    },
+    {
+      "inmueble": "1586",
+      "referencia": "1586",
+      "tipo": "APARTAMENTO",
+      "precio": 898444
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "1585",
+      "referencia": "1585",
+      "tipo": "APARTAMENTO",
+      "precio": 2847979
+    },
+    {
+      "inmueble": "1584",
+      "referencia": "1584",
+      "tipo": "APARTAMENTO",
+      "precio": 1500000
+    },
+    {
+      "inmueble": "1583",
+      "referencia": "1583",
+      "tipo": "APARTAMENTO",
+      "precio": 3300000
+    },
+    {
+      "inmueble": "1582",
+      "referencia": "1582",
+      "tipo": "APARTAMENTO",
+      "precio": 1102514
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "co_ownership_id": "66c49a8726ceb30010544bb4",
+  "co_ownership_name": "C C CAMPANELLA PL AZA PH",
+  "address": "CALLE 154 A N 94 91",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1555424",
+  "total": 13,
+  "apartamentos": [
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "LOCAL",
+      "precio": 5402100
+    },
+    {
+      "inmueble": "203A",
+      "referencia": "2031",
+      "tipo": "LOCAL",
+      "precio": 100000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "LOCAL",
+      "precio": 5682800
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "LOCAL",
+      "precio": 626400
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "LOCAL",
+      "precio": 300000
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "LOCAL",
+      "precio": 145700
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": "LOCAL",
+      "precio": 186000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "LOCAL",
+      "precio": 520000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "LOCAL",
+      "precio": 3077400
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "LOCAL",
+      "precio": 130000
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "LOCAL",
+      "precio": 560400
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "LOCAL 202",
+      "referencia": "202",
+      "tipo": "LOCAL",
+      "precio": 400000
+    }
+  ]
+}

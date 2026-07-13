@@ -1,0 +1,30 @@
+{
+  "co_ownership_id": "672e37e936c92e000e1767d9",
+  "co_ownership_name": "SALON SOCIAL MAN B NUC A CARLOS",
+  "address": "CARRERA 72 23 24",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1569177",
+  "total": 3,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 330000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 330000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "co_ownership_id": "697a255e7d966e2d5d9f01c1",
+  "co_ownership_name": "EDIFICIO ALCAZAR I PH",
+  "address": "CALLE 125 15 A 23",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1630631",
+  "total": 14,
+  "apartamentos": [
+    {
+      "inmueble": "Apto503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 1798000
+    },
+    {
+      "inmueble": "Apto601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 2125000
+    },
+    {
+      "inmueble": "Apto603",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 1807000
+    },
+    {
+      "inmueble": "Admon999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 2
+    },
+    {
+      "inmueble": "Apto201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 1870000
+    },
+    {
+      "inmueble": "Apto303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 1777000
+    },
+    {
+      "inmueble": "Apto202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 967000
+    },
+    {
+      "inmueble": "Apto401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 1870000
+    },
+    {
+      "inmueble": "Apto203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 1536000
+    },
+    {
+      "inmueble": "Apto403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 1795000
+    },
+    {
+      "inmueble": "Apto301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 1877000
+    },
+    {
+      "inmueble": "Apto501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 1818000
+    },
+    {
+      "inmueble": "Apto302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 1260000
+    },
+    {
+      "inmueble": "Apto502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 1113000
+    }
+  ]
+}

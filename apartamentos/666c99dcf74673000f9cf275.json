@@ -1,0 +1,162 @@
+{
+  "co_ownership_id": "666c99dcf74673000f9cf275",
+  "co_ownership_name": "EDIFICIO 2A 72 S  PH S SOCIAL",
+  "address": "CR 8 2 A 72 SUR",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1544147",
+  "total": 25,
+  "apartamentos": [
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "207",
+      "referencia": "207",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "208",
+      "referencia": "208",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "307",
+      "referencia": "307",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "308",
+      "referencia": "308",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "405",
+      "referencia": "405",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "406",
+      "referencia": "406",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "407",
+      "referencia": "407",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "408",
+      "referencia": "408",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "co_ownership_id": "64e4e697d5405d00115c3126",
+  "co_ownership_name": "COPROSERVICIOS",
+  "address": "KR 24 61 F 29",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1133370",
+  "total": 12,
+  "apartamentos": [
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "Apto 101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 787930
+    },
+    {
+      "inmueble": "Apto 302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 763686
+    },
+    {
+      "inmueble": "Apto 102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 441645
+    },
+    {
+      "inmueble": "Apto 401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 722774
+    },
+    {
+      "inmueble": "Apto 201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 722774
+    },
+    {
+      "inmueble": "Apto 402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 763686
+    },
+    {
+      "inmueble": "Apto 202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 763686
+    },
+    {
+      "inmueble": "Apto 501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 722774
+    },
+    {
+      "inmueble": "Apto 301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 722774
+    },
+    {
+      "inmueble": "Apto 502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 763686
+    },
+    {
+      "inmueble": "Apto 601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 400784
+    }
+  ]
+}

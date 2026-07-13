@@ -1,0 +1,150 @@
+{
+  "co_ownership_id": "6998836f00a3e9346bd4e275",
+  "co_ownership_name": "EDIFICIO MOLINOS II Y III PH",
+  "address": "CL 114 21 34",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1634351",
+  "total": 23,
+  "apartamentos": [
+    {
+      "inmueble": "2101",
+      "referencia": "2101",
+      "tipo": "APARTAMENTO",
+      "precio": 1097600
+    },
+    {
+      "inmueble": "3401",
+      "referencia": "3401",
+      "tipo": "APARTAMENTO",
+      "precio": 487000
+    },
+    {
+      "inmueble": "2102",
+      "referencia": "2102",
+      "tipo": "APARTAMENTO",
+      "precio": 742000
+    },
+    {
+      "inmueble": "3402",
+      "referencia": "3402",
+      "tipo": "APARTAMENTO",
+      "precio": 481400
+    },
+    {
+      "inmueble": "2103",
+      "referencia": "2103",
+      "tipo": "APARTAMENTO",
+      "precio": 1391900
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 2
+    },
+    {
+      "inmueble": "2201",
+      "referencia": "2201",
+      "tipo": "APARTAMENTO",
+      "precio": 1390500
+    },
+    {
+      "inmueble": "2202",
+      "referencia": "2202",
+      "tipo": "APARTAMENTO",
+      "precio": 1024100
+    },
+    {
+      "inmueble": "2404",
+      "referencia": "2404",
+      "tipo": "APARTAMENTO",
+      "precio": 1024100
+    },
+    {
+      "inmueble": "3101",
+      "referencia": "3101",
+      "tipo": "APARTAMENTO",
+      "precio": 906200
+    },
+    {
+      "inmueble": "3102",
+      "referencia": "3102",
+      "tipo": "APARTAMENTO",
+      "precio": 1012100
+    },
+    {
+      "inmueble": "3103",
+      "referencia": "3103",
+      "tipo": "APARTAMENTO",
+      "precio": 1021600
+    },
+    {
+      "inmueble": "3201",
+      "referencia": "3201",
+      "tipo": "APARTAMENTO",
+      "precio": 1016000
+    },
+    {
+      "inmueble": "2203",
+      "referencia": "2203",
+      "tipo": "APARTAMENTO",
+      "precio": 1039000
+    },
+    {
+      "inmueble": "3202",
+      "referencia": "3202",
+      "tipo": "APARTAMENTO",
+      "precio": 1135500
+    },
+    {
+      "inmueble": "2301",
+      "referencia": "2301",
+      "tipo": "APARTAMENTO",
+      "precio": 1016000
+    },
+    {
+      "inmueble": "3203",
+      "referencia": "3203",
+      "tipo": "APARTAMENTO",
+      "precio": 1010500
+    },
+    {
+      "inmueble": "2302",
+      "referencia": "2302",
+      "tipo": "APARTAMENTO",
+      "precio": 1033600
+    },
+    {
+      "inmueble": "3301",
+      "referencia": "3301",
+      "tipo": "APARTAMENTO",
+      "precio": 1021600
+    },
+    {
+      "inmueble": "2401",
+      "referencia": "2401",
+      "tipo": "APARTAMENTO",
+      "precio": 1007900
+    },
+    {
+      "inmueble": "3302",
+      "referencia": "3302",
+      "tipo": "APARTAMENTO",
+      "precio": 1016000
+    },
+    {
+      "inmueble": "2402",
+      "referencia": "2402",
+      "tipo": "APARTAMENTO",
+      "precio": 1026800
+    },
+    {
+      "inmueble": "3303",
+      "referencia": "3303",
+      "tipo": "APARTAMENTO",
+      "precio": 1034900
+    }
+  ]
+}

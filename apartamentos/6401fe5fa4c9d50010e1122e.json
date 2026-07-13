@@ -1,0 +1,198 @@
+{
+  "co_ownership_id": "6401fe5fa4c9d50010e1122e",
+  "co_ownership_name": "EDIFICIO HILLS PH",
+  "address": "CRA 5 131 74",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1488329",
+  "total": 31,
+  "apartamentos": [
+    {
+      "inmueble": "1201",
+      "referencia": "1201",
+      "tipo": "APARTAMENTO",
+      "precio": 1831000
+    },
+    {
+      "inmueble": "1202",
+      "referencia": "1202",
+      "tipo": "APARTAMENTO",
+      "precio": 1853000
+    },
+    {
+      "inmueble": "1402",
+      "referencia": "1402",
+      "tipo": "APARTAMENTO",
+      "precio": 1624000
+    },
+    {
+      "inmueble": "1301",
+      "referencia": "1301",
+      "tipo": "APARTAMENTO",
+      "precio": 1635000
+    },
+    {
+      "inmueble": "1501",
+      "referencia": "1501",
+      "tipo": "APARTAMENTO",
+      "precio": 1755000
+    },
+    {
+      "inmueble": "1302",
+      "referencia": "1302",
+      "tipo": "APARTAMENTO",
+      "precio": 1622000
+    },
+    {
+      "inmueble": "1502",
+      "referencia": "1502",
+      "tipo": "APARTAMENTO",
+      "precio": 1717000
+    },
+    {
+      "inmueble": "1601",
+      "referencia": "1601",
+      "tipo": "APARTAMENTO",
+      "precio": 1473000
+    },
+    {
+      "inmueble": "1401",
+      "referencia": "1401",
+      "tipo": "APARTAMENTO",
+      "precio": 1635000
+    },
+    {
+      "inmueble": "1804",
+      "referencia": "1804",
+      "tipo": "APARTAMENTO",
+      "precio": 1455000
+    },
+    {
+      "inmueble": "2602",
+      "referencia": "2602",
+      "tipo": "APARTAMENTO",
+      "precio": 1588000
+    },
+    {
+      "inmueble": "1602",
+      "referencia": "1602",
+      "tipo": "APARTAMENTO",
+      "precio": 1553000
+    },
+    {
+      "inmueble": "2201",
+      "referencia": "2201",
+      "tipo": "APARTAMENTO",
+      "precio": 1607000
+    },
+    {
+      "inmueble": "2701",
+      "referencia": "2701",
+      "tipo": "APARTAMENTO",
+      "precio": 1603000
+    },
+    {
+      "inmueble": "1603",
+      "referencia": "1603",
+      "tipo": "APARTAMENTO",
+      "precio": 1560000
+    },
+    {
+      "inmueble": "2202",
+      "referencia": "2202",
+      "tipo": "APARTAMENTO",
+      "precio": 1570000
+    },
+    {
+      "inmueble": "2702",
+      "referencia": "2702",
+      "tipo": "APARTAMENTO",
+      "precio": 1614000
+    },
+    {
+      "inmueble": "1604",
+      "referencia": "1604",
+      "tipo": "APARTAMENTO",
+      "precio": 1452000
+    },
+    {
+      "inmueble": "2301",
+      "referencia": "2301",
+      "tipo": "APARTAMENTO",
+      "precio": 1587000
+    },
+    {
+      "inmueble": "2801",
+      "referencia": "2801",
+      "tipo": "APARTAMENTO",
+      "precio": 2312000
+    },
+    {
+      "inmueble": "1801",
+      "referencia": "1801",
+      "tipo": "APARTAMENTO",
+      "precio": 1477000
+    },
+    {
+      "inmueble": "2802",
+      "referencia": "2802",
+      "tipo": "APARTAMENTO",
+      "precio": 2043000
+    },
+    {
+      "inmueble": "2302",
+      "referencia": "2302",
+      "tipo": "APARTAMENTO",
+      "precio": 1570000
+    },
+    {
+      "inmueble": "1802",
+      "referencia": "1802",
+      "tipo": "APARTAMENTO",
+      "precio": 1636000
+    },
+    {
+      "inmueble": "2401",
+      "referencia": "2401",
+      "tipo": "APARTAMENTO",
+      "precio": 1562000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "1803",
+      "referencia": "1803",
+      "tipo": "APARTAMENTO",
+      "precio": 1582000
+    },
+    {
+      "inmueble": "2402",
+      "referencia": "2402",
+      "tipo": "APARTAMENTO",
+      "precio": 1562000
+    },
+    {
+      "inmueble": "2501",
+      "referencia": "2501",
+      "tipo": "APARTAMENTO",
+      "precio": 1603000
+    },
+    {
+      "inmueble": "2502",
+      "referencia": "2502",
+      "tipo": "APARTAMENTO",
+      "precio": 1513000
+    },
+    {
+      "inmueble": "2601",
+      "referencia": "2601",
+      "tipo": "APARTAMENTO",
+      "precio": 1583000
+    }
+  ]
+}

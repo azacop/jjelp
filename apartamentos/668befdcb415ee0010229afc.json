@@ -1,0 +1,228 @@
+{
+  "co_ownership_id": "668befdcb415ee0010229afc",
+  "co_ownership_name": "EDIFICIO COLTABACO",
+  "address": "CR 19 34 64",
+  "city": "Bucaramanga",
+  "department": "Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1548221",
+  "total": 36,
+  "apartamentos": [
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "1",
+      "referencia": "10001",
+      "tipo": "LOCAL",
+      "precio": 245000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "10004",
+      "tipo": "LOCAL",
+      "precio": 190000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "10005",
+      "tipo": "LOCAL",
+      "precio": 198000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "10002",
+      "tipo": "LOCAL",
+      "precio": 175000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "10006",
+      "tipo": "LOCAL",
+      "precio": 93000
+    },
+    {
+      "inmueble": "7",
+      "referencia": "10007",
+      "tipo": "LOCAL",
+      "precio": 202000
+    },
+    {
+      "inmueble": "8",
+      "referencia": "10008",
+      "tipo": "LOCAL",
+      "precio": 207000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "10003",
+      "tipo": "LOCAL",
+      "precio": 225000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "10009",
+      "tipo": "LOCAL",
+      "precio": 203000
+    },
+    {
+      "inmueble": "200A210M1",
+      "referencia": "11200",
+      "tipo": "OFICINA",
+      "precio": 2868000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "10301",
+      "tipo": "OFICINA",
+      "precio": 416000
+    },
+    {
+      "inmueble": "406A",
+      "referencia": "11406",
+      "tipo": "OFICINA",
+      "precio": 147000
+    },
+    {
+      "inmueble": "407",
+      "referencia": "10407",
+      "tipo": "OFICINA",
+      "precio": 147000
+    },
+    {
+      "inmueble": "304",
+      "referencia": "10304",
+      "tipo": "OFICINA",
+      "precio": 298000
+    },
+    {
+      "inmueble": "302",
+      "referencia": "10302",
+      "tipo": "OFICINA",
+      "precio": 311000
+    },
+    {
+      "inmueble": "305",
+      "referencia": "10305",
+      "tipo": "OFICINA",
+      "precio": 198000
+    },
+    {
+      "inmueble": "303",
+      "referencia": "10303",
+      "tipo": "OFICINA",
+      "precio": 232000
+    },
+    {
+      "inmueble": "306310",
+      "referencia": "10306",
+      "tipo": "OFICINA",
+      "precio": 1039000
+    },
+    {
+      "inmueble": "400A",
+      "referencia": "11400",
+      "tipo": "OFICINA",
+      "precio": 81000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "10401",
+      "tipo": "OFICINA",
+      "precio": 243000
+    },
+    {
+      "inmueble": "402",
+      "referencia": "10402",
+      "tipo": "OFICINA",
+      "precio": 311000
+    },
+    {
+      "inmueble": "403",
+      "referencia": "10403",
+      "tipo": "OFICINA",
+      "precio": 222000
+    },
+    {
+      "inmueble": "408",
+      "referencia": "10408",
+      "tipo": "OFICINA",
+      "precio": 308000
+    },
+    {
+      "inmueble": "404",
+      "referencia": "10404",
+      "tipo": "OFICINA",
+      "precio": 309000
+    },
+    {
+      "inmueble": "405",
+      "referencia": "10405",
+      "tipo": "OFICINA",
+      "precio": 147000
+    },
+    {
+      "inmueble": "409",
+      "referencia": "10409",
+      "tipo": "OFICINA",
+      "precio": 227000
+    },
+    {
+      "inmueble": "406",
+      "referencia": "10406",
+      "tipo": "OFICINA",
+      "precio": 147000
+    },
+    {
+      "inmueble": "410",
+      "referencia": "10410",
+      "tipo": "OFICINA",
+      "precio": 49000
+    },
+    {
+      "inmueble": "500A",
+      "referencia": "11500",
+      "tipo": "OFICINA",
+      "precio": 81000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "10501",
+      "tipo": "OFICINA",
+      "precio": 243000
+    },
+    {
+      "inmueble": "502",
+      "referencia": "10502",
+      "tipo": "OFICINA",
+      "precio": 311000
+    },
+    {
+      "inmueble": "503",
+      "referencia": "10503",
+      "tipo": "OFICINA",
+      "precio": 222000
+    },
+    {
+      "inmueble": "504",
+      "referencia": "10504",
+      "tipo": "OFICINA",
+      "precio": 309000
+    },
+    {
+      "inmueble": "505",
+      "referencia": "10505",
+      "tipo": "OFICINA",
+      "precio": 147000
+    },
+    {
+      "inmueble": "506510",
+      "referencia": "10506",
+      "tipo": "OFICINA",
+      "precio": 1024000
+    }
+  ]
+}

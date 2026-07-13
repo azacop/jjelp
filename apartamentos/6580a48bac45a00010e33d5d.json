@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "6580a48bac45a00010e33d5d",
+  "co_ownership_name": "EDIFICIO CHICO 99 PH LOCALES",
+  "address": "CARRERA 14 98 95",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1523786",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "78",
+      "referencia": "78",
+      "tipo": "LOCAL",
+      "precio": 838000
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 486000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 296000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 327000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "LOCAL",
+      "precio": 322000
+    },
+    {
+      "inmueble": "56",
+      "referencia": "56",
+      "tipo": "LOCAL",
+      "precio": 1223000
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "co_ownership_id": "66a0ffed5cf3860010c0b3cb",
+  "co_ownership_name": "AGRUPACION MACADAMIA PH",
+  "address": "VEREDA SAN JOSE KM 04 VIA LA CALERA SOPO",
+  "city": "La Calera",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1551092",
+  "total": 6,
+  "apartamentos": [
+    {
+      "inmueble": "A1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 25485709
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "B2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 18631875
+    },
+    {
+      "inmueble": "C3",
+      "referencia": "3",
+      "tipo": "OTROS",
+      "precio": 25490030
+    },
+    {
+      "inmueble": "D4",
+      "referencia": "4",
+      "tipo": "OTROS",
+      "precio": 23155725
+    },
+    {
+      "inmueble": "E5",
+      "referencia": "5",
+      "tipo": "OTROS",
+      "precio": 15266103
+    }
+  ]
+}

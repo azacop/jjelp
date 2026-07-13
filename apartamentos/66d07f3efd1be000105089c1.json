@@ -1,0 +1,30 @@
+{
+  "co_ownership_id": "66d07f3efd1be000105089c1",
+  "co_ownership_name": "VERSE GROUP SAS",
+  "address": "KRA 23 54 23",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1557636",
+  "total": 3,
+  "apartamentos": [
+    {
+      "inmueble": "123",
+      "referencia": "123",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "APARTAMENTO",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "1304",
+      "referencia": "1304",
+      "tipo": "APARTAMENTO",
+      "precio": 2595703
+    }
+  ]
+}

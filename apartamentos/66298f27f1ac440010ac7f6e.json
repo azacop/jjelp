@@ -1,0 +1,246 @@
+{
+  "co_ownership_id": "66298f27f1ac440010ac7f6e",
+  "co_ownership_name": "EDIFICIO MULTIFAMILIAR LA ROCHELA",
+  "address": "AC  6 72C  35",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1535558",
+  "total": 39,
+  "apartamentos": [
+    {
+      "inmueble": "101B",
+      "referencia": "1012",
+      "tipo": "APARTAMENTO",
+      "precio": 83607
+    },
+    {
+      "inmueble": "202B",
+      "referencia": "2022",
+      "tipo": "APARTAMENTO",
+      "precio": 283130
+    },
+    {
+      "inmueble": "102B",
+      "referencia": "1022",
+      "tipo": "APARTAMENTO",
+      "precio": 283520
+    },
+    {
+      "inmueble": "203B",
+      "referencia": "2032",
+      "tipo": "APARTAMENTO",
+      "precio": 283130
+    },
+    {
+      "inmueble": "204B",
+      "referencia": "2042",
+      "tipo": "APARTAMENTO",
+      "precio": 350183
+    },
+    {
+      "inmueble": "103B",
+      "referencia": "1032",
+      "tipo": "APARTAMENTO",
+      "precio": 283520
+    },
+    {
+      "inmueble": "301B",
+      "referencia": "3012",
+      "tipo": "APARTAMENTO",
+      "precio": 350183
+    },
+    {
+      "inmueble": "104B",
+      "referencia": "1042",
+      "tipo": "APARTAMENTO",
+      "precio": 83607
+    },
+    {
+      "inmueble": "302B",
+      "referencia": "3022",
+      "tipo": "APARTAMENTO",
+      "precio": 283130
+    },
+    {
+      "inmueble": "201B",
+      "referencia": "2012",
+      "tipo": "APARTAMENTO",
+      "precio": 370000
+    },
+    {
+      "inmueble": "303B",
+      "referencia": "3032",
+      "tipo": "APARTAMENTO",
+      "precio": 283130
+    },
+    {
+      "inmueble": "304B",
+      "referencia": "3042",
+      "tipo": "APARTAMENTO",
+      "precio": 350183
+    },
+    {
+      "inmueble": "401B",
+      "referencia": "4012",
+      "tipo": "APARTAMENTO",
+      "precio": 350183
+    },
+    {
+      "inmueble": "101D",
+      "referencia": "1014",
+      "tipo": "APARTAMENTO",
+      "precio": 83607
+    },
+    {
+      "inmueble": "402B",
+      "referencia": "4022",
+      "tipo": "APARTAMENTO",
+      "precio": 283130
+    },
+    {
+      "inmueble": "102D",
+      "referencia": "1024",
+      "tipo": "APARTAMENTO",
+      "precio": 83607
+    },
+    {
+      "inmueble": "403B",
+      "referencia": "4032",
+      "tipo": "APARTAMENTO",
+      "precio": 283130
+    },
+    {
+      "inmueble": "201D",
+      "referencia": "2014",
+      "tipo": "APARTAMENTO",
+      "precio": 350183
+    },
+    {
+      "inmueble": "404B",
+      "referencia": "4042",
+      "tipo": "APARTAMENTO",
+      "precio": 490000
+    },
+    {
+      "inmueble": "202D",
+      "referencia": "2024",
+      "tipo": "APARTAMENTO",
+      "precio": 283130
+    },
+    {
+      "inmueble": "501B",
+      "referencia": "5012",
+      "tipo": "APARTAMENTO",
+      "precio": 490000
+    },
+    {
+      "inmueble": "203D",
+      "referencia": "2034",
+      "tipo": "APARTAMENTO",
+      "precio": 283130
+    },
+    {
+      "inmueble": "502B",
+      "referencia": "5022",
+      "tipo": "APARTAMENTO",
+      "precio": 283130
+    },
+    {
+      "inmueble": "503B",
+      "referencia": "5032",
+      "tipo": "APARTAMENTO",
+      "precio": 283130
+    },
+    {
+      "inmueble": "204D",
+      "referencia": "2044",
+      "tipo": "APARTAMENTO",
+      "precio": 350183
+    },
+    {
+      "inmueble": "301D",
+      "referencia": "3014",
+      "tipo": "APARTAMENTO",
+      "precio": 490000
+    },
+    {
+      "inmueble": "504B",
+      "referencia": "5042",
+      "tipo": "APARTAMENTO",
+      "precio": 370000
+    },
+    {
+      "inmueble": "302D",
+      "referencia": "3024",
+      "tipo": "APARTAMENTO",
+      "precio": 283130
+    },
+    {
+      "inmueble": "303D",
+      "referencia": "3034",
+      "tipo": "APARTAMENTO",
+      "precio": 283130
+    },
+    {
+      "inmueble": "401D",
+      "referencia": "4014",
+      "tipo": "APARTAMENTO",
+      "precio": 350183
+    },
+    {
+      "inmueble": "304D",
+      "referencia": "3044",
+      "tipo": "APARTAMENTO",
+      "precio": 350183
+    },
+    {
+      "inmueble": "402D",
+      "referencia": "4024",
+      "tipo": "APARTAMENTO",
+      "precio": 283130
+    },
+    {
+      "inmueble": "403D",
+      "referencia": "4034",
+      "tipo": "APARTAMENTO",
+      "precio": 283130
+    },
+    {
+      "inmueble": "404D",
+      "referencia": "4044",
+      "tipo": "APARTAMENTO",
+      "precio": 350183
+    },
+    {
+      "inmueble": "501D",
+      "referencia": "5014",
+      "tipo": "APARTAMENTO",
+      "precio": 350183
+    },
+    {
+      "inmueble": "502D",
+      "referencia": "5024",
+      "tipo": "APARTAMENTO",
+      "precio": 283130
+    },
+    {
+      "inmueble": "503D",
+      "referencia": "5034",
+      "tipo": "APARTAMENTO",
+      "precio": 283130
+    },
+    {
+      "inmueble": "504D",
+      "referencia": "5044",
+      "tipo": "APARTAMENTO",
+      "precio": 350183
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

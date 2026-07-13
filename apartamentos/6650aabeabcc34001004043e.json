@@ -1,0 +1,66 @@
+{
+  "co_ownership_id": "6650aabeabcc34001004043e",
+  "co_ownership_name": "EDIFICIO LA MONTANA PROPIEDAD HORIZONTAL",
+  "address": "CARRERA 5B 151 A 35",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1540996",
+  "total": 9,
+  "apartamentos": [
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": null,
+      "precio": 1956000
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": null,
+      "precio": 1904000
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": null,
+      "precio": 2058000
+    },
+    {
+      "inmueble": "901",
+      "referencia": "901",
+      "tipo": null,
+      "precio": 1925000
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": null,
+      "precio": 2090000
+    },
+    {
+      "inmueble": "1001",
+      "referencia": "1001",
+      "tipo": null,
+      "precio": 3131000
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": null,
+      "precio": 2090000
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": null,
+      "precio": 2114000
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": null,
+      "precio": 2289000
+    }
+  ]
+}

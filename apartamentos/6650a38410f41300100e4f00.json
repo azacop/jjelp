@@ -1,0 +1,36 @@
+{
+  "co_ownership_id": "6650a38410f41300100e4f00",
+  "co_ownership_name": "LOCALES TRAPICHE",
+  "address": "CR 7 14 61",
+  "city": "Barbosa",
+  "department": "Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1541176",
+  "total": 4,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 500000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 500000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 500000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

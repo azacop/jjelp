@@ -1,0 +1,84 @@
+{
+  "co_ownership_id": "68878ead07b75436cb9a9ccc",
+  "co_ownership_name": "TANGARA BIRDING VILLAS RESORT",
+  "address": "KM 8 VDA LA TRINIDAD IPM SAN JOAQUIN",
+  "city": "La Mesa",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1605666",
+  "total": 12,
+  "apartamentos": [
+    {
+      "inmueble": "Casa1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 1515803
+    },
+    {
+      "inmueble": "Casa2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 1295000
+    },
+    {
+      "inmueble": "Casa3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1459413
+    },
+    {
+      "inmueble": "Casa4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1228485
+    },
+    {
+      "inmueble": "Casa5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 1280148
+    },
+    {
+      "inmueble": "Casa6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 5745000
+    },
+    {
+      "inmueble": "Casa11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 1280011
+    },
+    {
+      "inmueble": "Casa7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 1044483
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "Casa8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 1280148
+    },
+    {
+      "inmueble": "Casa9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 1280109
+    },
+    {
+      "inmueble": "Casa10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 1273947
+    }
+  ]
+}

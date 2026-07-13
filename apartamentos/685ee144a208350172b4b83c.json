@@ -1,0 +1,90 @@
+{
+  "co_ownership_id": "685ee144a208350172b4b83c",
+  "co_ownership_name": "BOSQUES DEL MARQUES 2  TORRE 8",
+  "address": "CL 138 BIS 6 44",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1601863",
+  "total": 13,
+  "apartamentos": [
+    {
+      "inmueble": "8701",
+      "referencia": "8701",
+      "tipo": "APARTAMENTO",
+      "precio": 1400000
+    },
+    {
+      "inmueble": "8702",
+      "referencia": "8702",
+      "tipo": "APARTAMENTO",
+      "precio": 1400000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "8101",
+      "referencia": "8101",
+      "tipo": "APARTAMENTO",
+      "precio": 1400000
+    },
+    {
+      "inmueble": "8402",
+      "referencia": "8402",
+      "tipo": "APARTAMENTO",
+      "precio": 1400000
+    },
+    {
+      "inmueble": "8102",
+      "referencia": "8102",
+      "tipo": "APARTAMENTO",
+      "precio": 1400000
+    },
+    {
+      "inmueble": "8501",
+      "referencia": "8501",
+      "tipo": "APARTAMENTO",
+      "precio": 1400000
+    },
+    {
+      "inmueble": "8301",
+      "referencia": "8301",
+      "tipo": "APARTAMENTO",
+      "precio": 1400000
+    },
+    {
+      "inmueble": "8502",
+      "referencia": "8502",
+      "tipo": "APARTAMENTO",
+      "precio": 1400000
+    },
+    {
+      "inmueble": "8601",
+      "referencia": "8601",
+      "tipo": "APARTAMENTO",
+      "precio": 1400000
+    },
+    {
+      "inmueble": "8302",
+      "referencia": "8302",
+      "tipo": "APARTAMENTO",
+      "precio": 1400000
+    },
+    {
+      "inmueble": "8602",
+      "referencia": "8602",
+      "tipo": "APARTAMENTO",
+      "precio": 1400000
+    },
+    {
+      "inmueble": "8401",
+      "referencia": "8401",
+      "tipo": "APARTAMENTO",
+      "precio": 1400000
+    }
+  ]
+}

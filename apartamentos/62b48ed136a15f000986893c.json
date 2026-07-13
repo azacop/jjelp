@@ -1,0 +1,114 @@
+{
+  "co_ownership_id": "62b48ed136a15f000986893c",
+  "co_ownership_name": "CONDOMINIO CAMPESTRE EL PARAISO",
+  "address": "VÍA KM # 1 2 VIA SAN JUAN DE ARAMA",
+  "city": "Granada",
+  "department": "Meta",
+  "country": "COLOMBIA",
+  "agreement_number": "1463223",
+  "total": 17,
+  "apartamentos": [
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "CASA",
+      "precio": 410176
+    },
+    {
+      "inmueble": "11",
+      "referencia": "11",
+      "tipo": "OTROS",
+      "precio": 274197
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 293174
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 271358
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "OTROS",
+      "precio": 273182
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "OTROS",
+      "precio": 273923
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "OTROS",
+      "precio": 271276
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "OTROS",
+      "precio": 271052
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "OTROS",
+      "precio": 276341
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 275915
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 274430
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 277200
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "OTROS",
+      "precio": 277154
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "OTROS",
+      "precio": 296909
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 296866
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 276866
+    }
+  ]
+}

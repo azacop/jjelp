@@ -1,0 +1,108 @@
+{
+  "co_ownership_id": "65b17d6f46b328000f2f060a",
+  "co_ownership_name": "KR 38 EDIFICIO SAN NICOLAS PLAZA PH",
+  "address": "KR 38  56  47",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1204528",
+  "total": 16,
+  "apartamentos": [
+    {
+      "inmueble": "3303",
+      "referencia": "3303",
+      "tipo": "APARTAMENTO",
+      "precio": 424000
+    },
+    {
+      "inmueble": "2201",
+      "referencia": "2201",
+      "tipo": "APARTAMENTO",
+      "precio": 505000
+    },
+    {
+      "inmueble": "5502",
+      "referencia": "5502",
+      "tipo": "APARTAMENTO",
+      "precio": 300000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 350500
+    },
+    {
+      "inmueble": "4401",
+      "referencia": "4401",
+      "tipo": "APARTAMENTO",
+      "precio": 504000
+    },
+    {
+      "inmueble": "5503",
+      "referencia": "5503",
+      "tipo": "APARTAMENTO",
+      "precio": 423000
+    },
+    {
+      "inmueble": "2202",
+      "referencia": "2202",
+      "tipo": "APARTAMENTO",
+      "precio": 299000
+    },
+    {
+      "inmueble": "4402",
+      "referencia": "4402",
+      "tipo": "APARTAMENTO",
+      "precio": 301000
+    },
+    {
+      "inmueble": "6601",
+      "referencia": "6601",
+      "tipo": "APARTAMENTO",
+      "precio": 563000
+    },
+    {
+      "inmueble": "2203",
+      "referencia": "2203",
+      "tipo": "APARTAMENTO",
+      "precio": 423000
+    },
+    {
+      "inmueble": "4403",
+      "referencia": "4403",
+      "tipo": "APARTAMENTO",
+      "precio": 421000
+    },
+    {
+      "inmueble": "6602",
+      "referencia": "6602",
+      "tipo": "APARTAMENTO",
+      "precio": 301000
+    },
+    {
+      "inmueble": "3301",
+      "referencia": "3301",
+      "tipo": "APARTAMENTO",
+      "precio": 506000
+    },
+    {
+      "inmueble": "5501",
+      "referencia": "5501",
+      "tipo": "APARTAMENTO",
+      "precio": 505000
+    },
+    {
+      "inmueble": "6603",
+      "referencia": "6603",
+      "tipo": "APARTAMENTO",
+      "precio": 424000
+    },
+    {
+      "inmueble": "3302",
+      "referencia": "3302",
+      "tipo": "APARTAMENTO",
+      "precio": 299000
+    }
+  ]
+}

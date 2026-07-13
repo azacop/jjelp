@@ -1,0 +1,66 @@
+{
+  "co_ownership_id": "68adb7d522cea82215e028b5",
+  "co_ownership_name": "AGRU RESID ACACIAS DE BAVARIA PH",
+  "address": "CALLE 174 60 40",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1609312",
+  "total": 9,
+  "apartamentos": [
+    {
+      "inmueble": "CASA 6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1605000
+    },
+    {
+      "inmueble": "CASA 7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 1605000
+    },
+    {
+      "inmueble": "CASA 8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 1605000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "CASA 1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 1605000
+    },
+    {
+      "inmueble": "CASA 2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 1605000
+    },
+    {
+      "inmueble": "CASA 3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1605000
+    },
+    {
+      "inmueble": "CASA 4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1605000
+    },
+    {
+      "inmueble": "CASA 5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 1605000
+    }
+  ]
+}

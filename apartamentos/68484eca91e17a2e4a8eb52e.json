@@ -1,0 +1,72 @@
+{
+  "co_ownership_id": "68484eca91e17a2e4a8eb52e",
+  "co_ownership_name": "UNIDAD RES  AGUAMARINA MALL",
+  "address": "TV 51 B 64 B 85",
+  "city": "Medellín",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1597632",
+  "total": 10,
+  "apartamentos": [
+    {
+      "inmueble": "LC0006",
+      "referencia": "6",
+      "tipo": "LOCAL",
+      "precio": 897511
+    },
+    {
+      "inmueble": "LC0007",
+      "referencia": "7",
+      "tipo": "LOCAL",
+      "precio": 968139
+    },
+    {
+      "inmueble": "LC0008",
+      "referencia": "8",
+      "tipo": "LOCAL",
+      "precio": 1043331
+    },
+    {
+      "inmueble": "LC0009",
+      "referencia": "9",
+      "tipo": "LOCAL",
+      "precio": 7924371
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "LC0001",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 4568141
+    },
+    {
+      "inmueble": "LC0002",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 1043331
+    },
+    {
+      "inmueble": "LC0003",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 1954789
+    },
+    {
+      "inmueble": "LC0004",
+      "referencia": "4",
+      "tipo": "LOCAL",
+      "precio": 659064
+    },
+    {
+      "inmueble": "LC0005",
+      "referencia": "5",
+      "tipo": "LOCAL",
+      "precio": 642243
+    }
+  ]
+}

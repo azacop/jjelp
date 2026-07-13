@@ -1,0 +1,240 @@
+{
+  "co_ownership_id": "68d41dd89b2877529950f2c1",
+  "co_ownership_name": "CENTRO MEDICO COUNTRY 80 ET 1 PH",
+  "address": "CR 18 80 32",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1612076",
+  "total": 38,
+  "apartamentos": [
+    {
+      "inmueble": " CONS401",
+      "referencia": "401",
+      "tipo": "OTROS",
+      "precio": 1400700
+    },
+    {
+      "inmueble": " CONS402",
+      "referencia": "402",
+      "tipo": "OTROS",
+      "precio": 697800
+    },
+    {
+      "inmueble": " CONS403",
+      "referencia": "403",
+      "tipo": "OTROS",
+      "precio": 818300
+    },
+    {
+      "inmueble": " CONS404",
+      "referencia": "404",
+      "tipo": "OTROS",
+      "precio": 834900
+    },
+    {
+      "inmueble": " CONS405",
+      "referencia": "405",
+      "tipo": "OTROS",
+      "precio": 1389700
+    },
+    {
+      "inmueble": " CONS406",
+      "referencia": "406",
+      "tipo": "OTROS",
+      "precio": 2057000
+    },
+    {
+      "inmueble": " CONS201",
+      "referencia": "201",
+      "tipo": "OTROS",
+      "precio": 1845000
+    },
+    {
+      "inmueble": " CONS411",
+      "referencia": "411",
+      "tipo": "OTROS",
+      "precio": 714200
+    },
+    {
+      "inmueble": " CONS203",
+      "referencia": "203",
+      "tipo": "OTROS",
+      "precio": 818300
+    },
+    {
+      "inmueble": "CONS501",
+      "referencia": "501",
+      "tipo": "OTROS",
+      "precio": 9235800
+    },
+    {
+      "inmueble": " CONS407",
+      "referencia": "407",
+      "tipo": "OTROS",
+      "precio": 3028000
+    },
+    {
+      "inmueble": " CONS408",
+      "referencia": "408",
+      "tipo": "OTROS",
+      "precio": 728500
+    },
+    {
+      "inmueble": " CONS204",
+      "referencia": "204",
+      "tipo": "OTROS",
+      "precio": 834900
+    },
+    {
+      "inmueble": "JELPIT999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": " CONS409",
+      "referencia": "409",
+      "tipo": "OTROS",
+      "precio": 733700
+    },
+    {
+      "inmueble": " CONS205",
+      "referencia": "205",
+      "tipo": "OTROS",
+      "precio": 1418100
+    },
+    {
+      "inmueble": " CONS206",
+      "referencia": "206",
+      "tipo": "OTROS",
+      "precio": 1603700
+    },
+    {
+      "inmueble": " CONS410",
+      "referencia": "410",
+      "tipo": "OTROS",
+      "precio": 845500
+    },
+    {
+      "inmueble": "CONS310",
+      "referencia": "310",
+      "tipo": "OTROS",
+      "precio": 730500
+    },
+    {
+      "inmueble": " CONS207",
+      "referencia": "207",
+      "tipo": "OTROS",
+      "precio": 1914600
+    },
+    {
+      "inmueble": "CONS311",
+      "referencia": "311",
+      "tipo": "OTROS",
+      "precio": 1098500
+    },
+    {
+      "inmueble": " CONS209",
+      "referencia": "209",
+      "tipo": "OTROS",
+      "precio": 726100
+    },
+    {
+      "inmueble": " CONS210",
+      "referencia": "210",
+      "tipo": "OTROS",
+      "precio": 730500
+    },
+    {
+      "inmueble": "CONS312",
+      "referencia": "312",
+      "tipo": "OTROS",
+      "precio": 652100
+    },
+    {
+      "inmueble": " CONS211",
+      "referencia": "211",
+      "tipo": "OTROS",
+      "precio": 731400
+    },
+    {
+      "inmueble": "CONS313",
+      "referencia": "313",
+      "tipo": "OTROS",
+      "precio": 845500
+    },
+    {
+      "inmueble": " CONS212",
+      "referencia": "212",
+      "tipo": "OTROS",
+      "precio": 733700
+    },
+    {
+      "inmueble": "CONS314",
+      "referencia": "314",
+      "tipo": "OTROS",
+      "precio": 714200
+    },
+    {
+      "inmueble": " CONS304",
+      "referencia": "304",
+      "tipo": "OTROS",
+      "precio": 808600
+    },
+    {
+      "inmueble": " CONS305",
+      "referencia": "305",
+      "tipo": "OTROS",
+      "precio": 1418100
+    },
+    {
+      "inmueble": " CONS306",
+      "referencia": "306",
+      "tipo": "OTROS",
+      "precio": 1603700
+    },
+    {
+      "inmueble": " CONS307",
+      "referencia": "307",
+      "tipo": "OTROS",
+      "precio": 1914600
+    },
+    {
+      "inmueble": "CONS309",
+      "referencia": "309",
+      "tipo": "OTROS",
+      "precio": 726100
+    },
+    {
+      "inmueble": " CONS213",
+      "referencia": "213",
+      "tipo": "OTROS",
+      "precio": 845500
+    },
+    {
+      "inmueble": " CONS214",
+      "referencia": "214",
+      "tipo": "OTROS",
+      "precio": 714200
+    },
+    {
+      "inmueble": " CONS301",
+      "referencia": "301",
+      "tipo": "OTROS",
+      "precio": 1016400
+    },
+    {
+      "inmueble": " CONS302",
+      "referencia": "302",
+      "tipo": "OTROS",
+      "precio": 799000
+    },
+    {
+      "inmueble": " CONS303",
+      "referencia": "303",
+      "tipo": "OTROS",
+      "precio": 1103700
+    }
+  ]
+}

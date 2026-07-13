@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "691731661644cf44658bec8a",
+  "co_ownership_name": "EDIFICIO GUASAYALTA PH",
+  "address": "CR 2 110 30",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1620988",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "A 106",
+      "referencia": "106",
+      "tipo": "APARTAMENTO",
+      "precio": 1456000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "A 101",
+      "referencia": "101",
+      "tipo": "APARTAMENTO",
+      "precio": 991000
+    },
+    {
+      "inmueble": "A 102",
+      "referencia": "102",
+      "tipo": "APARTAMENTO",
+      "precio": 1463000
+    },
+    {
+      "inmueble": "A 103",
+      "referencia": "103",
+      "tipo": "APARTAMENTO",
+      "precio": 1297000
+    },
+    {
+      "inmueble": "A 104",
+      "referencia": "104",
+      "tipo": "APARTAMENTO",
+      "precio": 1359000
+    },
+    {
+      "inmueble": "A 105",
+      "referencia": "105",
+      "tipo": "APARTAMENTO",
+      "precio": 1670000
+    }
+  ]
+}

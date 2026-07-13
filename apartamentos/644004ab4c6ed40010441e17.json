@@ -1,0 +1,258 @@
+{
+  "co_ownership_id": "644004ab4c6ed40010441e17",
+  "co_ownership_name": "EDIFICIO KBC KALINKA BUSINESS CENTER BUCARAMANGA",
+  "address": "Calle 49 27A-65 Sotomayor",
+  "city": "Bucaramanga",
+  "department": "Santander",
+  "country": "COLOMBIA",
+  "agreement_number": "1408822",
+  "total": 41,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "LOCAL",
+      "precio": 361901
+    },
+    {
+      "inmueble": "105",
+      "referencia": "105",
+      "tipo": "OTROS",
+      "precio": 273915
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "OTROS",
+      "precio": 737023
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "OTROS",
+      "precio": 728241
+    },
+    {
+      "inmueble": "506",
+      "referencia": "506",
+      "tipo": "OTROS",
+      "precio": 425756
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "OTROS",
+      "precio": 418043
+    },
+    {
+      "inmueble": "106",
+      "referencia": "106",
+      "tipo": "OTROS",
+      "precio": 425716
+    },
+    {
+      "inmueble": "101",
+      "referencia": "101",
+      "tipo": "OTROS",
+      "precio": 327811
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "OTROS",
+      "precio": 1559861
+    },
+    {
+      "inmueble": "702",
+      "referencia": "702",
+      "tipo": "OTROS",
+      "precio": 344372
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "OTROS",
+      "precio": 353125
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "LOCAL",
+      "precio": 257402
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "OTROS",
+      "precio": 355344
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "OTROS",
+      "precio": 749000
+    },
+    {
+      "inmueble": "102",
+      "referencia": "102",
+      "tipo": "OTROS",
+      "precio": 399312
+    },
+    {
+      "inmueble": "703",
+      "referencia": "703",
+      "tipo": "OTROS",
+      "precio": 350973
+    },
+    {
+      "inmueble": "405",
+      "referencia": "405",
+      "tipo": "OTROS",
+      "precio": 357545
+    },
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "OTROS",
+      "precio": 330021
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "OTROS",
+      "precio": 823963
+    },
+    {
+      "inmueble": "103",
+      "referencia": "103",
+      "tipo": "OTROS",
+      "precio": 399313
+    },
+    {
+      "inmueble": "704",
+      "referencia": "704",
+      "tipo": "OTROS",
+      "precio": 344374
+    },
+    {
+      "inmueble": "701",
+      "referencia": "701",
+      "tipo": "OTROS",
+      "precio": 344371
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "OTROS",
+      "precio": 388322
+    },
+    {
+      "inmueble": "406",
+      "referencia": "406",
+      "tipo": "OTROS",
+      "precio": 432346
+    },
+    {
+      "inmueble": "206",
+      "referencia": "206",
+      "tipo": "OTROS",
+      "precio": 425726
+    },
+    {
+      "inmueble": "104",
+      "referencia": "104",
+      "tipo": "OTROS",
+      "precio": 273914
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "OTROS",
+      "precio": 389432
+    },
+    {
+      "inmueble": "705",
+      "referencia": "705",
+      "tipo": "OTROS",
+      "precio": 344375
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "LOCAL",
+      "precio": 145203
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "OTROS",
+      "precio": 399333
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "OTROS",
+      "precio": 330031
+    },
+    {
+      "inmueble": "706",
+      "referencia": "706",
+      "tipo": "OTROS",
+      "precio": 391676
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "OTROS",
+      "precio": 349834
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "OTROS",
+      "precio": 352035
+    },
+    {
+      "inmueble": "306",
+      "referencia": "306",
+      "tipo": "OTROS",
+      "precio": 425736
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "OTROS",
+      "precio": 330051
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "OTROS",
+      "precio": 388352
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "OTROS",
+      "precio": 399353
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "OTROS",
+      "precio": 349854
+    },
+    {
+      "inmueble": "505",
+      "referencia": "505",
+      "tipo": "OTROS",
+      "precio": 353155
+    }
+  ]
+}

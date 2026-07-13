@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "67e2b21a1769923fa4231f6f",
+  "co_ownership_name": "BODECOL SAS",
+  "address": "CRA 43 A 1 SUR 31",
+  "city": "Medellín",
+  "department": "Antioquia",
+  "country": "COLOMBIA",
+  "agreement_number": "1585553",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "3021",
+      "referencia": "3021",
+      "tipo": "APARTAMENTO",
+      "precio": 8396381
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "1022",
+      "referencia": "1022",
+      "tipo": "APARTAMENTO",
+      "precio": 152052399
+    },
+    {
+      "inmueble": "1021",
+      "referencia": "1021",
+      "tipo": "APARTAMENTO",
+      "precio": 18056122
+    },
+    {
+      "inmueble": "1024",
+      "referencia": "1024",
+      "tipo": "APARTAMENTO",
+      "precio": 40839567
+    },
+    {
+      "inmueble": "3022",
+      "referencia": "3022",
+      "tipo": "APARTAMENTO",
+      "precio": 9567600
+    },
+    {
+      "inmueble": "3023",
+      "referencia": "3023",
+      "tipo": "APARTAMENTO",
+      "precio": 17440783
+    }
+  ]
+}

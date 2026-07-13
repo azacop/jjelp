@@ -1,0 +1,18 @@
+{
+  "co_ownership_id": "663a5e69f020fe00104598c2",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL ARBOLEDA REAL",
+  "address": "CR 2 ESTE 80 69",
+  "city": "Tunja",
+  "department": "Boyacá",
+  "country": "COLOMBIA",
+  "agreement_number": "1538164",
+  "total": 1,
+  "apartamentos": [
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

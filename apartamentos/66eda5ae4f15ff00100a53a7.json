@@ -1,0 +1,78 @@
+{
+  "co_ownership_id": "66eda5ae4f15ff00100a53a7",
+  "co_ownership_name": "AGRUP RESID KUBIK VERDE ETAPA 2F",
+  "address": "VDA MEUSA",
+  "city": "Sopó",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1561091",
+  "total": 11,
+  "apartamentos": [
+    {
+      "inmueble": "F1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "F6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "F2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "F7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "F3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "F4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "F8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "F5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "F9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "F10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 1000000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

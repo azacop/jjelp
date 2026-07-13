@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "66395942007c1000112420af",
+  "co_ownership_name": "INGENIA PLUS PH SAS",
+  "address": "CR 77 M 73 C 04",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1538354",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "8301169661",
+      "referencia": "8301169661",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "9002570765",
+      "referencia": "9002570765",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "9999999999",
+      "referencia": "9999999999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "9000041904",
+      "referencia": "9000041904",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "9002570442",
+      "referencia": "9002570442",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "9003424789",
+      "referencia": "9003424789",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    },
+    {
+      "inmueble": "8301322978",
+      "referencia": "8301322978",
+      "tipo": "APARTAMENTO",
+      "precio": 500000
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "co_ownership_id": "66798a4224a89b0010194d07",
+  "co_ownership_name": "CBH FINCA RAIZ SAS - NORTE",
+  "address": "CR  15 58 57 SUR",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1545623",
+  "total": 7,
+  "apartamentos": [
+    {
+      "inmueble": "100",
+      "referencia": "100",
+      "tipo": "APARTAMENTO",
+      "precio": 4940432
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "812",
+      "referencia": "812",
+      "tipo": "APARTAMENTO",
+      "precio": 2069326
+    },
+    {
+      "inmueble": "905",
+      "referencia": "905",
+      "tipo": "APARTAMENTO",
+      "precio": 1950684
+    },
+    {
+      "inmueble": "MIRAMON939",
+      "referencia": "939",
+      "tipo": "APARTAMENTO",
+      "precio": 2156600
+    },
+    {
+      "inmueble": "LIMONAR403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 1500000
+    },
+    {
+      "inmueble": "BODEGA 55",
+      "referencia": "900",
+      "tipo": null,
+      "precio": 26180000
+    }
+  ]
+}

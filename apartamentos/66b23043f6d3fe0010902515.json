@@ -1,0 +1,36 @@
+{
+  "co_ownership_id": "66b23043f6d3fe0010902515",
+  "co_ownership_name": "CONJ RESIDENCIAL INGRUMA I IMPRE",
+  "address": "CR 69 80 20",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1553742",
+  "total": 4,
+  "apartamentos": [
+    {
+      "inmueble": "9996",
+      "referencia": "9996",
+      "tipo": "OTROS",
+      "precio": 30000
+    },
+    {
+      "inmueble": "9997",
+      "referencia": "9997",
+      "tipo": "OTROS",
+      "precio": 15000
+    },
+    {
+      "inmueble": "9998",
+      "referencia": "9998",
+      "tipo": "OTROS",
+      "precio": 150000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

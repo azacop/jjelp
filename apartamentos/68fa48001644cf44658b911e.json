@@ -1,0 +1,126 @@
+{
+  "co_ownership_id": "68fa48001644cf44658b911e",
+  "co_ownership_name": "AGRU RESI CAMPESTRE EL TRIANGULO",
+  "address": "VEREDA DE FAGUA",
+  "city": "Chía",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1618081",
+  "total": 19,
+  "apartamentos": [
+    {
+      "inmueble": "C6",
+      "referencia": "6",
+      "tipo": "CASA",
+      "precio": 840000
+    },
+    {
+      "inmueble": "C16",
+      "referencia": "16",
+      "tipo": "CASA",
+      "precio": 726000
+    },
+    {
+      "inmueble": "C17",
+      "referencia": "17",
+      "tipo": "CASA",
+      "precio": 574000
+    },
+    {
+      "inmueble": "C7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 615000
+    },
+    {
+      "inmueble": "C18",
+      "referencia": "18",
+      "tipo": "CASA",
+      "precio": 582000
+    },
+    {
+      "inmueble": "C8",
+      "referencia": "8",
+      "tipo": "CASA",
+      "precio": 688000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "C9",
+      "referencia": "9",
+      "tipo": "CASA",
+      "precio": 634000
+    },
+    {
+      "inmueble": "C10",
+      "referencia": "10",
+      "tipo": "CASA",
+      "precio": 587000
+    },
+    {
+      "inmueble": "C11",
+      "referencia": "11",
+      "tipo": "CASA",
+      "precio": 779000
+    },
+    {
+      "inmueble": "C12",
+      "referencia": "12",
+      "tipo": "CASA",
+      "precio": 623000
+    },
+    {
+      "inmueble": "C13",
+      "referencia": "13",
+      "tipo": "CASA",
+      "precio": 754000
+    },
+    {
+      "inmueble": "C14",
+      "referencia": "14",
+      "tipo": "CASA",
+      "precio": 802000
+    },
+    {
+      "inmueble": "C15",
+      "referencia": "15",
+      "tipo": "CASA",
+      "precio": 741000
+    },
+    {
+      "inmueble": "C1",
+      "referencia": "1",
+      "tipo": "CASA",
+      "precio": 831000
+    },
+    {
+      "inmueble": "C2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 579000
+    },
+    {
+      "inmueble": "C3",
+      "referencia": "3",
+      "tipo": "CASA",
+      "precio": 652000
+    },
+    {
+      "inmueble": "C4",
+      "referencia": "4",
+      "tipo": "CASA",
+      "precio": 834000
+    },
+    {
+      "inmueble": "C5",
+      "referencia": "5",
+      "tipo": "CASA",
+      "precio": 889000
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "co_ownership_id": "6528119c14aa5b00104d20ad",
+  "co_ownership_name": "CONDOMINIO RESIDENCIAL LA FLORESTA",
+  "address": "CRA 14 NORTE 10",
+  "city": "Armenia",
+  "department": "Quindio",
+  "country": "COLOMBIA",
+  "agreement_number": "1514587",
+  "total": 14,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "101",
+      "tipo": "CASA",
+      "precio": 410000
+    },
+    {
+      "inmueble": "2",
+      "referencia": "102",
+      "tipo": "CASA",
+      "precio": 410000
+    },
+    {
+      "inmueble": "6",
+      "referencia": "301",
+      "tipo": "CASA",
+      "precio": 410000
+    },
+    {
+      "inmueble": "3",
+      "referencia": "103",
+      "tipo": "CASA",
+      "precio": 410000
+    },
+    {
+      "inmueble": "7",
+      "referencia": "302",
+      "tipo": "CASA",
+      "precio": 410000
+    },
+    {
+      "inmueble": "4",
+      "referencia": "201",
+      "tipo": "CASA",
+      "precio": 410000
+    },
+    {
+      "inmueble": "8",
+      "referencia": "401",
+      "tipo": "CASA",
+      "precio": 410000
+    },
+    {
+      "inmueble": "5",
+      "referencia": "202",
+      "tipo": "CASA",
+      "precio": 410000
+    },
+    {
+      "inmueble": "9",
+      "referencia": "501",
+      "tipo": "CASA",
+      "precio": 410000
+    },
+    {
+      "inmueble": "10",
+      "referencia": "601",
+      "tipo": "CASA",
+      "precio": 410000
+    },
+    {
+      "inmueble": "11",
+      "referencia": "701",
+      "tipo": "CASA",
+      "precio": 410000
+    },
+    {
+      "inmueble": "12",
+      "referencia": "801",
+      "tipo": "CASA",
+      "precio": 410000
+    },
+    {
+      "inmueble": "13",
+      "referencia": "900",
+      "tipo": "LOCAL",
+      "precio": 260000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

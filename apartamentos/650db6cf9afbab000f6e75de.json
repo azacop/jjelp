@@ -1,0 +1,24 @@
+{
+  "co_ownership_id": "650db6cf9afbab000f6e75de",
+  "co_ownership_name": "PROYECTO TERRANOVA",
+  "address": "Sin direccion ",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1137934",
+  "total": 2,
+  "apartamentos": [
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "co_ownership_id": "6351b5ea76a5530009877636",
+  "co_ownership_name": "CONDOMINIO CAMPESTRE EL PORTAL MELGAR",
+  "address": "KM 3 VIA AL CARMEN DE APICALA",
+  "city": "Melgar",
+  "department": "Tolima",
+  "country": "COLOMBIA",
+  "agreement_number": "1317452",
+  "total": 40,
+  "apartamentos": [
+    {
+      "inmueble": "18",
+      "referencia": "18",
+      "tipo": "APARTAMENTO",
+      "precio": 436000
+    },
+    {
+      "inmueble": "23",
+      "referencia": "23",
+      "tipo": "APARTAMENTO",
+      "precio": 266500
+    },
+    {
+      "inmueble": "34",
+      "referencia": "34",
+      "tipo": "APARTAMENTO",
+      "precio": 397200
+    },
+    {
+      "inmueble": "12",
+      "referencia": "12",
+      "tipo": "APARTAMENTO",
+      "precio": 410100
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "CASA",
+      "precio": 369800
+    },
+    {
+      "inmueble": "21",
+      "referencia": "21",
+      "tipo": "CASA",
+      "precio": 405400
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "APARTAMENTO",
+      "precio": 384400
+    },
+    {
+      "inmueble": "19",
+      "referencia": "19",
+      "tipo": "APARTAMENTO",
+      "precio": 455300
+    },
+    {
+      "inmueble": "36",
+      "referencia": "36",
+      "tipo": "APARTAMENTO",
+      "precio": 384400
+    },
+    {
+      "inmueble": "38",
+      "referencia": "38",
+      "tipo": "APARTAMENTO",
+      "precio": 345600
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "APARTAMENTO",
+      "precio": 395700
+    },
+    {
+      "inmueble": "41",
+      "referencia": "41",
+      "tipo": "APARTAMENTO",
+      "precio": 280900
+    },
+    {
+      "inmueble": "28",
+      "referencia": "28",
+      "tipo": "APARTAMENTO",
+      "precio": 413400
+    },
+    {
+      "inmueble": "39",
+      "referencia": "39",
+      "tipo": "APARTAMENTO",
+      "precio": 379500
+    },
+    {
+      "inmueble": "22",
+      "referencia": "22",
+      "tipo": "CASA",
+      "precio": 377900
+    },
+    {
+      "inmueble": "37",
+      "referencia": "37",
+      "tipo": "APARTAMENTO",
+      "precio": 397200
+    },
+    {
+      "inmueble": "35",
+      "referencia": "35",
+      "tipo": "APARTAMENTO",
+      "precio": 331000
+    },
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "APARTAMENTO",
+      "precio": 444000
+    },
+    {
+      "inmueble": "40",
+      "referencia": "40",
+      "tipo": "APARTAMENTO",
+      "precio": 308400
+    },
+    {
+      "inmueble": "13",
+      "referencia": "13",
+      "tipo": "APARTAMENTO",
+      "precio": 415000
+    },
+    {
+      "inmueble": "31",
+      "referencia": "31",
+      "tipo": "APARTAMENTO",
+      "precio": 345600
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "APARTAMENTO",
+      "precio": 757300
+    },
+    {
+      "inmueble": "30",
+      "referencia": "30",
+      "tipo": "APARTAMENTO",
+      "precio": 287400
+    },
+    {
+      "inmueble": "27",
+      "referencia": "27",
+      "tipo": "APARTAMENTO",
+      "precio": 930100
+    },
+    {
+      "inmueble": "14",
+      "referencia": "14",
+      "tipo": "APARTAMENTO",
+      "precio": 419800
+    },
+    {
+      "inmueble": "20",
+      "referencia": "20",
+      "tipo": "APARTAMENTO",
+      "precio": 634700
+    },
+    {
+      "inmueble": "33",
+      "referencia": "33",
+      "tipo": "APARTAMENTO",
+      "precio": 453700
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "APARTAMENTO",
+      "precio": 398800
+    },
+    {
+      "inmueble": "24",
+      "referencia": "24",
+      "tipo": "APARTAMENTO",
+      "precio": 248700
+    },
+    {
+      "inmueble": "42",
+      "referencia": "42",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "APARTAMENTO",
+      "precio": 810600
+    },
+    {
+      "inmueble": "26",
+      "referencia": "26",
+      "tipo": "APARTAMENTO",
+      "precio": 263200
+    },
+    {
+      "inmueble": "29",
+      "referencia": "29",
+      "tipo": "APARTAMENTO",
+      "precio": 339100
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "APARTAMENTO",
+      "precio": 371400
+    },
+    {
+      "inmueble": "25",
+      "referencia": "25",
+      "tipo": "APARTAMENTO",
+      "precio": 247000
+    },
+    {
+      "inmueble": "15",
+      "referencia": "15",
+      "tipo": "APARTAMENTO",
+      "precio": 424700
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "CASA",
+      "precio": 389200
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "32",
+      "referencia": "32",
+      "tipo": "APARTAMENTO",
+      "precio": 369800
+    },
+    {
+      "inmueble": "16",
+      "referencia": "16",
+      "tipo": "APARTAMENTO",
+      "precio": 859100
+    }
+  ]
+}

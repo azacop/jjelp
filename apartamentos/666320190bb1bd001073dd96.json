@@ -1,0 +1,222 @@
+{
+  "co_ownership_id": "666320190bb1bd001073dd96",
+  "co_ownership_name": "EDIFICIO LONOVA APARTAMENTOS",
+  "address": "CR 7 1N 47",
+  "city": "Popayán",
+  "department": "Cauca",
+  "country": "COLOMBIA",
+  "agreement_number": "1542331",
+  "total": 35,
+  "apartamentos": [
+    {
+      "inmueble": "201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 344600
+    },
+    {
+      "inmueble": "301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 344600
+    },
+    {
+      "inmueble": "202",
+      "referencia": "202",
+      "tipo": "APARTAMENTO",
+      "precio": 264900
+    },
+    {
+      "inmueble": "302",
+      "referencia": "302",
+      "tipo": "APARTAMENTO",
+      "precio": 264900
+    },
+    {
+      "inmueble": "203",
+      "referencia": "203",
+      "tipo": "APARTAMENTO",
+      "precio": 525400
+    },
+    {
+      "inmueble": "303",
+      "referencia": "303",
+      "tipo": "APARTAMENTO",
+      "precio": 532400
+    },
+    {
+      "inmueble": "204",
+      "referencia": "204",
+      "tipo": "APARTAMENTO",
+      "precio": 287700
+    },
+    {
+      "inmueble": "304",
+      "referencia": "304",
+      "tipo": "APARTAMENTO",
+      "precio": 276200
+    },
+    {
+      "inmueble": "205",
+      "referencia": "205",
+      "tipo": "APARTAMENTO",
+      "precio": 370300
+    },
+    {
+      "inmueble": "305",
+      "referencia": "305",
+      "tipo": "APARTAMENTO",
+      "precio": 370300
+    },
+    {
+      "inmueble": "601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 344600
+    },
+    {
+      "inmueble": "602",
+      "referencia": "602",
+      "tipo": "APARTAMENTO",
+      "precio": 264900
+    },
+    {
+      "inmueble": "603",
+      "referencia": "603",
+      "tipo": "APARTAMENTO",
+      "precio": 525400
+    },
+    {
+      "inmueble": "604",
+      "referencia": "604",
+      "tipo": "APARTAMENTO",
+      "precio": 276200
+    },
+    {
+      "inmueble": "605",
+      "referencia": "605",
+      "tipo": "APARTAMENTO",
+      "precio": 370300
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 344600
+    },
+    {
+      "inmueble": "402",
+      "referencia": "402",
+      "tipo": "APARTAMENTO",
+      "precio": 264900
+    },
+    {
+      "inmueble": "403",
+      "referencia": "403",
+      "tipo": "APARTAMENTO",
+      "precio": 541100
+    },
+    {
+      "inmueble": "404",
+      "referencia": "404",
+      "tipo": "APARTAMENTO",
+      "precio": 290500
+    },
+    {
+      "inmueble": "405",
+      "referencia": "405",
+      "tipo": "APARTAMENTO",
+      "precio": 370300
+    },
+    {
+      "inmueble": "501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 344600
+    },
+    {
+      "inmueble": "502",
+      "referencia": "502",
+      "tipo": "APARTAMENTO",
+      "precio": 264900
+    },
+    {
+      "inmueble": "503",
+      "referencia": "503",
+      "tipo": "APARTAMENTO",
+      "precio": 528200
+    },
+    {
+      "inmueble": "504",
+      "referencia": "504",
+      "tipo": "APARTAMENTO",
+      "precio": 276200
+    },
+    {
+      "inmueble": "505",
+      "referencia": "505",
+      "tipo": "APARTAMENTO",
+      "precio": 370300
+    },
+    {
+      "inmueble": "P 01",
+      "referencia": "1",
+      "tipo": null,
+      "precio": 10
+    },
+    {
+      "inmueble": "P 02",
+      "referencia": "2",
+      "tipo": null,
+      "precio": 10
+    },
+    {
+      "inmueble": "P 03",
+      "referencia": "3",
+      "tipo": null,
+      "precio": 10
+    },
+    {
+      "inmueble": "P 04",
+      "referencia": "4",
+      "tipo": null,
+      "precio": 10
+    },
+    {
+      "inmueble": "B 12",
+      "referencia": "12",
+      "tipo": null,
+      "precio": 10
+    },
+    {
+      "inmueble": "B 11",
+      "referencia": "11",
+      "tipo": null,
+      "precio": 10
+    },
+    {
+      "inmueble": "LOC 101",
+      "referencia": "101",
+      "tipo": null,
+      "precio": 10
+    },
+    {
+      "inmueble": "LOC 102",
+      "referencia": "102",
+      "tipo": null,
+      "precio": 10
+    },
+    {
+      "inmueble": "LOC 103",
+      "referencia": "103",
+      "tipo": null,
+      "precio": 10
+    }
+  ]
+}

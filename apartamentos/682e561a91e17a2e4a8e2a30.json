@@ -1,0 +1,108 @@
+{
+  "co_ownership_id": "682e561a91e17a2e4a8e2a30",
+  "co_ownership_name": "CR MORAJI PH",
+  "address": "CLL 112 1 10 ESTE",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1593888",
+  "total": 16,
+  "apartamentos": [
+    {
+      "inmueble": "apto 201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 2400000
+    },
+    {
+      "inmueble": "apto 701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 2400000
+    },
+    {
+      "inmueble": "apto 301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 2400000
+    },
+    {
+      "inmueble": "apto 801",
+      "referencia": "801",
+      "tipo": "APARTAMENTO",
+      "precio": 2400000
+    },
+    {
+      "inmueble": "apto 401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 2400000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "apto 501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 2400000
+    },
+    {
+      "inmueble": "apto 601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 2400000
+    },
+    {
+      "inmueble": "apto 201",
+      "referencia": "201",
+      "tipo": "APARTAMENTO",
+      "precio": 2400000
+    },
+    {
+      "inmueble": "apto 701",
+      "referencia": "701",
+      "tipo": "APARTAMENTO",
+      "precio": 2400000
+    },
+    {
+      "inmueble": "apto 301",
+      "referencia": "301",
+      "tipo": "APARTAMENTO",
+      "precio": 2400000
+    },
+    {
+      "inmueble": "apto 801",
+      "referencia": "801",
+      "tipo": "APARTAMENTO",
+      "precio": 2400000
+    },
+    {
+      "inmueble": "apto 401",
+      "referencia": "401",
+      "tipo": "APARTAMENTO",
+      "precio": 2400000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 1
+    },
+    {
+      "inmueble": "apto 501",
+      "referencia": "501",
+      "tipo": "APARTAMENTO",
+      "precio": 2400000
+    },
+    {
+      "inmueble": "apto 601",
+      "referencia": "601",
+      "tipo": "APARTAMENTO",
+      "precio": 2400000
+    }
+  ]
+}

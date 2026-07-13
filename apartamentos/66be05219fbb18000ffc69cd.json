@@ -1,0 +1,78 @@
+{
+  "co_ownership_id": "66be05219fbb18000ffc69cd",
+  "co_ownership_name": "NEXOS ZONA LOGISTICA ETAPA I PH",
+  "address": "CR 2 NORTE 17 97 VIA ROMELIA EL POLLO TRONCAL DE OCCIDENTE",
+  "city": "Risaralda",
+  "department": "Caldas",
+  "country": "COLOMBIA",
+  "agreement_number": "1555275",
+  "total": 11,
+  "apartamentos": [
+    {
+      "inmueble": "1",
+      "referencia": "1",
+      "tipo": "OTROS",
+      "precio": 1312898
+    },
+    {
+      "inmueble": "6",
+      "referencia": "6",
+      "tipo": "OTROS",
+      "precio": 263689
+    },
+    {
+      "inmueble": "2",
+      "referencia": "2",
+      "tipo": "OTROS",
+      "precio": 973371
+    },
+    {
+      "inmueble": "7",
+      "referencia": "7",
+      "tipo": "OTROS",
+      "precio": 753400
+    },
+    {
+      "inmueble": "3",
+      "referencia": "3",
+      "tipo": "OTROS",
+      "precio": 974801
+    },
+    {
+      "inmueble": "8",
+      "referencia": "8",
+      "tipo": "OTROS",
+      "precio": 1740452
+    },
+    {
+      "inmueble": "4",
+      "referencia": "4",
+      "tipo": "OTROS",
+      "precio": 1284050
+    },
+    {
+      "inmueble": "9",
+      "referencia": "9",
+      "tipo": "OTROS",
+      "precio": 1195602
+    },
+    {
+      "inmueble": "5",
+      "referencia": "5",
+      "tipo": "OTROS",
+      "precio": 238577
+    },
+    {
+      "inmueble": "10",
+      "referencia": "10",
+      "tipo": "OTROS",
+      "precio": 2334000
+    },
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

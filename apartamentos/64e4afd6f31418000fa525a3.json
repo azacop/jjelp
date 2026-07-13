@@ -1,0 +1,78 @@
+{
+  "co_ownership_id": "64e4afd6f31418000fa525a3",
+  "co_ownership_name": "CENTRO EMPRESARIAL CHICO 4000 BOGOTA",
+  "address": "KR 19 104 37",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1368802",
+  "total": 11,
+  "apartamentos": [
+    {
+      "inmueble": "4000000",
+      "referencia": "4000000",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "4000013",
+      "referencia": "4000013",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "40000000",
+      "referencia": "40000000",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "4000014",
+      "referencia": "4000014",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "40000001",
+      "referencia": "40000001",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "400002",
+      "referencia": "400002",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "400001",
+      "referencia": "400001",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "4000012",
+      "referencia": "4000012",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "400004",
+      "referencia": "400004",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "400005",
+      "referencia": "400005",
+      "tipo": "APARTAMENTO",
+      "precio": 1
+    },
+    {
+      "inmueble": "99999999",
+      "referencia": "99999999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

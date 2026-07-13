@@ -1,0 +1,36 @@
+{
+  "co_ownership_id": "67053790026a3700108cfa07",
+  "co_ownership_name": "OTROS RESERVAS DE MADRID PALMAR",
+  "address": "CALLE 19 8 90 ESTE SM 2",
+  "city": "Madrid",
+  "department": "Cundinamarca",
+  "country": "COLOMBIA",
+  "agreement_number": "1563741",
+  "total": 4,
+  "apartamentos": [
+    {
+      "inmueble": "1004",
+      "referencia": "1004",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "1007",
+      "referencia": "1007",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "1005",
+      "referencia": "1005",
+      "tipo": "OTROS",
+      "precio": 100000
+    },
+    {
+      "inmueble": "9999",
+      "referencia": "9999",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}

@@ -1,0 +1,258 @@
+{
+  "co_ownership_id": "650cb4190c13b300103ad041",
+  "co_ownership_name": "CONJUNTO CERRADO RESERVA DE LOS ALAMOS PEREIRA",
+  "address": "CL 12 24 67 LOS ALAMOS",
+  "city": "Pereira",
+  "department": "Risaralda",
+  "country": "COLOMBIA",
+  "agreement_number": "1312099",
+  "total": 41,
+  "apartamentos": [
+    {
+      "inmueble": "211",
+      "referencia": "211",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "111",
+      "referencia": "111",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "232",
+      "referencia": "232",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "411",
+      "referencia": "411",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "332",
+      "referencia": "332",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "132",
+      "referencia": "132",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "212",
+      "referencia": "212",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "999",
+      "referencia": "999",
+      "tipo": "OTROS",
+      "precio": 9756
+    },
+    {
+      "inmueble": "112",
+      "referencia": "112",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "241",
+      "referencia": "241",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "412",
+      "referencia": "412",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "341",
+      "referencia": "341",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "221",
+      "referencia": "221",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "141",
+      "referencia": "141",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "121",
+      "referencia": "121",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "421",
+      "referencia": "421",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "242",
+      "referencia": "242",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "142",
+      "referencia": "142",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "311",
+      "referencia": "311",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "222",
+      "referencia": "222",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "342",
+      "referencia": "342",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "422",
+      "referencia": "422",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "312",
+      "referencia": "312",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "122",
+      "referencia": "122",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "251",
+      "referencia": "251",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "231",
+      "referencia": "231",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "151",
+      "referencia": "151",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "351",
+      "referencia": "351",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "321",
+      "referencia": "321",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "431",
+      "referencia": "431",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "131",
+      "referencia": "131",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "252",
+      "referencia": "252",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "152",
+      "referencia": "152",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "352",
+      "referencia": "352",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "432",
+      "referencia": "432",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "322",
+      "referencia": "322",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "441",
+      "referencia": "441",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "331",
+      "referencia": "331",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "442",
+      "referencia": "442",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "451",
+      "referencia": "451",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    },
+    {
+      "inmueble": "452",
+      "referencia": "452",
+      "tipo": "APARTAMENTO",
+      "precio": 10000
+    }
+  ]
+}

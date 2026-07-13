@@ -1,0 +1,18 @@
+{
+  "co_ownership_id": "650c8dc09be2a3000f6a509c",
+  "co_ownership_name": "CONJUNTO RESIDENCIAL CONDADO DE SAN PEDRO",
+  "address": "Cra. 55a #188-28",
+  "city": "Bogotá, D.C.",
+  "department": "Bogotá, D.C",
+  "country": "COLOMBIA",
+  "agreement_number": "1046960",
+  "total": 1,
+  "apartamentos": [
+    {
+      "inmueble": "99",
+      "referencia": "99",
+      "tipo": "OTROS",
+      "precio": 1
+    }
+  ]
+}
