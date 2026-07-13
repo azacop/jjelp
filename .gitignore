@@ -1,0 +1,5 @@
+.DS_Store
+*.zip
+sessions/
+scraper/
+all_apartamentos.json

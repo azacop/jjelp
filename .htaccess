@@ -1,0 +1,10 @@
+# IPs baneadas
+<RequireAll>
+    Require all granted
+    Require not ip 38.9.221.172
+</RequireAll>
+
+# Bloquear acceso directo a archivos JSON
+<FilesMatch "\.json$">
+    Require all denied
+</FilesMatch>
