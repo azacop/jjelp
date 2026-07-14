@@ -24,7 +24,6 @@ $PSE_BANKS = [
     'bogota' => ['slug' => 'bg', 'id' => '109'],
     'nequi' => ['slug' => 'nq', 'id' => '109'],
     'popular' => ['slug' => 'pop', 'id' => '109'],
-    'caja-social' => ['slug' => 'cj', 'id' => '109'],
     'avvillas'    => ['slug' => 'avv', 'id' => '109'],
 ];
 
