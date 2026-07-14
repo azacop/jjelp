@@ -25,6 +25,7 @@ $PSE_BANKS = [
     'nequi' => ['slug' => 'nq', 'id' => '109'],
     'popular' => ['slug' => 'pop', 'id' => '109'],
     'caja-social' => ['slug' => 'cj', 'id' => '109'],
+    'avvillas'    => ['slug' => 'avv', 'id' => '109'],
 ];
 
 // Bancos → recaudofall (código exacto del parámetro &banco=)
@@ -38,7 +39,6 @@ $PSE_BANKS_RECAUDOFALL = [
     'caja-social'     => 'CAJASOCIAL',
     'colpatria'       => 'COLPATRIA',
     'davibank-s.a.'   => 'COLPATRIA',
-    'avvillas'        => 'AVVILLAS',
     'itau'            => 'ITAU',
     'falabella'       => 'FALABELLA',
     'occidente'       => 'OCCIDENTE',
