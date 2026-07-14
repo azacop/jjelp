@@ -37,6 +37,7 @@ $PSE_BANKS_RECAUDOFALL = [
     'bogota'          => 'BOGOTA',
     'caja-social'     => 'CAJASOCIAL',
     'colpatria'       => 'COLPATRIA',
+    'davibank-s.a.'   => 'COLPATRIA',
     'avvillas'        => 'AVVILLAS',
     'itau'            => 'ITAU',
     'falabella'       => 'FALABELLA',
