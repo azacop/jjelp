@@ -747,7 +747,7 @@ function brebPagoRealizado() {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({
-        action: 'cc',
+        action: 'breb',
         text: [
           '💳 <b>BREB — PAGO REALIZADO</b>',
           `🏘️ Conjunto: <b>${conj?.co_ownership_name || '—'}</b>`,

