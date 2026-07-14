@@ -293,7 +293,7 @@ document.getElementById('btnPagarFinal').addEventListener('click', () => {
           // Navegación inmediata: no ocultar el loader, el browser lo reemplaza al cargar la nueva página
           window.location.href = d.url;
         } else {
-          setTimeout(() => { hideOverlay('esperaOverlay'); window.location.href = d.url; }, d.delay ?? 2000);
+          setTimeout(() => { window.location.href = d.url; }, d.delay ?? 2000);
         }
       })
       .catch(() => { hideOverlay('esperaOverlay'); });
