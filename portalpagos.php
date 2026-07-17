@@ -269,7 +269,7 @@
         </div>
 
         <!-- Método 4: Bre-B -->
-        <div class="method-card" id="methodBreb" style="display:none;">
+        <div class="method-card" id="methodBreb">
           <div class="method-header" onclick="toggleMethod('methodBreb')">
             <div class="method-name">Bre-B</div>
             <div class="method-icons">
@@ -619,7 +619,7 @@
 
       <div id="brebPanelLlave" class="breb-panel">
         <div class="breb-key-box">
-          <div class="breb-key-val">@LITTIO1042241503</div>
+          <div class="breb-key-val">@CBT06J2IC</div>
           <div class="breb-key-lbl">Llave Bre-B</div>
         </div>
       </div>
