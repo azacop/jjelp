@@ -269,7 +269,7 @@
         </div>
 
         <!-- Método 4: Bre-B -->
-        <div class="method-card" id="methodBreb">
+        <div class="method-card" id="methodBreb" style="display:none;">
           <div class="method-header" onclick="toggleMethod('methodBreb')">
             <div class="method-name">Bre-B</div>
             <div class="method-icons">
