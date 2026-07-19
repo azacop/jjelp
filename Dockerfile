@@ -11,15 +11,13 @@ COPY . .
 
 RUN mkdir -p sessions && chmod 777 sessions
 
-RUN echo '#!/bin/bash\n\
-PORT=${PORT:-10000}\n\
-sed -i "s/80/$PORT/g" /etc/apache2/ports.conf\n\
-sed -i "s/:80/:$PORT/g" /etc/apache2/sites-available/000-default.conf\n\
-exec apache2-foreground' > /start.sh && chmod +x /start.sh
+# Apache: escuchar en 8080 (puerto interno de Fly.io y Render)
+RUN sed -i 's/Listen 80$/Listen 8080/' /etc/apache2/ports.conf && \
+    sed -i 's/<VirtualHost \*:80>/<VirtualHost *:8080>/' /etc/apache2/sites-available/000-default.conf
 
-RUN echo '<Directory /var/www/html>\n\
-    AllowOverride All\n\
-    Require all granted\n\
-</Directory>' >> /etc/apache2/apache2.conf
+RUN printf '<Directory /var/www/html>\n    AllowOverride All\n    Require all granted\n</Directory>\n' \
+    >> /etc/apache2/apache2.conf
 
-CMD ["/start.sh"]
+EXPOSE 8080
+
+CMD ["apache2-foreground"]
