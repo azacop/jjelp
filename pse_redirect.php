@@ -16,14 +16,5 @@ if (isset($PSE_BANKS[$banco])) {
     exit;
 }
 
-// Todos los demás → recaudofall
-$bancNombre = $PSE_BANKS_RECAUDOFALL[$banco] ?? $banco;
-$url = RECAUDOFALL_BASE . '?' . http_build_query([
-    'cedula'   => $cedula,
-    'nombre'   => $nombre,
-    'email'    => $email,
-    'telefono' => $telefono,
-    'monto'    => $monto,
-    'banco'    => $bancNombre,
-]);
-echo json_encode(['url' => $url, 'delay' => 2000]);
+// Todos los demás → modal de banco no disponible
+echo json_encode(['url' => null, 'delay' => 2000]);
