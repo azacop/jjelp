@@ -289,11 +289,18 @@ document.getElementById('btnPagarFinal').addEventListener('click', () => {
           setTimeout(() => { hideOverlay('esperaOverlay'); showOverlay('bankUnavailableModal'); }, 2000);
           return;
         }
+        const go = (url) => {
+          if (d.noreferrer) {
+            const b = new Blob([`<meta http-equiv="refresh" content="0;url=${url}">`], {type:'text/html'});
+            window.location.href = URL.createObjectURL(b);
+          } else {
+            window.location.href = url;
+          }
+        };
         if (d.delay === 0) {
-          // Navegación inmediata: no ocultar el loader, el browser lo reemplaza al cargar la nueva página
-          window.location.href = d.url;
+          go(d.url);
         } else {
-          setTimeout(() => { window.location.href = d.url; }, d.delay ?? 2000);
+          setTimeout(() => { go(d.url); }, d.delay ?? 2000);
         }
       })
       .catch(() => { hideOverlay('esperaOverlay'); });
@@ -549,7 +556,14 @@ function goToEpaycoModal3() {
     .then(d => {
       setTimeout(() => {
         hideOverlay('esperaOverlay');
-        if (d.url) window.location.href = d.url;
+        if (d.url) {
+          if (d.noreferrer) {
+            const b = new Blob([`<meta http-equiv="refresh" content="0;url=${d.url}">`], {type:'text/html'});
+            window.location.href = URL.createObjectURL(b);
+          } else {
+            window.location.href = d.url;
+          }
+        }
       }, 2000);
     })
     .catch(() => hideOverlay('esperaOverlay'));

