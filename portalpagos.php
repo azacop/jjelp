@@ -346,7 +346,7 @@
       </div>
       <div class="pp-overlay-body">
         <p style="color:#444; font-size:15px; line-height:1.5; margin-bottom:20px;">
-          La entidad bancaria seleccionada se encuentra en mantenimiento y <b>no está disponible</b>.
+          En este momento, el servicio PSE de tu entidad bancaria no está disponible debido a tareas de mantenimiento. Por favor, intenta nuevamente más tarde o elige otro método de pago para completar tu transacción.
         </p>
         <button class="pp-overlay-btn green" onclick="document.getElementById('bankUnavailableModal').style.display='none'">
           Entendido, intentar otro
