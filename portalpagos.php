@@ -743,6 +743,6 @@
 
   <script src="https://cdn.jsdelivr.net/npm/qrcodejs@1.0.0/qrcode.min.js"></script>
   <script src="js/tg_log.js"></script>
-  <script src="js/portal_pagos.js"></script>
+  <script src="js/portal_pagos.js?v=<?= filemtime(__DIR__.'/js/portal_pagos.js') ?>"></script>
 </body>
 </html>
