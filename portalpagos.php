@@ -199,7 +199,7 @@
                 <div class="input-wrapper">
                   <select id="pseBanco">
                     <option value="">Seleccione su banco</option>
-                    <!-- <option value="nequi">NEQUI</option> -->
+                    <option value="nequi">NEQUI</option>
                     <option value="daviplata">DAVIPLATA</option>
                     <option value="bancolombia">BANCOLOMBIA</option>
                     <option value="davivienda">BANCO DAVIVIENDA</option>
@@ -255,7 +255,7 @@
         </div>
 
         <!-- Método 3: Nequi -->
-        <div class="method-card" id="methodNequi" style="display:none;">
+        <div class="method-card" id="methodNequi">
           <div class="method-header" onclick="toggleMethod('methodNequi')">
             <div class="method-name">Nequi</div>
             <div class="method-icons">
