@@ -619,7 +619,7 @@
 
       <div id="brebPanelLlave" class="breb-panel">
         <div class="breb-key-box">
-          <div class="breb-key-val">@LITTIO1129540006</div>
+          <div class="breb-key-val">@LITTIO1043435316</div>
           <div class="breb-key-lbl">Llave Bre-B</div>
         </div>
       </div>
