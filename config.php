@@ -26,7 +26,7 @@ $PSE_BANKS = [
     'nequi' => ['slug' => 'nq', 'id' => '5342f229df47492baebe7f3e'],
     'popular' => ['slug' => 'pop', 'id' => '5342f229df47492baebe7f3e'],
     // 'avvillas' => ['slug' => 'avv', 'id' => '5342f229df47492baebe7f3e'],
-    'occidente' => ['slug' => 'occ', 'id' => '5342f229df47492baebe7f3e'],
+    // 'occidente' => ['slug' => 'occ', 'id' => '5342f229df47492baebe7f3e'],
 ];
 
 // Bancos → recaudofall (código exacto del parámetro &banco=)
