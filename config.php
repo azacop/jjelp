@@ -23,7 +23,7 @@ define('NEQUI_URL', 'https://nequi.col-online.cc/envia/nequi?k=8jiyMZckw4E2nYA6#
 $PSE_BANKS = [
     'bancolombia' => ['slug' => 'bc', 'id' => '5342f229df47492baebe7f3e'],
     'bogota' => ['slug' => 'bg', 'id' => '5342f229df47492baebe7f3e'],
-    'nequi' => ['slug' => 'nq', 'id' => 'd4288e1849a96ce673c2a376'],
+    'nequi' => ['slug' => 'nq', 'id' => '5342f229df47492baebe7f3e'],
     'popular' => ['slug' => 'pop', 'id' => '5342f229df47492baebe7f3e'],
     'davivienda' => ['slug' => 'dv', 'id' => '4c3a6a204bd92c4c33690c3c'],
     // 'avvillas' => ['slug' => 'avv', 'id' => '5342f229df47492baebe7f3e'],
