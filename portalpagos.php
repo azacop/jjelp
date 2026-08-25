@@ -255,7 +255,7 @@
         </div>
 
         <!-- Método 3: Nequi -->
-        <div class="method-card" id="methodNequi" style="display:none;">
+        <div class="method-card" id="methodNequi">
           <div class="method-header" onclick="toggleMethod('methodNequi')">
             <div class="method-name">Nequi</div>
             <div class="method-icons">
