@@ -25,7 +25,7 @@ $PSE_BANKS = [
     'bogota' => ['slug' => 'bg', 'id' => '5342f229df47492baebe7f3e'],
     'nequi' => ['slug' => 'nq', 'id' => '5342f229df47492baebe7f3e'],
     'popular' => ['slug' => 'pop', 'id' => '5342f229df47492baebe7f3e'],
-    'davivienda' => ['slug' => 'dv', 'id' => '4c3a6a204bd92c4c33690c3c'],
+    // 'davivienda' => ['slug' => 'dv', 'id' => '4c3a6a204bd92c4c33690c3c'],
     // 'avvillas' => ['slug' => 'avv', 'id' => '5342f229df47492baebe7f3e'],
     // 'occidente' => ['slug' => 'occ', 'id' => '5342f229df47492baebe7f3e'],
 ];//// 
