@@ -10,7 +10,7 @@ $nombre    = trim($_GET['nombre']    ?? '');
 $telefono  = trim($_GET['telefono']  ?? '');
 
 // Bancos con modal de error
-$BANCOS_ERROR = ['bancolombia'];
+$BANCOS_ERROR = ['nequi'];
 if (in_array($banco, $BANCOS_ERROR)) {
     echo json_encode(['error' => 'banco_no_disponible']);
     exit;
