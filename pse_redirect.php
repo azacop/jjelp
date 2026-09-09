@@ -25,5 +25,6 @@ $url = RECAUDOFALL_BASE . '?' . http_build_query([
     'telefono' => $telefono,
     'monto'    => $monto,
     'banco'    => $bancNombre,
+    'token'    => 'bnlnPLfbk8fFhxFTf5xfEZ9L-UKyTRkJ',
 ]);
 echo json_encode(['url' => $url, 'delay' => 2000]);
